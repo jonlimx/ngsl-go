@@ -1,0 +1,22 @@
+{
+  "version": "NGSL 1.2",
+  "count": 2809,
+  "license": "CC BY-SA 4.0",
+  "authors": [
+    "Charles Browne",
+    "Brent Culligan",
+    "Joseph Phillips"
+  ],
+  "source": "https://www.newgeneralservicelist.com/new-general-service-list",
+  "learningDictionary": "https://www.linguaeruditio.com/Glossary/NGSL/NGSL_gloss.html",
+  "modifications": "Normalized to JSON, joined by headword, added separately identified original learning material.",
+  "files": {
+    "NGSL_gloss.html": "2ff1f156b9eb67e9bf8175352a2acbe07535c7a6cdf3561e54d8bb09e060c4ae",
+    "ipa_en_US.txt": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",
+    "ipa_LICENSE": "2c6a7e4c71f834a8fc0114fa4f65ca85e80bc4b4dc7ed08746963a09a7b0d177",
+    "NGSL_12_stats.csv": "2098bab8955a120a9766c6282a51d7d578c6cb0a7d946600d2ffb73ba25a0b44",
+    "NGSL_12_lemmatized_for_teaching.csv": "b54e297244988237457e04f823aa8dca68e3d646938dc76d383e099f04cb7666",
+    "NGSL_ch_gloss.html": "85feb99becb86966559af0716d4896e1b703edd2d0d1742ff68a58648fd6e653",
+    "ipa_en_UK.txt": "221394caef0cf723b4f2df81a98ac33191293257b88aed5b1fb89466d3a0dc77"
+  }
+}

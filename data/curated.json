@@ -1,0 +1,464 @@
+{
+  "the": {
+    "exampleEnglish": "I left the keys on the table.",
+    "exampleChinese": "我把钥匙放在了桌子上。",
+    "collocations": [
+      {
+        "english": "on the table",
+        "chinese": "在桌上"
+      },
+      {
+        "english": "in the morning",
+        "chinese": "在早晨"
+      }
+    ]
+  },
+  "be": {
+    "exampleEnglish": "Please be ready by nine.",
+    "exampleChinese": "请在九点前准备好。",
+    "collocations": [
+      {
+        "english": "be ready",
+        "chinese": "准备好"
+      },
+      {
+        "english": "be able to",
+        "chinese": "能够"
+      }
+    ]
+  },
+  "and": {
+    "exampleEnglish": "Mia and her brother walked home.",
+    "exampleChinese": "米娅和她弟弟走路回家。",
+    "collocations": [
+      {
+        "english": "you and I",
+        "chinese": "你和我"
+      },
+      {
+        "english": "bread and butter",
+        "chinese": "面包和黄油"
+      }
+    ]
+  },
+  "of": {
+    "exampleEnglish": "Would you like a cup of tea?",
+    "exampleChinese": "你想喝杯茶吗？",
+    "collocations": [
+      {
+        "english": "a cup of tea",
+        "chinese": "一杯茶"
+      },
+      {
+        "english": "a lot of",
+        "chinese": "许多"
+      }
+    ]
+  },
+  "to": {
+    "exampleEnglish": "I want to learn something new.",
+    "exampleChinese": "我想学点新东西。",
+    "collocations": [
+      {
+        "english": "want to learn",
+        "chinese": "想学习"
+      },
+      {
+        "english": "go to school",
+        "chinese": "去上学"
+      }
+    ]
+  },
+  "a": {
+    "exampleEnglish": "We have a little time before lunch.",
+    "exampleChinese": "午饭前我们还有一点时间。",
+    "collocations": [
+      {
+        "english": "a little time",
+        "chinese": "一点时间"
+      },
+      {
+        "english": "a few days",
+        "chinese": "几天"
+      }
+    ]
+  },
+  "in": {
+    "exampleEnglish": "The children are playing in the garden.",
+    "exampleChinese": "孩子们正在花园里玩。",
+    "collocations": [
+      {
+        "english": "in the garden",
+        "chinese": "在花园里"
+      },
+      {
+        "english": "in the morning",
+        "chinese": "在早晨"
+      }
+    ]
+  },
+  "have": {
+    "exampleEnglish": "Do you have time for a short walk?",
+    "exampleChinese": "你有时间散会儿步吗？",
+    "collocations": [
+      {
+        "english": "have time",
+        "chinese": "有时间"
+      },
+      {
+        "english": "have a look",
+        "chinese": "看一看"
+      }
+    ]
+  },
+  "it": {
+    "exampleEnglish": "It takes time to learn a new skill.",
+    "exampleChinese": "学习一项新技能需要时间。",
+    "collocations": [
+      {
+        "english": "it takes time",
+        "chinese": "这需要时间"
+      },
+      {
+        "english": "make it clear",
+        "chinese": "把事情说清楚"
+      }
+    ]
+  },
+  "you": {
+    "exampleEnglish": "Thank you for helping me today.",
+    "exampleChinese": "谢谢你今天帮助我。",
+    "collocations": [
+      {
+        "english": "thank you",
+        "chinese": "谢谢你"
+      },
+      {
+        "english": "see you soon",
+        "chinese": "回头见"
+      }
+    ]
+  },
+  "he": {
+    "exampleEnglish": "He has a small garden behind his house.",
+    "exampleChinese": "他家后面有一个小花园。",
+    "collocations": [
+      {
+        "english": "he has",
+        "chinese": "他有"
+      },
+      {
+        "english": "he is ready",
+        "chinese": "他准备好了"
+      }
+    ]
+  },
+  "for": {
+    "exampleEnglish": "I am waiting for the bus.",
+    "exampleChinese": "我正在等公交车。",
+    "collocations": [
+      {
+        "english": "wait for",
+        "chinese": "等待"
+      },
+      {
+        "english": "for example",
+        "chinese": "例如"
+      }
+    ]
+  },
+  "they": {
+    "exampleEnglish": "They are going to the park together.",
+    "exampleChinese": "他们正一起去公园。",
+    "collocations": [
+      {
+        "english": "they are",
+        "chinese": "他们是／他们在"
+      },
+      {
+        "english": "they have",
+        "chinese": "他们有"
+      }
+    ]
+  },
+  "not": {
+    "exampleEnglish": "The shop is not open yet.",
+    "exampleChinese": "这家商店还没有开门。",
+    "collocations": [
+      {
+        "english": "not yet",
+        "chinese": "还没有"
+      },
+      {
+        "english": "not at all",
+        "chinese": "一点也不"
+      }
+    ]
+  },
+  "that": {
+    "exampleEnglish": "That is the book I told you about.",
+    "exampleChinese": "那就是我跟你说过的那本书。",
+    "collocations": [
+      {
+        "english": "that is why",
+        "chinese": "那就是……的原因"
+      },
+      {
+        "english": "that is all",
+        "chinese": "就这些"
+      }
+    ]
+  },
+  "we": {
+    "exampleEnglish": "We can finish the work together.",
+    "exampleChinese": "我们可以一起完成这项工作。",
+    "collocations": [
+      {
+        "english": "we can",
+        "chinese": "我们可以"
+      },
+      {
+        "english": "we are ready",
+        "chinese": "我们准备好了"
+      }
+    ]
+  },
+  "on": {
+    "exampleEnglish": "Please put your bag on the chair.",
+    "exampleChinese": "请把你的包放在椅子上。",
+    "collocations": [
+      {
+        "english": "on the chair",
+        "chinese": "在椅子上"
+      },
+      {
+        "english": "on the wall",
+        "chinese": "在墙上"
+      }
+    ]
+  },
+  "with": {
+    "exampleEnglish": "I often work with people from other teams.",
+    "exampleChinese": "我经常和其他团队的人一起工作。",
+    "collocations": [
+      {
+        "english": "work with",
+        "chinese": "与……共事"
+      },
+      {
+        "english": "agree with",
+        "chinese": "同意……的看法"
+      }
+    ]
+  },
+  "this": {
+    "exampleEnglish": "This time, we will take the train.",
+    "exampleChinese": "这次我们坐火车。",
+    "collocations": [
+      {
+        "english": "this time",
+        "chinese": "这一次"
+      },
+      {
+        "english": "this way",
+        "chinese": "这边／这样"
+      }
+    ]
+  },
+  "i": {
+    "exampleEnglish": "I think we should leave a little earlier.",
+    "exampleChinese": "我觉得我们应该早一点出发。",
+    "collocations": [
+      {
+        "english": "I think",
+        "chinese": "我认为"
+      },
+      {
+        "english": "I agree",
+        "chinese": "我同意"
+      }
+    ]
+  },
+  "do": {
+    "exampleEnglish": "I do my homework before dinner.",
+    "exampleChinese": "我在晚饭前做作业。",
+    "collocations": [
+      {
+        "english": "do homework",
+        "chinese": "做作业"
+      },
+      {
+        "english": "do your best",
+        "chinese": "尽力而为"
+      }
+    ]
+  },
+  "as": {
+    "exampleEnglish": "Her bag is as big as mine.",
+    "exampleChinese": "她的包和我的一样大。",
+    "collocations": [
+      {
+        "english": "as big as",
+        "chinese": "和……一样大"
+      },
+      {
+        "english": "as good as",
+        "chinese": "和……一样好"
+      }
+    ]
+  },
+  "at": {
+    "exampleEnglish": "We will meet at the station at ten.",
+    "exampleChinese": "我们十点在车站见。",
+    "collocations": [
+      {
+        "english": "at the station",
+        "chinese": "在车站"
+      },
+      {
+        "english": "at home",
+        "chinese": "在家"
+      }
+    ]
+  },
+  "she": {
+    "exampleEnglish": "She has already finished her homework.",
+    "exampleChinese": "她已经做完作业了。",
+    "collocations": [
+      {
+        "english": "she has",
+        "chinese": "她有／她已经"
+      },
+      {
+        "english": "she is ready",
+        "chinese": "她准备好了"
+      }
+    ]
+  },
+  "husband": {
+    "exampleEnglish": "Her husband made dinner while she was working.",
+    "exampleChinese": "她工作时，她丈夫做了晚饭。",
+    "collocations": [
+      {
+        "english": "her husband",
+        "chinese": "她的丈夫"
+      },
+      {
+        "english": "husband and wife",
+        "chinese": "夫妻"
+      }
+    ]
+  },
+  "access": {
+    "exampleEnglish": "There is no access to the garden from this road.",
+    "exampleChinese": "这条路无法通往花园。",
+    "collocations": [
+      {
+        "english": "access to the garden",
+        "chinese": "通往花园的通道"
+      },
+      {
+        "english": "easy access",
+        "chinese": "方便进出"
+      }
+    ]
+  },
+  "movement": {
+    "exampleEnglish": "A small movement in the grass caught my eye.",
+    "exampleChinese": "草丛中一个小小的动静引起了我的注意。",
+    "collocations": [
+      {
+        "english": "a sudden movement",
+        "chinese": "突然的动作"
+      },
+      {
+        "english": "freedom of movement",
+        "chinese": "行动自由"
+      }
+    ]
+  },
+  "treat": {
+    "exampleEnglish": "We should treat everyone with respect.",
+    "exampleChinese": "我们应该尊重每一个人。",
+    "collocations": [
+      {
+        "english": "treat someone with respect",
+        "chinese": "尊重某人"
+      },
+      {
+        "english": "treat someone fairly",
+        "chinese": "公平对待某人"
+      }
+    ]
+  },
+  "identify": {
+    "exampleEnglish": "Can you identify the bird in this picture?",
+    "exampleChinese": "你能认出照片里的鸟吗？",
+    "collocations": [
+      {
+        "english": "identify a problem",
+        "chinese": "发现并确定问题"
+      },
+      {
+        "english": "identify the cause",
+        "chinese": "确定原因"
+      }
+    ]
+  },
+  "accept": {
+    "exampleEnglish": "She was happy to accept the invitation.",
+    "exampleChinese": "她很高兴地接受了邀请。",
+    "collocations": [
+      {
+        "english": "accept an invitation",
+        "chinese": "接受邀请"
+      },
+      {
+        "english": "accept an offer",
+        "chinese": "接受提议"
+      }
+    ]
+  },
+  "available": {
+    "exampleEnglish": "Are you available for a short meeting tomorrow?",
+    "exampleChinese": "你明天有空开个短会吗？",
+    "collocations": [
+      {
+        "english": "be available for a meeting",
+        "chinese": "有空开会"
+      },
+      {
+        "english": "available on Monday",
+        "chinese": "周一有空"
+      }
+    ]
+  },
+  "confirm": {
+    "exampleEnglish": "Please confirm the time before I book the room.",
+    "exampleChinese": "请在我预订房间前确认时间。",
+    "collocations": [
+      {
+        "english": "confirm the time",
+        "chinese": "确认时间"
+      },
+      {
+        "english": "confirm a booking",
+        "chinese": "确认预订"
+      }
+    ]
+  },
+  "alternative": {
+    "exampleEnglish": "We need an alternative if the train is cancelled.",
+    "exampleChinese": "如果火车取消，我们需要另一个方案。",
+    "collocations": [
+      {
+        "english": "find an alternative",
+        "chinese": "找到替代方案"
+      },
+      {
+        "english": "an alternative to something",
+        "chinese": "某物的替代品"
+      }
+    ]
+  }
+}

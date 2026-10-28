@@ -1,0 +1,15 @@
+NGSL 1.2 — Charles Browne, Brent Culligan, Joseph Phillips.
+Source: https://www.newgeneralservicelist.com/new-general-service-list
+Official learning dictionary: https://www.linguaeruditio.com/Glossary/NGSL/NGSL_gloss.html
+License: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+The word list has been normalized to JSON and combined with bilingual teaching metadata.
+NGSL-derived data and adaptations are distributed under the same license.
+Original example sentences and collocations are separately maintained in data/curated.json.
+AI-generated additions are learning aids and may contain errors; they are not quotations from a dictionary.
+The NGSL authors do not endorse this application.
+
+Fixed word audio: Kokoro v1.0 / Misaki, voices bf_emma (UK), af_heart (US). Apache 2.0; see KOKORO_LICENSE.txt. No model weights are distributed.
+UK phonetic transcriptions are generated with Misaki for the target part of speech.
+US transcriptions: open-dict-data/ipa-dict en_US, based on cmudict-ipa and syllabify (MIT); see IPA_LICENSE.txt. https://github.com/open-dict-data/ipa-dict
+A matching pronunciation variant is selected for the target part of speech; original upstream data is retained for reproducibility.
