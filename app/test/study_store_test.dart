@@ -275,6 +275,7 @@ void main() {
       await store.review(id, 'w0', Recall.again, store.today);
       expect(store.plan(id)!['done'], isNot(contains('w0')));
       expect(store.progress(id)['w0']['due'], store.today);
+      now = now.add(const Duration(minutes: 2));
       await store.review(id, 'w0', Recall.good, store.today);
       expect(store.plan(id)!['done'], contains('w0'));
       expect(store.progress(id)['w0']['interval'], 1);

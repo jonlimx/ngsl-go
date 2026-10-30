@@ -3,12 +3,13 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:http/http.dart' as http;
 import '../../models.dart';
+import '../../network_policy.dart';
 import 'response_stream.dart';
 import 'chatgpt_plan_auth_service.dart';
 
 class StoryService {
   StoryService({http.Client? client, ChatGptPlanAuthService? auth})
-    : client = client ?? http.Client(),
+    : client = OfflineAwareClient(client: client),
       auth = auth ?? ChatGptPlanAuthService.instance;
   final http.Client client;
   final ChatGptPlanAuthService auth;
@@ -22,6 +23,7 @@ class StoryService {
     required Iterable<String> recentTitles,
   }) async {
     try {
+      NetworkPolicy.requireOnline();
       final token = await auth.getValidAccessToken();
       final request =
           http.Request('POST', Uri.parse('https://api.openai.com/v1/responses'))
@@ -49,8 +51,11 @@ class StoryService {
                           'partOfSpeech': w.pos,
                           'chinese': w.chinese,
                           'english': w.english,
-                          'forms': {w.word, ...w.forms}.toList(),
+                          'forms': w.teachingForms.toList(),
                           'referenceIpa': w.referenceIpa,
+                          'inflections': w.content['inflections'] ?? [],
+                          'wordFamily': w.content['wordFamily'] ?? [],
+                          'usageNotes': w.content['usageNotes'] ?? [],
                         },
                     ],
                     'knownWords': knownWords.take(2809).toList(),

@@ -1,0 +1,29 @@
+{
+  "note": "Target-sense corrections to inconsistent source labels. Original source JSON fields remain available; these overrides are used for display and teaching forms.",
+  "license": "CC BY-SA 4.0",
+  "words": {
+    "when": {"pos": "adv"},
+    "where": {"pos": "adv"},
+    "through": {"pos": "prep"},
+    "under": {"pos": "prep"},
+    "short": {"pos": "adj"},
+    "ground": {"pos": "noun"},
+    "military": {"pos": "adj"},
+    "relative": {"pos": "adj"},
+    "double": {"pos": "det"},
+    "friendly": {"pos": "adj"},
+    "master": {"pos": "noun"},
+    "shot": {"pos": "noun"},
+    "intellectual": {"pos": "adj"},
+    "stake": {"pos": "noun"},
+    "silly": {"pos": "adj"},
+    "regardless": {"pos": "adv"},
+    "representative": {"pos": "adj"},
+    "bond": {"pos": "noun"},
+    "diet": {"pos": "noun"},
+    "unlikely": {"pos": "adj"},
+    "unknown": {"pos": "adj"},
+    "gay": {"pos": "adj", "english": "romantically or sexually attracted to people of the same sex", "chinese": "同性恋的"},
+    "software": {"english": "programs and instructions used by a computer"}
+  }
+}

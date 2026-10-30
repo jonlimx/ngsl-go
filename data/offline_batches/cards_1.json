@@ -1,0 +1,6575 @@
+{
+  "ngsl12:the": {
+    "exampleEnglish": "I found a wallet outside the library and handed the wallet to a member of staff.",
+    "exampleChinese": "我在图书馆外发现一个钱包，把它交给了一名工作人员。",
+    "collocations": [
+      {
+        "english": "the same person",
+        "chinese": "同一个人"
+      },
+      {
+        "english": "the following day",
+        "chinese": "第二天"
+      }
+    ]
+  },
+  "ngsl12:be": {
+    "exampleEnglish": "The old library will be a community centre once the building work has finally been completed.",
+    "exampleChinese": "旧图书馆在施工全部完成后将成为一个社区中心。",
+    "collocations": [
+      {
+        "english": "be ready to leave",
+        "chinese": "准备好离开"
+      },
+      {
+        "english": "be responsible for",
+        "chinese": "对……负责"
+      }
+    ]
+  },
+  "ngsl12:and": {
+    "exampleEnglish": "The museum offers guided tours and practical workshops, so visitors can learn in several different ways.",
+    "exampleChinese": "博物馆提供导览和实践工作坊，让游客能用几种不同方式学习。",
+    "collocations": [
+      {
+        "english": "both children and adults",
+        "chinese": "儿童和成人都"
+      },
+      {
+        "english": "bread and butter",
+        "chinese": "面包和黄油"
+      }
+    ]
+  },
+  "ngsl12:of": {
+    "exampleEnglish": "The roof of the old station was damaged, so passengers had to use another entrance.",
+    "exampleChinese": "老车站的屋顶受损，因此乘客不得不使用另一个入口。",
+    "collocations": [
+      {
+        "english": "the roof of a building",
+        "chinese": "建筑物的屋顶"
+      },
+      {
+        "english": "a member of the team",
+        "chinese": "团队成员"
+      }
+    ]
+  },
+  "ngsl12:to": {
+    "exampleEnglish": "We walked to the harbour after dinner because my sister wanted to photograph the fishing boats.",
+    "exampleChinese": "晚饭后我们步行去港口，因为姐姐想拍摄渔船。",
+    "collocations": [
+      {
+        "english": "walk to the station",
+        "chinese": "步行去车站"
+      },
+      {
+        "english": "from home to school",
+        "chinese": "从家到学校"
+      }
+    ]
+  },
+  "ngsl12:a": {
+    "exampleEnglish": "During the journey, a passenger offered me a seat when she noticed my heavy bag.",
+    "exampleChinese": "旅途中，一位乘客注意到我沉重的包，便给我让了座。",
+    "collocations": [
+      {
+        "english": "a useful suggestion",
+        "chinese": "一个有用的建议"
+      },
+      {
+        "english": "a chance to improve",
+        "chinese": "一次改进的机会"
+      }
+    ]
+  },
+  "ngsl12:in": {
+    "exampleEnglish": "The documents were still in my backpack, although I thought I had left them at home.",
+    "exampleChinese": "文件仍在我的背包里，尽管我以为自己把它们落在家里了。",
+    "collocations": [
+      {
+        "english": "in the cupboard",
+        "chinese": "在橱柜里"
+      },
+      {
+        "english": "in a small village",
+        "chinese": "在一个小村庄里"
+      }
+    ]
+  },
+  "ngsl12:have": {
+    "exampleEnglish": "We have a spare room upstairs, so my cousin can stay whenever she visits the city.",
+    "exampleChinese": "我们楼上有一间空房，所以表妹来这座城市时随时可以住下。",
+    "collocations": [
+      {
+        "english": "have enough time",
+        "chinese": "有足够的时间"
+      },
+      {
+        "english": "have a spare key",
+        "chinese": "有一把备用钥匙"
+      }
+    ]
+  },
+  "ngsl12:it": {
+    "exampleEnglish": "I bought a second-hand bicycle last month, and it has made my journey to work much easier.",
+    "exampleChinese": "我上个月买了一辆二手自行车，它让我的上班路程轻松多了。",
+    "collocations": [
+      {
+        "english": "it takes time",
+        "chinese": "这需要时间"
+      },
+      {
+        "english": "make it easier",
+        "chinese": "使事情更容易"
+      }
+    ]
+  },
+  "ngsl12:you": {
+    "exampleEnglish": "If you explain the problem clearly, the support team will be able to help more quickly.",
+    "exampleChinese": "如果你清楚地说明问题，支持团队就能更快地提供帮助。",
+    "collocations": [
+      {
+        "english": "you and your family",
+        "chinese": "你和你的家人"
+      },
+      {
+        "english": "thank you for helping",
+        "chinese": "谢谢你的帮助"
+      }
+    ]
+  },
+  "ngsl12:he": {
+    "exampleEnglish": "My brother wanted to become a chef, so he started helping in a restaurant after school.",
+    "exampleChinese": "我弟弟想当厨师，所以放学后开始在一家餐馆帮忙。",
+    "collocations": [
+      {
+        "english": "he and his brother",
+        "chinese": "他和他的兄弟"
+      },
+      {
+        "english": "he himself",
+        "chinese": "他自己"
+      }
+    ]
+  },
+  "ngsl12:for": {
+    "exampleEnglish": "We bought a small tent for our weekend trip, hoping the weather would stay dry.",
+    "exampleChinese": "我们为周末旅行买了一顶小帐篷，希望天气保持晴朗。",
+    "collocations": [
+      {
+        "english": "for a special occasion",
+        "chinese": "为了一个特别的场合"
+      },
+      {
+        "english": "for personal use",
+        "chinese": "供个人使用"
+      }
+    ]
+  },
+  "ngsl12:they": {
+    "exampleEnglish": "The volunteers arrived before sunrise because they needed enough time to prepare the outdoor stage.",
+    "exampleChinese": "志愿者们日出前就到了，因为他们需要足够时间准备户外舞台。",
+    "collocations": [
+      {
+        "english": "they all agree",
+        "chinese": "他们都同意"
+      },
+      {
+        "english": "they themselves",
+        "chinese": "他们自己"
+      }
+    ]
+  },
+  "ngsl12:not": {
+    "exampleEnglish": "The tickets are not refundable, so please check the travel dates carefully before you book.",
+    "exampleChinese": "这些票不能退款，因此预订前请仔细核对出行日期。",
+    "collocations": [
+      {
+        "english": "not at all",
+        "chinese": "一点也不"
+      },
+      {
+        "english": "not necessarily",
+        "chinese": "不一定"
+      }
+    ]
+  },
+  "ngsl12:that": {
+    "exampleEnglish": "Several boxes looked similar, but that was the one containing the photographs we had been searching for.",
+    "exampleChinese": "几个箱子看起来很像，但那个才装着我们一直寻找的照片。",
+    "collocations": [
+      {
+        "english": "that is why",
+        "chinese": "那就是为什么"
+      },
+      {
+        "english": "that reminds me",
+        "chinese": "那让我想起来"
+      }
+    ]
+  },
+  "ngsl12:we": {
+    "exampleEnglish": "Although the route was longer than expected, we reached the village before the last bus left.",
+    "exampleChinese": "虽然路线比预期长，但我们在末班车离开前到达了村子。",
+    "collocations": [
+      {
+        "english": "we all know",
+        "chinese": "我们都知道"
+      },
+      {
+        "english": "we ourselves",
+        "chinese": "我们自己"
+      }
+    ]
+  },
+  "ngsl12:on": {
+    "exampleEnglish": "Please leave the parcel on the kitchen table, where my neighbour will find it this evening.",
+    "exampleChinese": "请把包裹放在厨房桌子上，我邻居今晚会在那里找到它。",
+    "collocations": [
+      {
+        "english": "on the shelf",
+        "chinese": "在架子上"
+      },
+      {
+        "english": "on the surface",
+        "chinese": "在表面上"
+      }
+    ]
+  },
+  "ngsl12:with": {
+    "exampleEnglish": "I travelled with two colleagues who knew the area well and suggested several interesting places to visit.",
+    "exampleChinese": "我和两位熟悉当地的同事同行，他们推荐了几个有趣的游览地点。",
+    "collocations": [
+      {
+        "english": "with a close friend",
+        "chinese": "与一位好友一起"
+      },
+      {
+        "english": "work with others",
+        "chinese": "与他人合作"
+      }
+    ]
+  },
+  "ngsl12:this": {
+    "exampleEnglish": "I have compared several routes, and this is the one that gives us the best coastal views.",
+    "exampleChinese": "我比较了几条路线，这条能让我们欣赏到最好的海岸景色。",
+    "collocations": [
+      {
+        "english": "this is the reason",
+        "chinese": "这就是原因"
+      },
+      {
+        "english": "this time",
+        "chinese": "这一次"
+      }
+    ]
+  },
+  "ngsl12:i": {
+    "exampleEnglish": "Although I had never repaired a bicycle before, I managed to replace the broken chain myself.",
+    "exampleChinese": "虽然我以前从没修过自行车，但还是设法自己更换了断掉的链条。",
+    "collocations": [
+      {
+        "english": "I think so",
+        "chinese": "我想是这样"
+      },
+      {
+        "english": "as far as I know",
+        "chinese": "据我所知"
+      }
+    ]
+  },
+  "ngsl12:do": {
+    "exampleEnglish": "We should do the most difficult tasks first, while everyone still has plenty of energy.",
+    "exampleChinese": "我们应该先做最难的任务，趁大家精力还很充沛。",
+    "collocations": [
+      {
+        "english": "do your homework",
+        "chinese": "做家庭作业"
+      },
+      {
+        "english": "do the washing-up",
+        "chinese": "洗餐具"
+      }
+    ]
+  },
+  "ngsl12:as": {
+    "exampleEnglish": "The replacement battery lasts as long as the original, although it costs considerably less to buy.",
+    "exampleChinese": "替换电池的续航和原装一样长，购买价格却低很多。",
+    "collocations": [
+      {
+        "english": "as clear as possible",
+        "chinese": "尽可能清楚"
+      },
+      {
+        "english": "as soon as",
+        "chinese": "一……就"
+      }
+    ]
+  },
+  "ngsl12:at": {
+    "exampleEnglish": "We agreed to meet at the main entrance because the exhibition centre has several smaller doors.",
+    "exampleChinese": "我们约定在正门见面，因为展览中心还有几个较小的门。",
+    "collocations": [
+      {
+        "english": "at the entrance",
+        "chinese": "在入口处"
+      },
+      {
+        "english": "at the bus stop",
+        "chinese": "在公交车站"
+      }
+    ]
+  },
+  "ngsl12:she": {
+    "exampleEnglish": "Our neighbour grows vegetables on her balcony, and she often shares the extra tomatoes with us.",
+    "exampleChinese": "邻居在阳台种菜，她经常把多余的番茄分给我们。",
+    "collocations": [
+      {
+        "english": "she herself",
+        "chinese": "她自己"
+      },
+      {
+        "english": "she and her friends",
+        "chinese": "她和她的朋友们"
+      }
+    ]
+  },
+  "ngsl12:but": {
+    "exampleEnglish": "The apartment is smaller than we expected, but its large windows make every room feel bright.",
+    "exampleChinese": "这套公寓比我们预期的小，但大窗户让每个房间都很明亮。",
+    "collocations": [
+      {
+        "english": "small but comfortable",
+        "chinese": "小但舒适"
+      },
+      {
+        "english": "not only useful but enjoyable",
+        "chinese": "不仅有用而且有趣"
+      }
+    ]
+  },
+  "ngsl12:from": {
+    "exampleEnglish": "The walking route begins from the old bridge and continues along the river towards the forest.",
+    "exampleChinese": "这条步行路线从老桥开始，沿河一直通往森林方向。",
+    "collocations": [
+      {
+        "english": "from beginning to end",
+        "chinese": "从头到尾"
+      },
+      {
+        "english": "from one place to another",
+        "chinese": "从一个地方到另一个地方"
+      }
+    ]
+  },
+  "ngsl12:by": {
+    "exampleEnglish": "We waited by the ticket office, where a member of staff explained why the train was delayed.",
+    "exampleChinese": "我们在售票处旁等候，一名工作人员在那里解释了火车晚点的原因。",
+    "collocations": [
+      {
+        "english": "stand by the window",
+        "chinese": "站在窗边"
+      },
+      {
+        "english": "by the river",
+        "chinese": "在河边"
+      }
+    ]
+  },
+  "ngsl12:will": {
+    "exampleEnglish": "The new sports centre will open next spring, provided that the final building checks go well.",
+    "exampleChinese": "如果最后的建筑检查顺利，新体育中心将于明年春天开放。",
+    "collocations": [
+      {
+        "english": "will be available",
+        "chinese": "将可使用"
+      },
+      {
+        "english": "will take place",
+        "chinese": "将举行"
+      }
+    ]
+  },
+  "ngsl12:or": {
+    "exampleEnglish": "You can submit the form online or bring a printed copy to the office before Friday.",
+    "exampleChinese": "你可以在周五之前在线提交表格，或把打印件带到办公室。",
+    "collocations": [
+      {
+        "english": "sooner or later",
+        "chinese": "迟早"
+      },
+      {
+        "english": "one or the other",
+        "chinese": "两者之一"
+      }
+    ]
+  },
+  "ngsl12:say": {
+    "exampleEnglish": "Please say what you really think about the design, because we still have time to improve it.",
+    "exampleChinese": "请说出你对设计的真实看法，因为我们还有时间改进。",
+    "collocations": [
+      {
+        "english": "say something clearly",
+        "chinese": "把话说清楚"
+      },
+      {
+        "english": "say goodbye to",
+        "chinese": "向……告别"
+      }
+    ]
+  },
+  "ngsl12:go": {
+    "exampleEnglish": "We decided to go to the smaller museum, which had an excellent exhibition about local history.",
+    "exampleChinese": "我们决定去那家较小的博物馆，那里有很精彩的地方历史展。",
+    "collocations": [
+      {
+        "english": "go abroad",
+        "chinese": "出国"
+      },
+      {
+        "english": "go for a walk",
+        "chinese": "去散步"
+      }
+    ]
+  },
+  "ngsl12:so": {
+    "exampleEnglish": "The road through the mountains was closed, so our driver had to find a different route.",
+    "exampleChinese": "穿山公路封闭了，所以司机不得不另找一条路线。",
+    "collocations": [
+      {
+        "english": "so that",
+        "chinese": "以便"
+      },
+      {
+        "english": "and so",
+        "chinese": "因此"
+      }
+    ]
+  },
+  "ngsl12:all": {
+    "exampleEnglish": "By the time the guests arrived, the children were all dressed and ready for the celebration.",
+    "exampleChinese": "客人们到达时，孩子们都已穿戴整齐，准备参加庆祝活动。",
+    "collocations": [
+      {
+        "english": "all finished",
+        "chinese": "全部完成"
+      },
+      {
+        "english": "all alone",
+        "chinese": "独自一人"
+      }
+    ]
+  },
+  "ngsl12:if": {
+    "exampleEnglish": "If the weather improves by lunchtime, we can finish our picnic and explore the nearby village.",
+    "exampleChinese": "如果午饭前天气好转，我们就能吃完野餐，再去逛附近的村子。",
+    "collocations": [
+      {
+        "english": "if necessary",
+        "chinese": "如有必要"
+      },
+      {
+        "english": "if possible",
+        "chinese": "如果可能"
+      }
+    ]
+  },
+  "ngsl12:one": {
+    "exampleEnglish": "Only one seat was available on the earlier train, so we decided to travel together later.",
+    "exampleChinese": "早一班火车只剩一个座位，所以我们决定晚些一起走。",
+    "collocations": [
+      {
+        "english": "one at a time",
+        "chinese": "一次一个"
+      },
+      {
+        "english": "one more chance",
+        "chinese": "再一次机会"
+      }
+    ]
+  },
+  "ngsl12:would": {
+    "exampleEnglish": "Would you mind explaining the instructions again, since several people joined after the meeting had started?",
+    "exampleChinese": "你介意再解释一次说明吗？因为有几个人在会议开始后才加入。",
+    "collocations": [
+      {
+        "english": "would like to",
+        "chinese": "想要做……"
+      },
+      {
+        "english": "would rather",
+        "chinese": "宁愿"
+      }
+    ]
+  },
+  "ngsl12:about": {
+    "exampleEnglish": "The guide told us about the castle's history while we climbed the narrow stairs to the tower.",
+    "exampleChinese": "我们爬上通往塔楼的狭窄楼梯时，导游给我们讲了城堡的历史。",
+    "collocations": [
+      {
+        "english": "talk about a problem",
+        "chinese": "谈论一个问题"
+      },
+      {
+        "english": "information about the course",
+        "chinese": "关于课程的信息"
+      }
+    ]
+  },
+  "ngsl12:can": {
+    "exampleEnglish": "With a little practice, you can prepare this meal in less time than it takes to order food.",
+    "exampleChinese": "稍加练习，你做出这顿饭的时间就能比点外卖还短。",
+    "collocations": [
+      {
+        "english": "can afford to",
+        "chinese": "有能力承担……"
+      },
+      {
+        "english": "can be used for",
+        "chinese": "可用于……"
+      }
+    ]
+  },
+  "ngsl12:which": {
+    "exampleEnglish": "Which route would you recommend for visitors who want to avoid traffic and enjoy the countryside?",
+    "exampleChinese": "对于想避开交通拥堵并欣赏乡村风景的游客，你会推荐哪条路线？",
+    "collocations": [
+      {
+        "english": "which route to take",
+        "chinese": "该走哪条路线"
+      },
+      {
+        "english": "which one",
+        "chinese": "哪一个"
+      }
+    ]
+  },
+  "ngsl12:there": {
+    "exampleEnglish": "We spent a weekend in the village and discovered that several artists had moved there recently.",
+    "exampleChinese": "我们在村里度过了一个周末，发现最近有几位艺术家搬到了那里。",
+    "collocations": [
+      {
+        "english": "over there",
+        "chinese": "在那边"
+      },
+      {
+        "english": "stay there overnight",
+        "chinese": "在那里过夜"
+      }
+    ]
+  },
+  "ngsl12:know": {
+    "exampleEnglish": "Although I know the main road well, I always check the map before trying a different route.",
+    "exampleChinese": "虽然我很熟悉主路，但尝试别的路线前总会查地图。",
+    "collocations": [
+      {
+        "english": "know for certain",
+        "chinese": "确切知道"
+      },
+      {
+        "english": "know the answer",
+        "chinese": "知道答案"
+      }
+    ]
+  },
+  "ngsl12:more": {
+    "exampleEnglish": "We need more volunteers for the weekend event because the number of visitors has increased considerably.",
+    "exampleChinese": "周末活动需要更多志愿者，因为游客数量大幅增加了。",
+    "collocations": [
+      {
+        "english": "more information",
+        "chinese": "更多信息"
+      },
+      {
+        "english": "more than expected",
+        "chinese": "比预期更多"
+      }
+    ]
+  },
+  "ngsl12:get": {
+    "exampleEnglish": "You can get a free map at reception, which shows all the walking routes around the lake.",
+    "exampleChinese": "你可以在接待处领取免费地图，上面标着所有环湖步行路线。",
+    "collocations": [
+      {
+        "english": "get permission",
+        "chinese": "获得许可"
+      },
+      {
+        "english": "get a message",
+        "chinese": "收到消息"
+      }
+    ]
+  },
+  "ngsl12:who": {
+    "exampleEnglish": "Do you know who organised the workshop, because I would like to thank them for their help?",
+    "exampleChinese": "你知道是谁组织了这次工作坊吗？我想感谢他们的帮助。",
+    "collocations": [
+      {
+        "english": "who else",
+        "chinese": "还有谁"
+      },
+      {
+        "english": "who to contact",
+        "chinese": "该联系谁"
+      }
+    ]
+  },
+  "ngsl12:like": {
+    "exampleEnglish": "I like working near the window because the natural light helps me concentrate during the afternoon.",
+    "exampleChinese": "我喜欢在窗边工作，因为自然光能帮助我在下午集中注意力。",
+    "collocations": [
+      {
+        "english": "like the idea of",
+        "chinese": "喜欢……的想法"
+      },
+      {
+        "english": "like doing something",
+        "chinese": "喜欢做某事"
+      }
+    ]
+  },
+  "ngsl12:when": {
+    "exampleEnglish": "We need to decide when the course should begin so that everyone has enough time to prepare.",
+    "exampleChinese": "我们需要决定课程何时开始，好让每个人都有足够时间准备。",
+    "collocations": [
+      {
+        "english": "when to start",
+        "chinese": "何时开始"
+      },
+      {
+        "english": "when necessary",
+        "chinese": "在必要时"
+      }
+    ]
+  },
+  "ngsl12:think": {
+    "exampleEnglish": "I think the smaller venue would suit our event better, especially if fewer guests decide to come.",
+    "exampleChinese": "我觉得较小的场地更适合我们的活动，尤其是在来宾减少的情况下。",
+    "collocations": [
+      {
+        "english": "think carefully about",
+        "chinese": "认真考虑……"
+      },
+      {
+        "english": "think of an idea",
+        "chinese": "想出一个主意"
+      }
+    ]
+  },
+  "ngsl12:make": {
+    "exampleEnglish": "The children used recycled cardboard to make a model bridge that could support several small toy cars.",
+    "exampleChinese": "孩子们用回收纸板制作了一座能承受几辆小玩具车的桥模型。",
+    "collocations": [
+      {
+        "english": "make a model",
+        "chinese": "制作模型"
+      },
+      {
+        "english": "make a meal",
+        "chinese": "做饭"
+      }
+    ]
+  },
+  "ngsl12:time": {
+    "exampleEnglish": "We allowed extra time for the journey because the roads near the airport were being repaired.",
+    "exampleChinese": "我们为行程多留了时间，因为机场附近的道路正在维修。",
+    "collocations": [
+      {
+        "english": "save time",
+        "chinese": "节省时间"
+      },
+      {
+        "english": "spend time doing something",
+        "chinese": "花时间做某事"
+      }
+    ]
+  },
+  "ngsl12:see": {
+    "exampleEnglish": "From the upstairs window, we could see fishing boats returning to the harbour as the sun rose.",
+    "exampleChinese": "从楼上窗户，我们能看见渔船随着太阳升起驶回港口。",
+    "collocations": [
+      {
+        "english": "see clearly",
+        "chinese": "看清楚"
+      },
+      {
+        "english": "see the difference",
+        "chinese": "看出区别"
+      }
+    ]
+  },
+  "ngsl12:what": {
+    "exampleEnglish": "Please explain what the new symbols mean before we start using the updated version of the map.",
+    "exampleChinese": "在我们开始使用新版地图前，请解释一下这些新符号是什么意思。",
+    "collocations": [
+      {
+        "english": "what to do",
+        "chinese": "该做什么"
+      },
+      {
+        "english": "what else",
+        "chinese": "还有什么"
+      }
+    ]
+  },
+  "ngsl12:up": {
+    "exampleEnglish": "The path climbs up the hillside before reaching a small café with wonderful views across the valley.",
+    "exampleChinese": "小路沿山坡向上，最后通往一家能俯瞰山谷美景的小咖啡馆。",
+    "collocations": [
+      {
+        "english": "walk up the stairs",
+        "chinese": "走上楼梯"
+      },
+      {
+        "english": "up the hill",
+        "chinese": "向山上"
+      }
+    ]
+  },
+  "ngsl12:some": {
+    "exampleEnglish": "We bought some fresh bread from the village bakery before setting off on our long journey home.",
+    "exampleChinese": "在踏上漫长的回家路之前，我们在村里的面包店买了些新鲜面包。",
+    "collocations": [
+      {
+        "english": "some of the visitors",
+        "chinese": "部分游客"
+      },
+      {
+        "english": "some useful advice",
+        "chinese": "一些有用的建议"
+      }
+    ]
+  },
+  "ngsl12:other": {
+    "exampleEnglish": "The main entrance was closed for repairs, so visitors had to use the other door beside the café.",
+    "exampleChinese": "正门因维修关闭，游客只好使用咖啡馆旁的另一扇门。",
+    "collocations": [
+      {
+        "english": "other people",
+        "chinese": "其他人"
+      },
+      {
+        "english": "the other side",
+        "chinese": "另一边"
+      }
+    ]
+  },
+  "ngsl12:out": {
+    "exampleEnglish": "The children hurried out of the classroom when they heard that the snow had finally started falling.",
+    "exampleChinese": "听说终于开始下雪了，孩子们急忙跑出了教室。",
+    "collocations": [
+      {
+        "english": "out of the room",
+        "chinese": "从房间里出去"
+      },
+      {
+        "english": "look out of the window",
+        "chinese": "向窗外看"
+      }
+    ]
+  },
+  "ngsl12:good": {
+    "exampleEnglish": "The hotel received good reviews because its staff were helpful and the rooms were carefully maintained.",
+    "exampleChinese": "这家酒店获得了好评，因为员工热心，房间也维护得很好。",
+    "collocations": [
+      {
+        "english": "good quality",
+        "chinese": "优良品质"
+      },
+      {
+        "english": "a good opportunity",
+        "chinese": "一个好机会"
+      }
+    ]
+  },
+  "ngsl12:people": {
+    "exampleEnglish": "More people are choosing to cycle to work now that the city has built safer bicycle lanes.",
+    "exampleChinese": "城市建起更安全的自行车道后，更多人选择骑车上班。",
+    "collocations": [
+      {
+        "english": "local people",
+        "chinese": "当地人"
+      },
+      {
+        "english": "people of all ages",
+        "chinese": "各年龄段的人"
+      }
+    ]
+  },
+  "ngsl12:year": {
+    "exampleEnglish": "We visit the same village every year, although we usually explore a different area of the countryside each time.",
+    "exampleChinese": "我们每年都去同一个村子，不过每次通常会探索不同的乡村区域。",
+    "collocations": [
+      {
+        "english": "once a year",
+        "chinese": "一年一次"
+      },
+      {
+        "english": "the following year",
+        "chinese": "第二年"
+      }
+    ]
+  },
+  "ngsl12:take": {
+    "exampleEnglish": "Please take your umbrella when you leave, because the forecast suggests that heavy rain will return later.",
+    "exampleChinese": "离开时请带上雨伞，因为天气预报说稍后还会有大雨。",
+    "collocations": [
+      {
+        "english": "take something with you",
+        "chinese": "随身带上某物"
+      },
+      {
+        "english": "take the children home",
+        "chinese": "带孩子回家"
+      }
+    ]
+  },
+  "ngsl12:no": {
+    "exampleEnglish": "There was no space left in the cupboard, so we moved the extra plates to another room.",
+    "exampleChinese": "橱柜里没有空间了，所以我们把多余的盘子移到了另一个房间。",
+    "collocations": [
+      {
+        "english": "no longer",
+        "chinese": "不再"
+      },
+      {
+        "english": "no doubt",
+        "chinese": "毫无疑问"
+      }
+    ]
+  },
+  "ngsl12:well": {
+    "exampleEnglish": "The two teams work well together, even though they approach difficult problems in very different ways.",
+    "exampleChinese": "这两个团队合作得很好，尽管他们处理难题的方式很不相同。",
+    "collocations": [
+      {
+        "english": "sleep well",
+        "chinese": "睡得好"
+      },
+      {
+        "english": "work well together",
+        "chinese": "合作得很好"
+      }
+    ]
+  },
+  "ngsl12:because": {
+    "exampleEnglish": "We booked an earlier train because we wanted enough time to explore the city before the concert.",
+    "exampleChinese": "我们订了更早的火车，因为想在音乐会前有足够时间游览城市。",
+    "collocations": [
+      {
+        "english": "because of the weather",
+        "chinese": "因为天气"
+      },
+      {
+        "english": "because of a delay",
+        "chinese": "因为延误"
+      }
+    ]
+  },
+  "ngsl12:very": {
+    "exampleEnglish": "The instructions were very clear, so everyone managed to assemble the shelves without asking for help.",
+    "exampleChinese": "说明非常清楚，所以大家不用寻求帮助就装好了架子。",
+    "collocations": [
+      {
+        "english": "very important",
+        "chinese": "非常重要"
+      },
+      {
+        "english": "very carefully",
+        "chinese": "非常仔细地"
+      }
+    ]
+  },
+  "ngsl12:just": {
+    "exampleEnglish": "I have just finished the report, so I can send you a copy before the afternoon meeting.",
+    "exampleChinese": "我刚刚完成报告，所以能在下午的会议前发给你一份。",
+    "collocations": [
+      {
+        "english": "just in time",
+        "chinese": "刚好及时"
+      },
+      {
+        "english": "just a moment",
+        "chinese": "稍等片刻"
+      }
+    ]
+  },
+  "ngsl12:come": {
+    "exampleEnglish": "Please come to the community meeting if you would like to help improve our local park.",
+    "exampleChinese": "如果你想帮助改善当地公园，请来参加社区会议。",
+    "collocations": [
+      {
+        "english": "come to an agreement",
+        "chinese": "达成一致"
+      },
+      {
+        "english": "come back home",
+        "chinese": "回家"
+      }
+    ]
+  },
+  "ngsl12:could": {
+    "exampleEnglish": "When we lived near the coast, we could walk to the beach after dinner almost every evening.",
+    "exampleChinese": "以前住在海边时，我们几乎每晚饭后都能步行去海滩。",
+    "collocations": [
+      {
+        "english": "could be helpful",
+        "chinese": "可能有帮助"
+      },
+      {
+        "english": "could hardly believe",
+        "chinese": "几乎无法相信"
+      }
+    ]
+  },
+  "ngsl12:work": {
+    "exampleEnglish": "She enjoys her work at the museum because every exhibition gives her an opportunity to learn something new.",
+    "exampleChinese": "她喜欢博物馆的工作，因为每次展览都让她有机会学到新东西。",
+    "collocations": [
+      {
+        "english": "part-time work",
+        "chinese": "兼职工作"
+      },
+      {
+        "english": "look for work",
+        "chinese": "找工作"
+      }
+    ]
+  },
+  "ngsl12:use": {
+    "exampleEnglish": "We use a shared calendar so that everyone knows when the meeting rooms are available for booking.",
+    "exampleChinese": "我们使用共享日历，让大家都知道会议室何时可以预订。",
+    "collocations": [
+      {
+        "english": "use public transport",
+        "chinese": "使用公共交通"
+      },
+      {
+        "english": "use something effectively",
+        "chinese": "有效使用某物"
+      }
+    ]
+  },
+  "ngsl12:than": {
+    "exampleEnglish": "The new library is much quieter than the old one, making it easier for students to concentrate.",
+    "exampleChinese": "新图书馆比旧馆安静得多，让学生们更容易集中注意力。",
+    "collocations": [
+      {
+        "english": "more than usual",
+        "chinese": "比平时更多"
+      },
+      {
+        "english": "rather than",
+        "chinese": "而不是"
+      }
+    ]
+  },
+  "ngsl12:now": {
+    "exampleEnglish": "The bridge has reopened, and drivers can now reach the town without taking a long route through the hills.",
+    "exampleChinese": "桥已经重新开放，司机们现在无需绕行山区就能到镇上。",
+    "collocations": [
+      {
+        "english": "right now",
+        "chinese": "现在这一刻"
+      },
+      {
+        "english": "from now on",
+        "chinese": "从现在起"
+      }
+    ]
+  },
+  "ngsl12:then": {
+    "exampleEnglish": "We arrived in the village before sunrise, and the streets were almost completely empty back then.",
+    "exampleChinese": "我们日出前到达村子，那时候街道上几乎完全没有人。",
+    "collocations": [
+      {
+        "english": "back then",
+        "chinese": "在那时"
+      },
+      {
+        "english": "since then",
+        "chinese": "从那以后"
+      }
+    ]
+  },
+  "ngsl12:also": {
+    "exampleEnglish": "The course teaches practical cooking skills, but it also explains how to plan meals on a limited budget.",
+    "exampleChinese": "课程教授实用烹饪技能，也讲解如何在预算有限的情况下安排膳食。",
+    "collocations": [
+      {
+        "english": "also available",
+        "chinese": "也可获得"
+      },
+      {
+        "english": "also known as",
+        "chinese": "也称为"
+      }
+    ]
+  },
+  "ngsl12:into": {
+    "exampleEnglish": "The guide led us into a narrow tunnel that connected the old house to the nearby river.",
+    "exampleChinese": "导游带我们进入一条狭窄隧道，它把老房子和附近的河连接起来。",
+    "collocations": [
+      {
+        "english": "go into detail",
+        "chinese": "详细说明"
+      },
+      {
+        "english": "walk into a room",
+        "chinese": "走进房间"
+      }
+    ]
+  },
+  "ngsl12:only": {
+    "exampleEnglish": "Only a few visitors stayed until closing time, so we had a peaceful view of the final exhibition.",
+    "exampleChinese": "只有少数游客待到闭馆，所以我们能安静地欣赏最后一个展览。",
+    "collocations": [
+      {
+        "english": "only a few",
+        "chinese": "只有几个"
+      },
+      {
+        "english": "only if necessary",
+        "chinese": "只有在必要时"
+      }
+    ]
+  },
+  "ngsl12:look": {
+    "exampleEnglish": "Please look at the diagram carefully before you connect the cables to the back of the computer.",
+    "exampleChinese": "把电缆接到电脑背面之前，请仔细看一下示意图。",
+    "collocations": [
+      {
+        "english": "look at a picture",
+        "chinese": "看一张图片"
+      },
+      {
+        "english": "look through a window",
+        "chinese": "透过窗户看"
+      }
+    ]
+  },
+  "ngsl12:want": {
+    "exampleEnglish": "We want to find a quieter place to stay, preferably somewhere within walking distance of the station.",
+    "exampleChinese": "我们想找一个更安静的住宿地点，最好离车站只有步行距离。",
+    "collocations": [
+      {
+        "english": "want to improve",
+        "chinese": "想要改进"
+      },
+      {
+        "english": "want someone to help",
+        "chinese": "想让某人帮忙"
+      }
+    ]
+  },
+  "ngsl12:give": {
+    "exampleEnglish": "The receptionist will give you a visitor's badge after you have written your name in the book.",
+    "exampleChinese": "你在登记簿上写下姓名后，接待员会给你一张访客证。",
+    "collocations": [
+      {
+        "english": "give someone a gift",
+        "chinese": "送某人礼物"
+      },
+      {
+        "english": "give permission",
+        "chinese": "给予许可"
+      }
+    ]
+  },
+  "ngsl12:first": {
+    "exampleEnglish": "Our first attempt failed because we had not checked whether all the pieces fitted together correctly.",
+    "exampleChinese": "我们的第一次尝试失败了，因为没有检查所有零件是否正确吻合。",
+    "collocations": [
+      {
+        "english": "the first time",
+        "chinese": "第一次"
+      },
+      {
+        "english": "first impressions",
+        "chinese": "第一印象"
+      }
+    ]
+  },
+  "ngsl12:new": {
+    "exampleEnglish": "The new walking route passes several small farms that visitors could not easily reach before the bridge opened.",
+    "exampleChinese": "新步行路线经过几座小农场，桥开通前游客很难到达那里。",
+    "collocations": [
+      {
+        "english": "a new approach",
+        "chinese": "一种新方法"
+      },
+      {
+        "english": "new to the area",
+        "chinese": "刚到这个地区的"
+      }
+    ]
+  },
+  "ngsl12:way": {
+    "exampleEnglish": "We need a better way to share information so that important messages do not get lost.",
+    "exampleChinese": "我们需要更好的信息共享方法，以免重要消息遗漏。",
+    "collocations": [
+      {
+        "english": "a useful way to learn",
+        "chinese": "一种有用的学习方法"
+      },
+      {
+        "english": "in the same way",
+        "chinese": "以相同的方式"
+      }
+    ]
+  },
+  "ngsl12:find": {
+    "exampleEnglish": "After searching through several boxes, I finally managed to find the photographs my grandmother had mentioned.",
+    "exampleChinese": "翻找几个箱子后，我终于找到了奶奶提过的照片。",
+    "collocations": [
+      {
+        "english": "find a solution",
+        "chinese": "找到解决办法"
+      },
+      {
+        "english": "find your way",
+        "chinese": "找到路"
+      }
+    ]
+  },
+  "ngsl12:over": {
+    "exampleEnglish": "We crossed over the wooden bridge slowly because some of the boards were slippery after the rain.",
+    "exampleChinese": "我们慢慢走过木桥，因为雨后有些木板很滑。",
+    "collocations": [
+      {
+        "english": "over the bridge",
+        "chinese": "越过桥"
+      },
+      {
+        "english": "over the years",
+        "chinese": "多年来"
+      }
+    ]
+  },
+  "ngsl12:any": {
+    "exampleEnglish": "If you have any questions about the schedule, please speak to the organiser before the session begins.",
+    "exampleChinese": "如果你对日程有任何疑问，请在活动开始前向组织者询问。",
+    "collocations": [
+      {
+        "english": "at any time",
+        "chinese": "在任何时候"
+      },
+      {
+        "english": "any other questions",
+        "chinese": "其他任何问题"
+      }
+    ]
+  },
+  "ngsl12:after": {
+    "exampleEnglish": "We watched the children enter the museum, and their teacher followed shortly after with the tickets.",
+    "exampleChinese": "我们看着孩子们走进博物馆，不久后老师拿着票跟了进去。",
+    "collocations": [
+      {
+        "english": "soon after",
+        "chinese": "不久之后"
+      },
+      {
+        "english": "the day after",
+        "chinese": "第二天"
+      }
+    ]
+  },
+  "ngsl12:day": {
+    "exampleEnglish": "We spent a whole day exploring the island, stopping whenever we found a quiet beach or interesting village.",
+    "exampleChinese": "我们花了一整天游览岛屿，每遇到安静的海滩或有趣的村子就停下来。",
+    "collocations": [
+      {
+        "english": "every other day",
+        "chinese": "每隔一天"
+      },
+      {
+        "english": "a working day",
+        "chinese": "一个工作日"
+      }
+    ]
+  },
+  "ngsl12:where": {
+    "exampleEnglish": "The guide explained where we should wait if the group became separated during the busy festival.",
+    "exampleChinese": "导游说明了，如果节日期间人多导致队伍走散，我们应该在哪里等候。",
+    "collocations": [
+      {
+        "english": "where to stay",
+        "chinese": "该住哪里"
+      },
+      {
+        "english": "where possible",
+        "chinese": "在可能的地方"
+      }
+    ]
+  },
+  "ngsl12:thing": {
+    "exampleEnglish": "I cannot remember the name of the small thing that keeps the cupboard door firmly closed.",
+    "exampleChinese": "我记不起来那个能把橱柜门扣紧的小东西叫什么。",
+    "collocations": [
+      {
+        "english": "the main thing",
+        "chinese": "最重要的事情"
+      },
+      {
+        "english": "the same thing",
+        "chinese": "同样的东西"
+      }
+    ]
+  },
+  "ngsl12:most": {
+    "exampleEnglish": "Most of the volunteers had never met before, but they quickly learned how to work together.",
+    "exampleChinese": "大多数志愿者以前从未见过，却很快学会了如何合作。",
+    "collocations": [
+      {
+        "english": "most of the time",
+        "chinese": "大部分时间"
+      },
+      {
+        "english": "most of us",
+        "chinese": "我们大多数人"
+      }
+    ]
+  },
+  "ngsl12:should": {
+    "exampleEnglish": "You should keep a copy of the receipt in case you need to return the product later.",
+    "exampleChinese": "你应该保存一份收据，以防之后需要退货。",
+    "collocations": [
+      {
+        "english": "should be able to",
+        "chinese": "应该能够"
+      },
+      {
+        "english": "should not be necessary",
+        "chinese": "应该没有必要"
+      }
+    ]
+  },
+  "ngsl12:need": {
+    "exampleEnglish": "We need a larger room for the workshop because more people have registered than we originally expected.",
+    "exampleChinese": "工作坊需要更大的房间，因为报名人数超出了最初预期。",
+    "collocations": [
+      {
+        "english": "need more time",
+        "chinese": "需要更多时间"
+      },
+      {
+        "english": "need to improve",
+        "chinese": "需要改进"
+      }
+    ]
+  },
+  "ngsl12:much": {
+    "exampleEnglish": "Much of what we learned during the workshop can be used immediately in our everyday work.",
+    "exampleChinese": "我们在工作坊学到的许多东西，都能立刻用于日常工作。",
+    "collocations": [
+      {
+        "english": "too much",
+        "chinese": "太多"
+      },
+      {
+        "english": "much of the work",
+        "chinese": "大部分工作"
+      }
+    ]
+  },
+  "ngsl12:right": {
+    "exampleEnglish": "Keep your bag in your right hand while you use the other hand to hold the rail.",
+    "exampleChinese": "用右手提着包，同时用另一只手扶住栏杆。",
+    "collocations": [
+      {
+        "english": "the right side",
+        "chinese": "右侧"
+      },
+      {
+        "english": "your right hand",
+        "chinese": "你的右手"
+      }
+    ]
+  },
+  "ngsl12:how": {
+    "exampleEnglish": "The instructor explained how we could adjust the camera settings to take clearer photographs in poor light.",
+    "exampleChinese": "教练讲解了如何调整相机设置，以便在光线差时拍出更清晰的照片。",
+    "collocations": [
+      {
+        "english": "how to improve",
+        "chinese": "如何改进"
+      },
+      {
+        "english": "how often",
+        "chinese": "多久一次"
+      }
+    ]
+  },
+  "ngsl12:back": {
+    "exampleEnglish": "We used the back entrance because a delivery van was blocking the main door of the shop.",
+    "exampleChinese": "我们走了后门，因为一辆送货车挡住了商店正门。",
+    "collocations": [
+      {
+        "english": "the back door",
+        "chinese": "后门"
+      },
+      {
+        "english": "a back garden",
+        "chinese": "后花园"
+      }
+    ]
+  },
+  "ngsl12:mean": {
+    "exampleEnglish": "The coloured lines mean different things, so check the guide before you begin following the route.",
+    "exampleChinese": "这些彩色线条含义不同，所以沿路线走之前先查看指南。",
+    "collocations": [
+      {
+        "english": "mean something different",
+        "chinese": "意味着不同的事情"
+      },
+      {
+        "english": "what does it mean",
+        "chinese": "这是什么意思"
+      }
+    ],
+    "chinese": "表示……的意思；意味着"
+  },
+  "ngsl12:even": {
+    "exampleEnglish": "The basic ticket includes the gardens and even gives visitors access to the newly restored tower.",
+    "exampleChinese": "基础门票包含花园，甚至还允许游客进入新修复的塔楼。",
+    "collocations": [
+      {
+        "english": "even better",
+        "chinese": "甚至更好"
+      },
+      {
+        "english": "even if",
+        "chinese": "即使"
+      }
+    ]
+  },
+  "ngsl12:may": {
+    "exampleEnglish": "The outdoor concert may finish earlier than planned if the temperature drops sharply after the sun goes down.",
+    "exampleChinese": "如果日落后气温骤降，户外音乐会可能会提前结束。",
+    "collocations": [
+      {
+        "english": "may be necessary",
+        "chinese": "可能有必要"
+      },
+      {
+        "english": "may well",
+        "chinese": "很可能"
+      }
+    ]
+  },
+  "ngsl12:here": {
+    "exampleEnglish": "Please leave your bicycle here while you collect your ticket from the office across the road.",
+    "exampleChinese": "你去马路对面的办公室取票时，请把自行车留在这里。",
+    "collocations": [
+      {
+        "english": "from here",
+        "chinese": "从这里"
+      },
+      {
+        "english": "here and there",
+        "chinese": "到处"
+      }
+    ]
+  },
+  "ngsl12:many": {
+    "exampleEnglish": "Many local shops stayed open late because the festival attracted visitors from all over the region.",
+    "exampleChinese": "许多当地商店营业到很晚，因为节日吸引了整个地区的游客。",
+    "collocations": [
+      {
+        "english": "many different ways",
+        "chinese": "许多不同方式"
+      },
+      {
+        "english": "many of the visitors",
+        "chinese": "许多游客"
+      }
+    ]
+  },
+  "ngsl12:such": {
+    "exampleEnglish": "We had never seen such clear water before, so we spent the whole afternoon beside the lake.",
+    "exampleChinese": "我们从没见过如此清澈的水，于是在湖边待了整个下午。",
+    "collocations": [
+      {
+        "english": "such a useful tool",
+        "chinese": "如此有用的工具"
+      },
+      {
+        "english": "such as",
+        "chinese": "例如"
+      }
+    ]
+  },
+  "ngsl12:last": {
+    "exampleEnglish": "The last bus leaves before the exhibition closes, so we will need to arrange another way home.",
+    "exampleChinese": "末班车在展览闭馆前发车，因此我们得另想办法回家。",
+    "collocations": [
+      {
+        "english": "the last chance",
+        "chinese": "最后的机会"
+      },
+      {
+        "english": "last night",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  "ngsl12:child": {
+    "exampleEnglish": "Every child who joins the activity must bring a warm coat, even if the morning seems sunny.",
+    "exampleChinese": "参加活动的每个孩子都必须带厚外套，即使早上看起来天气晴朗。",
+    "collocations": [
+      {
+        "english": "an only child",
+        "chinese": "独生子女"
+      },
+      {
+        "english": "a young child",
+        "chinese": "幼童"
+      }
+    ]
+  },
+  "ngsl12:tell": {
+    "exampleEnglish": "Please tell the receptionist if you need a quieter room, as several alternatives are still available upstairs.",
+    "exampleChinese": "如果你需要更安静的房间，请告诉接待员，楼上还有几个可选房间。",
+    "collocations": [
+      {
+        "english": "tell the truth",
+        "chinese": "说实话"
+      },
+      {
+        "english": "tell someone about something",
+        "chinese": "告诉某人某事"
+      }
+    ]
+  },
+  "ngsl12:really": {
+    "exampleEnglish": "The new cycle path is really useful because it connects our neighbourhood directly to the station.",
+    "exampleChinese": "新自行车道非常实用，因为它把我们的社区直接连到了车站。",
+    "collocations": [
+      {
+        "english": "really helpful",
+        "chinese": "非常有帮助"
+      },
+      {
+        "english": "really enjoy",
+        "chinese": "非常喜欢"
+      }
+    ]
+  },
+  "ngsl12:call": {
+    "exampleEnglish": "I will call the shop tomorrow morning to check whether the replacement part has finally arrived.",
+    "exampleChinese": "我明早会给商店打电话，确认替换零件是否终于到货。",
+    "collocations": [
+      {
+        "english": "call someone back",
+        "chinese": "给某人回电话"
+      },
+      {
+        "english": "call the office",
+        "chinese": "给办公室打电话"
+      }
+    ]
+  },
+  "ngsl12:before": {
+    "exampleEnglish": "We had visited the village before, but we had never explored the forest beyond the old mill.",
+    "exampleChinese": "我们以前到过这个村子，却从未探索过老磨坊外的森林。",
+    "collocations": [
+      {
+        "english": "the day before",
+        "chinese": "前一天"
+      },
+      {
+        "english": "as mentioned before",
+        "chinese": "如前所述"
+      }
+    ]
+  },
+  "ngsl12:company": {
+    "exampleEnglish": "The company offers flexible working hours, allowing employees to avoid the busiest trains during the morning.",
+    "exampleChinese": "这家公司提供弹性工作时间，让员工能避开早上最拥挤的火车。",
+    "collocations": [
+      {
+        "english": "a small company",
+        "chinese": "一家小公司"
+      },
+      {
+        "english": "company policy",
+        "chinese": "公司政策"
+      }
+    ]
+  },
+  "ngsl12:through": {
+    "exampleEnglish": "We followed the path through the forest until we reached a clearing beside a narrow stream.",
+    "exampleChinese": "我们沿着穿过森林的小路前进，最后到达一条小溪旁的空地。",
+    "collocations": [
+      {
+        "english": "walk through the park",
+        "chinese": "步行穿过公园"
+      },
+      {
+        "english": "through the tunnel",
+        "chinese": "穿过隧道"
+      }
+    ]
+  },
+  "ngsl12:down": {
+    "exampleEnglish": "The children walked down the steep steps carefully because the stone surface was wet from rain.",
+    "exampleChinese": "孩子们小心地走下陡峭台阶，因为石面被雨水打湿了。",
+    "collocations": [
+      {
+        "english": "down the stairs",
+        "chinese": "沿楼梯向下"
+      },
+      {
+        "english": "down the hill",
+        "chinese": "下山"
+      }
+    ]
+  },
+  "ngsl12:show": {
+    "exampleEnglish": "Could you show the new volunteers how to use the equipment before the first visitors arrive?",
+    "exampleChinese": "你能在首批游客到来前，教新志愿者如何使用这些设备吗？",
+    "collocations": [
+      {
+        "english": "show someone how to",
+        "chinese": "教某人如何……"
+      },
+      {
+        "english": "show the way",
+        "chinese": "指路"
+      }
+    ]
+  },
+  "ngsl12:life": {
+    "exampleEnglish": "The discovery of plant life in the tiny pond encouraged the children to study its surroundings more carefully.",
+    "exampleChinese": "小池塘里发现植物生命，促使孩子们更仔细地研究周围环境。",
+    "collocations": [
+      {
+        "english": "plant life",
+        "chinese": "植物生命"
+      },
+      {
+        "english": "marine life",
+        "chinese": "海洋生物"
+      }
+    ]
+  },
+  "ngsl12:man": {
+    "exampleEnglish": "A man waiting outside the station offered to help when he saw us struggling with our suitcases.",
+    "exampleChinese": "一位在车站外等候的男子看到我们费力地搬行李，主动提出帮忙。",
+    "collocations": [
+      {
+        "english": "a young man",
+        "chinese": "年轻男子"
+      },
+      {
+        "english": "an elderly man",
+        "chinese": "老年男子"
+      }
+    ]
+  },
+  "ngsl12:change": {
+    "exampleEnglish": "We may need to change our plans if the museum remains closed throughout the school holidays.",
+    "exampleChinese": "如果博物馆在整个学校假期都闭馆，我们可能需要改变计划。",
+    "collocations": [
+      {
+        "english": "change your mind",
+        "chinese": "改变主意"
+      },
+      {
+        "english": "change the subject",
+        "chinese": "转换话题"
+      }
+    ]
+  },
+  "ngsl12:place": {
+    "exampleEnglish": "Please place the completed forms in the blue tray so that staff can collect them later.",
+    "exampleChinese": "请把填好的表格放进蓝色托盘，方便工作人员稍后收取。",
+    "collocations": [
+      {
+        "english": "place an object carefully",
+        "chinese": "小心放置物品"
+      },
+      {
+        "english": "place something on a shelf",
+        "chinese": "把某物放到架子上"
+      }
+    ]
+  },
+  "ngsl12:long": {
+    "exampleEnglish": "A long wooden bridge connects the island to the shore, allowing visitors to cross on foot.",
+    "exampleChinese": "一座很长的木桥把岛屿和岸边连起来，游客可以步行通过。",
+    "collocations": [
+      {
+        "english": "a long bridge",
+        "chinese": "一座长桥"
+      },
+      {
+        "english": "a long distance",
+        "chinese": "很长的距离"
+      }
+    ]
+  },
+  "ngsl12:between": {
+    "exampleEnglish": "The little café stands between the library and the station, making it a convenient meeting place.",
+    "exampleChinese": "小咖啡馆位于图书馆和车站之间，是一个方便的会面地点。",
+    "collocations": [
+      {
+        "english": "between two buildings",
+        "chinese": "在两座建筑之间"
+      },
+      {
+        "english": "between you and me",
+        "chinese": "你我之间"
+      }
+    ]
+  },
+  "ngsl12:feel": {
+    "exampleEnglish": "I feel much more confident about speaking English now that I practise with a partner every week.",
+    "exampleChinese": "现在我每周都和搭档练习，对说英语自信多了。",
+    "collocations": [
+      {
+        "english": "feel confident",
+        "chinese": "感到自信"
+      },
+      {
+        "english": "feel a difference",
+        "chinese": "感觉到区别"
+      }
+    ]
+  },
+  "ngsl12:too": {
+    "exampleEnglish": "The room was too crowded for a practical workshop, so the organiser moved us into the hall.",
+    "exampleChinese": "房间太挤，无法开展实践工作坊，因此组织者让我们移到了大厅。",
+    "collocations": [
+      {
+        "english": "too expensive",
+        "chinese": "太贵"
+      },
+      {
+        "english": "too much noise",
+        "chinese": "太多噪声"
+      }
+    ]
+  },
+  "ngsl12:still": {
+    "exampleEnglish": "We still use the wooden table my grandfather made, although its surface has become slightly uneven.",
+    "exampleChinese": "我们仍在用爷爷做的木桌，虽然桌面已经有些不平了。",
+    "collocations": [
+      {
+        "english": "still available",
+        "chinese": "仍可使用"
+      },
+      {
+        "english": "still waiting",
+        "chinese": "仍在等候"
+      }
+    ]
+  },
+  "ngsl12:problem": {
+    "exampleEnglish": "The main problem was the lack of storage space, which made the small kitchen difficult to organise.",
+    "exampleChinese": "主要问题是缺少储物空间，这让小厨房很难整理。",
+    "collocations": [
+      {
+        "english": "solve a problem",
+        "chinese": "解决问题"
+      },
+      {
+        "english": "a serious problem",
+        "chinese": "严重的问题"
+      }
+    ]
+  },
+  "ngsl12:write": {
+    "exampleEnglish": "Please write your contact details clearly so that the organiser can reach you if the schedule changes.",
+    "exampleChinese": "请清楚填写联系方式，方便组织者在日程变动时联系你。",
+    "collocations": [
+      {
+        "english": "write a report",
+        "chinese": "写报告"
+      },
+      {
+        "english": "write something down",
+        "chinese": "记下某事"
+      }
+    ]
+  },
+  "ngsl12:same": {
+    "exampleEnglish": "We chose the same hotel as last year because its location had made exploring the city easy.",
+    "exampleChinese": "我们选了去年的同一家酒店，因为它的位置方便游览城市。",
+    "collocations": [
+      {
+        "english": "at the same time",
+        "chinese": "同时"
+      },
+      {
+        "english": "the same as before",
+        "chinese": "和以前一样"
+      }
+    ]
+  },
+  "ngsl12:lot": {
+    "exampleEnglish": "We learned a lot from the first attempt, even though the model did not work as expected.",
+    "exampleChinese": "虽然模型没有按预期运作，但第一次尝试让我们学到了很多。",
+    "collocations": [
+      {
+        "english": "a lot of effort",
+        "chinese": "大量努力"
+      },
+      {
+        "english": "a lot to learn",
+        "chinese": "很多要学的东西"
+      }
+    ]
+  },
+  "ngsl12:great": {
+    "exampleEnglish": "The community garden has been a great success, bringing together neighbours who rarely spoke to each other before.",
+    "exampleChinese": "社区花园取得了巨大成功，让以前很少交谈的邻居们聚在一起。",
+    "collocations": [
+      {
+        "english": "a great opportunity",
+        "chinese": "一个好机会"
+      },
+      {
+        "english": "great fun",
+        "chinese": "非常有趣"
+      }
+    ]
+  },
+  "ngsl12:try": {
+    "exampleEnglish": "We should try a different route tomorrow because the coastal road is likely to be very busy.",
+    "exampleChinese": "我们明天应该尝试别的路线，因为沿海道路可能会很拥堵。",
+    "collocations": [
+      {
+        "english": "try to improve",
+        "chinese": "努力改进"
+      },
+      {
+        "english": "try a new approach",
+        "chinese": "尝试新方法"
+      }
+    ]
+  },
+  "ngsl12:leave": {
+    "exampleEnglish": "We decided to leave the campsite early so that we could reach the village before the storm.",
+    "exampleChinese": "我们决定提早离开营地，以便在暴风雨前赶到村子。",
+    "collocations": [
+      {
+        "english": "leave home",
+        "chinese": "离家"
+      },
+      {
+        "english": "leave a place behind",
+        "chinese": "离开某地"
+      }
+    ]
+  },
+  "ngsl12:number": {
+    "exampleEnglish": "Write the reference number on the envelope so that staff can match your documents to the correct application.",
+    "exampleChinese": "请在信封上写明参考编号，方便工作人员把文件匹配到正确的申请。",
+    "collocations": [
+      {
+        "english": "a phone number",
+        "chinese": "电话号码"
+      },
+      {
+        "english": "an identification number",
+        "chinese": "识别号码"
+      }
+    ]
+  },
+  "ngsl12:both": {
+    "exampleEnglish": "Both routes offer beautiful views, but the one along the coast is easier for inexperienced walkers.",
+    "exampleChinese": "两条路线景色都很美，但沿海那条更适合没有经验的徒步者。",
+    "collocations": [
+      {
+        "english": "both parents",
+        "chinese": "父母双方"
+      },
+      {
+        "english": "both of them",
+        "chinese": "他们两个"
+      }
+    ]
+  },
+  "ngsl12:own": {
+    "exampleEnglish": "We prepared our own lunch instead of buying food, which helped us keep the trip affordable.",
+    "exampleChinese": "我们自备午饭而没有买吃的，这有助于控制旅行费用。",
+    "collocations": [
+      {
+        "english": "your own decision",
+        "chinese": "你自己的决定"
+      },
+      {
+        "english": "on your own",
+        "chinese": "独自"
+      }
+    ]
+  },
+  "ngsl12:part": {
+    "exampleEnglish": "We repaired the damaged part of the fence before the animals were allowed back into the field.",
+    "exampleChinese": "动物们获准回到田里前，我们修好了围栏受损的部分。",
+    "collocations": [
+      {
+        "english": "part of the plan",
+        "chinese": "计划的一部分"
+      },
+      {
+        "english": "the first part",
+        "chinese": "第一部分"
+      }
+    ]
+  },
+  "ngsl12:point": {
+    "exampleEnglish": "Please point to the symbol on the map so that everyone understands which entrance we should use.",
+    "exampleChinese": "请指一下地图上的符号，让大家都明白该使用哪个入口。",
+    "collocations": [
+      {
+        "english": "point at something",
+        "chinese": "指着某物"
+      },
+      {
+        "english": "point towards the exit",
+        "chinese": "指向出口"
+      }
+    ]
+  },
+  "ngsl12:little": {
+    "exampleEnglish": "The little house beside the bridge has been carefully restored and now welcomes visitors during summer.",
+    "exampleChinese": "桥边的小房子经过精心修复，现在夏季会接待游客。",
+    "collocations": [
+      {
+        "english": "a little village",
+        "chinese": "一个小村庄"
+      },
+      {
+        "english": "a little child",
+        "chinese": "一个小孩子"
+      }
+    ]
+  },
+  "ngsl12:help": {
+    "exampleEnglish": "The guide offered to help us choose a walking route that would suit everyone in our group.",
+    "exampleChinese": "导游主动帮助我们选择一条适合队里所有人的徒步路线。",
+    "collocations": [
+      {
+        "english": "help someone with something",
+        "chinese": "帮助某人做某事"
+      },
+      {
+        "english": "help someone to learn",
+        "chinese": "帮助某人学习"
+      }
+    ]
+  },
+  "ngsl12:ask": {
+    "exampleEnglish": "You should ask a member of staff for permission before taking photographs inside the main exhibition hall.",
+    "exampleChinese": "在主展厅内拍照前，你应该先向工作人员请求许可。",
+    "collocations": [
+      {
+        "english": "ask for advice",
+        "chinese": "征求建议"
+      },
+      {
+        "english": "ask someone a question",
+        "chinese": "问某人一个问题"
+      }
+    ]
+  },
+  "ngsl12:meet": {
+    "exampleEnglish": "We arranged to meet outside the library because everyone could reach it easily by public transport.",
+    "exampleChinese": "我们约好在图书馆外见面，因为大家坐公共交通都能方便到达。",
+    "collocations": [
+      {
+        "english": "meet a friend",
+        "chinese": "和朋友见面"
+      },
+      {
+        "english": "meet for lunch",
+        "chinese": "见面吃午饭"
+      }
+    ]
+  },
+  "ngsl12:start": {
+    "exampleEnglish": "The start of the walking tour was delayed because several visitors had difficulty finding the meeting point.",
+    "exampleChinese": "徒步导览推迟开始，因为几位游客找不到集合地点。",
+    "collocations": [
+      {
+        "english": "a fresh start",
+        "chinese": "新的开始"
+      },
+      {
+        "english": "from the start",
+        "chinese": "从一开始"
+      }
+    ]
+  },
+  "ngsl12:talk": {
+    "exampleEnglish": "We should talk about the problem calmly before deciding whether the original plan needs to be changed.",
+    "exampleChinese": "我们应该先冷静讨论问题，再决定是否需要更改原计划。",
+    "collocations": [
+      {
+        "english": "talk to a colleague",
+        "chinese": "与同事交谈"
+      },
+      {
+        "english": "talk about a problem",
+        "chinese": "谈论问题"
+      }
+    ]
+  },
+  "ngsl12:something": {
+    "exampleEnglish": "I need something that will keep these papers together without damaging the photographs attached to them.",
+    "exampleChinese": "我需要一个能把这些纸夹在一起、又不损伤所附照片的东西。",
+    "collocations": [
+      {
+        "english": "something useful",
+        "chinese": "有用的东西"
+      },
+      {
+        "english": "something to eat",
+        "chinese": "吃的东西"
+      }
+    ]
+  },
+  "ngsl12:put": {
+    "exampleEnglish": "Please put the chairs against the wall so that there is enough space for the group activity.",
+    "exampleChinese": "请把椅子靠墙放，为小组活动留出足够空间。",
+    "collocations": [
+      {
+        "english": "put something away",
+        "chinese": "收好某物"
+      },
+      {
+        "english": "put a book on the table",
+        "chinese": "把书放在桌上"
+      }
+    ]
+  },
+  "ngsl12:another": {
+    "exampleEnglish": "We need another volunteer to welcome visitors while the rest of the team prepares the main hall.",
+    "exampleChinese": "我们还需要一名志愿者接待游客，同时其余队员准备大厅。",
+    "collocations": [
+      {
+        "english": "another chance",
+        "chinese": "另一次机会"
+      },
+      {
+        "english": "another one",
+        "chinese": "另外一个"
+      }
+    ]
+  },
+  "ngsl12:become": {
+    "exampleEnglish": "With regular practice, tasks that once seemed difficult can become much easier to complete without help.",
+    "exampleChinese": "经常练习后，曾经看似困难的任务会变得更容易独立完成。",
+    "collocations": [
+      {
+        "english": "become familiar with",
+        "chinese": "变得熟悉……"
+      },
+      {
+        "english": "become more confident",
+        "chinese": "变得更自信"
+      }
+    ]
+  },
+  "ngsl12:interest": {
+    "exampleEnglish": "The guide used old photographs to interest visitors in the everyday lives of the village's former residents.",
+    "exampleChinese": "导游用老照片激发游客对村中昔日居民日常生活的兴趣。",
+    "collocations": [
+      {
+        "english": "interest someone in something",
+        "chinese": "使某人对某事感兴趣"
+      },
+      {
+        "english": "interest young readers",
+        "chinese": "吸引年轻读者"
+      }
+    ],
+    "chinese": "使感兴趣；引起……的兴趣"
+  },
+  "ngsl12:country": {
+    "exampleEnglish": "Travelling through the country by train allowed us to see places that most tourists never visit.",
+    "exampleChinese": "乘火车穿越这个国家，让我们看到了多数游客从不到访的地方。",
+    "collocations": [
+      {
+        "english": "a neighbouring country",
+        "chinese": "邻国"
+      },
+      {
+        "english": "across the country",
+        "chinese": "全国各地"
+      }
+    ]
+  },
+  "ngsl12:old": {
+    "exampleEnglish": "The old bridge is no longer used by cars, but people still cross it on foot.",
+    "exampleChinese": "这座老桥已不再通汽车，但人们仍会步行过桥。",
+    "collocations": [
+      {
+        "english": "an old building",
+        "chinese": "一栋老建筑"
+      },
+      {
+        "english": "old friends",
+        "chinese": "老朋友"
+      }
+    ]
+  },
+  "ngsl12:each": {
+    "exampleEnglish": "Each participant received a different photograph and was asked to describe it without showing it to anyone.",
+    "exampleChinese": "每位参与者收到一张不同的照片，要在不展示给别人的情况下描述它。",
+    "collocations": [
+      {
+        "english": "each of us",
+        "chinese": "我们每个人"
+      },
+      {
+        "english": "each time",
+        "chinese": "每次"
+      }
+    ]
+  },
+  "ngsl12:school": {
+    "exampleEnglish": "The school opened its library on Saturdays so that local families could borrow books together.",
+    "exampleChinese": "学校周六开放图书馆，方便当地家庭一起借书。",
+    "collocations": [
+      {
+        "english": "primary school",
+        "chinese": "小学"
+      },
+      {
+        "english": "go to school",
+        "chinese": "上学"
+      }
+    ]
+  },
+  "ngsl12:late": {
+    "exampleEnglish": "We enjoyed a late dinner after the concert, when most of the nearby restaurants were already closed.",
+    "exampleChinese": "音乐会后我们很晚才吃晚饭，当时附近多数餐馆已经关门。",
+    "collocations": [
+      {
+        "english": "late afternoon",
+        "chinese": "傍晚前的下午时段"
+      },
+      {
+        "english": "a late arrival",
+        "chinese": "很晚到达的人或事物"
+      }
+    ]
+  },
+  "ngsl12:high": {
+    "exampleEnglish": "The high wall protected the garden from strong winds, allowing several delicate plants to grow successfully.",
+    "exampleChinese": "高墙挡住了强风，让几种娇弱的植物得以顺利生长。",
+    "collocations": [
+      {
+        "english": "a high wall",
+        "chinese": "高墙"
+      },
+      {
+        "english": "high ceilings",
+        "chinese": "高天花板"
+      }
+    ]
+  },
+  "ngsl12:different": {
+    "exampleEnglish": "We tried three different methods before finding one that was simple enough for everyone to use.",
+    "exampleChinese": "我们尝试了三种不同方法，才找到一种人人都能使用的简单方法。",
+    "collocations": [
+      {
+        "english": "different from",
+        "chinese": "与……不同"
+      },
+      {
+        "english": "a different approach",
+        "chinese": "不同的方法"
+      }
+    ]
+  },
+  "ngsl12:off": {
+    "exampleEnglish": "The cover was off the machine, so the technician could see which part needed to be replaced.",
+    "exampleChinese": "机器外罩已经取下，技术员因此能看出哪个零件需要更换。",
+    "collocations": [
+      {
+        "english": "take your shoes off",
+        "chinese": "脱鞋"
+      },
+      {
+        "english": "the power is off",
+        "chinese": "电源已关闭"
+      }
+    ]
+  },
+  "ngsl12:next": {
+    "exampleEnglish": "The next stage of the project involves testing the design with people who have never seen it before.",
+    "exampleChinese": "项目的下一阶段，是让从没见过设计的人来测试它。",
+    "collocations": [
+      {
+        "english": "the next step",
+        "chinese": "下一步"
+      },
+      {
+        "english": "next time",
+        "chinese": "下次"
+      }
+    ]
+  },
+  "ngsl12:end": {
+    "exampleEnglish": "We waited until the end of the performance before asking the musicians about their unusual instruments.",
+    "exampleChinese": "我们等到演出结束，才向音乐家询问那些不寻常的乐器。",
+    "collocations": [
+      {
+        "english": "at the end of",
+        "chinese": "在……结束时"
+      },
+      {
+        "english": "come to an end",
+        "chinese": "结束"
+      }
+    ]
+  },
+  "ngsl12:live": {
+    "exampleEnglish": "Some trees can live for hundreds of years if they have enough space and suitable growing conditions.",
+    "exampleChinese": "有足够空间和合适生长条件时，有些树能活数百年。",
+    "collocations": [
+      {
+        "english": "live a long life",
+        "chinese": "长寿"
+      },
+      {
+        "english": "live for many years",
+        "chinese": "活很多年"
+      }
+    ]
+  },
+  "ngsl12:why": {
+    "exampleEnglish": "Nobody understood why the lights kept going out until the technician checked the old wiring carefully.",
+    "exampleChinese": "直到技术员仔细检查了旧线路，大家才明白为什么灯总是熄灭。",
+    "collocations": [
+      {
+        "english": "why not",
+        "chinese": "为什么不"
+      },
+      {
+        "english": "explain why",
+        "chinese": "解释原因"
+      }
+    ]
+  },
+  "ngsl12:while": {
+    "exampleEnglish": "I prepared the vegetables while my brother read the recipe and checked which ingredients we still needed.",
+    "exampleChinese": "我准备蔬菜时，弟弟读食谱并核对我们还缺哪些食材。",
+    "collocations": [
+      {
+        "english": "while you wait",
+        "chinese": "在你等候时"
+      },
+      {
+        "english": "while doing something",
+        "chinese": "在做某事时"
+      }
+    ]
+  },
+  "ngsl12:world": {
+    "exampleEnglish": "The festival brings together musicians from around the world, giving local audiences a chance to discover unfamiliar styles.",
+    "exampleChinese": "音乐节汇集世界各地的音乐家，让当地观众有机会接触陌生的风格。",
+    "collocations": [
+      {
+        "english": "around the world",
+        "chinese": "世界各地"
+      },
+      {
+        "english": "the modern world",
+        "chinese": "现代世界"
+      }
+    ]
+  },
+  "ngsl12:week": {
+    "exampleEnglish": "We spent a week in the countryside, exploring small villages and learning how local farmers produced cheese.",
+    "exampleChinese": "我们在乡下待了一周，游览小村庄，了解当地农民如何制作奶酪。",
+    "collocations": [
+      {
+        "english": "once a week",
+        "chinese": "每周一次"
+      },
+      {
+        "english": "the following week",
+        "chinese": "接下来的一周"
+      }
+    ]
+  },
+  "ngsl12:play": {
+    "exampleEnglish": "We usually play basketball after school, unless the sports hall is being used for another activity.",
+    "exampleChinese": "我们通常放学后打篮球，除非体育馆被其他活动占用了。",
+    "collocations": [
+      {
+        "english": "play a game",
+        "chinese": "玩游戏"
+      },
+      {
+        "english": "play football",
+        "chinese": "踢足球"
+      }
+    ]
+  },
+  "ngsl12:might": {
+    "exampleEnglish": "The café might be closed when we arrive, so it would be sensible to bring some food.",
+    "exampleChinese": "我们到达时咖啡馆可能关门，所以带些食物比较稳妥。",
+    "collocations": [
+      {
+        "english": "might be useful",
+        "chinese": "可能有用"
+      },
+      {
+        "english": "might as well",
+        "chinese": "不妨"
+      }
+    ]
+  },
+  "ngsl12:must": {
+    "exampleEnglish": "Visitors must keep to the marked paths because several areas contain plants that are easily damaged.",
+    "exampleChinese": "游客必须沿标记小路行走，因为几个区域生长着易受损的植物。",
+    "collocations": [
+      {
+        "english": "must not enter",
+        "chinese": "禁止进入"
+      },
+      {
+        "english": "must be completed",
+        "chinese": "必须完成"
+      }
+    ]
+  },
+  "ngsl12:home": {
+    "exampleEnglish": "Their new home is close to the station, which makes visiting relatives much easier at weekends.",
+    "exampleChinese": "他们的新家靠近车站，周末探望亲戚就方便多了。",
+    "collocations": [
+      {
+        "english": "at home",
+        "chinese": "在家"
+      },
+      {
+        "english": "a family home",
+        "chinese": "家庭住宅"
+      }
+    ]
+  },
+  "ngsl12:never": {
+    "exampleEnglish": "I had never used this kind of camera before, so I read the instructions before taking photographs.",
+    "exampleChinese": "我以前从没用过这种相机，所以拍照前先读了说明书。",
+    "collocations": [
+      {
+        "english": "never before",
+        "chinese": "以前从未"
+      },
+      {
+        "english": "never again",
+        "chinese": "再也不"
+      }
+    ]
+  },
+  "ngsl12:include": {
+    "exampleEnglish": "The ticket price will include a guided tour, although visitors must pay separately for the practical workshop.",
+    "exampleChinese": "票价将包含导览，但实践工作坊需要游客另外付费。",
+    "collocations": [
+      {
+        "english": "include a copy",
+        "chinese": "包含一份副本"
+      },
+      {
+        "english": "include everyone",
+        "chinese": "包括每个人"
+      }
+    ]
+  },
+  "ngsl12:course": {
+    "exampleEnglish": "The river changed its course after the storm, leaving part of the old walking path under water.",
+    "exampleChinese": "暴风雨后河流改道，旧步道的一部分被淹在水下。",
+    "collocations": [
+      {
+        "english": "the course of a river",
+        "chinese": "河流的走向"
+      },
+      {
+        "english": "change course",
+        "chinese": "改变路线"
+      }
+    ],
+    "chinese": "河道；路线；航向"
+  },
+  "ngsl12:house": {
+    "exampleEnglish": "The house at the end of the lane has a garden that overlooks the entire valley.",
+    "exampleChinese": "小巷尽头那栋房子的花园能俯瞰整个山谷。",
+    "collocations": [
+      {
+        "english": "a detached house",
+        "chinese": "独栋住宅"
+      },
+      {
+        "english": "move house",
+        "chinese": "搬家"
+      }
+    ]
+  },
+  "ngsl12:report": {
+    "exampleEnglish": "The report explains why the bridge needs repairs and suggests how the work could be completed safely.",
+    "exampleChinese": "报告解释了桥为何需要维修，并建议如何安全完成施工。",
+    "collocations": [
+      {
+        "english": "write a report",
+        "chinese": "写报告"
+      },
+      {
+        "english": "an annual report",
+        "chinese": "年度报告"
+      }
+    ]
+  },
+  "ngsl12:group": {
+    "exampleEnglish": "Our group included several experienced walkers who helped the younger children cross the stream safely.",
+    "exampleChinese": "我们组里有几位经验丰富的徒步者，帮助较小的孩子安全过溪。",
+    "collocations": [
+      {
+        "english": "a small group",
+        "chinese": "一小群"
+      },
+      {
+        "english": "group members",
+        "chinese": "小组成员"
+      }
+    ]
+  },
+  "ngsl12:case": {
+    "exampleEnglish": "The missing delivery was an unusual case, because every other parcel had arrived at the correct address.",
+    "exampleChinese": "这次投递丢失很不寻常，因为其他每个包裹都送对了地址。",
+    "collocations": [
+      {
+        "english": "in this case",
+        "chinese": "在这种情况下"
+      },
+      {
+        "english": "an unusual case",
+        "chinese": "一个不寻常的个案"
+      }
+    ]
+  },
+  "ngsl12:woman": {
+    "exampleEnglish": "The woman leading the workshop encouraged everyone to share a practical skill they had learned at home.",
+    "exampleChinese": "主持工作坊的女士鼓励每个人分享一项在家学到的实用技能。",
+    "collocations": [
+      {
+        "english": "a young woman",
+        "chinese": "年轻女士"
+      },
+      {
+        "english": "a woman of experience",
+        "chinese": "经验丰富的女性"
+      }
+    ]
+  },
+  "ngsl12:around": {
+    "exampleEnglish": "There were benches all around the lake, so visitors could stop whenever they wanted to enjoy the view.",
+    "exampleChinese": "湖的四周都有长椅，游客想欣赏景色时随时可以停下。",
+    "collocations": [
+      {
+        "english": "all around",
+        "chinese": "四周"
+      },
+      {
+        "english": "look around",
+        "chinese": "环顾四周"
+      }
+    ]
+  },
+  "ngsl12:book": {
+    "exampleEnglish": "The book contains detailed maps and useful advice for people who prefer travelling without a tour guide.",
+    "exampleChinese": "这本书包含详细地图和实用建议，供喜欢不跟导游旅行的人使用。",
+    "collocations": [
+      {
+        "english": "borrow a book",
+        "chinese": "借书"
+      },
+      {
+        "english": "a reference book",
+        "chinese": "参考书"
+      }
+    ]
+  },
+  "ngsl12:family": {
+    "exampleEnglish": "Her family moved to the town last summer, but they have already become involved in several local activities.",
+    "exampleChinese": "她家去年夏天搬到镇上，但他们已经参与了好几项当地活动。",
+    "collocations": [
+      {
+        "english": "family members",
+        "chinese": "家人"
+      },
+      {
+        "english": "a large family",
+        "chinese": "大家庭"
+      }
+    ]
+  },
+  "ngsl12:seem": {
+    "exampleEnglish": "The instructions seem complicated at first, but the task becomes much simpler once you start practising.",
+    "exampleChinese": "说明乍看很复杂，但一开始练习，任务就简单多了。",
+    "collocations": [
+      {
+        "english": "seem to understand",
+        "chinese": "似乎明白"
+      },
+      {
+        "english": "seem unlikely",
+        "chinese": "似乎不太可能"
+      }
+    ]
+  },
+  "ngsl12:let": {
+    "exampleEnglish": "The organisers will let us use the hall if we promise to leave everything clean afterwards.",
+    "exampleChinese": "如果我们保证事后打扫干净，组织者就会允许我们使用大厅。",
+    "collocations": [
+      {
+        "english": "let someone know",
+        "chinese": "告知某人"
+      },
+      {
+        "english": "let someone in",
+        "chinese": "让某人进入"
+      }
+    ]
+  },
+  "ngsl12:again": {
+    "exampleEnglish": "We decided to visit the exhibition again because there had been too many people on our first visit.",
+    "exampleChinese": "我们决定再看一次展览，因为第一次去的时候人太多了。",
+    "collocations": [
+      {
+        "english": "once again",
+        "chinese": "再一次"
+      },
+      {
+        "english": "again and again",
+        "chinese": "一再"
+      }
+    ]
+  },
+  "ngsl12:kind": {
+    "exampleEnglish": "This kind of material is useful for outdoor furniture because it does not easily absorb water.",
+    "exampleChinese": "这种材料适合制作户外家具，因为它不容易吸水。",
+    "collocations": [
+      {
+        "english": "all kinds of",
+        "chinese": "各种各样的"
+      },
+      {
+        "english": "a different kind of",
+        "chinese": "一种不同的"
+      }
+    ]
+  },
+  "ngsl12:keep": {
+    "exampleEnglish": "You can keep the guidebook after the tour, so there is no need to return it.",
+    "exampleChinese": "导览结束后你可以保留指南，不必归还。",
+    "collocations": [
+      {
+        "english": "keep a copy",
+        "chinese": "保留副本"
+      },
+      {
+        "english": "keep something safe",
+        "chinese": "妥善保管某物"
+      }
+    ]
+  },
+  "ngsl12:hear": {
+    "exampleEnglish": "We could hear music coming from the square long before we saw the musicians standing there.",
+    "exampleChinese": "还没看到站在广场上的音乐家，我们就远远听到了音乐。",
+    "collocations": [
+      {
+        "english": "hear a noise",
+        "chinese": "听到声响"
+      },
+      {
+        "english": "hear someone speaking",
+        "chinese": "听见某人说话"
+      }
+    ]
+  },
+  "ngsl12:system": {
+    "exampleEnglish": "The new booking system allows visitors to choose a time that suits them without calling the office.",
+    "exampleChinese": "新的预订系统让游客无需打电话，就能选择适合自己的时间。",
+    "collocations": [
+      {
+        "english": "an education system",
+        "chinese": "教育体系"
+      },
+      {
+        "english": "a booking system",
+        "chinese": "预订系统"
+      }
+    ]
+  },
+  "ngsl12:every": {
+    "exampleEnglish": "Every visitor received a reusable cup so that the festival would produce less waste than before.",
+    "exampleChinese": "每位游客都得到一个可重复使用的杯子，让音乐节比以前产生更少垃圾。",
+    "collocations": [
+      {
+        "english": "every single day",
+        "chinese": "每一天"
+      },
+      {
+        "english": "every few weeks",
+        "chinese": "每隔几周"
+      }
+    ]
+  },
+  "ngsl12:question": {
+    "exampleEnglish": "The guide encouraged us to question the information on old maps rather than accept every detail as accurate.",
+    "exampleChinese": "导游鼓励我们质疑旧地图上的信息，而不是认定所有细节都准确。",
+    "collocations": [
+      {
+        "english": "question a decision",
+        "chinese": "质疑决定"
+      },
+      {
+        "english": "question someone closely",
+        "chinese": "仔细盘问某人"
+      }
+    ]
+  },
+  "ngsl12:during": {
+    "exampleEnglish": "We took notes during the demonstration because the instructor explained several techniques that were completely new to us.",
+    "exampleChinese": "演示时我们做了笔记，因为教练讲了几种我们完全没接触过的技巧。",
+    "collocations": [
+      {
+        "english": "during the holidays",
+        "chinese": "假期期间"
+      },
+      {
+        "english": "during the meeting",
+        "chinese": "会议期间"
+      }
+    ]
+  },
+  "ngsl12:always": {
+    "exampleEnglish": "The library always keeps a few tables free for visitors who have not been able to book.",
+    "exampleChinese": "图书馆总会留几张空桌，给没能预约到的访客使用。",
+    "collocations": [
+      {
+        "english": "always available",
+        "chinese": "始终可用"
+      },
+      {
+        "english": "always remember",
+        "chinese": "始终记得"
+      }
+    ]
+  },
+  "ngsl12:big": {
+    "exampleEnglish": "The new community hall is big enough to host concerts as well as regular classes and meetings.",
+    "exampleChinese": "新社区大厅足够大，既能举办音乐会，也能开展常规课程和会议。",
+    "collocations": [
+      {
+        "english": "a big difference",
+        "chinese": "很大的差别"
+      },
+      {
+        "english": "a big city",
+        "chinese": "大城市"
+      }
+    ]
+  },
+  "ngsl12:set": {
+    "exampleEnglish": "We bought a complete set of tools so that everyone could take part in the repair workshop.",
+    "exampleChinese": "我们买了一套完整工具，让每个人都能参加维修工作坊。",
+    "collocations": [
+      {
+        "english": "a set of keys",
+        "chinese": "一串钥匙"
+      },
+      {
+        "english": "a complete set",
+        "chinese": "一整套"
+      }
+    ],
+    "chinese": "一套；一组"
+  },
+  "ngsl12:small": {
+    "exampleEnglish": "The village has a small library, but its collection includes books in several different languages.",
+    "exampleChinese": "村里有一座小图书馆，但馆藏包括好几种语言的书。",
+    "collocations": [
+      {
+        "english": "a small amount",
+        "chinese": "少量"
+      },
+      {
+        "english": "a small business",
+        "chinese": "一家小企业"
+      }
+    ]
+  },
+  "ngsl12:study": {
+    "exampleEnglish": "We study local plants during our weekly walks, recording any changes that we notice throughout the year.",
+    "exampleChinese": "我们在每周散步时研究当地植物，记录一年中注意到的各种变化。",
+    "collocations": [
+      {
+        "english": "study a subject",
+        "chinese": "学习一门学科"
+      },
+      {
+        "english": "study for an exam",
+        "chinese": "为考试学习"
+      }
+    ]
+  },
+  "ngsl12:follow": {
+    "exampleEnglish": "Please follow the guide closely because the path becomes narrow where it passes through the rocky area.",
+    "exampleChinese": "请紧跟导游，因为小路经过岩石区时会变得狭窄。",
+    "collocations": [
+      {
+        "english": "follow someone closely",
+        "chinese": "紧跟某人"
+      },
+      {
+        "english": "follow a route",
+        "chinese": "沿路线走"
+      }
+    ]
+  },
+  "ngsl12:begin": {
+    "exampleEnglish": "The workshop will begin once everyone has found a seat and checked that their materials are complete.",
+    "exampleChinese": "大家找到座位并核对材料齐全后，工作坊就会开始。",
+    "collocations": [
+      {
+        "english": "begin to understand",
+        "chinese": "开始理解"
+      },
+      {
+        "english": "begin with an example",
+        "chinese": "以一个例子开始"
+      }
+    ]
+  },
+  "ngsl12:important": {
+    "exampleEnglish": "It is important to check the route beforehand, especially when some members of the group are inexperienced.",
+    "exampleChinese": "提前核查路线很重要，尤其是当组里有人缺乏经验时。",
+    "collocations": [
+      {
+        "english": "an important decision",
+        "chinese": "一个重要决定"
+      },
+      {
+        "english": "important to remember",
+        "chinese": "值得牢记"
+      }
+    ]
+  },
+  "ngsl12:since": {
+    "exampleEnglish": "We have used the same meeting room since the club opened, although the building has changed considerably.",
+    "exampleChinese": "俱乐部成立以来，我们一直用同一间会议室，尽管整栋楼变化很大。",
+    "collocations": [
+      {
+        "english": "since last year",
+        "chinese": "自去年以来"
+      },
+      {
+        "english": "ever since",
+        "chinese": "从那时起一直"
+      }
+    ]
+  },
+  "ngsl12:run": {
+    "exampleEnglish": "We usually run along the river before breakfast, when the paths are quiet and the air is cool.",
+    "exampleChinese": "我们通常在早饭前沿河跑步，那时小路安静，空气凉爽。",
+    "collocations": [
+      {
+        "english": "run a race",
+        "chinese": "参加赛跑"
+      },
+      {
+        "english": "run towards someone",
+        "chinese": "朝某人跑去"
+      }
+    ]
+  },
+  "ngsl12:under": {
+    "exampleEnglish": "The spare chairs are under the stairs, where they can be stored without blocking the main entrance.",
+    "exampleChinese": "备用椅子在楼梯下，可以存放在那里而不堵住正门。",
+    "collocations": [
+      {
+        "english": "under the table",
+        "chinese": "在桌下"
+      },
+      {
+        "english": "under the bridge",
+        "chinese": "在桥下"
+      }
+    ]
+  },
+  "ngsl12:turn": {
+    "exampleEnglish": "The driver had to turn the bus around because the narrow road ahead was completely blocked.",
+    "exampleChinese": "司机不得不把公交车掉头，因为前面的窄路完全堵住了。",
+    "collocations": [
+      {
+        "english": "turn left",
+        "chinese": "向左转"
+      },
+      {
+        "english": "turn the handle",
+        "chinese": "转动把手"
+      }
+    ]
+  },
+  "ngsl12:few": {
+    "exampleEnglish": "Few visitors realised that the small building behind the museum had once been the village school.",
+    "exampleChinese": "很少有游客知道，博物馆后面的小楼曾是村里的学校。",
+    "collocations": [
+      {
+        "english": "a few minutes",
+        "chinese": "几分钟"
+      },
+      {
+        "english": "very few people",
+        "chinese": "很少的人"
+      }
+    ]
+  },
+  "ngsl12:bring": {
+    "exampleEnglish": "Please bring a notebook to the workshop so that you can record any ideas you want to try.",
+    "exampleChinese": "请带笔记本来工作坊，方便记下你想尝试的点子。",
+    "collocations": [
+      {
+        "english": "bring someone along",
+        "chinese": "带某人一起来"
+      },
+      {
+        "english": "bring your own food",
+        "chinese": "自带食物"
+      }
+    ]
+  },
+  "ngsl12:early": {
+    "exampleEnglish": "The early train was less crowded, which gave us plenty of space to sit together during the journey.",
+    "exampleChinese": "早班火车没那么拥挤，路上我们有充足空间坐在一起。",
+    "collocations": [
+      {
+        "english": "an early start",
+        "chinese": "提早出发"
+      },
+      {
+        "english": "early morning",
+        "chinese": "清晨"
+      }
+    ]
+  },
+  "ngsl12:hand": {
+    "exampleEnglish": "She raised her hand to ask whether the group could visit the tower after the main tour.",
+    "exampleChinese": "她举手询问，团队是否能在主要导览结束后参观塔楼。",
+    "collocations": [
+      {
+        "english": "raise your hand",
+        "chinese": "举手"
+      },
+      {
+        "english": "hold someone's hand",
+        "chinese": "牵某人的手"
+      }
+    ]
+  },
+  "ngsl12:state": {
+    "exampleEnglish": "The state government introduced new rules to protect the forests that attract visitors from neighbouring regions.",
+    "exampleChinese": "州政府出台了新规定，保护那些吸引邻近地区游客的森林。",
+    "collocations": [
+      {
+        "english": "state government",
+        "chinese": "州政府"
+      },
+      {
+        "english": "across the state",
+        "chinese": "在全州范围内"
+      }
+    ]
+  },
+  "ngsl12:move": {
+    "exampleEnglish": "We need to move the table closer to the window so that the photographs receive more natural light.",
+    "exampleChinese": "我们得把桌子移近窗户，让照片得到更多自然光。",
+    "collocations": [
+      {
+        "english": "move a chair",
+        "chinese": "移动椅子"
+      },
+      {
+        "english": "move something aside",
+        "chinese": "把某物移到一边"
+      }
+    ]
+  },
+  "ngsl12:money": {
+    "exampleEnglish": "We saved enough money for the trip by preparing meals at home instead of eating out.",
+    "exampleChinese": "我们通过在家做饭而不是外出吃饭，攒够了旅行的钱。",
+    "collocations": [
+      {
+        "english": "save money",
+        "chinese": "存钱"
+      },
+      {
+        "english": "spend money on something",
+        "chinese": "在某物上花钱"
+      }
+    ]
+  },
+  "ngsl12:fact": {
+    "exampleEnglish": "The guide checked every fact before publishing the booklet, because earlier editions had contained several mistakes.",
+    "exampleChinese": "导游出版小册子前核实了每个事实，因为早先版本存在几处错误。",
+    "collocations": [
+      {
+        "english": "a well-known fact",
+        "chinese": "众所周知的事实"
+      },
+      {
+        "english": "check the facts",
+        "chinese": "核实事实"
+      }
+    ]
+  },
+  "ngsl12:however": {
+    "exampleEnglish": "The route looked short on the map; however, several steep hills made the walk much more tiring.",
+    "exampleChinese": "地图上的路线看起来很短，然而几座陡坡让徒步累了不少。",
+    "collocations": [
+      {
+        "english": "however difficult",
+        "chinese": "无论多困难"
+      },
+      {
+        "english": "however you look at it",
+        "chinese": "无论你怎么看"
+      }
+    ]
+  },
+  "ngsl12:area": {
+    "exampleEnglish": "The area around the old station has become more popular since several independent shops opened there.",
+    "exampleChinese": "老车站周边的地区自从开了几家独立商店后，越来越受欢迎。",
+    "collocations": [
+      {
+        "english": "a residential area",
+        "chinese": "住宅区"
+      },
+      {
+        "english": "the local area",
+        "chinese": "当地地区"
+      }
+    ]
+  },
+  "ngsl12:provide": {
+    "exampleEnglish": "The organisers provide all the necessary materials, so participants only need to bring their own notebooks.",
+    "exampleChinese": "组织者提供全部必要材料，因此参与者只需自带笔记本。",
+    "collocations": [
+      {
+        "english": "provide information",
+        "chinese": "提供信息"
+      },
+      {
+        "english": "provide someone with something",
+        "chinese": "向某人提供某物"
+      }
+    ]
+  },
+  "ngsl12:name": {
+    "exampleEnglish": "Please write your name on the box so that nobody takes your materials home by mistake.",
+    "exampleChinese": "请在盒子上写上姓名，以免有人误把你的材料带回家。",
+    "collocations": [
+      {
+        "english": "a full name",
+        "chinese": "全名"
+      },
+      {
+        "english": "a familiar name",
+        "chinese": "熟悉的名字"
+      }
+    ]
+  },
+  "ngsl12:read": {
+    "exampleEnglish": "I usually read the instructions twice before using unfamiliar equipment, especially when several parts look similar.",
+    "exampleChinese": "使用不熟悉的设备前，我通常读两遍说明，尤其是几个零件很相似时。",
+    "collocations": [
+      {
+        "english": "read carefully",
+        "chinese": "仔细阅读"
+      },
+      {
+        "english": "read aloud",
+        "chinese": "朗读"
+      }
+    ]
+  },
+  "ngsl12:friend": {
+    "exampleEnglish": "A friend who knows the city well offered to show us some places beyond the usual tourist routes.",
+    "exampleChinese": "一位熟悉这座城市的朋友主动带我们去常规旅游路线之外的一些地方。",
+    "collocations": [
+      {
+        "english": "a close friend",
+        "chinese": "密友"
+      },
+      {
+        "english": "make friends",
+        "chinese": "交朋友"
+      }
+    ]
+  },
+  "ngsl12:month": {
+    "exampleEnglish": "The exhibition changes every month, giving regular visitors a reason to return and discover something different.",
+    "exampleChinese": "展览每月更换，让常来的游客有理由回来发现不同的东西。",
+    "collocations": [
+      {
+        "english": "once a month",
+        "chinese": "每月一次"
+      },
+      {
+        "english": "the previous month",
+        "chinese": "上个月"
+      }
+    ]
+  },
+  "ngsl12:large": {
+    "exampleEnglish": "The large windows allow plenty of daylight into the hall, reducing the need for artificial lighting.",
+    "exampleChinese": "大窗户让充足日光进入大厅，减少了对人工照明的需求。",
+    "collocations": [
+      {
+        "english": "a large amount",
+        "chinese": "大量"
+      },
+      {
+        "english": "a large number of",
+        "chinese": "很多"
+      }
+    ]
+  },
+  "ngsl12:business": {
+    "exampleEnglish": "The family started a small business selling handmade furniture, which gradually attracted customers from other towns.",
+    "exampleChinese": "这家人创办了一家销售手工家具的小企业，逐渐吸引了其他城镇的顾客。",
+    "collocations": [
+      {
+        "english": "run a business",
+        "chinese": "经营企业"
+      },
+      {
+        "english": "business hours",
+        "chinese": "营业时间"
+      }
+    ]
+  },
+  "ngsl12:without": {
+    "exampleEnglish": "We managed to assemble the shelves without any help, although the instructions were not particularly clear.",
+    "exampleChinese": "尽管说明不太清楚，我们还是在没人帮助的情况下装好了架子。",
+    "collocations": [
+      {
+        "english": "without permission",
+        "chinese": "未经许可"
+      },
+      {
+        "english": "without any difficulty",
+        "chinese": "毫不费力"
+      }
+    ]
+  },
+  "ngsl12:information": {
+    "exampleEnglish": "The website provides detailed information about walking routes, including their length and the facilities available nearby.",
+    "exampleChinese": "网站提供详细的徒步路线信息，包括路线长度和附近可用设施。",
+    "collocations": [
+      {
+        "english": "useful information",
+        "chinese": "有用的信息"
+      },
+      {
+        "english": "further information",
+        "chinese": "更多信息"
+      }
+    ]
+  },
+  "ngsl12:open": {
+    "exampleEnglish": "The garden remains open throughout the winter, although the small café only serves visitors at weekends.",
+    "exampleChinese": "花园整个冬天都开放，但小咖啡馆仅在周末接待游客。",
+    "collocations": [
+      {
+        "english": "open to the public",
+        "chinese": "对公众开放"
+      },
+      {
+        "english": "an open door",
+        "chinese": "敞开的门"
+      }
+    ]
+  },
+  "ngsl12:order": {
+    "exampleEnglish": "We decided to order lunch before visiting the gallery because the restaurant becomes busy after midday.",
+    "exampleChinese": "我们决定参观画廊前先点午饭，因为餐馆中午以后会变忙。",
+    "collocations": [
+      {
+        "english": "order a meal",
+        "chinese": "点餐"
+      },
+      {
+        "english": "order something online",
+        "chinese": "在线订购某物"
+      }
+    ]
+  },
+  "ngsl12:government": {
+    "exampleEnglish": "The government announced plans to improve public transport in rural areas where bus services had recently been reduced.",
+    "exampleChinese": "政府宣布计划改善公交班次近期减少的农村地区的公共交通。",
+    "collocations": [
+      {
+        "english": "local government",
+        "chinese": "地方政府"
+      },
+      {
+        "english": "government policy",
+        "chinese": "政府政策"
+      }
+    ]
+  },
+  "ngsl12:word": {
+    "exampleEnglish": "I understood every word in the sentence, but the expression as a whole still confused me.",
+    "exampleChinese": "句子里的每个词我都懂，但整个表达仍让我困惑。",
+    "collocations": [
+      {
+        "english": "look up a word",
+        "chinese": "查单词"
+      },
+      {
+        "english": "in other words",
+        "chinese": "换句话说"
+      }
+    ]
+  },
+  "ngsl12:issue": {
+    "exampleEnglish": "The main issue at the meeting was how to keep the library open during the repairs.",
+    "exampleChinese": "会议的主要议题是，如何在维修期间维持图书馆开放。",
+    "collocations": [
+      {
+        "english": "discuss an issue",
+        "chinese": "讨论议题"
+      },
+      {
+        "english": "a key issue",
+        "chinese": "关键问题"
+      }
+    ]
+  },
+  "ngsl12:market": {
+    "exampleEnglish": "The weekly market attracts visitors who want fresh vegetables and products made by people from nearby villages.",
+    "exampleChinese": "每周的集市吸引着想购买新鲜蔬菜和附近村民制作产品的游客。",
+    "collocations": [
+      {
+        "english": "a street market",
+        "chinese": "街头集市"
+      },
+      {
+        "english": "market stalls",
+        "chinese": "集市摊位"
+      }
+    ]
+  },
+  "ngsl12:pay": {
+    "exampleEnglish": "Visitors can pay by card at the entrance, but the café only accepts cash during busy periods.",
+    "exampleChinese": "游客可以在入口刷卡付款，但咖啡馆在繁忙时段只收现金。",
+    "collocations": [
+      {
+        "english": "pay for a ticket",
+        "chinese": "支付票款"
+      },
+      {
+        "english": "pay in advance",
+        "chinese": "预先付款"
+      }
+    ]
+  },
+  "ngsl12:build": {
+    "exampleEnglish": "The students helped build a wooden shelter where visitors could rest while exploring the nature reserve.",
+    "exampleChinese": "学生们帮忙搭建了一个木棚，供游览自然保护区的游客休息。",
+    "collocations": [
+      {
+        "english": "build a house",
+        "chinese": "建房子"
+      },
+      {
+        "english": "build a bridge",
+        "chinese": "建桥"
+      }
+    ]
+  },
+  "ngsl12:hold": {
+    "exampleEnglish": "Please hold the ladder steady while I check whether the box on the top shelf is ours.",
+    "exampleChinese": "我确认顶层架上的箱子是否属于我们时，请扶稳梯子。",
+    "collocations": [
+      {
+        "english": "hold someone's hand",
+        "chinese": "握住某人的手"
+      },
+      {
+        "english": "hold something firmly",
+        "chinese": "牢牢拿住某物"
+      }
+    ]
+  },
+  "ngsl12:service": {
+    "exampleEnglish": "You should service the bicycle regularly if you want it to remain reliable throughout the winter.",
+    "exampleChinese": "如果你想让自行车整个冬天都可靠，就应该定期保养它。",
+    "collocations": [
+      {
+        "english": "service a vehicle",
+        "chinese": "保养车辆"
+      },
+      {
+        "english": "service equipment regularly",
+        "chinese": "定期维护设备"
+      }
+    ]
+  },
+  "ngsl12:against": {
+    "exampleEnglish": "Several residents spoke against the proposal because they believed it would make the narrow street less safe.",
+    "exampleChinese": "几位居民发言反对这项提案，因为他们认为这会让狭窄街道更不安全。",
+    "collocations": [
+      {
+        "english": "against the rules",
+        "chinese": "违反规定"
+      },
+      {
+        "english": "vote against a proposal",
+        "chinese": "投票反对提案"
+      }
+    ]
+  },
+  "ngsl12:believe": {
+    "exampleEnglish": "I believe the project can succeed, provided that everyone understands their responsibilities and shares information regularly.",
+    "exampleChinese": "我相信这个项目能成功，前提是每个人都清楚职责并定期共享信息。",
+    "collocations": [
+      {
+        "english": "believe in someone",
+        "chinese": "信任某人"
+      },
+      {
+        "english": "believe something is true",
+        "chinese": "相信某事是真的"
+      }
+    ]
+  },
+  "ngsl12:second": {
+    "exampleEnglish": "Our second attempt was more successful because we had corrected the mistakes made during the first test.",
+    "exampleChinese": "第二次尝试更成功，因为我们修正了第一次测试中的错误。",
+    "collocations": [
+      {
+        "english": "a second chance",
+        "chinese": "第二次机会"
+      },
+      {
+        "english": "the second attempt",
+        "chinese": "第二次尝试"
+      }
+    ]
+  },
+  "ngsl12:though": {
+    "exampleEnglish": "The journey took longer than expected; the views from the mountain train made it worthwhile, though.",
+    "exampleChinese": "旅程比预期更久，不过山间列车沿途的景色让它很值得。",
+    "collocations": [
+      {
+        "english": "even though",
+        "chinese": "尽管"
+      },
+      {
+        "english": "as though",
+        "chinese": "仿佛"
+      }
+    ]
+  },
+  "ngsl12:yes": {
+    "exampleEnglish": "When the organiser asked whether we could stay a little longer, we said yes without any hesitation.",
+    "exampleChinese": "组织者问我们能否多待一会儿时，我们毫不犹豫地答应了。",
+    "collocations": [
+      {
+        "english": "say yes to",
+        "chinese": "答应……"
+      },
+      {
+        "english": "yes or no",
+        "chinese": "是或否"
+      }
+    ]
+  },
+  "ngsl12:love": {
+    "exampleEnglish": "Although they live far apart, the sisters love each other deeply and speak on the phone every evening.",
+    "exampleChinese": "虽然姐妹俩相隔很远，但她们彼此深爱，每晚都打电话。",
+    "collocations": [
+      {
+        "english": "love someone deeply",
+        "chinese": "深爱某人"
+      },
+      {
+        "english": "fall in love",
+        "chinese": "坠入爱河"
+      }
+    ]
+  },
+  "ngsl12:increase": {
+    "exampleEnglish": "The library plans to increase its opening hours so that people working late can borrow books more easily.",
+    "exampleChinese": "图书馆计划延长开放时间，方便下班晚的人借书。",
+    "collocations": [
+      {
+        "english": "increase gradually",
+        "chinese": "逐渐增加"
+      },
+      {
+        "english": "increase the number of",
+        "chinese": "增加……的数量"
+      }
+    ]
+  },
+  "ngsl12:job": {
+    "exampleEnglish": "Her new job involves organising events for visitors who want to learn more about the region.",
+    "exampleChinese": "她的新工作包括为想深入了解该地区的游客组织活动。",
+    "collocations": [
+      {
+        "english": "apply for a job",
+        "chinese": "申请工作"
+      },
+      {
+        "english": "a full-time job",
+        "chinese": "全职工作"
+      }
+    ]
+  },
+  "ngsl12:plan": {
+    "exampleEnglish": "We need to plan the journey carefully because there are very few places to stop along the route.",
+    "exampleChinese": "我们需要仔细规划行程，因为沿途可供停留的地方很少。",
+    "collocations": [
+      {
+        "english": "plan ahead",
+        "chinese": "提前规划"
+      },
+      {
+        "english": "plan a trip",
+        "chinese": "计划旅行"
+      }
+    ]
+  },
+  "ngsl12:result": {
+    "exampleEnglish": "A lack of clear instructions can result in mistakes, even when the people involved are highly experienced.",
+    "exampleChinese": "说明不清楚可能导致出错，即使参与者经验十分丰富。",
+    "collocations": [
+      {
+        "english": "result in delays",
+        "chinese": "导致延误"
+      },
+      {
+        "english": "result from a mistake",
+        "chinese": "因错误而产生"
+      }
+    ],
+    "chinese": "（因……）产生；导致"
+  },
+  "ngsl12:away": {
+    "exampleEnglish": "The nearest supermarket is several kilometres away, so we usually buy enough food for the whole week.",
+    "exampleChinese": "最近的超市有几公里远，因此我们通常买够一周的食物。",
+    "collocations": [
+      {
+        "english": "far away",
+        "chinese": "很远"
+      },
+      {
+        "english": "away from home",
+        "chinese": "离家在外"
+      }
+    ]
+  },
+  "ngsl12:example": {
+    "exampleEnglish": "The restored watermill is a fine example of the buildings that once supported life in this valley.",
+    "exampleChinese": "修复后的水磨坊很好地代表了曾支撑这个山谷居民生活的建筑。",
+    "collocations": [
+      {
+        "english": "for example",
+        "chinese": "例如"
+      },
+      {
+        "english": "a typical example",
+        "chinese": "典型的例子"
+      }
+    ]
+  },
+  "ngsl12:happen": {
+    "exampleEnglish": "If a delay does happen, the organiser will send a message explaining when the activity can begin.",
+    "exampleChinese": "如果确实出现延误，组织者会发消息说明活动何时能开始。",
+    "collocations": [
+      {
+        "english": "happen by chance",
+        "chinese": "偶然发生"
+      },
+      {
+        "english": "happen to someone",
+        "chinese": "发生在某人身上"
+      }
+    ]
+  },
+  "ngsl12:offer": {
+    "exampleEnglish": "The guide will offer advice on suitable walking routes before you set off into the hills.",
+    "exampleChinese": "向山里出发前，导游会就合适的步行路线提供建议。",
+    "collocations": [
+      {
+        "english": "offer to help",
+        "chinese": "主动提供帮助"
+      },
+      {
+        "english": "offer someone a choice",
+        "chinese": "给某人选择"
+      }
+    ]
+  },
+  "ngsl12:young": {
+    "exampleEnglish": "The young trees need protection from strong winds until their roots have had enough time to develop.",
+    "exampleChinese": "幼树需要避开强风，直到根系有充分时间发育。",
+    "collocations": [
+      {
+        "english": "young children",
+        "chinese": "幼儿"
+      },
+      {
+        "english": "the younger generation",
+        "chinese": "年轻一代"
+      }
+    ]
+  },
+  "ngsl12:close": {
+    "exampleEnglish": "We stood close to the guide so that we could hear her explanation above the street noise.",
+    "exampleChinese": "我们站得离导游很近，以便在街道噪声中听清她的讲解。",
+    "collocations": [
+      {
+        "english": "close together",
+        "chinese": "紧挨着"
+      },
+      {
+        "english": "close to the station",
+        "chinese": "离车站近"
+      }
+    ]
+  },
+  "ngsl12:program": {
+    "exampleEnglish": "The training program combines practical tasks with discussion, helping new volunteers prepare for several different responsibilities.",
+    "exampleChinese": "培训项目把实践任务和讨论结合起来，帮助新志愿者为几种不同职责作准备。",
+    "collocations": [
+      {
+        "english": "a training program",
+        "chinese": "培训项目"
+      },
+      {
+        "english": "develop a program",
+        "chinese": "制定项目方案"
+      }
+    ]
+  },
+  "ngsl12:lead": {
+    "exampleEnglish": "An experienced volunteer will lead the group through the forest, stopping to explain how the landscape has changed.",
+    "exampleChinese": "一位经验丰富的志愿者将带队穿越森林，并停下来解释地貌如何变化。",
+    "collocations": [
+      {
+        "english": "lead the way",
+        "chinese": "带路"
+      },
+      {
+        "english": "lead a group",
+        "chinese": "带领小组"
+      }
+    ]
+  },
+  "ngsl12:buy": {
+    "exampleEnglish": "We decided to buy a reusable bottle because it would be more convenient during our walking holidays.",
+    "exampleChinese": "我们决定买一个可重复使用的水瓶，因为徒步度假时会更方便。",
+    "collocations": [
+      {
+        "english": "buy something in advance",
+        "chinese": "提前买某物"
+      },
+      {
+        "english": "buy a ticket",
+        "chinese": "买票"
+      }
+    ]
+  },
+  "ngsl12:understand": {
+    "exampleEnglish": "Once you understand how the booking system works, you can reserve a room without asking for help.",
+    "exampleChinese": "一旦明白预订系统如何运作，你就可以独立预订房间。",
+    "collocations": [
+      {
+        "english": "understand the instructions",
+        "chinese": "理解说明"
+      },
+      {
+        "english": "understand each other",
+        "chinese": "相互理解"
+      }
+    ]
+  },
+  "ngsl12:thank": {
+    "exampleEnglish": "I would like to thank everyone who stayed after the event to help us clear the hall.",
+    "exampleChinese": "我要感谢活动结束后留下来帮我们清理大厅的所有人。",
+    "collocations": [
+      {
+        "english": "thank someone for helping",
+        "chinese": "感谢某人的帮助"
+      },
+      {
+        "english": "thank you very much",
+        "chinese": "非常感谢"
+      }
+    ]
+  },
+  "ngsl12:far": {
+    "exampleEnglish": "The far end of the garden was too shady for vegetables, so we planted flowers there instead.",
+    "exampleChinese": "花园远端过于阴暗，不适合种菜，因此我们改在那里种花。",
+    "collocations": [
+      {
+        "english": "the far side",
+        "chinese": "远端的那一侧"
+      },
+      {
+        "english": "the far end",
+        "chinese": "远端"
+      }
+    ]
+  },
+  "ngsl12:today": {
+    "exampleEnglish": "The town looks very different today because many old industrial buildings have been converted into homes and studios.",
+    "exampleChinese": "如今镇上面貌很不一样，因为许多旧工业建筑被改成了住宅和工作室。",
+    "collocations": [
+      {
+        "english": "earlier today",
+        "chinese": "今天早些时候"
+      },
+      {
+        "english": "later today",
+        "chinese": "今天晚些时候"
+      }
+    ]
+  },
+  "ngsl12:hour": {
+    "exampleEnglish": "The journey takes about an hour if the traffic is light, but much longer during the evening.",
+    "exampleChinese": "交通顺畅时路程大约一小时，但晚间会长得多。",
+    "collocations": [
+      {
+        "english": "half an hour",
+        "chinese": "半小时"
+      },
+      {
+        "english": "an hour later",
+        "chinese": "一小时后"
+      }
+    ]
+  },
+  "ngsl12:student": {
+    "exampleEnglish": "Every student was asked to explain their design before the class voted for the most practical solution.",
+    "exampleChinese": "每个学生都要先解释自己的设计，然后全班投票选出最实用的方案。",
+    "collocations": [
+      {
+        "english": "a university student",
+        "chinese": "大学生"
+      },
+      {
+        "english": "an international student",
+        "chinese": "留学生"
+      }
+    ]
+  },
+  "ngsl12:face": {
+    "exampleEnglish": "The cold wind made her face turn red while she waited outside the station for her friends.",
+    "exampleChinese": "她在车站外等朋友时，寒风把她的脸吹红了。",
+    "collocations": [
+      {
+        "english": "wash your face",
+        "chinese": "洗脸"
+      },
+      {
+        "english": "a familiar face",
+        "chinese": "熟悉的面孔"
+      }
+    ]
+  },
+  "ngsl12:hope": {
+    "exampleEnglish": "Our hope is that the new garden will encourage neighbours to spend more time talking to each other.",
+    "exampleChinese": "我们希望新花园能鼓励邻居们花更多时间相互交流。",
+    "collocations": [
+      {
+        "english": "give someone hope",
+        "chinese": "给某人希望"
+      },
+      {
+        "english": "lose hope",
+        "chinese": "失去希望"
+      }
+    ]
+  },
+  "ngsl12:idea": {
+    "exampleEnglish": "His idea for a shared tool collection could save neighbours money and reduce the amount they throw away.",
+    "exampleChinese": "他提出共享工具的想法，既能帮邻居省钱，也能减少丢弃的物品。",
+    "collocations": [
+      {
+        "english": "a practical idea",
+        "chinese": "实用的想法"
+      },
+      {
+        "english": "come up with an idea",
+        "chinese": "想出主意"
+      }
+    ]
+  },
+  "ngsl12:cost": {
+    "exampleEnglish": "The cost of the repairs was higher than expected because several damaged parts had to be replaced.",
+    "exampleChinese": "维修费用比预期高，因为几处损坏的零件必须更换。",
+    "collocations": [
+      {
+        "english": "the total cost",
+        "chinese": "总费用"
+      },
+      {
+        "english": "at no extra cost",
+        "chinese": "不额外收费"
+      }
+    ]
+  },
+  "ngsl12:less": {
+    "exampleEnglish": "The new lighting system uses less electricity while making the reading room noticeably brighter in the evening.",
+    "exampleChinese": "新照明系统耗电更少，晚间阅览室却明显更亮了。",
+    "collocations": [
+      {
+        "english": "less time",
+        "chinese": "更少时间"
+      },
+      {
+        "english": "less than expected",
+        "chinese": "比预期更少"
+      }
+    ]
+  },
+  "ngsl12:room": {
+    "exampleEnglish": "The room at the back of the house was quiet enough to use as a small office.",
+    "exampleChinese": "房子后部的房间很安静，足以用作小办公室。",
+    "collocations": [
+      {
+        "english": "a meeting room",
+        "chinese": "会议室"
+      },
+      {
+        "english": "share a room",
+        "chinese": "共用房间"
+      }
+    ]
+  },
+  "ngsl12:until": {
+    "exampleEnglish": "We waited until the rain stopped before leaving the café and continuing our walk along the coast.",
+    "exampleChinese": "我们等到雨停后才离开咖啡馆，继续沿海岸步行。",
+    "collocations": [
+      {
+        "english": "until further notice",
+        "chinese": "直到另行通知"
+      },
+      {
+        "english": "until recently",
+        "chinese": "直到最近"
+      }
+    ]
+  },
+  "ngsl12:reason": {
+    "exampleEnglish": "The main reason for choosing this route was that it offered safe paths away from busy roads.",
+    "exampleChinese": "选择这条路线的主要原因，是它提供了远离繁忙道路的安全小路。",
+    "collocations": [
+      {
+        "english": "a good reason",
+        "chinese": "充分的理由"
+      },
+      {
+        "english": "the reason for",
+        "chinese": "……的原因"
+      }
+    ]
+  },
+  "ngsl12:form": {
+    "exampleEnglish": "The painting gradually took the form of a landscape as she added the river and distant hills.",
+    "exampleChinese": "随着她添上河流和远山，这幅画逐渐呈现出风景画的样子。",
+    "collocations": [
+      {
+        "english": "in the form of",
+        "chinese": "以……的形式"
+      },
+      {
+        "english": "a different form",
+        "chinese": "不同的形式"
+      }
+    ]
+  },
+  "ngsl12:spend": {
+    "exampleEnglish": "We try to spend less on transport by walking whenever the weather and the distance allow it.",
+    "exampleChinese": "只要天气和距离允许，我们就步行，尽量少花交通费。",
+    "collocations": [
+      {
+        "english": "spend money on something",
+        "chinese": "在某物上花钱"
+      },
+      {
+        "english": "spend a fortune",
+        "chinese": "花一大笔钱"
+      }
+    ]
+  },
+  "ngsl12:head": {
+    "exampleEnglish": "Wear a helmet to protect your head when you cycle, even if you are only travelling a short distance.",
+    "exampleChinese": "骑车时请戴头盔保护头部，即使只走很短的距离。",
+    "collocations": [
+      {
+        "english": "shake your head",
+        "chinese": "摇头"
+      },
+      {
+        "english": "turn your head",
+        "chinese": "转头"
+      }
+    ]
+  },
+  "ngsl12:car": {
+    "exampleEnglish": "We left the car outside the village because the narrow streets were easier to explore on foot.",
+    "exampleChinese": "我们把车停在村外，因为狭窄街道更适合步行游览。",
+    "collocations": [
+      {
+        "english": "a second-hand car",
+        "chinese": "二手车"
+      },
+      {
+        "english": "park the car",
+        "chinese": "停车"
+      }
+    ]
+  },
+  "ngsl12:learn": {
+    "exampleEnglish": "You can learn a great deal from other people's suggestions without agreeing with every opinion they express.",
+    "exampleChinese": "即使不认同别人表达的每个观点，你仍能从他们的建议中学到很多。",
+    "collocations": [
+      {
+        "english": "learn from experience",
+        "chinese": "从经验中学习"
+      },
+      {
+        "english": "learn how to",
+        "chinese": "学会如何……"
+      }
+    ]
+  },
+  "ngsl12:level": {
+    "exampleEnglish": "We need to level the ground before building the shelter, otherwise the wooden floor will not fit properly.",
+    "exampleChinese": "搭棚前我们需要平整地面，否则木地板无法妥善安装。",
+    "collocations": [
+      {
+        "english": "level the ground",
+        "chinese": "平整地面"
+      },
+      {
+        "english": "level a surface",
+        "chinese": "使表面平坦"
+      }
+    ]
+  },
+  "ngsl12:person": {
+    "exampleEnglish": "The person responsible for the booking should check the final numbers before confirming how many tickets are needed.",
+    "exampleChinese": "负责预订的人应核对最终人数，再确认需要多少张票。",
+    "collocations": [
+      {
+        "english": "in person",
+        "chinese": "亲自"
+      },
+      {
+        "english": "a responsible person",
+        "chinese": "负责任的人"
+      }
+    ]
+  },
+  "ngsl12:experience": {
+    "exampleEnglish": "Her experience of working with visitors helped her explain the complicated instructions in a clear and friendly way.",
+    "exampleChinese": "她接待游客的经验，帮助她用清楚友好的方式讲解复杂说明。",
+    "collocations": [
+      {
+        "english": "practical experience",
+        "chinese": "实践经验"
+      },
+      {
+        "english": "gain experience",
+        "chinese": "积累经验"
+      }
+    ]
+  },
+  "ngsl12:once": {
+    "exampleEnglish": "I have only visited the island once, but I still remember the sound of waves outside our window.",
+    "exampleChinese": "我只去过那座岛一次，却仍记得窗外的海浪声。",
+    "collocations": [
+      {
+        "english": "once a week",
+        "chinese": "每周一次"
+      },
+      {
+        "english": "once in a lifetime",
+        "chinese": "一生一次"
+      }
+    ]
+  },
+  "ngsl12:member": {
+    "exampleEnglish": "Each member of the group chose a different task so that the work could be completed efficiently.",
+    "exampleChinese": "每个组员选择不同任务，使工作能够高效完成。",
+    "collocations": [
+      {
+        "english": "a team member",
+        "chinese": "团队成员"
+      },
+      {
+        "english": "a member of staff",
+        "chinese": "工作人员"
+      }
+    ]
+  },
+  "ngsl12:enough": {
+    "exampleEnglish": "We had enough food for everyone, although several extra guests arrived just before the meal began.",
+    "exampleChinese": "虽然开饭前又来了几位客人，但食物仍足够所有人吃。",
+    "collocations": [
+      {
+        "english": "enough time",
+        "chinese": "足够的时间"
+      },
+      {
+        "english": "enough space",
+        "chinese": "足够的空间"
+      }
+    ]
+  },
+  "ngsl12:bad": {
+    "exampleEnglish": "The road was in bad condition after the winter, making the journey slower and less comfortable.",
+    "exampleChinese": "过冬后路况很差，让旅途更慢也更不舒适。",
+    "collocations": [
+      {
+        "english": "bad weather",
+        "chinese": "恶劣天气"
+      },
+      {
+        "english": "a bad habit",
+        "chinese": "坏习惯"
+      }
+    ]
+  },
+  "ngsl12:city": {
+    "exampleEnglish": "The city has introduced more bicycle lanes to make travelling between residential areas and the centre safer.",
+    "exampleChinese": "这座城市增设了自行车道，让住宅区与市中心之间的骑行更安全。",
+    "collocations": [
+      {
+        "english": "the city centre",
+        "chinese": "市中心"
+      },
+      {
+        "english": "a crowded city",
+        "chinese": "拥挤的城市"
+      }
+    ]
+  },
+  "ngsl12:night": {
+    "exampleEnglish": "We stayed up late that night, discussing which places we should visit during the rest of our holiday.",
+    "exampleChinese": "那天晚上我们聊到很晚，讨论假期剩下的时间该去哪些地方。",
+    "collocations": [
+      {
+        "english": "at night",
+        "chinese": "在夜间"
+      },
+      {
+        "english": "late at night",
+        "chinese": "深夜"
+      }
+    ]
+  },
+  "ngsl12:able": {
+    "exampleEnglish": "After a few lessons, she was able to repair the bicycle without needing help from her neighbour.",
+    "exampleChinese": "上过几节课后，她就能不靠邻居帮助自己修自行车了。",
+    "collocations": [
+      {
+        "english": "be able to",
+        "chinese": "能够……"
+      },
+      {
+        "english": "perfectly able",
+        "chinese": "完全有能力的"
+      }
+    ]
+  },
+  "ngsl12:support": {
+    "exampleEnglish": "The library will support new readers by offering weekly sessions where they can practise with experienced volunteers.",
+    "exampleChinese": "图书馆将每周组织活动，让新读者和有经验的志愿者一起练习，为他们提供支持。",
+    "collocations": [
+      {
+        "english": "support a colleague",
+        "chinese": "支持同事"
+      },
+      {
+        "english": "support someone with a task",
+        "chinese": "帮助某人完成任务"
+      }
+    ]
+  },
+  "ngsl12:whether": {
+    "exampleEnglish": "We have not decided whether to hold the event outdoors, because the weather forecast keeps changing.",
+    "exampleChinese": "我们还没决定是否在户外办活动，因为天气预报不断变化。",
+    "collocations": [
+      {
+        "english": "whether or not",
+        "chinese": "无论是否"
+      },
+      {
+        "english": "whether to continue",
+        "chinese": "是否继续"
+      }
+    ]
+  },
+  "ngsl12:line": {
+    "exampleEnglish": "Draw a straight line between the two points before you start measuring the angle on the diagram.",
+    "exampleChinese": "先在两点之间画一条直线，再测量图上的角度。",
+    "collocations": [
+      {
+        "english": "a straight line",
+        "chinese": "直线"
+      },
+      {
+        "english": "draw a line",
+        "chinese": "画线"
+      }
+    ]
+  },
+  "ngsl12:present": {
+    "exampleEnglish": "We chose a handmade present for our neighbour because she had spent so much time helping us move.",
+    "exampleChinese": "我们为邻居选了一份手工礼物，因为她花了很多时间帮我们搬家。",
+    "collocations": [
+      {
+        "english": "a birthday present",
+        "chinese": "生日礼物"
+      },
+      {
+        "english": "give someone a present",
+        "chinese": "送某人礼物"
+      }
+    ]
+  },
+  "ngsl12:side": {
+    "exampleEnglish": "Write the measurements along each side of the rectangle so that everyone can check the diagram easily.",
+    "exampleChinese": "请沿矩形各边标注尺寸，方便大家核查图示。",
+    "collocations": [
+      {
+        "english": "the side of a triangle",
+        "chinese": "三角形的一边"
+      },
+      {
+        "english": "the opposite side",
+        "chinese": "对边"
+      }
+    ]
+  },
+  "ngsl12:quite": {
+    "exampleEnglish": "The instructions were quite clear, but a practical demonstration helped everyone understand the more difficult steps.",
+    "exampleChinese": "说明很清楚，但一次实际演示帮助大家理解了较难的步骤。",
+    "collocations": [
+      {
+        "english": "quite different",
+        "chinese": "很不一样"
+      },
+      {
+        "english": "quite sure",
+        "chinese": "十分确定"
+      }
+    ]
+  },
+  "ngsl12:although": {
+    "exampleEnglish": "Although the room was small, careful planning allowed us to fit everything we needed along one wall.",
+    "exampleChinese": "虽然房间很小，仔细规划后我们仍把所需的一切沿一面墙放下了。",
+    "collocations": [
+      {
+        "english": "although it seems difficult",
+        "chinese": "虽然看起来困难"
+      },
+      {
+        "english": "although we disagree",
+        "chinese": "虽然我们意见不同"
+      }
+    ]
+  },
+  "ngsl12:sure": {
+    "exampleEnglish": "I am sure the parcel arrived yesterday because I remember signing for it shortly before lunch.",
+    "exampleChinese": "我确定包裹昨天到了，因为我记得午饭前不久签收了它。",
+    "collocations": [
+      {
+        "english": "make sure",
+        "chinese": "确保"
+      },
+      {
+        "english": "sure of the answer",
+        "chinese": "确定答案"
+      }
+    ]
+  },
+  "ngsl12:term": {
+    "exampleEnglish": "The school will offer a new photography course next term if enough students express an interest.",
+    "exampleChinese": "如果足够多的学生感兴趣，学校下学期将开设一门新摄影课。",
+    "collocations": [
+      {
+        "english": "the spring term",
+        "chinese": "春季学期"
+      },
+      {
+        "english": "the end of term",
+        "chinese": "学期末"
+      }
+    ]
+  },
+  "ngsl12:least": {
+    "exampleEnglish": "Of all the rooms we visited, the smallest one was the least expensive and surprisingly comfortable.",
+    "exampleChinese": "我们看过的所有房间中，最小的那间价格最低，而且出乎意料地舒适。",
+    "collocations": [
+      {
+        "english": "least likely",
+        "chinese": "最不可能"
+      },
+      {
+        "english": "least expensive",
+        "chinese": "最便宜"
+      }
+    ]
+  },
+  "ngsl12:age": {
+    "exampleEnglish": "Children under the age of twelve must stay with an adult while exploring the upper floors.",
+    "exampleChinese": "十二岁以下的孩子游览楼上时，必须有成人陪同。",
+    "collocations": [
+      {
+        "english": "at the age of",
+        "chinese": "在……岁时"
+      },
+      {
+        "english": "people of all ages",
+        "chinese": "各年龄段的人"
+      }
+    ]
+  },
+  "ngsl12:low": {
+    "exampleEnglish": "The low wall around the garden was easy to step over, so we added a small fence.",
+    "exampleChinese": "花园周围的矮墙很容易跨过去，所以我们又加了一道小围栏。",
+    "collocations": [
+      {
+        "english": "a low ceiling",
+        "chinese": "低矮的天花板"
+      },
+      {
+        "english": "low to the ground",
+        "chinese": "接近地面"
+      }
+    ]
+  },
+  "ngsl12:speak": {
+    "exampleEnglish": "Please speak slowly during the demonstration so that visitors who are learning English can follow your explanation.",
+    "exampleChinese": "演示时请慢慢说，让正在学英语的游客能听懂你的讲解。",
+    "collocations": [
+      {
+        "english": "speak clearly",
+        "chinese": "说得清楚"
+      },
+      {
+        "english": "speak to someone",
+        "chinese": "与某人说话"
+      }
+    ]
+  },
+  "ngsl12:within": {
+    "exampleEnglish": "You should receive a reply within three working days, unless we need additional information about your request.",
+    "exampleChinese": "除非我们需要与你的请求相关的补充信息，否则你应在三个工作日内收到答复。",
+    "collocations": [
+      {
+        "english": "within walking distance",
+        "chinese": "在步行可达范围内"
+      },
+      {
+        "english": "within the time limit",
+        "chinese": "在时限内"
+      }
+    ]
+  },
+  "ngsl12:process": {
+    "exampleEnglish": "The office will process your application once all the necessary documents have been checked and approved.",
+    "exampleChinese": "所有必要文件核对并获批后，办公室将处理你的申请。",
+    "collocations": [
+      {
+        "english": "process an application",
+        "chinese": "处理申请"
+      },
+      {
+        "english": "process information",
+        "chinese": "处理信息"
+      }
+    ]
+  },
+  "ngsl12:public": {
+    "exampleEnglish": "The council asked for public feedback before deciding whether to make permanent changes to the main square.",
+    "exampleChinese": "市政会在决定是否永久改造主广场前，征求了公众反馈。",
+    "collocations": [
+      {
+        "english": "public transport",
+        "chinese": "公共交通"
+      },
+      {
+        "english": "public opinion",
+        "chinese": "公众意见"
+      }
+    ]
+  },
+  "ngsl12:often": {
+    "exampleEnglish": "We often discuss difficult tasks before starting, because sharing ideas can save time and prevent mistakes.",
+    "exampleChinese": "我们常在开始前讨论难题，因为分享想法能节省时间并避免错误。",
+    "collocations": [
+      {
+        "english": "quite often",
+        "chinese": "相当经常"
+      },
+      {
+        "english": "more often than not",
+        "chinese": "往往"
+      }
+    ]
+  },
+  "ngsl12:train": {
+    "exampleEnglish": "We caught an earlier train so that we could visit the market before meeting our friends for lunch.",
+    "exampleChinese": "我们赶了更早的火车，以便和朋友吃午饭前先逛集市。",
+    "collocations": [
+      {
+        "english": "catch a train",
+        "chinese": "赶火车"
+      },
+      {
+        "english": "a train journey",
+        "chinese": "火车旅程"
+      }
+    ]
+  },
+  "ngsl12:possible": {
+    "exampleEnglish": "It may be possible to extend the visit if everyone agrees and the building remains open late.",
+    "exampleChinese": "如果大家同意且建筑继续开放到较晚，参观时间或许可以延长。",
+    "collocations": [
+      {
+        "english": "as soon as possible",
+        "chinese": "尽快"
+      },
+      {
+        "english": "the best possible result",
+        "chinese": "可能达到的最佳结果"
+      }
+    ]
+  },
+  "ngsl12:actually": {
+    "exampleEnglish": "I thought the museum was expensive, but admission is actually free for visitors under eighteen years old.",
+    "exampleChinese": "我原以为博物馆很贵，但十八岁以下游客其实可以免费入场。",
+    "collocations": [
+      {
+        "english": "actually happen",
+        "chinese": "实际发生"
+      },
+      {
+        "english": "actually quite simple",
+        "chinese": "其实很简单"
+      }
+    ]
+  },
+  "ngsl12:rather": {
+    "exampleEnglish": "The room felt rather warm after the workshop, so we opened the windows while everyone took a break.",
+    "exampleChinese": "工作坊结束后房间有点热，于是趁大家休息时我们打开了窗户。",
+    "collocations": [
+      {
+        "english": "rather difficult",
+        "chinese": "颇为困难"
+      },
+      {
+        "english": "rather tired",
+        "chinese": "相当疲倦"
+      }
+    ]
+  },
+  "ngsl12:view": {
+    "exampleEnglish": "The view from the tower was worth the climb, even though the narrow stairs had been tiring.",
+    "exampleChinese": "尽管爬狭窄楼梯很累，塔上看到的景色还是值得一看。",
+    "collocations": [
+      {
+        "english": "a beautiful view",
+        "chinese": "美丽的景色"
+      },
+      {
+        "english": "a view of the sea",
+        "chinese": "海景"
+      }
+    ]
+  },
+  "ngsl12:together": {
+    "exampleEnglish": "We worked together to repair the old benches, sharing tools and learning useful skills from our neighbours.",
+    "exampleChinese": "我们一起修理旧长椅，共享工具，也向邻居学习实用技能。",
+    "collocations": [
+      {
+        "english": "work together",
+        "chinese": "一起工作"
+      },
+      {
+        "english": "spend time together",
+        "chinese": "一起度过时光"
+      }
+    ]
+  },
+  "ngsl12:consider": {
+    "exampleEnglish": "We should consider the needs of younger visitors before deciding how long the guided walk should last.",
+    "exampleChinese": "决定导览步行持续多久之前，我们应该考虑年幼游客的需要。",
+    "collocations": [
+      {
+        "english": "consider an option",
+        "chinese": "考虑一个选项"
+      },
+      {
+        "english": "consider doing something",
+        "chinese": "考虑做某事"
+      }
+    ]
+  },
+  "ngsl12:price": {
+    "exampleEnglish": "The artist decided to price the smaller pictures reasonably so that more visitors could afford to buy them.",
+    "exampleChinese": "画家决定给小幅画作定一个合理价格，让更多游客买得起。",
+    "collocations": [
+      {
+        "english": "price something fairly",
+        "chinese": "合理定价"
+      },
+      {
+        "english": "price products competitively",
+        "chinese": "为产品制定有竞争力的价格"
+      }
+    ],
+    "chinese": "为……定价"
+  },
+  "ngsl12:parent": {
+    "exampleEnglish": "Every parent received a message explaining what their child should bring for the school trip next week.",
+    "exampleChinese": "每位家长都收到了消息，说明孩子下周学校旅行应该带什么。",
+    "collocations": [
+      {
+        "english": "a single parent",
+        "chinese": "单亲家长"
+      },
+      {
+        "english": "parent involvement",
+        "chinese": "家长参与"
+      }
+    ]
+  },
+  "ngsl12:hard": {
+    "exampleEnglish": "The wood was too hard to cut with our small tools, so we borrowed a stronger saw.",
+    "exampleChinese": "木头太硬，我们的小工具切不开，所以借了一把更结实的锯子。",
+    "collocations": [
+      {
+        "english": "a hard surface",
+        "chinese": "坚硬的表面"
+      },
+      {
+        "english": "hard as stone",
+        "chinese": "坚如石头"
+      }
+    ]
+  },
+  "ngsl12:party": {
+    "exampleEnglish": "We organised a small party for the volunteers who had helped restore the community garden over the summer.",
+    "exampleChinese": "我们为整个夏天帮助修复社区花园的志愿者办了一场小聚会。",
+    "collocations": [
+      {
+        "english": "a birthday party",
+        "chinese": "生日聚会"
+      },
+      {
+        "english": "hold a party",
+        "chinese": "举办聚会"
+      }
+    ]
+  },
+  "ngsl12:local": {
+    "exampleEnglish": "The guide recommended a local bakery where we could buy fresh bread before starting our morning walk.",
+    "exampleChinese": "导游推荐了一家当地面包店，让我们能在晨间徒步前买新鲜面包。",
+    "collocations": [
+      {
+        "english": "local residents",
+        "chinese": "当地居民"
+      },
+      {
+        "english": "local knowledge",
+        "chinese": "对当地情况的了解"
+      }
+    ]
+  },
+  "ngsl12:control": {
+    "exampleEnglish": "The new system helps staff control the temperature in each room without wasting energy in empty areas.",
+    "exampleChinese": "新系统帮助员工控制各房间的温度，避免在空置区域浪费能源。",
+    "collocations": [
+      {
+        "english": "control the temperature",
+        "chinese": "控制温度"
+      },
+      {
+        "english": "control your speed",
+        "chinese": "控制速度"
+      }
+    ]
+  },
+  "ngsl12:already": {
+    "exampleEnglish": "We had already booked our tickets when we discovered that the concert would take place outdoors.",
+    "exampleChinese": "发现音乐会将在户外举行时，我们已经订好票了。",
+    "collocations": [
+      {
+        "english": "already finished",
+        "chinese": "已经完成"
+      },
+      {
+        "english": "already available",
+        "chinese": "已经可用"
+      }
+    ]
+  },
+  "ngsl12:concern": {
+    "exampleEnglish": "Her main concern was whether the children would have enough time to eat before the performance began.",
+    "exampleChinese": "她主要担心的是孩子们在演出开始前是否有足够时间吃饭。",
+    "collocations": [
+      {
+        "english": "cause concern",
+        "chinese": "引起担忧"
+      },
+      {
+        "english": "express concern",
+        "chinese": "表达担忧"
+      }
+    ]
+  },
+  "ngsl12:product": {
+    "exampleEnglish": "The shop lets customers test each product before buying, which makes choosing unfamiliar equipment much easier.",
+    "exampleChinese": "商店允许顾客购买前试用每件产品，让挑选不熟悉的设备容易多了。",
+    "collocations": [
+      {
+        "english": "a new product",
+        "chinese": "新产品"
+      },
+      {
+        "english": "product information",
+        "chinese": "产品信息"
+      }
+    ]
+  },
+  "ngsl12:lose": {
+    "exampleEnglish": "Keep the tickets in the same pocket so that you do not lose them during the journey.",
+    "exampleChinese": "请把票放在同一个口袋里，以免途中丢失。",
+    "collocations": [
+      {
+        "english": "lose your keys",
+        "chinese": "丢钥匙"
+      },
+      {
+        "english": "lose something valuable",
+        "chinese": "遗失贵重物品"
+      }
+    ]
+  },
+  "ngsl12:story": {
+    "exampleEnglish": "The guide told a story about the family who had built the house and planted its unusual garden.",
+    "exampleChinese": "导游讲述了建造这栋房子并种植独特花园的那家人的故事。",
+    "collocations": [
+      {
+        "english": "tell a story",
+        "chinese": "讲故事"
+      },
+      {
+        "english": "a true story",
+        "chinese": "真实的故事"
+      }
+    ]
+  },
+  "ngsl12:almost": {
+    "exampleEnglish": "The workshop was almost full when we arrived, but the organiser managed to find us two seats.",
+    "exampleChinese": "我们到达时工作坊几乎满员，但组织者还是给我们找到了两个座位。",
+    "collocations": [
+      {
+        "english": "almost impossible",
+        "chinese": "几乎不可能"
+      },
+      {
+        "english": "almost certainly",
+        "chinese": "几乎肯定"
+      }
+    ]
+  },
+  "ngsl12:continue": {
+    "exampleEnglish": "We decided to continue the discussion after lunch because several useful suggestions still needed to be considered.",
+    "exampleChinese": "我们决定午饭后继续讨论，因为还有几个有用建议需要考虑。",
+    "collocations": [
+      {
+        "english": "continue working",
+        "chinese": "继续工作"
+      },
+      {
+        "english": "continue with a task",
+        "chinese": "继续做一项任务"
+      }
+    ]
+  },
+  "ngsl12:stand": {
+    "exampleEnglish": "We had to stand near the back of the hall because all the seats were already taken.",
+    "exampleChinese": "我们不得不站在大厅后部附近，因为座位已经全满了。",
+    "collocations": [
+      {
+        "english": "stand still",
+        "chinese": "站着不动"
+      },
+      {
+        "english": "stand beside someone",
+        "chinese": "站在某人旁边"
+      }
+    ]
+  },
+  "ngsl12:whole": {
+    "exampleEnglish": "The whole village helped prepare the festival, from decorating the square to welcoming visitors at the station.",
+    "exampleChinese": "整个村子都帮忙筹备节日，从装饰广场到在车站迎接游客。",
+    "collocations": [
+      {
+        "english": "the whole family",
+        "chinese": "全家人"
+      },
+      {
+        "english": "as a whole",
+        "chinese": "作为一个整体"
+      }
+    ]
+  },
+  "ngsl12:yet": {
+    "exampleEnglish": "We have not received the final timetable yet, so we cannot confirm when the workshop will finish.",
+    "exampleChinese": "我们还没收到最终时间表，因此无法确认工作坊何时结束。",
+    "collocations": [
+      {
+        "english": "not yet",
+        "chinese": "还没有"
+      },
+      {
+        "english": "the best yet",
+        "chinese": "到目前为止最好的"
+      }
+    ]
+  },
+  "ngsl12:rate": {
+    "exampleEnglish": "The rate at which the plants grew surprised everyone, especially after several weeks of cold weather.",
+    "exampleChinese": "植物生长的速度让大家吃惊，尤其是在经历几周寒冷天气之后。",
+    "collocations": [
+      {
+        "english": "growth rate",
+        "chinese": "增长率"
+      },
+      {
+        "english": "at a steady rate",
+        "chinese": "以稳定速度"
+      }
+    ]
+  },
+  "ngsl12:care": {
+    "exampleEnglish": "The volunteers care for the garden throughout the year, even when very few visitors come in winter.",
+    "exampleChinese": "志愿者全年照料花园，即使冬天很少有游客前来。",
+    "collocations": [
+      {
+        "english": "care for someone",
+        "chinese": "照顾某人"
+      },
+      {
+        "english": "care for animals",
+        "chinese": "照料动物"
+      }
+    ]
+  },
+  "ngsl12:expect": {
+    "exampleEnglish": "We expect the repairs to finish next month, provided that all the necessary materials arrive on time.",
+    "exampleChinese": "如果所有必要材料按时到货，我们预计维修下个月结束。",
+    "collocations": [
+      {
+        "english": "expect a reply",
+        "chinese": "期待答复"
+      },
+      {
+        "english": "expect someone to arrive",
+        "chinese": "预计某人到达"
+      }
+    ]
+  },
+  "ngsl12:effect": {
+    "exampleEnglish": "The new lighting had an immediate effect on the room, making it feel larger and more welcoming.",
+    "exampleChinese": "新照明立刻改变了房间，让它显得更宽敞、更亲切。",
+    "collocations": [
+      {
+        "english": "have an effect on",
+        "chinese": "对……有影响"
+      },
+      {
+        "english": "a positive effect",
+        "chinese": "积极的影响"
+      }
+    ]
+  },
+  "ngsl12:sort": {
+    "exampleEnglish": "This sort of map is particularly useful for walkers because it shows paths that ordinary road maps omit.",
+    "exampleChinese": "这种地图对徒步者特别实用，因为它标出了普通公路地图省略的小路。",
+    "collocations": [
+      {
+        "english": "all sorts of",
+        "chinese": "各种各样的"
+      },
+      {
+        "english": "the same sort of",
+        "chinese": "同样类型的"
+      }
+    ]
+  },
+  "ngsl12:ever": {
+    "exampleEnglish": "Have you ever visited a place that looked completely different from the photographs you had seen beforehand?",
+    "exampleChinese": "你是否到过一个地方，发现它和事先看到的照片完全不一样？",
+    "collocations": [
+      {
+        "english": "hardly ever",
+        "chinese": "几乎从不"
+      },
+      {
+        "english": "ever since",
+        "chinese": "自那以后一直"
+      }
+    ]
+  },
+  "ngsl12:anything": {
+    "exampleEnglish": "Please ask if there is anything you do not understand before you begin using the new equipment.",
+    "exampleChinese": "开始使用新设备前，有任何不理解的地方请提问。",
+    "collocations": [
+      {
+        "english": "anything else",
+        "chinese": "其他任何东西"
+      },
+      {
+        "english": "anything unusual",
+        "chinese": "任何不寻常的事物"
+      }
+    ]
+  },
+  "ngsl12:cause": {
+    "exampleEnglish": "Leaving the windows open overnight could cause problems if the temperature falls below freezing before morning.",
+    "exampleChinese": "如果天亮前气温降到冰点以下，整晚开窗可能会引发问题。",
+    "collocations": [
+      {
+        "english": "cause damage",
+        "chinese": "造成损坏"
+      },
+      {
+        "english": "cause a delay",
+        "chinese": "导致延误"
+      }
+    ]
+  },
+  "ngsl12:fall": {
+    "exampleEnglish": "A fall on the wet steps left him with a sore ankle, so we changed our walking plans.",
+    "exampleChinese": "他在湿台阶上摔了一跤，脚踝疼痛，于是我们更改了徒步计划。",
+    "collocations": [
+      {
+        "english": "have a fall",
+        "chinese": "摔倒"
+      },
+      {
+        "english": "a serious fall",
+        "chinese": "严重的跌倒"
+      }
+    ]
+  },
+  "ngsl12:deal": {
+    "exampleEnglish": "Please deal the cards evenly while I explain the rules to the people who have never played before.",
+    "exampleChinese": "我向没玩过的人解释规则时，请把牌均匀发给大家。",
+    "collocations": [
+      {
+        "english": "deal the cards",
+        "chinese": "发牌"
+      },
+      {
+        "english": "deal someone a card",
+        "chinese": "发给某人一张牌"
+      }
+    ]
+  },
+  "ngsl12:water": {
+    "exampleEnglish": "We carried extra water because there were no shops or public taps along the route we had chosen.",
+    "exampleChinese": "我们多带了水，因为所选路线沿途没有商店或公共水龙头。",
+    "collocations": [
+      {
+        "english": "drinking water",
+        "chinese": "饮用水"
+      },
+      {
+        "english": "fresh water",
+        "chinese": "淡水"
+      }
+    ]
+  },
+  "ngsl12:send": {
+    "exampleEnglish": "Please send the updated timetable to everyone who registered, even if they have already received an earlier version.",
+    "exampleChinese": "请把更新的时间表发给所有报名者，即使他们已收到早期版本。",
+    "collocations": [
+      {
+        "english": "send a message",
+        "chinese": "发消息"
+      },
+      {
+        "english": "send something by post",
+        "chinese": "邮寄某物"
+      }
+    ]
+  },
+  "ngsl12:allow": {
+    "exampleEnglish": "The new arrangement will allow visitors to explore the gardens while the main building remains closed for repairs.",
+    "exampleChinese": "新的安排将允许游客在主楼因维修关闭期间游览花园。",
+    "collocations": [
+      {
+        "english": "allow someone to enter",
+        "chinese": "允许某人进入"
+      },
+      {
+        "english": "allow enough time",
+        "chinese": "留出充足时间"
+      }
+    ]
+  },
+  "ngsl12:soon": {
+    "exampleEnglish": "The museum will reopen soon, although visitors will have to book tickets before entering the smaller galleries.",
+    "exampleChinese": "博物馆很快重新开放，但游客进入较小展厅前需要订票。",
+    "collocations": [
+      {
+        "english": "as soon as possible",
+        "chinese": "尽快"
+      },
+      {
+        "english": "soon afterwards",
+        "chinese": "不久之后"
+      }
+    ]
+  },
+  "ngsl12:watch": {
+    "exampleEnglish": "We stopped to watch the workers repair the roof, carefully replacing each damaged tile by hand.",
+    "exampleChinese": "我们停下来观看工人修屋顶，他们正小心地手工替换每一块破瓦。",
+    "collocations": [
+      {
+        "english": "watch carefully",
+        "chinese": "仔细观看"
+      },
+      {
+        "english": "watch someone working",
+        "chinese": "观看某人工作"
+      }
+    ]
+  },
+  "ngsl12:base": {
+    "exampleEnglish": "The old farmhouse became our base for exploring the valley because several walking routes started nearby.",
+    "exampleChinese": "老农舍成了我们探索山谷的据点，因为几条步行路线从附近开始。",
+    "collocations": [
+      {
+        "english": "a research base",
+        "chinese": "研究基地"
+      },
+      {
+        "english": "a base for exploration",
+        "chinese": "探索的据点"
+      }
+    ]
+  },
+  "ngsl12:probably": {
+    "exampleEnglish": "We will probably need a larger vehicle, since several people have offered to bring extra equipment.",
+    "exampleChinese": "我们可能需要一辆更大的车，因为几个人主动提出带额外设备。",
+    "collocations": [
+      {
+        "english": "probably true",
+        "chinese": "很可能是真的"
+      },
+      {
+        "english": "probably the best",
+        "chinese": "很可能是最好的"
+      }
+    ]
+  },
+  "ngsl12:suggest": {
+    "exampleEnglish": "Could you suggest a quieter café where our group could discuss the project without disturbing other customers?",
+    "exampleChinese": "你能推荐一家安静些的咖啡馆，让我们讨论项目又不打扰其他顾客吗？",
+    "collocations": [
+      {
+        "english": "suggest an idea",
+        "chinese": "提出一个想法"
+      },
+      {
+        "english": "suggest doing something",
+        "chinese": "建议做某事"
+      }
+    ]
+  },
+  "ngsl12:past": {
+    "exampleEnglish": "The exhibition explores the village's past through photographs and objects donated by families who still live nearby.",
+    "exampleChinese": "展览通过仍住在附近的家庭捐赠的照片和物品，探索村庄的过去。",
+    "collocations": [
+      {
+        "english": "in the past",
+        "chinese": "在过去"
+      },
+      {
+        "english": "the recent past",
+        "chinese": "不久以前"
+      }
+    ]
+  },
+  "ngsl12:power": {
+    "exampleEnglish": "The committee has the power to approve small repairs, but larger changes need permission from the council.",
+    "exampleChinese": "委员会有权批准小修，但较大的改动需要市政会许可。",
+    "collocations": [
+      {
+        "english": "the power to decide",
+        "chinese": "决定权"
+      },
+      {
+        "english": "legal power",
+        "chinese": "法定权力"
+      }
+    ]
+  },
+  "ngsl12:test": {
+    "exampleEnglish": "The test includes practical tasks as well as written questions, allowing students to demonstrate several different skills.",
+    "exampleChinese": "这项测验既有实践任务也有书面题，让学生展示几种不同技能。",
+    "collocations": [
+      {
+        "english": "take a test",
+        "chinese": "参加测验"
+      },
+      {
+        "english": "a practical test",
+        "chinese": "实践测验"
+      }
+    ]
+  },
+  "ngsl12:visit": {
+    "exampleEnglish": "We plan to visit the museum before lunch, when the galleries are usually less crowded and easier to explore.",
+    "exampleChinese": "我们计划午饭前参观博物馆，那时展厅通常人少，更便于游览。",
+    "collocations": [
+      {
+        "english": "visit a relative",
+        "chinese": "探望亲戚"
+      },
+      {
+        "english": "visit a museum",
+        "chinese": "参观博物馆"
+      }
+    ]
+  },
+  "ngsl12:center": {
+    "exampleEnglish": "The fountain stands in the center of the square, providing a convenient meeting point for visitors.",
+    "exampleChinese": "喷泉位于广场中央，为游客提供了方便的会合地点。",
+    "collocations": [
+      {
+        "english": "in the center",
+        "chinese": "在中央"
+      },
+      {
+        "english": "the center of attention",
+        "chinese": "注意力的中心"
+      }
+    ]
+  },
+  "ngsl12:grow": {
+    "exampleEnglish": "The plants grow more quickly near the window, where they receive natural light throughout the morning.",
+    "exampleChinese": "植物在窗边长得更快，因为那里整个上午都有自然光。",
+    "collocations": [
+      {
+        "english": "grow steadily",
+        "chinese": "稳定生长"
+      },
+      {
+        "english": "grow taller",
+        "chinese": "长高"
+      }
+    ]
+  },
+  "ngsl12:nothing": {
+    "exampleEnglish": "There was nothing we could do until the replacement part arrived, so we started another task.",
+    "exampleChinese": "替换零件到货前我们无事可做，所以开始了另一项任务。",
+    "collocations": [
+      {
+        "english": "nothing else",
+        "chinese": "别的什么也没有"
+      },
+      {
+        "english": "nothing special",
+        "chinese": "没什么特别的"
+      }
+    ]
+  },
+  "ngsl12:return": {
+    "exampleEnglish": "We agreed to return to the village next summer, when the restored gardens would be open again.",
+    "exampleChinese": "我们约定明年夏天再回村里，那时修复后的花园会重新开放。",
+    "collocations": [
+      {
+        "english": "return home",
+        "chinese": "回家"
+      },
+      {
+        "english": "return to work",
+        "chinese": "重返工作"
+      }
+    ]
+  },
+  "ngsl12:mother": {
+    "exampleEnglish": "Her mother taught her to repair clothes, a skill that has saved the family money for years.",
+    "exampleChinese": "她母亲教她修补衣服，这项技能多年来为家里省了钱。",
+    "collocations": [
+      {
+        "english": "a working mother",
+        "chinese": "在职母亲"
+      },
+      {
+        "english": "mother and child",
+        "chinese": "母亲和孩子"
+      }
+    ]
+  },
+  "ngsl12:walk": {
+    "exampleEnglish": "We decided to walk along the river instead of taking the bus, since the weather had improved.",
+    "exampleChinese": "天气好转了，我们决定沿河步行，而不坐公交车。",
+    "collocations": [
+      {
+        "english": "walk home",
+        "chinese": "步行回家"
+      },
+      {
+        "english": "go for a walk",
+        "chinese": "去散步"
+      }
+    ]
+  },
+  "ngsl12:matter": {
+    "exampleEnglish": "The missing keys were a serious matter because nobody else could open the cupboard containing the equipment.",
+    "exampleChinese": "钥匙丢失是个严重问题，因为没有其他人能打开存放设备的橱柜。",
+    "collocations": [
+      {
+        "english": "a serious matter",
+        "chinese": "严重的问题"
+      },
+      {
+        "english": "a matter of concern",
+        "chinese": "令人担忧的事"
+      }
+    ]
+  },
+  "ngsl12:mind": {
+    "exampleEnglish": "The workshop encouraged us to keep an open mind when listening to suggestions that challenged our usual approach.",
+    "exampleChinese": "工作坊鼓励我们在听取挑战惯常方法的建议时保持开放心态。",
+    "collocations": [
+      {
+        "english": "change your mind",
+        "chinese": "改变主意"
+      },
+      {
+        "english": "keep an open mind",
+        "chinese": "保持开放心态"
+      }
+    ]
+  },
+  "ngsl12:value": {
+    "exampleEnglish": "An expert will value the old furniture before the family decides whether to keep it or sell it.",
+    "exampleChinese": "家里决定保留还是出售旧家具前，将由专家先估价。",
+    "collocations": [
+      {
+        "english": "value a property",
+        "chinese": "为房产估价"
+      },
+      {
+        "english": "value something at",
+        "chinese": "给某物估价为……"
+      }
+    ]
+  },
+  "ngsl12:office": {
+    "exampleEnglish": "The office is closed on Fridays, but staff can still answer urgent questions through the shared email account.",
+    "exampleChinese": "办公室周五关闭，但员工仍可通过共享邮箱答复紧急问题。",
+    "collocations": [
+      {
+        "english": "a small office",
+        "chinese": "小办公室"
+      },
+      {
+        "english": "office hours",
+        "chinese": "办公时间"
+      }
+    ]
+  },
+  "ngsl12:record": {
+    "exampleEnglish": "The team set a new record by completing the route faster than anyone had managed the previous year.",
+    "exampleChinese": "团队比上一年所有人都更快地走完路线，创下了新纪录。",
+    "collocations": [
+      {
+        "english": "set a record",
+        "chinese": "创造纪录"
+      },
+      {
+        "english": "break a record",
+        "chinese": "打破纪录"
+      }
+    ],
+    "chinese": "纪录；最佳成绩"
+  },
+  "ngsl12:stay": {
+    "exampleEnglish": "We decided to stay at a small guesthouse where the owners could recommend walks away from busy tourist areas.",
+    "exampleChinese": "我们决定住一家小旅馆，店主能推荐远离繁忙景点的步行路线。",
+    "collocations": [
+      {
+        "english": "stay overnight",
+        "chinese": "留宿"
+      },
+      {
+        "english": "stay with relatives",
+        "chinese": "住在亲戚家"
+      }
+    ]
+  },
+  "ngsl12:force": {
+    "exampleEnglish": "The strong wind could force the gate open unless we secured it with a heavier metal latch.",
+    "exampleChinese": "除非用更坚固的金属门闩锁好，否则强风可能把门强行吹开。",
+    "collocations": [
+      {
+        "english": "force a door open",
+        "chinese": "强行打开门"
+      },
+      {
+        "english": "force someone to leave",
+        "chinese": "强迫某人离开"
+      }
+    ]
+  },
+  "ngsl12:stop": {
+    "exampleEnglish": "We had to stop beside the road because a fallen tree was blocking the narrow entrance to the village.",
+    "exampleChinese": "我们不得不停在路边，因为倒下的树挡住了通往村子的狭窄入口。",
+    "collocations": [
+      {
+        "english": "stop working",
+        "chinese": "停止工作"
+      },
+      {
+        "english": "stop for a break",
+        "chinese": "停下来休息"
+      }
+    ]
+  },
+  "ngsl12:several": {
+    "exampleEnglish": "Several visitors asked for a longer tour because they wanted more time to examine the unusual paintings.",
+    "exampleChinese": "几位游客要求延长导览，因为他们想多花些时间仔细看那些独特画作。",
+    "collocations": [
+      {
+        "english": "several times",
+        "chinese": "好几次"
+      },
+      {
+        "english": "several different options",
+        "chinese": "几个不同选项"
+      }
+    ]
+  },
+  "ngsl12:light": {
+    "exampleEnglish": "The new tent is light enough to carry comfortably, even when we also need food and extra clothing.",
+    "exampleChinese": "新帐篷很轻，即使还要带食物和备用衣物，背起来也很轻松。",
+    "collocations": [
+      {
+        "english": "light luggage",
+        "chinese": "轻便行李"
+      },
+      {
+        "english": "light in weight",
+        "chinese": "重量轻"
+      }
+    ]
+  },
+  "ngsl12:develop": {
+    "exampleEnglish": "Children can develop practical skills by helping with simple projects that require careful planning and teamwork.",
+    "exampleChinese": "孩子们可以通过参与需要仔细规划和团队合作的简单项目，培养实用技能。",
+    "collocations": [
+      {
+        "english": "develop a skill",
+        "chinese": "培养技能"
+      },
+      {
+        "english": "develop gradually",
+        "chinese": "逐渐发展"
+      }
+    ]
+  },
+  "ngsl12:remember": {
+    "exampleEnglish": "Please remember where you put the spare key, because the office will be closed when we return.",
+    "exampleChinese": "请记住备用钥匙放在哪里，因为我们回来时办公室会关门。",
+    "collocations": [
+      {
+        "english": "remember to do something",
+        "chinese": "记得做某事"
+      },
+      {
+        "english": "remember clearly",
+        "chinese": "清楚记得"
+      }
+    ]
+  },
+  "ngsl12:bit": {
+    "exampleEnglish": "There was a bit of bread left after lunch, so we saved it to make soup later.",
+    "exampleChinese": "午饭后剩了一点面包，所以我们留着稍后做汤。",
+    "collocations": [
+      {
+        "english": "a bit of time",
+        "chinese": "一点时间"
+      },
+      {
+        "english": "a small bit",
+        "chinese": "一小块"
+      }
+    ]
+  },
+  "ngsl12:share": {
+    "exampleEnglish": "Each share gives its owner a small stake in the company, although its value can change over time.",
+    "exampleChinese": "每股股票让持有者拥有公司的一小部分权益，但股值会随时间变化。",
+    "collocations": [
+      {
+        "english": "buy a share",
+        "chinese": "购买一股"
+      },
+      {
+        "english": "share ownership",
+        "chinese": "股份所有权"
+      }
+    ]
+  },
+  "ngsl12:real": {
+    "exampleEnglish": "Working on a real project helped the students understand problems that classroom exercises had never shown them.",
+    "exampleChinese": "参与真实项目，帮助学生理解了课堂练习从未呈现的问题。",
+    "collocations": [
+      {
+        "english": "a real difference",
+        "chinese": "实际的差别"
+      },
+      {
+        "english": "real life",
+        "chinese": "现实生活"
+      }
+    ]
+  },
+  "ngsl12:answer": {
+    "exampleEnglish": "We compared our answers after the test and discovered that several questions could be understood in different ways.",
+    "exampleChinese": "考试后我们对比答案，发现几道题可以有不同理解。",
+    "collocations": [
+      {
+        "english": "find an answer",
+        "chinese": "找到答案"
+      },
+      {
+        "english": "the correct answer",
+        "chinese": "正确答案"
+      }
+    ]
+  },
+  "ngsl12:sit": {
+    "exampleEnglish": "We chose to sit near the window so that we could watch the boats while waiting for lunch.",
+    "exampleChinese": "我们选择坐在窗边，等午饭时可以看船。",
+    "collocations": [
+      {
+        "english": "sit down",
+        "chinese": "坐下"
+      },
+      {
+        "english": "sit beside someone",
+        "chinese": "坐在某人旁边"
+      }
+    ]
+  },
+  "ngsl12:figure": {
+    "exampleEnglish": "We need to figure out why the drawer keeps sticking before we replace any of its parts.",
+    "exampleChinese": "更换抽屉任何零件前，我们需要弄清它为何总是卡住。",
+    "collocations": [
+      {
+        "english": "figure out a solution",
+        "chinese": "想出解决办法"
+      },
+      {
+        "english": "figure out how",
+        "chinese": "弄明白如何……"
+      }
+    ]
+  },
+  "ngsl12:letter": {
+    "exampleEnglish": "The letter explained why the delivery had been delayed and gave us a new date for its arrival.",
+    "exampleChinese": "信中解释了投递为何延误，并告知新的到货日期。",
+    "collocations": [
+      {
+        "english": "write a letter",
+        "chinese": "写信"
+      },
+      {
+        "english": "receive a letter",
+        "chinese": "收到信"
+      }
+    ]
+  },
+  "ngsl12:decide": {
+    "exampleEnglish": "We should decide which tasks are most urgent before asking the volunteers to choose what they want to do.",
+    "exampleChinese": "让志愿者选择想做的事之前，我们应该决定哪些任务最紧迫。",
+    "collocations": [
+      {
+        "english": "decide to continue",
+        "chinese": "决定继续"
+      },
+      {
+        "english": "decide on a plan",
+        "chinese": "选定计划"
+      }
+    ]
+  },
+  "ngsl12:language": {
+    "exampleEnglish": "Learning another language can make travelling more enjoyable because everyday conversations become easier and more meaningful.",
+    "exampleChinese": "学习另一种语言能让旅行更愉快，因为日常交谈会更轻松、更有意义。",
+    "collocations": [
+      {
+        "english": "a foreign language",
+        "chinese": "外语"
+      },
+      {
+        "english": "spoken language",
+        "chinese": "口语"
+      }
+    ]
+  },
+  "ngsl12:subject": {
+    "exampleEnglish": "The photographer chose the old bridge as her main subject because its shape changed with the light.",
+    "exampleChinese": "摄影师把老桥选为主要拍摄对象，因为它的形态会随光线变化。",
+    "collocations": [
+      {
+        "english": "the main subject",
+        "chinese": "主要主题"
+      },
+      {
+        "english": "the subject of discussion",
+        "chinese": "讨论的主题"
+      }
+    ]
+  },
+  "ngsl12:class": {
+    "exampleEnglish": "The exhibition explores how social class affected the homes, jobs and education available to people in the past.",
+    "exampleChinese": "展览探讨了过去社会阶层如何影响人们的住房、工作和受教育机会。",
+    "collocations": [
+      {
+        "english": "social class",
+        "chinese": "社会阶层"
+      },
+      {
+        "english": "the working class",
+        "chinese": "工人阶级"
+      }
+    ]
+  },
+  "ngsl12:development": {
+    "exampleEnglish": "The development of new paths has made the nature reserve easier to explore without damaging sensitive areas.",
+    "exampleChinese": "新步道的建设，让人们更容易游览自然保护区，又不损害脆弱区域。",
+    "collocations": [
+      {
+        "english": "personal development",
+        "chinese": "个人发展"
+      },
+      {
+        "english": "the development of skills",
+        "chinese": "技能的发展"
+      }
+    ]
+  },
+  "ngsl12:town": {
+    "exampleEnglish": "The town becomes much busier during the summer, when visitors arrive to explore the nearby lakes.",
+    "exampleChinese": "夏季游客来到附近湖区游览时，镇上会热闹得多。",
+    "collocations": [
+      {
+        "english": "a small town",
+        "chinese": "小镇"
+      },
+      {
+        "english": "the town centre",
+        "chinese": "镇中心"
+      }
+    ]
+  },
+  "ngsl12:half": {
+    "exampleEnglish": "Half of the group stayed to finish the painting while the others went to collect more supplies.",
+    "exampleChinese": "一半组员留下完成粉刷，其余人去领取更多用品。",
+    "collocations": [
+      {
+        "english": "half an hour",
+        "chinese": "半小时"
+      },
+      {
+        "english": "the other half",
+        "chinese": "另一半"
+      }
+    ]
+  },
+  "ngsl12:minute": {
+    "exampleEnglish": "Please wait a minute while I check whether the smaller meeting room is still available this afternoon.",
+    "exampleChinese": "请稍等一分钟，我查一下那间小会议室今天下午是否还空着。",
+    "collocations": [
+      {
+        "english": "a few minutes",
+        "chinese": "几分钟"
+      },
+      {
+        "english": "at the last minute",
+        "chinese": "在最后一刻"
+      }
+    ]
+  },
+  "ngsl12:food": {
+    "exampleEnglish": "We brought enough food for the journey because the small cafés along the route might be closed.",
+    "exampleChinese": "我们为旅程带足了食物，因为沿途小咖啡馆可能关门。",
+    "collocations": [
+      {
+        "english": "fresh food",
+        "chinese": "新鲜食物"
+      },
+      {
+        "english": "food waste",
+        "chinese": "食物浪费"
+      }
+    ]
+  },
+  "ngsl12:break": {
+    "exampleEnglish": "Be careful not to break the thin glass when you remove it from the wooden frame.",
+    "exampleChinese": "把薄玻璃从木框中取出时，小心不要弄碎。",
+    "collocations": [
+      {
+        "english": "break a window",
+        "chinese": "打破窗户"
+      },
+      {
+        "english": "break into pieces",
+        "chinese": "碎成几块"
+      }
+    ]
+  },
+  "ngsl12:clear": {
+    "exampleEnglish": "The diagram made the instructions clear, especially for people who found the written explanation difficult to follow.",
+    "exampleChinese": "示意图让说明变得清晰，尤其帮助了那些难以理解文字解释的人。",
+    "collocations": [
+      {
+        "english": "a clear explanation",
+        "chinese": "清楚的解释"
+      },
+      {
+        "english": "make something clear",
+        "chinese": "把某事说清楚"
+      }
+    ]
+  },
+  "ngsl12:future": {
+    "exampleEnglish": "The committee will discuss the future of the building before deciding whether to repair or replace it.",
+    "exampleChinese": "委员会将讨论这栋楼的未来用途，再决定修缮还是重建。",
+    "collocations": [
+      {
+        "english": "in the future",
+        "chinese": "在将来"
+      },
+      {
+        "english": "the near future",
+        "chinese": "不久的将来"
+      }
+    ]
+  },
+  "ngsl12:either": {
+    "exampleEnglish": "Either route will take us to the station, but the path beside the river is more pleasant.",
+    "exampleChinese": "两条路线都通往车站，但河边那条小路更舒适。",
+    "collocations": [
+      {
+        "english": "either side",
+        "chinese": "两边的任一边"
+      },
+      {
+        "english": "either option",
+        "chinese": "任一选项"
+      }
+    ]
+  },
+  "ngsl12:ago": {
+    "exampleEnglish": "We visited the island several years ago, before the new bridge made travelling there much easier.",
+    "exampleChinese": "我们几年前去过那座岛，那时新桥还没有让交通变得更方便。",
+    "collocations": [
+      {
+        "english": "a long time ago",
+        "chinese": "很久以前"
+      },
+      {
+        "english": "not long ago",
+        "chinese": "不久前"
+      }
+    ]
+  },
+  "ngsl12:per": {
+    "exampleEnglish": "The workshop costs twenty pounds per person, including all the materials needed to complete a small project.",
+    "exampleChinese": "工作坊每人收费二十英镑，包括完成一个小项目所需的全部材料。",
+    "collocations": [
+      {
+        "english": "per person",
+        "chinese": "每人"
+      },
+      {
+        "english": "per hour",
+        "chinese": "每小时"
+      }
+    ]
+  },
+  "ngsl12:remain": {
+    "exampleEnglish": "Several questions remain after the presentation, so the speaker has agreed to send us additional information.",
+    "exampleChinese": "讲解后还有几个问题没解决，因此讲者答应发给我们补充信息。",
+    "collocations": [
+      {
+        "english": "remain unchanged",
+        "chinese": "保持不变"
+      },
+      {
+        "english": "remain a problem",
+        "chinese": "仍是一个问题"
+      }
+    ]
+  },
+  "ngsl12:top": {
+    "exampleEnglish": "We climbed to the top of the tower, where the guide pointed out landmarks across the valley.",
+    "exampleChinese": "我们爬到塔顶，导游在那里指出山谷各处的地标。",
+    "collocations": [
+      {
+        "english": "at the top of",
+        "chinese": "在……顶部"
+      },
+      {
+        "english": "the top shelf",
+        "chinese": "最上层架子"
+      }
+    ]
+  },
+  "ngsl12:among": {
+    "exampleEnglish": "The old cottage was hidden among tall trees, which made it difficult to find from the road.",
+    "exampleChinese": "老村舍藏在高树之间，从路上很难发现。",
+    "collocations": [
+      {
+        "english": "among friends",
+        "chinese": "在朋友之间"
+      },
+      {
+        "english": "among the trees",
+        "chinese": "在树丛中"
+      }
+    ]
+  },
+  "ngsl12:win": {
+    "exampleEnglish": "The team hoped to win the final match, although their opponents had played extremely well throughout the season.",
+    "exampleChinese": "球队希望赢得决赛，尽管对手整个赛季都表现极佳。",
+    "collocations": [
+      {
+        "english": "win a competition",
+        "chinese": "赢得比赛"
+      },
+      {
+        "english": "win a prize",
+        "chinese": "获奖"
+      }
+    ]
+  },
+  "ngsl12:color": {
+    "exampleEnglish": "We chose a lighter color for the walls so that the narrow room would feel more spacious.",
+    "exampleChinese": "我们给墙壁选了浅一些的颜色，让狭窄房间显得更宽敞。",
+    "collocations": [
+      {
+        "english": "a bright color",
+        "chinese": "鲜艳的颜色"
+      },
+      {
+        "english": "change color",
+        "chinese": "变色"
+      }
+    ]
+  },
+  "ngsl12:involve": {
+    "exampleEnglish": "The activity will involve some walking, so participants should wear comfortable shoes and bring water with them.",
+    "exampleChinese": "活动会包含一些步行，因此参与者应穿舒适的鞋并带水。",
+    "collocations": [
+      {
+        "english": "involve everyone",
+        "chinese": "让每个人参与"
+      },
+      {
+        "english": "involve doing something",
+        "chinese": "包含做某事"
+      }
+    ]
+  },
+  "ngsl12:reach": {
+    "exampleEnglish": "We should reach the village before sunset if we follow the shorter path through the woods.",
+    "exampleChinese": "如果走穿过树林的较短路线，我们应该能在日落前到村里。",
+    "collocations": [
+      {
+        "english": "reach a destination",
+        "chinese": "到达目的地"
+      },
+      {
+        "english": "reach an agreement",
+        "chinese": "达成协议"
+      }
+    ]
+  },
+  "ngsl12:social": {
+    "exampleEnglish": "The club organises social events as well as classes, giving newcomers a chance to make local friends.",
+    "exampleChinese": "俱乐部除了开课还组织社交活动，让新来的人有机会结识本地朋友。",
+    "collocations": [
+      {
+        "english": "social activities",
+        "chinese": "社交活动"
+      },
+      {
+        "english": "a social event",
+        "chinese": "社交活动场合"
+      }
+    ]
+  },
+  "ngsl12:period": {
+    "exampleEnglish": "The garden will close for a short period while workers replace the damaged path near the entrance.",
+    "exampleChinese": "工人更换入口附近受损步道期间，花园会短暂关闭。",
+    "collocations": [
+      {
+        "english": "a short period",
+        "chinese": "一段短时间"
+      },
+      {
+        "english": "over a period of time",
+        "chinese": "在一段时间内"
+      }
+    ]
+  },
+  "ngsl12:across": {
+    "exampleEnglish": "The children watched the ferry travel across, then waited for it to return from the opposite bank.",
+    "exampleChinese": "孩子们看着渡船驶到对岸，再等它从那边返回。",
+    "collocations": [
+      {
+        "english": "walk across",
+        "chinese": "走过去"
+      },
+      {
+        "english": "get across",
+        "chinese": "穿过去"
+      }
+    ]
+  },
+  "ngsl12:note": {
+    "exampleEnglish": "Please note that the final bus leaves earlier on Sundays, so visitors should check their return journey carefully.",
+    "exampleChinese": "请注意，周日末班车发车较早，所以游客要仔细核对返程安排。",
+    "collocations": [
+      {
+        "english": "note that",
+        "chinese": "注意到……"
+      },
+      {
+        "english": "note a difference",
+        "chinese": "注意到区别"
+      }
+    ]
+  },
+  "ngsl12:history": {
+    "exampleEnglish": "Studying local history helped us understand why the village had grown around the river rather than the road.",
+    "exampleChinese": "研究地方历史帮助我们理解，村庄为何沿河流而非道路发展。",
+    "collocations": [
+      {
+        "english": "local history",
+        "chinese": "地方历史"
+      },
+      {
+        "english": "throughout history",
+        "chinese": "纵观历史"
+      }
+    ]
+  },
+  "ngsl12:create": {
+    "exampleEnglish": "The workshop encourages children to create useful objects from materials that would otherwise be thrown away.",
+    "exampleChinese": "工作坊鼓励孩子们用原本会被丢弃的材料制作实用物品。",
+    "collocations": [
+      {
+        "english": "create an opportunity",
+        "chinese": "创造机会"
+      },
+      {
+        "english": "create a design",
+        "chinese": "创作设计"
+      }
+    ]
+  },
+  "ngsl12:drive": {
+    "exampleEnglish": "We decided to drive along the coast because the main road was closed for repairs that weekend.",
+    "exampleChinese": "我们决定沿海岸开车，因为那个周末主路封闭维修。",
+    "collocations": [
+      {
+        "english": "drive carefully",
+        "chinese": "小心驾驶"
+      },
+      {
+        "english": "drive to work",
+        "chinese": "开车上班"
+      }
+    ]
+  },
+  "ngsl12:along": {
+    "exampleEnglish": "Several benches stand along the river path, allowing walkers to stop and enjoy the view whenever they like.",
+    "exampleChinese": "河边小路沿途有几张长椅，徒步者随时可以停下欣赏风景。",
+    "collocations": [
+      {
+        "english": "along the coast",
+        "chinese": "沿着海岸"
+      },
+      {
+        "english": "along the road",
+        "chinese": "沿着道路"
+      }
+    ]
+  },
+  "ngsl12:type": {
+    "exampleEnglish": "This type of bicycle is suitable for city journeys, but it may be uncomfortable on rough country paths.",
+    "exampleChinese": "这种自行车适合城市出行，但在崎岖乡间小路上可能不舒适。",
+    "collocations": [
+      {
+        "english": "a different type of",
+        "chinese": "不同类型的"
+      },
+      {
+        "english": "all types of",
+        "chinese": "所有类型的"
+      }
+    ]
+  },
+  "ngsl12:sound": {
+    "exampleEnglish": "The sound of water running under the bridge became louder as we approached the narrow valley.",
+    "exampleChinese": "我们走近狭窄山谷时，桥下流水声越来越大。",
+    "collocations": [
+      {
+        "english": "the sound of footsteps",
+        "chinese": "脚步声"
+      },
+      {
+        "english": "a loud sound",
+        "chinese": "很大的声音"
+      }
+    ]
+  },
+  "ngsl12:eye": {
+    "exampleEnglish": "The bright sunlight hurt my eyes, so I moved into the shade before looking at the map.",
+    "exampleChinese": "强烈阳光刺得我眼睛难受，于是我先移到阴凉处再看地图。",
+    "collocations": [
+      {
+        "english": "close your eyes",
+        "chinese": "闭眼"
+      },
+      {
+        "english": "eye contact",
+        "chinese": "眼神交流"
+      }
+    ]
+  },
+  "ngsl12:music": {
+    "exampleEnglish": "The festival introduced us to music from several countries that we had never heard performed live before.",
+    "exampleChinese": "音乐节让我们接触到几个国家的音乐，此前从没听过这些音乐的现场演出。",
+    "collocations": [
+      {
+        "english": "live music",
+        "chinese": "现场音乐"
+      },
+      {
+        "english": "listen to music",
+        "chinese": "听音乐"
+      }
+    ]
+  },
+  "ngsl12:game": {
+    "exampleEnglish": "The game encouraged children to share information because no single player had all the clues needed to finish.",
+    "exampleChinese": "这款游戏鼓励孩子们共享信息，因为没有谁独自掌握完成游戏所需的全部线索。",
+    "collocations": [
+      {
+        "english": "a board game",
+        "chinese": "桌游"
+      },
+      {
+        "english": "play a game",
+        "chinese": "玩游戏"
+      }
+    ]
+  },
+  "ngsl12:political": {
+    "exampleEnglish": "The exhibition explains how political decisions changed the town's buildings and influenced the lives of ordinary residents.",
+    "exampleChinese": "展览解释了政治决策如何改变镇上的建筑，并影响普通居民的生活。",
+    "collocations": [
+      {
+        "english": "political debate",
+        "chinese": "政治辩论"
+      },
+      {
+        "english": "political decisions",
+        "chinese": "政治决策"
+      }
+    ]
+  },
+  "ngsl12:free": {
+    "exampleEnglish": "Admission is free on the first Sunday of each month, although visitors still need to reserve tickets online.",
+    "exampleChinese": "每月第一个周日免费入场，但游客仍需网上预约门票。",
+    "collocations": [
+      {
+        "english": "free of charge",
+        "chinese": "免费"
+      },
+      {
+        "english": "free admission",
+        "chinese": "免费入场"
+      }
+    ]
+  },
+  "ngsl12:receive": {
+    "exampleEnglish": "You should receive a confirmation message shortly after booking, so please check that your email address is correct.",
+    "exampleChinese": "预订后不久你应该会收到确认消息，因此请检查邮箱地址是否正确。",
+    "collocations": [
+      {
+        "english": "receive a message",
+        "chinese": "收到消息"
+      },
+      {
+        "english": "receive an invitation",
+        "chinese": "收到邀请"
+      }
+    ]
+  },
+  "ngsl12:moment": {
+    "exampleEnglish": "For a moment, everyone stopped talking and listened to the unusual sound coming from the old clock.",
+    "exampleChinese": "有那么一瞬间，大家停止交谈，听着老钟发出的奇怪声音。",
+    "collocations": [
+      {
+        "english": "at the moment",
+        "chinese": "目前"
+      },
+      {
+        "english": "wait a moment",
+        "chinese": "稍等片刻"
+      }
+    ]
+  },
+  "ngsl12:sale": {
+    "exampleEnglish": "The sale of handmade postcards helped raise enough money to buy new materials for the children's workshop.",
+    "exampleChinese": "销售手工明信片筹到了足够资金，为儿童工作坊购买新材料。",
+    "collocations": [
+      {
+        "english": "for sale",
+        "chinese": "待售"
+      },
+      {
+        "english": "on sale",
+        "chinese": "在售；特价出售"
+      }
+    ]
+  },
+  "ngsl12:policy": {
+    "exampleEnglish": "The museum changed its booking policy after visitors said they needed more flexibility when planning family trips.",
+    "exampleChinese": "游客表示安排家庭出游需要更大灵活性后，博物馆更改了预订政策。",
+    "collocations": [
+      {
+        "english": "a clear policy",
+        "chinese": "明确的政策"
+      },
+      {
+        "english": "company policy",
+        "chinese": "公司政策"
+      }
+    ]
+  },
+  "ngsl12:further": {
+    "exampleEnglish": "We need further information about the route before deciding whether it is suitable for younger children.",
+    "exampleChinese": "决定路线是否适合年幼孩子之前，我们需要更多相关信息。",
+    "collocations": [
+      {
+        "english": "further details",
+        "chinese": "进一步细节"
+      },
+      {
+        "english": "further discussion",
+        "chinese": "进一步讨论"
+      }
+    ]
+  },
+  "ngsl12:body": {
+    "exampleEnglish": "Stretching after a long journey can help your body feel more comfortable before you begin walking again.",
+    "exampleChinese": "长途旅行后伸展一下身体，能让你再次步行前舒服一些。",
+    "collocations": [
+      {
+        "english": "the human body",
+        "chinese": "人体"
+      },
+      {
+        "english": "body movement",
+        "chinese": "身体动作"
+      }
+    ]
+  },
+  "ngsl12:require": {
+    "exampleEnglish": "The practical workshop will require comfortable shoes because participants spend much of the session standing and moving around.",
+    "exampleChinese": "实践工作坊要求穿舒适的鞋，因为参与者大部分时间要站着和走动。",
+    "collocations": [
+      {
+        "english": "require permission",
+        "chinese": "需要许可"
+      },
+      {
+        "english": "require careful planning",
+        "chinese": "需要仔细规划"
+      }
+    ]
+  },
+  "ngsl12:wait": {
+    "exampleEnglish": "We decided to wait inside the café until the guide arrived, rather than stand outside in the rain.",
+    "exampleChinese": "我们决定在咖啡馆里等导游，而不站在外面淋雨。",
+    "collocations": [
+      {
+        "english": "wait for someone",
+        "chinese": "等候某人"
+      },
+      {
+        "english": "wait patiently",
+        "chinese": "耐心等待"
+      }
+    ]
+  },
+  "ngsl12:general": {
+    "exampleEnglish": "The first part of the course provides general advice before later sessions focus on more specific practical tasks.",
+    "exampleChinese": "课程第一部分提供一般性建议，后面的课再集中讲更具体的实践任务。",
+    "collocations": [
+      {
+        "english": "general information",
+        "chinese": "一般信息"
+      },
+      {
+        "english": "a general idea",
+        "chinese": "大致的了解"
+      }
+    ]
+  },
+  "ngsl12:appear": {
+    "exampleEnglish": "Small flowers begin to appear beside the path in spring, even before the trees have grown new leaves.",
+    "exampleChinese": "春天树木尚未长出新叶时，小花就开始出现在路旁。",
+    "collocations": [
+      {
+        "english": "appear suddenly",
+        "chinese": "突然出现"
+      },
+      {
+        "english": "appear on the screen",
+        "chinese": "出现在屏幕上"
+      }
+    ]
+  },
+  "ngsl12:toward": {
+    "exampleEnglish": "We walked toward the harbour, where the guide had arranged for us to visit a fishing boat.",
+    "exampleChinese": "我们朝港口走去，导游已安排我们在那里参观一艘渔船。",
+    "collocations": [
+      {
+        "english": "move toward the exit",
+        "chinese": "朝出口移动"
+      },
+      {
+        "english": "toward the coast",
+        "chinese": "朝海岸方向"
+      }
+    ]
+  },
+  "ngsl12:team": {
+    "exampleEnglish": "Our team includes people with different skills, which helps us solve practical problems from several different angles.",
+    "exampleChinese": "我们团队成员各有所长，帮助我们从多个角度解决实际问题。",
+    "collocations": [
+      {
+        "english": "a team member",
+        "chinese": "团队成员"
+      },
+      {
+        "english": "work as a team",
+        "chinese": "作为团队合作"
+      }
+    ]
+  },
+  "ngsl12:easy": {
+    "exampleEnglish": "The route looks easy on the map, but several steep sections can be tiring for inexperienced walkers.",
+    "exampleChinese": "地图上这条路线看似容易，但几段陡坡会让经验不足的徒步者很累。",
+    "collocations": [
+      {
+        "english": "easy to understand",
+        "chinese": "容易理解"
+      },
+      {
+        "english": "an easy task",
+        "chinese": "容易的任务"
+      }
+    ]
+  },
+  "ngsl12:individual": {
+    "exampleEnglish": "Each individual in the group received a separate task before everyone came together to discuss their results.",
+    "exampleChinese": "组里每个人先分到一项独立任务，然后大家聚在一起讨论结果。",
+    "collocations": [
+      {
+        "english": "a private individual",
+        "chinese": "私人个体"
+      },
+      {
+        "english": "each individual",
+        "chinese": "每个人"
+      }
+    ]
+  },
+  "ngsl12:full": {
+    "exampleEnglish": "The bus was already full when it reached our stop, so we had to wait for the next one.",
+    "exampleChinese": "公交车到我们这站时已经满了，所以我们只能等下一班。",
+    "collocations": [
+      {
+        "english": "full of people",
+        "chinese": "挤满了人"
+      },
+      {
+        "english": "a full bottle",
+        "chinese": "满满一瓶"
+      }
+    ]
+  },
+  "ngsl12:black": {
+    "exampleEnglish": "The black cover protected the equipment from sunlight while making it harder to spot against the dark wall.",
+    "exampleChinese": "黑色外罩让设备避开阳光，但靠着深色墙壁时也更难被发现。",
+    "collocations": [
+      {
+        "english": "black and white",
+        "chinese": "黑白的"
+      },
+      {
+        "english": "a black jacket",
+        "chinese": "黑夹克"
+      }
+    ]
+  },
+  "ngsl12:sense": {
+    "exampleEnglish": "She could sense a change in the atmosphere when the conversation moved from travel plans to family problems.",
+    "exampleChinese": "话题从旅行计划转到家庭问题时，她能感觉到气氛变了。",
+    "collocations": [
+      {
+        "english": "sense a change",
+        "chinese": "觉察变化"
+      },
+      {
+        "english": "sense that something is wrong",
+        "chinese": "察觉某事不对劲"
+      }
+    ]
+  },
+  "ngsl12:perhaps": {
+    "exampleEnglish": "Perhaps we should contact the museum before leaving, because its opening hours sometimes change during the holidays.",
+    "exampleChinese": "也许出发前该联系博物馆，因为它的开放时间在假期有时会变。",
+    "collocations": [
+      {
+        "english": "perhaps another time",
+        "chinese": "也许改天"
+      },
+      {
+        "english": "perhaps the best",
+        "chinese": "也许是最好的"
+      }
+    ]
+  },
+  "ngsl12:add": {
+    "exampleEnglish": "Please add the dates to the shared calendar so that everyone knows when the equipment will be unavailable.",
+    "exampleChinese": "请把日期加进共享日历，让大家知道设备何时不可使用。",
+    "collocations": [
+      {
+        "english": "add a comment",
+        "chinese": "补充评论"
+      },
+      {
+        "english": "add something to a list",
+        "chinese": "把某物加入清单"
+      }
+    ]
+  },
+  "ngsl12:rule": {
+    "exampleEnglish": "The main rule is that visitors must stay on the path to avoid damaging the plants nearby.",
+    "exampleChinese": "主要规定是游客必须沿步道行走，以免损伤附近植物。",
+    "collocations": [
+      {
+        "english": "follow the rules",
+        "chinese": "遵守规定"
+      },
+      {
+        "english": "a basic rule",
+        "chinese": "基本规则"
+      }
+    ]
+  },
+  "ngsl12:pass": {
+    "exampleEnglish": "We will pass the old watermill on our way to the village, so there will be time for photographs.",
+    "exampleChinese": "去村里的路上我们会经过老水磨坊，因此会有时间拍照。",
+    "collocations": [
+      {
+        "english": "pass a building",
+        "chinese": "经过一栋建筑"
+      },
+      {
+        "english": "pass through a town",
+        "chinese": "穿过城镇"
+      }
+    ]
+  },
+  "ngsl12:produce": {
+    "exampleEnglish": "The factory can produce smaller batches, which allows local businesses to order only what they really need.",
+    "exampleChinese": "工厂能小批量生产，让当地企业只订购真正需要的数量。",
+    "collocations": [
+      {
+        "english": "produce goods",
+        "chinese": "生产商品"
+      },
+      {
+        "english": "produce less waste",
+        "chinese": "产生更少废物"
+      }
+    ]
+  },
+  "ngsl12:sell": {
+    "exampleEnglish": "The village shop plans to sell more locally made products so that visitors can support nearby businesses.",
+    "exampleChinese": "村里的商店计划销售更多本地产品，让游客支持附近企业。",
+    "collocations": [
+      {
+        "english": "sell something online",
+        "chinese": "在线售卖某物"
+      },
+      {
+        "english": "sell at a reasonable price",
+        "chinese": "以合理价格出售"
+      }
+    ]
+  },
+  "ngsl12:short": {
+    "exampleEnglish": "We chose the short route through the park because the children were tired after visiting the museum.",
+    "exampleChinese": "参观博物馆后孩子们累了，所以我们选了穿过公园的短路线。",
+    "collocations": [
+      {
+        "english": "a short distance",
+        "chinese": "短距离"
+      },
+      {
+        "english": "a short journey",
+        "chinese": "短途旅程"
+      }
+    ]
+  },
+  "ngsl12:agree": {
+    "exampleEnglish": "We agree that the garden needs more seating, but we have different ideas about where to put it.",
+    "exampleChinese": "我们都认为花园需要更多座位，但对摆放位置有不同想法。",
+    "collocations": [
+      {
+        "english": "agree with someone",
+        "chinese": "同意某人"
+      },
+      {
+        "english": "agree on a plan",
+        "chinese": "就计划达成一致"
+      }
+    ]
+  },
+  "ngsl12:law": {
+    "exampleEnglish": "The new law requires businesses to provide clearer information about the cost of cancelling a booking.",
+    "exampleChinese": "新法律要求企业更清楚地说明取消预订的费用。",
+    "collocations": [
+      {
+        "english": "against the law",
+        "chinese": "违法"
+      },
+      {
+        "english": "obey the law",
+        "chinese": "守法"
+      }
+    ]
+  },
+  "ngsl12:everything": {
+    "exampleEnglish": "Before leaving the workshop, please check that everything you borrowed has been returned to the correct cupboard.",
+    "exampleChinese": "离开工作坊前，请检查借用的所有东西是否都已放回正确的橱柜。",
+    "collocations": [
+      {
+        "english": "everything else",
+        "chinese": "其他所有东西"
+      },
+      {
+        "english": "everything possible",
+        "chinese": "一切可能的事情"
+      }
+    ]
+  },
+  "ngsl12:research": {
+    "exampleEnglish": "The students will research the history of the bridge before designing an exhibition about its importance to the village.",
+    "exampleChinese": "学生们将研究桥的历史，再设计展览说明它对村庄的重要性。",
+    "collocations": [
+      {
+        "english": "research a topic",
+        "chinese": "研究课题"
+      },
+      {
+        "english": "research the history of",
+        "chinese": "研究……的历史"
+      }
+    ]
+  },
+  "ngsl12:cover": {
+    "exampleEnglish": "The waterproof cover kept our bags dry even when heavy rain started during the walk back.",
+    "exampleChinese": "即使返程徒步时下起大雨，防水罩也让我们的包保持干燥。",
+    "collocations": [
+      {
+        "english": "a protective cover",
+        "chinese": "防护罩"
+      },
+      {
+        "english": "a book cover",
+        "chinese": "书封面"
+      }
+    ]
+  },
+  "ngsl12:paper": {
+    "exampleEnglish": "We used recycled paper for the invitations because the event was intended to encourage more environmentally responsible choices.",
+    "exampleChinese": "我们用再生纸制作邀请函，因为活动旨在鼓励更环保的选择。",
+    "collocations": [
+      {
+        "english": "a sheet of paper",
+        "chinese": "一张纸"
+      },
+      {
+        "english": "recycled paper",
+        "chinese": "再生纸"
+      }
+    ]
+  },
+  "ngsl12:position": {
+    "exampleEnglish": "The position of the table near the window made it easier to examine the small objects carefully.",
+    "exampleChinese": "桌子靠窗的位置让人更容易仔细观察小物件。",
+    "collocations": [
+      {
+        "english": "a central position",
+        "chinese": "居中的位置"
+      },
+      {
+        "english": "change position",
+        "chinese": "改变位置"
+      }
+    ]
+  },
+  "ngsl12:near": {
+    "exampleEnglish": "The near end of the platform was crowded, but there was plenty of space beside the last carriage.",
+    "exampleChinese": "站台近端很拥挤，但最后一节车厢旁有很多空间。",
+    "collocations": [
+      {
+        "english": "the near side",
+        "chinese": "靠近的一侧"
+      },
+      {
+        "english": "the near end",
+        "chinese": "近端"
+      }
+    ]
+  },
+  "ngsl12:human": {
+    "exampleEnglish": "Every human needs opportunities to rest, especially after spending a long time concentrating on difficult tasks.",
+    "exampleChinese": "每个人都需要休息机会，尤其是在长时间专注于困难任务后。",
+    "collocations": [
+      {
+        "english": "a human being",
+        "chinese": "一个人"
+      },
+      {
+        "english": "humans and animals",
+        "chinese": "人类与动物"
+      }
+    ]
+  },
+  "ngsl12:computer": {
+    "exampleEnglish": "The computer stores our bookings in one place, making it easier to find details when visitors call.",
+    "exampleChinese": "电脑集中储存预订记录，方便游客来电时查找详情。",
+    "collocations": [
+      {
+        "english": "a desktop computer",
+        "chinese": "台式电脑"
+      },
+      {
+        "english": "computer skills",
+        "chinese": "电脑技能"
+      }
+    ]
+  },
+  "ngsl12:situation": {
+    "exampleEnglish": "The situation improved once we agreed on a clear plan and made sure everyone understood their responsibilities.",
+    "exampleChinese": "我们确定清晰计划，并确保每个人理解职责后，情况就改善了。",
+    "collocations": [
+      {
+        "english": "a difficult situation",
+        "chinese": "困难局面"
+      },
+      {
+        "english": "deal with a situation",
+        "chinese": "处理局面"
+      }
+    ]
+  },
+  "ngsl12:staff": {
+    "exampleEnglish": "The staff helped us find a quieter room where we could discuss the project without disturbing other visitors.",
+    "exampleChinese": "工作人员帮我们找到一间安静些的房间，让我们讨论项目而不打扰其他访客。",
+    "collocations": [
+      {
+        "english": "a member of staff",
+        "chinese": "一名员工"
+      },
+      {
+        "english": "staff training",
+        "chinese": "员工培训"
+      }
+    ]
+  },
+  "ngsl12:activity": {
+    "exampleEnglish": "The final activity involved building a small bridge from paper and testing how much weight it could support.",
+    "exampleChinese": "最后一项活动是用纸搭小桥，测试它能承受多大重量。",
+    "collocations": [
+      {
+        "english": "a group activity",
+        "chinese": "小组活动"
+      },
+      {
+        "english": "physical activity",
+        "chinese": "身体活动"
+      }
+    ]
+  },
+  "ngsl12:film": {
+    "exampleEnglish": "The film follows a family who restore an old boat and use it to explore the coast.",
+    "exampleChinese": "这部电影讲述一家人修复旧船，再用它探索海岸的故事。",
+    "collocations": [
+      {
+        "english": "watch a film",
+        "chinese": "看电影"
+      },
+      {
+        "english": "a documentary film",
+        "chinese": "纪录片"
+      }
+    ]
+  },
+  "ngsl12:morning": {
+    "exampleEnglish": "We arrived early in the morning, when the market was opening and the streets were still quiet.",
+    "exampleChinese": "我们一大早到达，那时集市正开市，街道仍很安静。",
+    "collocations": [
+      {
+        "english": "early in the morning",
+        "chinese": "清晨"
+      },
+      {
+        "english": "the following morning",
+        "chinese": "第二天早上"
+      }
+    ]
+  },
+  "ngsl12:war": {
+    "exampleEnglish": "The museum explains how the war affected ordinary families, using letters and photographs donated by local residents.",
+    "exampleChinese": "博物馆用当地居民捐赠的信件和照片，说明战争如何影响普通家庭。",
+    "collocations": [
+      {
+        "english": "after the war",
+        "chinese": "战后"
+      },
+      {
+        "english": "the effects of war",
+        "chinese": "战争的影响"
+      }
+    ]
+  },
+  "ngsl12:account": {
+    "exampleEnglish": "She opened a separate account to keep money for the project apart from her everyday spending.",
+    "exampleChinese": "她另开了一个账户，把项目资金与日常开支分开。",
+    "collocations": [
+      {
+        "english": "a bank account",
+        "chinese": "银行账户"
+      },
+      {
+        "english": "open an account",
+        "chinese": "开户"
+      }
+    ]
+  },
+  "ngsl12:shop": {
+    "exampleEnglish": "The little shop beside the station sells maps and useful supplies for people exploring the nearby countryside.",
+    "exampleChinese": "车站旁的小商店销售地图和实用补给，供游览附近乡村的人使用。",
+    "collocations": [
+      {
+        "english": "a local shop",
+        "chinese": "当地商店"
+      },
+      {
+        "english": "a second-hand shop",
+        "chinese": "二手商店"
+      }
+    ]
+  },
+  "ngsl12:major": {
+    "exampleEnglish": "The lack of public transport is a major problem for residents who do not have their own cars.",
+    "exampleChinese": "对没有私家车的居民而言，公共交通不足是一个主要问题。",
+    "collocations": [
+      {
+        "english": "a major change",
+        "chinese": "重大变化"
+      },
+      {
+        "english": "a major problem",
+        "chinese": "主要问题"
+      }
+    ]
+  },
+  "ngsl12:someone": {
+    "exampleEnglish": "We need someone who can explain the instructions clearly and help visitors who have never used this equipment.",
+    "exampleChinese": "我们需要一位能讲清说明，并帮助首次使用设备的游客的人。",
+    "collocations": [
+      {
+        "english": "someone else",
+        "chinese": "其他人"
+      },
+      {
+        "english": "someone you trust",
+        "chinese": "你信任的人"
+      }
+    ]
+  },
+  "ngsl12:above": {
+    "exampleEnglish": "The notice above explains which materials can be recycled and where visitors should put them after the workshop.",
+    "exampleChinese": "上面的告示说明哪些材料可以回收，以及工作坊后应该放在哪里。",
+    "collocations": [
+      {
+        "english": "as mentioned above",
+        "chinese": "如上所述"
+      },
+      {
+        "english": "see above",
+        "chinese": "见上文"
+      }
+    ]
+  },
+  "ngsl12:design": {
+    "exampleEnglish": "The students will design a small shelter that protects visitors from rain without blocking the view across the valley.",
+    "exampleChinese": "学生们将设计一个小棚，既能为游客挡雨，又不挡住山谷景色。",
+    "collocations": [
+      {
+        "english": "design a building",
+        "chinese": "设计建筑"
+      },
+      {
+        "english": "design something for a purpose",
+        "chinese": "为某种用途设计某物"
+      }
+    ]
+  },
+  "ngsl12:event": {
+    "exampleEnglish": "The event brings together local artists who want to share their skills with people of different ages.",
+    "exampleChinese": "这项活动汇集了想向不同年龄人群分享技能的当地艺术家。",
+    "collocations": [
+      {
+        "english": "a special event",
+        "chinese": "特别活动"
+      },
+      {
+        "english": "organise an event",
+        "chinese": "组织活动"
+      }
+    ]
+  },
+  "ngsl12:special": {
+    "exampleEnglish": "We prepared a special meal to thank the neighbours who had helped us during the long house repairs.",
+    "exampleChinese": "我们做了一顿特别的饭，感谢在漫长房屋维修期间帮忙的邻居。",
+    "collocations": [
+      {
+        "english": "a special occasion",
+        "chinese": "特殊场合"
+      },
+      {
+        "english": "special attention",
+        "chinese": "特别关注"
+      }
+    ]
+  },
+  "ngsl12:sometimes": {
+    "exampleEnglish": "The road sometimes floods after heavy rain, so residents check the conditions before driving into the valley.",
+    "exampleChinese": "大雨后道路有时会积水，因此居民开车进山谷前会查看路况。",
+    "collocations": [
+      {
+        "english": "sometimes difficult",
+        "chinese": "有时困难"
+      },
+      {
+        "english": "sometimes necessary",
+        "chinese": "有时必要"
+      }
+    ]
+  },
+  "ngsl12:condition": {
+    "exampleEnglish": "The bicycle was still in good condition, although its owner had used it almost every day for years.",
+    "exampleChinese": "这辆自行车虽被车主多年来几乎天天使用，但状况仍然良好。",
+    "collocations": [
+      {
+        "english": "in good condition",
+        "chinese": "状况良好"
+      },
+      {
+        "english": "working conditions",
+        "chinese": "工作条件"
+      }
+    ]
+  },
+  "ngsl12:carry": {
+    "exampleEnglish": "Please carry the glass bottles separately so that they do not knock against the tools in your bag.",
+    "exampleChinese": "请分开携带玻璃瓶，以免它们碰到包里的工具。",
+    "collocations": [
+      {
+        "english": "carry a heavy bag",
+        "chinese": "提重包"
+      },
+      {
+        "english": "carry something carefully",
+        "chinese": "小心搬运某物"
+      }
+    ]
+  },
+  "ngsl12:choose": {
+    "exampleEnglish": "Visitors can choose a shorter walk if they want more time to explore the village before returning.",
+    "exampleChinese": "想在返程前多花时间游村的游客，可以选择较短的步行路线。",
+    "collocations": [
+      {
+        "english": "choose between two options",
+        "chinese": "在两个选项间选择"
+      },
+      {
+        "english": "choose carefully",
+        "chinese": "仔细选择"
+      }
+    ]
+  },
+  "ngsl12:father": {
+    "exampleEnglish": "Her father showed her how to repair the chair, explaining why each piece had to fit tightly.",
+    "exampleChinese": "她父亲教她修椅子，并解释每块零件为何都必须装得紧密。",
+    "collocations": [
+      {
+        "english": "a father of two",
+        "chinese": "两个孩子的父亲"
+      },
+      {
+        "english": "father and daughter",
+        "chinese": "父亲和女儿"
+      }
+    ]
+  },
+  "ngsl12:decision": {
+    "exampleEnglish": "We postponed the final decision until everyone had a chance to compare the costs of the different plans.",
+    "exampleChinese": "我们推迟最终决定，让每个人都有机会比较不同方案的费用。",
+    "collocations": [
+      {
+        "english": "make a decision",
+        "chinese": "作决定"
+      },
+      {
+        "english": "a difficult decision",
+        "chinese": "艰难的决定"
+      }
+    ]
+  },
+  "ngsl12:table": {
+    "exampleEnglish": "We moved the table closer to the window so that everyone could see the photographs in natural light.",
+    "exampleChinese": "我们把桌子移近窗户，让大家都能在自然光下看照片。",
+    "collocations": [
+      {
+        "english": "a dining table",
+        "chinese": "餐桌"
+      },
+      {
+        "english": "sit at the table",
+        "chinese": "坐在桌边"
+      }
+    ]
+  },
+  "ngsl12:certain": {
+    "exampleEnglish": "We were certain that the route was correct because it matched the description in the guidebook exactly.",
+    "exampleChinese": "我们确信路线没错，因为它与指南中的描述完全一致。",
+    "collocations": [
+      {
+        "english": "certain about something",
+        "chinese": "对某事确定"
+      },
+      {
+        "english": "almost certain",
+        "chinese": "几乎肯定"
+      }
+    ]
+  },
+  "ngsl12:forward": {
+    "exampleEnglish": "The queue moved forward slowly while staff checked tickets and answered questions about the evening's performance.",
+    "exampleChinese": "工作人员检票并答复当晚演出相关问题时，队伍慢慢向前移动。",
+    "collocations": [
+      {
+        "english": "move forward",
+        "chinese": "向前移动"
+      },
+      {
+        "english": "step forward",
+        "chinese": "向前迈步"
+      }
+    ]
+  },
+  "ngsl12:main": {
+    "exampleEnglish": "The main entrance is closed for repairs, so visitors should follow the signs to the smaller side door.",
+    "exampleChinese": "正门因维修关闭，因此游客应按指示前往较小的侧门。",
+    "collocations": [
+      {
+        "english": "the main reason",
+        "chinese": "主要原因"
+      },
+      {
+        "english": "the main entrance",
+        "chinese": "正门"
+      }
+    ]
+  },
+  "ngsl12:die": {
+    "exampleEnglish": "Several young plants began to die after being left in the hot greenhouse without enough water.",
+    "exampleChinese": "几株幼苗因被留在炎热温室里又缺水，开始枯死。",
+    "collocations": [
+      {
+        "english": "die naturally",
+        "chinese": "自然死亡"
+      },
+      {
+        "english": "die from a disease",
+        "chinese": "死于疾病"
+      }
+    ]
+  },
+  "ngsl12:bear": {
+    "exampleEnglish": "The guide explained how a bear searches for food before the colder months, when fewer plants are available.",
+    "exampleChinese": "导游解释了熊如何在植物变少的寒冷月份前寻找食物。",
+    "collocations": [
+      {
+        "english": "a brown bear",
+        "chinese": "棕熊"
+      },
+      {
+        "english": "a polar bear",
+        "chinese": "北极熊"
+      }
+    ]
+  },
+  "ngsl12:cut": {
+    "exampleEnglish": "Please cut the cardboard along the marked lines so that the pieces will fit together correctly later.",
+    "exampleChinese": "请沿标记线裁纸板，让各部分稍后能正确拼合。",
+    "collocations": [
+      {
+        "english": "cut into pieces",
+        "chinese": "切成块"
+      },
+      {
+        "english": "cut along a line",
+        "chinese": "沿线裁切"
+      }
+    ]
+  },
+  "ngsl12:describe": {
+    "exampleEnglish": "Can you describe the missing bag clearly enough for the station staff to recognise it if it appears?",
+    "exampleChinese": "你能把丢失的包描述清楚，让车站工作人员发现时认出来吗？",
+    "collocations": [
+      {
+        "english": "describe something in detail",
+        "chinese": "详细描述某物"
+      },
+      {
+        "english": "describe how something works",
+        "chinese": "描述某物如何运作"
+      }
+    ]
+  },
+  "ngsl12:himself": {
+    "exampleEnglish": "Although the instructions looked difficult, he managed to assemble the shelves himself without asking his neighbour for help.",
+    "exampleChinese": "虽然说明看起来很难，他还是没找邻居帮忙，自己装好了架子。",
+    "collocations": [
+      {
+        "english": "by himself",
+        "chinese": "他独自"
+      },
+      {
+        "english": "he himself",
+        "chinese": "他本人"
+      }
+    ]
+  },
+  "ngsl12:available": {
+    "exampleEnglish": "Several places are still available on the afternoon tour, but you should book before leaving the information centre.",
+    "exampleChinese": "下午的导览还剩几个名额，但你应在离开咨询中心前预订。",
+    "collocations": [
+      {
+        "english": "available for use",
+        "chinese": "可供使用"
+      },
+      {
+        "english": "available to everyone",
+        "chinese": "每个人都可获得"
+      }
+    ]
+  },
+  "ngsl12:especially": {
+    "exampleEnglish": "The shaded path is especially pleasant during summer, when the open fields become too hot for comfortable walking.",
+    "exampleChinese": "夏天开阔田野热得不适合舒适步行时，这条林荫小路尤其宜人。",
+    "collocations": [
+      {
+        "english": "especially useful",
+        "chinese": "特别有用"
+      },
+      {
+        "english": "especially when",
+        "chinese": "尤其当……"
+      }
+    ]
+  },
+  "ngsl12:strong": {
+    "exampleEnglish": "The strong volunteer carried the heavy boxes upstairs while the rest of us prepared the tables.",
+    "exampleChinese": "那位强壮的志愿者把重箱子搬上楼，其余人则准备桌子。",
+    "collocations": [
+      {
+        "english": "physically strong",
+        "chinese": "身体强壮"
+      },
+      {
+        "english": "a strong swimmer",
+        "chinese": "强健的游泳者"
+      }
+    ]
+  },
+  "ngsl12:rise": {
+    "exampleEnglish": "We watched the sun rise above the hills while waiting for the first boat to leave the harbour.",
+    "exampleChinese": "等待第一班船驶离港口时，我们看着太阳从山上升起。",
+    "collocations": [
+      {
+        "english": "rise slowly",
+        "chinese": "缓缓上升"
+      },
+      {
+        "english": "rise above the surface",
+        "chinese": "升到表面之上"
+      }
+    ]
+  },
+  "ngsl12:girl": {
+    "exampleEnglish": "The girl who designed the poster explained how she had chosen colours that people could recognise easily.",
+    "exampleChinese": "设计海报的女孩解释了，她如何选出容易被人识别的颜色。",
+    "collocations": [
+      {
+        "english": "a young girl",
+        "chinese": "小女孩"
+      },
+      {
+        "english": "a teenage girl",
+        "chinese": "少女"
+      }
+    ]
+  },
+  "ngsl12:maybe": {
+    "exampleEnglish": "Maybe we should visit the smaller gallery first, since it usually closes earlier than the main museum.",
+    "exampleChinese": "也许我们该先去较小的画廊，因为它通常比主博物馆关门早。",
+    "collocations": [
+      {
+        "english": "maybe next time",
+        "chinese": "也许下次"
+      },
+      {
+        "english": "maybe later",
+        "chinese": "也许稍后"
+      }
+    ]
+  },
+  "ngsl12:community": {
+    "exampleEnglish": "The local community worked together to restore the park, sharing tools and organising activities for younger residents.",
+    "exampleChinese": "当地社区齐心修复公园，共享工具，也为年轻居民组织活动。",
+    "collocations": [
+      {
+        "english": "the local community",
+        "chinese": "当地社区"
+      },
+      {
+        "english": "community activities",
+        "chinese": "社区活动"
+      }
+    ]
+  },
+  "ngsl12:else": {
+    "exampleEnglish": "Finish labelling the boxes before the delivery arrives, or else we may send them to the wrong addresses.",
+    "exampleChinese": "送货车来之前先贴好箱子标签，否则我们可能寄错地址。",
+    "collocations": [
+      {
+        "english": "or else",
+        "chinese": "否则"
+      },
+      {
+        "english": "what else",
+        "chinese": "还有什么"
+      }
+    ]
+  },
+  "ngsl12:particular": {
+    "exampleEnglish": "We chose this particular route because it passed the old watermill that my grandfather had described to us.",
+    "exampleChinese": "我们特意选这条路线，因为它经过爷爷曾向我们描述的老水磨坊。",
+    "collocations": [
+      {
+        "english": "a particular place",
+        "chinese": "某个特定地点"
+      },
+      {
+        "english": "in particular",
+        "chinese": "尤其"
+      }
+    ]
+  },
+  "ngsl12:role": {
+    "exampleEnglish": "She prepared carefully for her role as a village teacher in the play, studying photographs from the period.",
+    "exampleChinese": "她为剧中乡村教师的角色认真准备，研究了那个年代的照片。",
+    "collocations": [
+      {
+        "english": "play a role",
+        "chinese": "扮演角色"
+      },
+      {
+        "english": "a leading role",
+        "chinese": "主角"
+      }
+    ]
+  },
+  "ngsl12:join": {
+    "exampleEnglish": "We need to join the two wooden sections securely before adding the wheels to the model cart.",
+    "exampleChinese": "给小车模型装轮子前，我们需要先把两段木制部分牢固连接起来。",
+    "collocations": [
+      {
+        "english": "join two pieces together",
+        "chinese": "把两块连接起来"
+      },
+      {
+        "english": "join one part to another",
+        "chinese": "把一部分接到另一部分"
+      }
+    ]
+  }
+}

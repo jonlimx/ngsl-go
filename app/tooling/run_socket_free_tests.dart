@@ -12,6 +12,11 @@ import 'package:test_api/src/backend/test.dart';
 import '../test/study_store_test.dart' as stores;
 import '../test/story_validation_test.dart' as stories;
 import '../test/tablet_ui_test.dart' as tablet;
+import '../test/memory_learning_test.dart' as memory;
+import '../test/vocabulary_features_test.dart' as vocabulary;
+import '../test/daily_updates_test.dart' as updates;
+import '../test/common_meanings_test.dart' as meanings;
+import '../test/device_mode_test.dart' as device;
 
 Future<void> main() async {
   final declarer = Declarer();
@@ -19,6 +24,11 @@ Future<void> main() async {
     declarer.group('store', stores.main);
     declarer.group('story', stories.main);
     declarer.group('tablet', tablet.main);
+    declarer.group('memory', memory.main);
+    declarer.group('vocabulary', vocabulary.main);
+    declarer.group('updates', updates.main);
+    declarer.group('meanings', meanings.main);
+    declarer.group('device', device.main);
   });
   final suite = Suite(declarer.build(), SuitePlatform(Runtime.vm));
   var passed = 0, failed = 0;

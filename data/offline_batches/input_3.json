@@ -1,0 +1,5670 @@
+[
+  {
+    "id": "ngsl12:memory",
+    "word": "memory",
+    "pos": "noun",
+    "chinese": "记忆",
+    "english": "something that has been remembered",
+    "forms": [
+      "memory",
+      "memories"
+    ]
+  },
+  {
+    "id": "ngsl12:green",
+    "word": "green",
+    "pos": "noun",
+    "chinese": "绿色",
+    "english": "color of young leaves",
+    "forms": [
+      "green",
+      "greens",
+      "greened",
+      "greening",
+      "greener",
+      "greenest"
+    ]
+  },
+  {
+    "id": "ngsl12:song",
+    "word": "song",
+    "pos": "noun",
+    "chinese": "歌曲",
+    "english": "some music with words in verse",
+    "forms": [
+      "song",
+      "songs"
+    ]
+  },
+  {
+    "id": "ngsl12:object",
+    "word": "object",
+    "pos": "verb",
+    "chinese": "反对",
+    "english": "to disagree; to protest against an idea or plan",
+    "forms": [
+      "object",
+      "objects",
+      "objected",
+      "objecting"
+    ]
+  },
+  {
+    "id": "ngsl12:maintain",
+    "word": "maintain",
+    "pos": "verb",
+    "chinese": "维持；保持",
+    "english": "to keep, exist or continue without changing",
+    "forms": [
+      "maintain",
+      "maintains",
+      "maintained",
+      "maintaining"
+    ]
+  },
+  {
+    "id": "ngsl12:credit",
+    "word": "credit",
+    "pos": "noun",
+    "chinese": "信用",
+    "english": "system to buy something and pay for it later",
+    "forms": [
+      "credit",
+      "credits",
+      "credited",
+      "crediting"
+    ]
+  },
+  {
+    "id": "ngsl12:ring",
+    "word": "ring",
+    "pos": "noun",
+    "chinese": "环状物；铃声",
+    "english": "a thing that roughly forms a circle, usually around something; the sound of a bell",
+    "forms": [
+      "ring",
+      "rings",
+      "ringed",
+      "rang",
+      "ringing",
+      "rung"
+    ]
+  },
+  {
+    "id": "ngsl12:discover",
+    "word": "discover",
+    "pos": "verb",
+    "chinese": "发现",
+    "english": "to find something new that was not known before",
+    "forms": [
+      "discover",
+      "discovers",
+      "discovered",
+      "discovering"
+    ]
+  },
+  {
+    "id": "ngsl12:dead",
+    "word": "dead",
+    "pos": "adj",
+    "chinese": "死的",
+    "english": "not alive",
+    "forms": [
+      "dead",
+      "deader",
+      "deadest"
+    ]
+  },
+  {
+    "id": "ngsl12:afternoon",
+    "word": "afternoon",
+    "pos": "noun",
+    "chinese": "下午",
+    "english": "time after 12:00 and before the evening meal",
+    "forms": [
+      "afternoon",
+      "afternoons"
+    ]
+  },
+  {
+    "id": "ngsl12:prefer",
+    "word": "prefer",
+    "pos": "verb",
+    "chinese": "更喜欢",
+    "english": "to like something better than something else",
+    "forms": [
+      "prefer",
+      "prefers",
+      "preferred",
+      "preferring",
+      "prefered",
+      "prefering"
+    ]
+  },
+  {
+    "id": "ngsl12:extend",
+    "word": "extend",
+    "pos": "verb",
+    "chinese": "延长",
+    "english": "to straighten or stretch something out (e.g., your leg)",
+    "forms": [
+      "extend",
+      "extends",
+      "extended",
+      "extending"
+    ]
+  },
+  {
+    "id": "ngsl12:possibility",
+    "word": "possibility",
+    "pos": "noun",
+    "chinese": "可能性",
+    "english": "something with a chance of happening or being true",
+    "forms": [
+      "possibility",
+      "possibilities"
+    ]
+  },
+  {
+    "id": "ngsl12:direction",
+    "word": "direction",
+    "pos": "noun",
+    "chinese": "方向",
+    "english": "describes the way you are going (e.g., north)",
+    "forms": [
+      "direction",
+      "directions"
+    ]
+  },
+  {
+    "id": "ngsl12:facility",
+    "word": "facility",
+    "pos": "noun",
+    "chinese": "设施",
+    "english": "piece of equipment or buildings with a special use",
+    "forms": [
+      "facility",
+      "facilities"
+    ]
+  },
+  {
+    "id": "ngsl12:variety",
+    "word": "variety",
+    "pos": "noun",
+    "chinese": "多样性",
+    "english": "a particular type or types of things or persons",
+    "forms": [
+      "variety",
+      "varieties"
+    ]
+  },
+  {
+    "id": "ngsl12:daily",
+    "word": "daily",
+    "pos": "adv",
+    "chinese": "日常的",
+    "english": "happening every day",
+    "forms": [
+      "daily",
+      "dailies"
+    ]
+  },
+  {
+    "id": "ngsl12:clothes",
+    "word": "clothes",
+    "pos": "noun",
+    "chinese": "衣服",
+    "english": "things you wear on your body (e.g., shirt, dress, tie)",
+    "forms": [
+      "clothes"
+    ]
+  },
+  {
+    "id": "ngsl12:screen",
+    "word": "screen",
+    "pos": "noun",
+    "chinese": "荧幕",
+    "english": "flat surface on a computer, or tv that shows images",
+    "forms": [
+      "screen",
+      "screens",
+      "screened",
+      "screening",
+      "screenings"
+    ]
+  },
+  {
+    "id": "ngsl12:track",
+    "word": "track",
+    "pos": "verb",
+    "chinese": "跟踪",
+    "english": "to follow behind someone to see what they are doing",
+    "forms": [
+      "track",
+      "tracks",
+      "tracked",
+      "tracking"
+    ]
+  },
+  {
+    "id": "ngsl12:dance",
+    "word": "dance",
+    "pos": "verb",
+    "chinese": "舞蹈",
+    "english": "to move your body rhythmically to music",
+    "forms": [
+      "dance",
+      "dances",
+      "danced",
+      "dancing"
+    ]
+  },
+  {
+    "id": "ngsl12:completely",
+    "word": "completely",
+    "pos": "adv",
+    "chinese": "完全地",
+    "english": "in every way or as much as possible",
+    "forms": [
+      "completely"
+    ]
+  },
+  {
+    "id": "ngsl12:female",
+    "word": "female",
+    "pos": "adj",
+    "chinese": "女性",
+    "english": "person of the sex that gives birth to babies",
+    "forms": [
+      "female",
+      "females"
+    ]
+  },
+  {
+    "id": "ngsl12:responsibility",
+    "word": "responsibility",
+    "pos": "noun",
+    "chinese": "责任",
+    "english": "state of being dependable or reliable",
+    "forms": [
+      "responsibility",
+      "responsibilities"
+    ]
+  },
+  {
+    "id": "ngsl12:original",
+    "word": "original",
+    "pos": "adj",
+    "chinese": "起初的；原来的",
+    "english": "being first made, thought, or performed; fresh",
+    "forms": [
+      "original",
+      "originals"
+    ]
+  },
+  {
+    "id": "ngsl12:sister",
+    "word": "sister",
+    "pos": "noun",
+    "chinese": "姐妹",
+    "english": "female you share a parent with",
+    "forms": [
+      "sister",
+      "sisters"
+    ]
+  },
+  {
+    "id": "ngsl12:rock",
+    "word": "rock",
+    "pos": "noun",
+    "chinese": "岩石",
+    "english": "big stone; hard, solid substance forming mountains",
+    "forms": [
+      "rock",
+      "rocks",
+      "rocked",
+      "rocking"
+    ]
+  },
+  {
+    "id": "ngsl12:dream",
+    "word": "dream",
+    "pos": "noun",
+    "chinese": "梦",
+    "english": "images, thoughts, and feelings that are experienced during sleep",
+    "forms": [
+      "dream",
+      "dreams",
+      "dreamed",
+      "dreaming",
+      "dreamt"
+    ]
+  },
+  {
+    "id": "ngsl12:nor",
+    "word": "nor",
+    "pos": "conj",
+    "chinese": "也不；也没有",
+    "english": "used to show two things that are both untrue or do not happen",
+    "forms": [
+      "nor"
+    ]
+  },
+  {
+    "id": "ngsl12:university",
+    "word": "university",
+    "pos": "noun",
+    "chinese": "大学",
+    "english": "high-level educational institution; college",
+    "forms": [
+      "university",
+      "universities"
+    ]
+  },
+  {
+    "id": "ngsl12:easily",
+    "word": "easily",
+    "pos": "adv",
+    "chinese": "容易地",
+    "english": "without difficulty",
+    "forms": [
+      "easily"
+    ]
+  },
+  {
+    "id": "ngsl12:agency",
+    "word": "agency",
+    "pos": "noun",
+    "chinese": "代理",
+    "english": "business that provides some service for others",
+    "forms": [
+      "agency",
+      "agencies"
+    ]
+  },
+  {
+    "id": "ngsl12:dollar",
+    "word": "dollar",
+    "pos": "noun",
+    "chinese": "美元",
+    "english": "a basic unit of money equal to 100 cent",
+    "forms": [
+      "dollar",
+      "dollars"
+    ]
+  },
+  {
+    "id": "ngsl12:garden",
+    "word": "garden",
+    "pos": "noun",
+    "chinese": "花园",
+    "english": "yard; ground outside your house to grow plants",
+    "forms": [
+      "garden",
+      "gardens",
+      "gardened",
+      "gardening"
+    ]
+  },
+  {
+    "id": "ngsl12:fix",
+    "word": "fix",
+    "pos": "verb",
+    "chinese": "固定",
+    "english": "to make something whole or able to work again",
+    "forms": [
+      "fix",
+      "fixes",
+      "fixed",
+      "fixing",
+      "fixings"
+    ]
+  },
+  {
+    "id": "ngsl12:ahead",
+    "word": "ahead",
+    "pos": "adv",
+    "chinese": "在前面；朝前面",
+    "english": "in or toward the front",
+    "forms": [
+      "ahead"
+    ]
+  },
+  {
+    "id": "ngsl12:cross",
+    "word": "cross",
+    "pos": "verb",
+    "chinese": "交叉",
+    "english": "to meet at one point",
+    "forms": [
+      "cross",
+      "crosses",
+      "crossed",
+      "crossing",
+      "crossings"
+    ]
+  },
+  {
+    "id": "ngsl12:yeah",
+    "word": "yeah",
+    "pos": "intj",
+    "chinese": "是的",
+    "english": "yes (informal)",
+    "forms": [
+      "yeah"
+    ]
+  },
+  {
+    "id": "ngsl12:candidate",
+    "word": "candidate",
+    "pos": "noun",
+    "chinese": "候选人",
+    "english": "a person being considered for a job or position in office",
+    "forms": [
+      "candidate",
+      "candidates"
+    ]
+  },
+  {
+    "id": "ngsl12:weight",
+    "word": "weight",
+    "pos": "noun",
+    "chinese": "重量",
+    "english": "how heavy something is",
+    "forms": [
+      "weight",
+      "weights",
+      "weighted",
+      "weighting",
+      "weightings"
+    ]
+  },
+  {
+    "id": "ngsl12:legal",
+    "word": "legal",
+    "pos": "adj",
+    "chinese": "合法的;法律的",
+    "english": "concerning the law; allowed by law",
+    "forms": [
+      "legal"
+    ]
+  },
+  {
+    "id": "ngsl12:proposal",
+    "word": "proposal",
+    "pos": "noun",
+    "chinese": "提议",
+    "english": "offer or plan to people who can decide about it",
+    "forms": [
+      "proposal",
+      "proposals"
+    ]
+  },
+  {
+    "id": "ngsl12:version",
+    "word": "version",
+    "pos": "noun",
+    "chinese": "版本",
+    "english": "particular form of something and other forms",
+    "forms": [
+      "version",
+      "versions",
+      "versioned"
+    ]
+  },
+  {
+    "id": "ngsl12:conversation",
+    "word": "conversation",
+    "pos": "noun",
+    "chinese": "会话；交谈",
+    "english": "when you talk with other people; discussion or chat",
+    "forms": [
+      "conversation",
+      "conversations"
+    ]
+  },
+  {
+    "id": "ngsl12:somebody",
+    "word": "somebody",
+    "pos": "pron",
+    "chinese": "某人",
+    "english": "person who is not known or named",
+    "forms": [
+      "somebody"
+    ]
+  },
+  {
+    "id": "ngsl12:pound",
+    "word": "pound",
+    "pos": "noun",
+    "chinese": "磅",
+    "english": "unit of weight equal to 16 ounces or 0.4536 kg",
+    "forms": [
+      "pound",
+      "pounds",
+      "pounded",
+      "pounding",
+      "poundings"
+    ]
+  },
+  {
+    "id": "ngsl12:magazine",
+    "word": "magazine",
+    "pos": "noun",
+    "chinese": "杂志",
+    "english": "weekly or monthly publication with pictures and stories",
+    "forms": [
+      "magazine",
+      "magazines"
+    ]
+  },
+  {
+    "id": "ngsl12:shape",
+    "word": "shape",
+    "pos": "noun",
+    "chinese": "形状",
+    "english": "outer form of something, what it looks like",
+    "forms": [
+      "shape",
+      "shapes",
+      "shaped",
+      "shaping"
+    ]
+  },
+  {
+    "id": "ngsl12:sea",
+    "word": "sea",
+    "pos": "noun",
+    "chinese": "海洋",
+    "english": "place with a large amount of salt water",
+    "forms": [
+      "sea",
+      "seas"
+    ]
+  },
+  {
+    "id": "ngsl12:immediately",
+    "word": "immediately",
+    "pos": "adv",
+    "chinese": "立即地",
+    "english": "without any delay; straight away; right (after or before)",
+    "forms": [
+      "immediately"
+    ]
+  },
+  {
+    "id": "ngsl12:welcome",
+    "word": "welcome",
+    "pos": "noun",
+    "chinese": "欢迎",
+    "english": "friendly greeting to someone who has arrived",
+    "forms": [
+      "welcome",
+      "welcomes",
+      "welcomed",
+      "welcoming"
+    ]
+  },
+  {
+    "id": "ngsl12:smile",
+    "word": "smile",
+    "pos": "verb",
+    "chinese": "微笑",
+    "english": "to show happiness by pulling up the corners of your mouth",
+    "forms": [
+      "smile",
+      "smiles",
+      "smiled",
+      "smiling"
+    ]
+  },
+  {
+    "id": "ngsl12:communication",
+    "word": "communication",
+    "pos": "noun",
+    "chinese": "交流；通信",
+    "english": "the process or method to give or exchange information",
+    "forms": [
+      "communication",
+      "communications"
+    ]
+  },
+  {
+    "id": "ngsl12:agent",
+    "word": "agent",
+    "pos": "noun",
+    "chinese": "代理人",
+    "english": "person who can represent and decide for others",
+    "forms": [
+      "agent",
+      "agents"
+    ]
+  },
+  {
+    "id": "ngsl12:traditional",
+    "word": "traditional",
+    "pos": "adj",
+    "chinese": "传统的",
+    "english": "involved in a tradition",
+    "forms": [
+      "traditional"
+    ]
+  },
+  {
+    "id": "ngsl12:replace",
+    "word": "replace",
+    "pos": "verb",
+    "chinese": "代替",
+    "english": "to use instead of something else",
+    "forms": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ]
+  },
+  {
+    "id": "ngsl12:judge",
+    "word": "judge",
+    "pos": "verb",
+    "chinese": "审判；裁决",
+    "english": "to form an opinion after careful consideration",
+    "forms": [
+      "judge",
+      "judges",
+      "judged",
+      "judging"
+    ]
+  },
+  {
+    "id": "ngsl12:herself",
+    "word": "herself",
+    "pos": "pron",
+    "chinese": "她自己",
+    "english": "female person that did the original action",
+    "forms": [
+      "herself"
+    ]
+  },
+  {
+    "id": "ngsl12:suddenly",
+    "word": "suddenly",
+    "pos": "adv",
+    "chinese": "突然地",
+    "english": "in an unexpected or very quick manner",
+    "forms": [
+      "suddenly"
+    ]
+  },
+  {
+    "id": "ngsl12:generation",
+    "word": "generation",
+    "pos": "noun",
+    "chinese": "一代人",
+    "english": "people born and living at about the same time",
+    "forms": [
+      "generation",
+      "generations"
+    ]
+  },
+  {
+    "id": "ngsl12:estimate",
+    "word": "estimate",
+    "pos": "noun",
+    "chinese": "估计；估价",
+    "english": "guess or calculation of cost, size, or value",
+    "forms": [
+      "estimate",
+      "estimates",
+      "estimated",
+      "estimating"
+    ]
+  },
+  {
+    "id": "ngsl12:favorite",
+    "word": "favorite",
+    "pos": "adj",
+    "chinese": "最喜欢的",
+    "english": "most liked; best loved",
+    "forms": [
+      "favorite",
+      "favorites",
+      "favourite",
+      "favourites"
+    ]
+  },
+  {
+    "id": "ngsl12:difficulty",
+    "word": "difficulty",
+    "pos": "noun",
+    "chinese": "困难",
+    "english": "something that is hard to do",
+    "forms": [
+      "difficulty",
+      "difficulties"
+    ]
+  },
+  {
+    "id": "ngsl12:purchase",
+    "word": "purchase",
+    "pos": "verb",
+    "chinese": "购买",
+    "english": "to buy something; to get by paying money for it",
+    "forms": [
+      "purchase",
+      "purchases",
+      "purchased",
+      "purchasing"
+    ]
+  },
+  {
+    "id": "ngsl12:shoot",
+    "word": "shoot",
+    "pos": "verb",
+    "chinese": "射击",
+    "english": "to kick or throw a ball at a goal",
+    "forms": [
+      "shoot",
+      "shoots",
+      "shooting",
+      "shootings"
+    ]
+  },
+  {
+    "id": "ngsl12:announce",
+    "word": "announce",
+    "pos": "verb",
+    "chinese": "宣布",
+    "english": "to make a public statement about a plan, decision",
+    "forms": [
+      "announce",
+      "announces",
+      "announced",
+      "announcing"
+    ]
+  },
+  {
+    "id": "ngsl12:unless",
+    "word": "unless",
+    "pos": "conj",
+    "chinese": "除非",
+    "english": "negative of 'if'",
+    "forms": [
+      "unless"
+    ]
+  },
+  {
+    "id": "ngsl12:independent",
+    "word": "independent",
+    "pos": "adj",
+    "chinese": "独立的",
+    "english": "making your own decisions; not controlled by others",
+    "forms": [
+      "independent",
+      "independents"
+    ]
+  },
+  {
+    "id": "ngsl12:recommend",
+    "word": "recommend",
+    "pos": "verb",
+    "chinese": "推荐",
+    "english": "to say something is good and deserves to be chosen",
+    "forms": [
+      "recommend",
+      "recommends",
+      "recommended",
+      "recommending"
+    ]
+  },
+  {
+    "id": "ngsl12:survey",
+    "word": "survey",
+    "pos": "verb",
+    "chinese": "民意调查",
+    "english": "to ask people a question about a particular topic",
+    "forms": [
+      "survey",
+      "surveys",
+      "surveyed",
+      "surveying"
+    ]
+  },
+  {
+    "id": "ngsl12:majority",
+    "word": "majority",
+    "pos": "noun",
+    "chinese": "多数",
+    "english": "amount that is more than half of a group",
+    "forms": [
+      "majority",
+      "majorities"
+    ]
+  },
+  {
+    "id": "ngsl12:stick",
+    "word": "stick",
+    "pos": "noun",
+    "chinese": "枝条；棍",
+    "english": "long thin piece of wood from a tree",
+    "forms": [
+      "stick",
+      "sticks",
+      "stuck",
+      "sticking"
+    ]
+  },
+  {
+    "id": "ngsl12:request",
+    "word": "request",
+    "pos": "verb",
+    "chinese": "要求",
+    "english": "to ask for something",
+    "forms": [
+      "request",
+      "requests",
+      "requested",
+      "requesting"
+    ]
+  },
+  {
+    "id": "ngsl12:rich",
+    "word": "rich",
+    "pos": "adj",
+    "chinese": "富有的；富饶的",
+    "english": "having a lot of money, possessions, or resources",
+    "forms": [
+      "rich",
+      "richer",
+      "richest"
+    ]
+  },
+  {
+    "id": "ngsl12:wind",
+    "word": "wind",
+    "pos": "noun",
+    "chinese": "风",
+    "english": "natural movement of outside air as part of the weather",
+    "forms": [
+      "wind",
+      "winds",
+      "wound",
+      "winded",
+      "winding"
+    ]
+  },
+  {
+    "id": "ngsl12:none",
+    "word": "none",
+    "pos": "pron",
+    "chinese": "没有一个；毫无",
+    "english": "not one of a group; not at all or in no way",
+    "forms": [
+      "none"
+    ]
+  },
+  {
+    "id": "ngsl12:exchange",
+    "word": "exchange",
+    "pos": "verb",
+    "chinese": "交换",
+    "english": "to give things of similar value to each other",
+    "forms": [
+      "exchange",
+      "exchanges",
+      "exchanged",
+      "exchanging"
+    ]
+  },
+  {
+    "id": "ngsl12:budget",
+    "word": "budget",
+    "pos": "noun",
+    "chinese": "预算",
+    "english": "amount of money planned to be spent on something",
+    "forms": [
+      "budget",
+      "budgets",
+      "budgeted",
+      "budgeting"
+    ]
+  },
+  {
+    "id": "ngsl12:famous",
+    "word": "famous",
+    "pos": "adj",
+    "chinese": "著名的；出名的",
+    "english": "widely known; recognized by many people",
+    "forms": [
+      "famous"
+    ]
+  },
+  {
+    "id": "ngsl12:blood",
+    "word": "blood",
+    "pos": "noun",
+    "chinese": "血液",
+    "english": "red liquid in the bodies of people and animals",
+    "forms": [
+      "blood",
+      "bloods",
+      "blooded",
+      "blooding"
+    ]
+  },
+  {
+    "id": "ngsl12:appropriate",
+    "word": "appropriate",
+    "pos": "adj",
+    "chinese": "适当的",
+    "english": "right or suitable for some situation or purpose",
+    "forms": [
+      "appropriate",
+      "appropriates",
+      "appropriated",
+      "appropriating"
+    ]
+  },
+  {
+    "id": "ngsl12:block",
+    "word": "block",
+    "pos": "verb",
+    "chinese": "阻塞",
+    "english": "to stop from going forward or making progress",
+    "forms": [
+      "block",
+      "blocks",
+      "blocked",
+      "blocking"
+    ]
+  },
+  {
+    "id": "ngsl12:warm",
+    "word": "warm",
+    "pos": "adj",
+    "chinese": "暖和的",
+    "english": "slightly hot; not very hot",
+    "forms": [
+      "warm",
+      "warms",
+      "warmed",
+      "warming",
+      "warmer",
+      "warmest"
+    ]
+  },
+  {
+    "id": "ngsl12:count",
+    "word": "count",
+    "pos": "verb",
+    "chinese": "数数",
+    "english": "to add things together to find the total number",
+    "forms": [
+      "count",
+      "counts",
+      "counted",
+      "counting"
+    ]
+  },
+  {
+    "id": "ngsl12:scene",
+    "word": "scene",
+    "pos": "noun",
+    "chinese": "场景",
+    "english": "part of an act in a play",
+    "forms": [
+      "scene",
+      "scenes"
+    ]
+  },
+  {
+    "id": "ngsl12:writer",
+    "word": "writer",
+    "pos": "noun",
+    "chinese": "作者",
+    "english": "professional who writes books, articles, etc.",
+    "forms": [
+      "writer",
+      "writers"
+    ]
+  },
+  {
+    "id": "ngsl12:content",
+    "word": "content",
+    "pos": "noun",
+    "chinese": "内容",
+    "english": "information in something (e.g., a book or computer program)",
+    "forms": [
+      "content",
+      "contents",
+      "contented",
+      "contenting"
+    ]
+  },
+  {
+    "id": "ngsl12:prevent",
+    "word": "prevent",
+    "pos": "verb",
+    "chinese": "阻止",
+    "english": "to stop something from happening or existing",
+    "forms": [
+      "prevent",
+      "prevents",
+      "prevented",
+      "preventing"
+    ]
+  },
+  {
+    "id": "ngsl12:safe",
+    "word": "safe",
+    "pos": "adj",
+    "chinese": "安全的",
+    "english": "being out of danger",
+    "forms": [
+      "safe",
+      "safer",
+      "safest"
+    ]
+  },
+  {
+    "id": "ngsl12:invite",
+    "word": "invite",
+    "pos": "verb",
+    "chinese": "邀请",
+    "english": "to ask someone to go somewhere or do something",
+    "forms": [
+      "invite",
+      "invites",
+      "invited",
+      "inviting"
+    ]
+  },
+  {
+    "id": "ngsl12:mix",
+    "word": "mix",
+    "pos": "verb",
+    "chinese": "混合",
+    "english": "to combine two or more things to make one",
+    "forms": [
+      "mix",
+      "mixes",
+      "mixed",
+      "mixing"
+    ]
+  },
+  {
+    "id": "ngsl12:element",
+    "word": "element",
+    "pos": "noun",
+    "chinese": "要素；元素",
+    "english": "essential or particular part of something",
+    "forms": [
+      "element",
+      "elements"
+    ]
+  },
+  {
+    "id": "ngsl12:effective",
+    "word": "effective",
+    "pos": "adj",
+    "chinese": "有效的",
+    "english": "working efficiently to produce a desired result",
+    "forms": [
+      "effective"
+    ]
+  },
+  {
+    "id": "ngsl12:correct",
+    "word": "correct",
+    "pos": "adj",
+    "chinese": "正确的",
+    "english": "true or accurate",
+    "forms": [
+      "correct",
+      "corrects",
+      "corrected",
+      "correcting"
+    ]
+  },
+  {
+    "id": "ngsl12:medical",
+    "word": "medical",
+    "pos": "adj",
+    "chinese": "医疗的",
+    "english": "of or relating to physical health or medicine",
+    "forms": [
+      "medical",
+      "medicals"
+    ]
+  },
+  {
+    "id": "ngsl12:admit",
+    "word": "admit",
+    "pos": "verb",
+    "chinese": "承认",
+    "english": "to agree that you did something bad, or that something bad is true",
+    "forms": [
+      "admit",
+      "admits",
+      "admitting",
+      "admitted"
+    ]
+  },
+  {
+    "id": "ngsl12:beat",
+    "word": "beat",
+    "pos": "verb",
+    "chinese": "击败",
+    "english": "1) (n) sound made when you (v) hit something many times; 2) to win against another person or team",
+    "forms": [
+      "beat",
+      "beats",
+      "beating",
+      "beaten",
+      "beatings"
+    ]
+  },
+  {
+    "id": "ngsl12:telephone",
+    "word": "telephone",
+    "pos": "noun",
+    "chinese": "电话机",
+    "english": "machine used to talk to someone who is far away",
+    "forms": [
+      "telephone",
+      "telephones",
+      "telephoned",
+      "telephoning"
+    ]
+  },
+  {
+    "id": "ngsl12:copy",
+    "word": "copy",
+    "pos": "verb",
+    "chinese": "复制",
+    "english": "to make something that looks the same as the original",
+    "forms": [
+      "copy",
+      "copies",
+      "copied",
+      "copying"
+    ]
+  },
+  {
+    "id": "ngsl12:committee",
+    "word": "committee",
+    "pos": "noun",
+    "chinese": "委员会",
+    "english": "group of people who do or decide something",
+    "forms": [
+      "committee",
+      "committees"
+    ]
+  },
+  {
+    "id": "ngsl12:aware",
+    "word": "aware",
+    "pos": "adj",
+    "chinese": "意识到的",
+    "english": "knowing or feeling that something exists",
+    "forms": [
+      "aware"
+    ]
+  },
+  {
+    "id": "ngsl12:advice",
+    "word": "advice",
+    "pos": "noun",
+    "chinese": "建议",
+    "english": "suggestion about what someone should do",
+    "forms": [
+      "advice",
+      "advices"
+    ]
+  },
+  {
+    "id": "ngsl12:handle",
+    "word": "handle",
+    "pos": "verb",
+    "chinese": "处理",
+    "english": "to have the ability to cope with or take responsibility for",
+    "forms": [
+      "handle",
+      "handles",
+      "handled",
+      "handling"
+    ]
+  },
+  {
+    "id": "ngsl12:glass",
+    "word": "glass",
+    "pos": "noun",
+    "chinese": "玻璃",
+    "english": "hard transparent material used for making windows",
+    "forms": [
+      "glass",
+      "glasses",
+      "glassed",
+      "glassing"
+    ]
+  },
+  {
+    "id": "ngsl12:trial",
+    "word": "trial",
+    "pos": "noun",
+    "chinese": "试验；审讯",
+    "english": "an event to determine the quality of something or someone",
+    "forms": [
+      "trial",
+      "trials",
+      "trialed",
+      "trialing",
+      "trialled",
+      "trialling"
+    ]
+  },
+  {
+    "id": "ngsl12:stress",
+    "word": "stress",
+    "pos": "verb",
+    "chinese": "强调；使紧张",
+    "english": "to be in a state of mental tension due to problems",
+    "forms": [
+      "stress",
+      "stresses",
+      "stressed"
+    ]
+  },
+  {
+    "id": "ngsl12:radio",
+    "word": "radio",
+    "pos": "noun",
+    "chinese": "无线电",
+    "english": "system for sending and receiving signals through the air",
+    "forms": [
+      "radio",
+      "radios",
+      "radioed"
+    ]
+  },
+  {
+    "id": "ngsl12:administration",
+    "word": "administration",
+    "pos": "noun",
+    "chinese": "管理；行政",
+    "english": "the work of running something (e.g., a business)",
+    "forms": [
+      "administration",
+      "administrations"
+    ]
+  },
+  {
+    "id": "ngsl12:complex",
+    "word": "complex",
+    "pos": "adj",
+    "chinese": "复杂的",
+    "english": "difficult, not easy to understand or explain",
+    "forms": [
+      "complex",
+      "complexes"
+    ]
+  },
+  {
+    "id": "ngsl12:text",
+    "word": "text",
+    "pos": "noun",
+    "chinese": "正文；文档",
+    "english": "written part of a book or other work",
+    "forms": [
+      "text",
+      "texts"
+    ]
+  },
+  {
+    "id": "ngsl12:context",
+    "word": "context",
+    "pos": "noun",
+    "chinese": "上下文；语境",
+    "english": "set of facts surrounding a person or event",
+    "forms": [
+      "context",
+      "contexts"
+    ]
+  },
+  {
+    "id": "ngsl12:ride",
+    "word": "ride",
+    "pos": "verb",
+    "chinese": "骑",
+    "english": "to sit on and control a horse or vehicle",
+    "forms": [
+      "ride",
+      "rides",
+      "rode",
+      "riding",
+      "ridden"
+    ]
+  },
+  {
+    "id": "ngsl12:directly",
+    "word": "directly",
+    "pos": "adv",
+    "chinese": "直接地",
+    "english": "from one place or person to another with nothing or no one between",
+    "forms": [
+      "directly"
+    ]
+  },
+  {
+    "id": "ngsl12:heavy",
+    "word": "heavy",
+    "pos": "adj",
+    "chinese": "重的",
+    "english": "having a lot of weight",
+    "forms": [
+      "heavy",
+      "heavies",
+      "heavier",
+      "heaviest"
+    ]
+  },
+  {
+    "id": "ngsl12:remove",
+    "word": "remove",
+    "pos": "verb",
+    "chinese": "去除",
+    "english": "to move, erase or take away from a place",
+    "forms": [
+      "remove",
+      "removes",
+      "removed",
+      "removing"
+    ]
+  },
+  {
+    "id": "ngsl12:conduct",
+    "word": "conduct",
+    "pos": "verb",
+    "chinese": "实施；引导；指挥",
+    "english": "to direct, lead or guide something",
+    "forms": [
+      "conduct",
+      "conducts",
+      "conducted",
+      "conducting"
+    ]
+  },
+  {
+    "id": "ngsl12:equipment",
+    "word": "equipment",
+    "pos": "noun",
+    "chinese": "设备",
+    "english": "tools or materials used to perform a task",
+    "forms": [
+      "equipment",
+      "equipments"
+    ]
+  },
+  {
+    "id": "ngsl12:otherwise",
+    "word": "otherwise",
+    "pos": "adv",
+    "chinese": "否则；不然",
+    "english": "indicates that there will be a bad result if something is done, not done, or done improperly",
+    "forms": [
+      "otherwise"
+    ]
+  },
+  {
+    "id": "ngsl12:title",
+    "word": "title",
+    "pos": "noun",
+    "chinese": "主题",
+    "english": "name given to something to identify or describe it",
+    "forms": [
+      "title",
+      "titles",
+      "titled",
+      "titling"
+    ]
+  },
+  {
+    "id": "ngsl12:extra",
+    "word": "extra",
+    "pos": "adj",
+    "chinese": "额外的",
+    "english": "more than necessary; additional",
+    "forms": [
+      "extra",
+      "extras"
+    ]
+  },
+  {
+    "id": "ngsl12:executive",
+    "word": "executive",
+    "pos": "noun",
+    "chinese": "行政人员",
+    "english": "a senior manager in a business or organization",
+    "forms": [
+      "executive",
+      "executives"
+    ]
+  },
+  {
+    "id": "ngsl12:chair",
+    "word": "chair",
+    "pos": "noun",
+    "chinese": "椅子",
+    "english": "a piece of furniture you sit on when sitting at a table or desk",
+    "forms": [
+      "chair",
+      "chairs",
+      "chaired",
+      "chairing"
+    ]
+  },
+  {
+    "id": "ngsl12:expensive",
+    "word": "expensive",
+    "pos": "adj",
+    "chinese": "昂贵的",
+    "english": "costing a lot of money",
+    "forms": [
+      "expensive"
+    ]
+  },
+  {
+    "id": "ngsl12:sample",
+    "word": "sample",
+    "pos": "verb",
+    "chinese": "样品",
+    "english": "to try something to see if you like it (e.g., food)",
+    "forms": [
+      "sample",
+      "samples",
+      "sampled",
+      "sampling",
+      "samplings"
+    ]
+  },
+  {
+    "id": "ngsl12:sex",
+    "word": "sex",
+    "pos": "noun",
+    "chinese": "性别",
+    "english": "state of being male or female mostly biological",
+    "forms": [
+      "sex",
+      "sexes"
+    ]
+  },
+  {
+    "id": "ngsl12:deliver",
+    "word": "deliver",
+    "pos": "verb",
+    "chinese": "传送",
+    "english": "to take something to a person or place",
+    "forms": [
+      "deliver",
+      "delivers",
+      "delivered",
+      "delivering"
+    ]
+  },
+  {
+    "id": "ngsl12:video",
+    "word": "video",
+    "pos": "noun",
+    "chinese": "视频；录像",
+    "english": "recording capturing action with sound",
+    "forms": [
+      "video",
+      "videos",
+      "videoed"
+    ]
+  },
+  {
+    "id": "ngsl12:connection",
+    "word": "connection",
+    "pos": "noun",
+    "chinese": "连接；关联",
+    "english": "something that joins things together; being joined",
+    "forms": [
+      "connection",
+      "connections",
+      "connexion",
+      "connexions"
+    ]
+  },
+  {
+    "id": "ngsl12:primary",
+    "word": "primary",
+    "pos": "adj",
+    "chinese": "主要的；初级的；基本的",
+    "english": "most important, most basic or essential",
+    "forms": [
+      "primary",
+      "primaries"
+    ]
+  },
+  {
+    "id": "ngsl12:weather",
+    "word": "weather",
+    "pos": "noun",
+    "chinese": "天气",
+    "english": "whether it is raining, sunny, cold, etc., outside",
+    "forms": [
+      "weather",
+      "weathers",
+      "weathered",
+      "weathering"
+    ]
+  },
+  {
+    "id": "ngsl12:collect",
+    "word": "collect",
+    "pos": "verb",
+    "chinese": "收集",
+    "english": "to gather things/people together in one place",
+    "forms": [
+      "collect",
+      "collects",
+      "collected",
+      "collecting"
+    ]
+  },
+  {
+    "id": "ngsl12:inform",
+    "word": "inform",
+    "pos": "verb",
+    "chinese": "通知",
+    "english": "to give information or facts about something",
+    "forms": [
+      "inform",
+      "informs",
+      "informed",
+      "informing"
+    ]
+  },
+  {
+    "id": "ngsl12:principle",
+    "word": "principle",
+    "pos": "noun",
+    "chinese": "原则",
+    "english": "strong belief that influences a person's actions; basic law or belief",
+    "forms": [
+      "principle",
+      "principles",
+      "principled"
+    ]
+  },
+  {
+    "id": "ngsl12:straight",
+    "word": "straight",
+    "pos": "adj",
+    "chinese": "直的",
+    "english": "not having curves, bends, or angles",
+    "forms": [
+      "straight",
+      "straighter",
+      "straightest"
+    ]
+  },
+  {
+    "id": "ngsl12:appeal",
+    "word": "appeal",
+    "pos": "verb",
+    "chinese": "上诉;申诉",
+    "english": "to request a judge or others change a decision",
+    "forms": [
+      "appeal",
+      "appeals",
+      "appealed",
+      "appealing"
+    ]
+  },
+  {
+    "id": "ngsl12:highly",
+    "word": "highly",
+    "pos": "adv",
+    "chinese": "高度地；非常",
+    "english": "more than usual; to a great degree",
+    "forms": [
+      "highly"
+    ]
+  },
+  {
+    "id": "ngsl12:trust",
+    "word": "trust",
+    "pos": "verb",
+    "chinese": "信任",
+    "english": "(v) to have (n) a belief that someone or something is safe, good, and reliable",
+    "forms": [
+      "trust",
+      "trusts",
+      "trusted",
+      "trusting"
+    ]
+  },
+  {
+    "id": "ngsl12:wonderful",
+    "word": "wonderful",
+    "pos": "adj",
+    "chinese": "精彩的",
+    "english": "producing feelings of enjoyment or delight",
+    "forms": [
+      "wonderful"
+    ]
+  },
+  {
+    "id": "ngsl12:flat",
+    "word": "flat",
+    "pos": "adj",
+    "chinese": "平坦的",
+    "english": "level; even; without curves or bumps",
+    "forms": [
+      "flat",
+      "flats",
+      "flatted",
+      "flatting"
+    ]
+  },
+  {
+    "id": "ngsl12:absolutely",
+    "word": "absolutely",
+    "pos": "adv",
+    "chinese": "绝对地",
+    "english": "completely; totally; very",
+    "forms": [
+      "absolutely"
+    ]
+  },
+  {
+    "id": "ngsl12:flow",
+    "word": "flow",
+    "pos": "verb",
+    "chinese": "流动",
+    "english": "to move steadily and easily in a certain direction",
+    "forms": [
+      "flow",
+      "flows",
+      "flowed",
+      "flowing"
+    ]
+  },
+  {
+    "id": "ngsl12:fair",
+    "word": "fair",
+    "pos": "adj",
+    "chinese": "公平的",
+    "english": "treating all people the same way",
+    "forms": [
+      "fair",
+      "fairs",
+      "faired",
+      "fairing",
+      "fairer",
+      "fairest"
+    ]
+  },
+  {
+    "id": "ngsl12:additional",
+    "word": "additional",
+    "pos": "adj",
+    "chinese": "附加的",
+    "english": "further or added",
+    "forms": [
+      "additional"
+    ]
+  },
+  {
+    "id": "ngsl12:responsible",
+    "word": "responsible",
+    "pos": "adj",
+    "chinese": "负责的",
+    "english": "having the duty of dealing with something; being the cause or creator of something; behaving in a mature and reasonable manner",
+    "forms": [
+      "responsible"
+    ]
+  },
+  {
+    "id": "ngsl12:farm",
+    "word": "farm",
+    "pos": "noun",
+    "chinese": "农场",
+    "english": "land used for growing crops or raising animals",
+    "forms": [
+      "farm",
+      "farms",
+      "farmed",
+      "farming"
+    ]
+  },
+  {
+    "id": "ngsl12:collection",
+    "word": "collection",
+    "pos": "noun",
+    "chinese": "收藏",
+    "english": "group of similar things gathered as a hobby",
+    "forms": [
+      "collection",
+      "collections"
+    ]
+  },
+  {
+    "id": "ngsl12:hang",
+    "word": "hang",
+    "pos": "verb",
+    "chinese": "悬挂",
+    "english": "to attach a picture, photograph, etc., onto a wall",
+    "forms": [
+      "hang",
+      "hangs",
+      "hung",
+      "hanging",
+      "hanged",
+      "hangings"
+    ]
+  },
+  {
+    "id": "ngsl12:negative",
+    "word": "negative",
+    "pos": "adj",
+    "chinese": "消极的;负面的",
+    "english": "being harmful, unwanted, or unhelpful",
+    "forms": [
+      "negative",
+      "negatives"
+    ]
+  },
+  {
+    "id": "ngsl12:band",
+    "word": "band",
+    "pos": "noun",
+    "chinese": "乐队",
+    "english": "group of people who work together (e.g., play music)",
+    "forms": [
+      "band",
+      "bands",
+      "banded"
+    ]
+  },
+  {
+    "id": "ngsl12:relative",
+    "word": "relative",
+    "pos": "noun",
+    "chinese": "相对的",
+    "english": "measured or considered in comparison to something else",
+    "forms": [
+      "relative",
+      "relatives"
+    ]
+  },
+  {
+    "id": "ngsl12:tour",
+    "word": "tour",
+    "pos": "noun",
+    "chinese": "游览",
+    "english": "a journey to visit several places for pleasure",
+    "forms": [
+      "tour",
+      "tours",
+      "toured",
+      "touring"
+    ]
+  },
+  {
+    "id": "ngsl12:alternative",
+    "word": "alternative",
+    "pos": "noun",
+    "chinese": "可替代的选择",
+    "english": "other choices",
+    "forms": [
+      "alternative",
+      "alternatives"
+    ]
+  },
+  {
+    "id": "ngsl12:software",
+    "word": "software",
+    "pos": "noun",
+    "chinese": "软件",
+    "english": "market for software is expected to expand",
+    "forms": [
+      "software"
+    ]
+  },
+  {
+    "id": "ngsl12:pair",
+    "word": "pair",
+    "pos": "noun",
+    "chinese": "一对；一双",
+    "english": "two of the same thing (e.g., socks)",
+    "forms": [
+      "pair",
+      "pairs",
+      "paired",
+      "pairing",
+      "pairings"
+    ]
+  },
+  {
+    "id": "ngsl12:ship",
+    "word": "ship",
+    "pos": "noun",
+    "chinese": "(大)船",
+    "english": "large boat",
+    "forms": [
+      "ship",
+      "ships",
+      "shipped",
+      "shipping"
+    ]
+  },
+  {
+    "id": "ngsl12:attitude",
+    "word": "attitude",
+    "pos": "noun",
+    "chinese": "态度",
+    "english": "way you act, think, and feel about something",
+    "forms": [
+      "attitude",
+      "attitudes"
+    ]
+  },
+  {
+    "id": "ngsl12:cheap",
+    "word": "cheap",
+    "pos": "adj",
+    "chinese": "便宜的",
+    "english": "not costing a lot of money",
+    "forms": [
+      "cheap",
+      "cheaper",
+      "cheapest"
+    ]
+  },
+  {
+    "id": "ngsl12:double",
+    "word": "double",
+    "pos": "prep",
+    "chinese": "双倍的",
+    "english": "two times the amount or degree; twice",
+    "forms": [
+      "double",
+      "doubles",
+      "doubled",
+      "doubling"
+    ]
+  },
+  {
+    "id": "ngsl12:leg",
+    "word": "leg",
+    "pos": "noun",
+    "chinese": "腿",
+    "english": "part of the body from the thigh down",
+    "forms": [
+      "leg",
+      "legs",
+      "legged",
+      "legging",
+      "leggings"
+    ]
+  },
+  {
+    "id": "ngsl12:observe",
+    "word": "observe",
+    "pos": "verb",
+    "chinese": "观察",
+    "english": "to watch carefully; to make a comment",
+    "forms": [
+      "observe",
+      "observes",
+      "observed",
+      "observing"
+    ]
+  },
+  {
+    "id": "ngsl12:sentence",
+    "word": "sentence",
+    "pos": "noun",
+    "chinese": "句子",
+    "english": "set of spoken or written words that make a whole statement",
+    "forms": [
+      "sentence",
+      "sentences",
+      "sentenced",
+      "sentencing"
+    ]
+  },
+  {
+    "id": "ngsl12:print",
+    "word": "print",
+    "pos": "verb",
+    "chinese": "打印",
+    "english": "to make many copies of a page, magazine, or book",
+    "forms": [
+      "print",
+      "prints",
+      "printed",
+      "printing",
+      "printings"
+    ]
+  },
+  {
+    "id": "ngsl12:progress",
+    "word": "progress",
+    "pos": "verb",
+    "chinese": "进步；进展",
+    "english": "to move forward or toward a place or goal",
+    "forms": [
+      "progress",
+      "progresses",
+      "progressed",
+      "progressing"
+    ]
+  },
+  {
+    "id": "ngsl12:truth",
+    "word": "truth",
+    "pos": "noun",
+    "chinese": "真相",
+    "english": "real facts about something",
+    "forms": [
+      "truth",
+      "truths"
+    ]
+  },
+  {
+    "id": "ngsl12:nobody",
+    "word": "nobody",
+    "pos": "pron",
+    "chinese": "没有人；谁也不",
+    "english": "no person; no one; not any person",
+    "forms": [
+      "nobody",
+      "nobodies"
+    ]
+  },
+  {
+    "id": "ngsl12:examine",
+    "word": "examine",
+    "pos": "verb",
+    "chinese": "检查",
+    "english": "to look at someone or something very carefully in order to learn more",
+    "forms": [
+      "examine",
+      "examines",
+      "examined",
+      "examining"
+    ]
+  },
+  {
+    "id": "ngsl12:lay",
+    "word": "lay",
+    "pos": "verb",
+    "chinese": "放置",
+    "english": "to put or set something down in a flat position",
+    "forms": [
+      "lay",
+      "lays",
+      "laid",
+      "laying"
+    ]
+  },
+  {
+    "id": "ngsl12:speed",
+    "word": "speed",
+    "pos": "noun",
+    "chinese": "速度",
+    "english": "quality of being fast or quick",
+    "forms": [
+      "speed",
+      "speeds",
+      "sped",
+      "speeded",
+      "speeding"
+    ]
+  },
+  {
+    "id": "ngsl12:politics",
+    "word": "politics",
+    "pos": "noun",
+    "chinese": "政治",
+    "english": "activities influencing the policies of a government",
+    "forms": [
+      "politics"
+    ]
+  },
+  {
+    "id": "ngsl12:reply",
+    "word": "reply",
+    "pos": "noun",
+    "chinese": "回复",
+    "english": "answer someone's question",
+    "forms": [
+      "reply",
+      "replies",
+      "replied",
+      "replying"
+    ]
+  },
+  {
+    "id": "ngsl12:display",
+    "word": "display",
+    "pos": "verb",
+    "chinese": "展示;陈列",
+    "english": "to put so they can be seen or be bought",
+    "forms": [
+      "display",
+      "displays",
+      "displayed",
+      "displaying"
+    ]
+  },
+  {
+    "id": "ngsl12:transfer",
+    "word": "transfer",
+    "pos": "verb",
+    "chinese": "转移",
+    "english": "to move something from one place to another",
+    "forms": [
+      "transfer",
+      "transfers",
+      "transferred",
+      "transferring",
+      "transfering"
+    ]
+  },
+  {
+    "id": "ngsl12:perfect",
+    "word": "perfect",
+    "pos": "adj",
+    "chinese": "完美的",
+    "english": "so good it/they cannot be improved",
+    "forms": [
+      "perfect",
+      "perfects",
+      "perfected",
+      "perfecting"
+    ]
+  },
+  {
+    "id": "ngsl12:slightly",
+    "word": "slightly",
+    "pos": "adv",
+    "chinese": "轻微的",
+    "english": "concerning a small quantity or degree",
+    "forms": [
+      "slightly"
+    ]
+  },
+  {
+    "id": "ngsl12:overall",
+    "word": "overall",
+    "pos": "adj",
+    "chinese": "全面的；总体的",
+    "english": "viewed as a whole; in general, not as details",
+    "forms": [
+      "overall"
+    ]
+  },
+  {
+    "id": "ngsl12:intend",
+    "word": "intend",
+    "pos": "verb",
+    "chinese": "打算",
+    "english": "to plan or want to do something",
+    "forms": [
+      "intend",
+      "intends",
+      "intended",
+      "intending"
+    ]
+  },
+  {
+    "id": "ngsl12:user",
+    "word": "user",
+    "pos": "noun",
+    "chinese": "用户",
+    "english": "person that uses a service or thing (e.g., a website)",
+    "forms": [
+      "user",
+      "users"
+    ]
+  },
+  {
+    "id": "ngsl12:respond",
+    "word": "respond",
+    "pos": "verb",
+    "chinese": "回应",
+    "english": "to say or write to answer the question",
+    "forms": [
+      "respond",
+      "responds",
+      "responded",
+      "responding"
+    ]
+  },
+  {
+    "id": "ngsl12:dinner",
+    "word": "dinner",
+    "pos": "noun",
+    "chinese": "晚餐",
+    "english": "main meal of the day, usually in the evening in the us",
+    "forms": [
+      "dinner",
+      "dinners"
+    ]
+  },
+  {
+    "id": "ngsl12:slow",
+    "word": "slow",
+    "pos": "adj",
+    "chinese": "缓慢的",
+    "english": "moving or happening without speed; not fast",
+    "forms": [
+      "slow",
+      "slows",
+      "slowed",
+      "slowing",
+      "slower",
+      "slowest"
+    ]
+  },
+  {
+    "id": "ngsl12:regular",
+    "word": "regular",
+    "pos": "adj",
+    "chinese": "定期的；有规律的",
+    "english": "occurring or being done frequently",
+    "forms": [
+      "regular",
+      "regulars"
+    ]
+  },
+  {
+    "id": "ngsl12:physical",
+    "word": "physical",
+    "pos": "adj",
+    "chinese": "身体的",
+    "english": "concerning the body of a person",
+    "forms": [
+      "physical",
+      "physicals"
+    ]
+  },
+  {
+    "id": "ngsl12:apart",
+    "word": "apart",
+    "pos": "adv",
+    "chinese": "分开地",
+    "english": "separated by an amount of time or space",
+    "forms": [
+      "apart"
+    ]
+  },
+  {
+    "id": "ngsl12:suit",
+    "word": "suit",
+    "pos": "verb",
+    "chinese": "适合",
+    "english": "to be appropriate for a given situation",
+    "forms": [
+      "suit",
+      "suits",
+      "suited",
+      "suiting"
+    ]
+  },
+  {
+    "id": "ngsl12:federal",
+    "word": "federal",
+    "pos": "adj",
+    "chinese": "联邦的",
+    "english": "system of government",
+    "forms": [
+      "federal",
+      "federals"
+    ]
+  },
+  {
+    "id": "ngsl12:reveal",
+    "word": "reveal",
+    "pos": "verb",
+    "chinese": "揭露",
+    "english": "to make known, to show or prove",
+    "forms": [
+      "reveal",
+      "reveals",
+      "revealed",
+      "revealing",
+      "revealled",
+      "revealling"
+    ]
+  },
+  {
+    "id": "ngsl12:percentage",
+    "word": "percentage",
+    "pos": "noun",
+    "chinese": "百分比",
+    "english": "part of a whole divided into hundredths",
+    "forms": [
+      "percentage",
+      "percentages"
+    ]
+  },
+  {
+    "id": "ngsl12:peace",
+    "word": "peace",
+    "pos": "noun",
+    "chinese": "和平",
+    "english": "time when there is no war or fighting",
+    "forms": [
+      "peace",
+      "peaces"
+    ]
+  },
+  {
+    "id": "ngsl12:status",
+    "word": "status",
+    "pos": "noun",
+    "chinese": "地位",
+    "english": "position or rank relative to others in a society",
+    "forms": [
+      "status"
+    ]
+  },
+  {
+    "id": "ngsl12:crime",
+    "word": "crime",
+    "pos": "noun",
+    "chinese": "罪行",
+    "english": "act that is against the law; murder, theft, etc.",
+    "forms": [
+      "crime",
+      "crimes"
+    ]
+  },
+  {
+    "id": "ngsl12:decline",
+    "word": "decline",
+    "pos": "verb",
+    "chinese": "谢绝",
+    "english": "to not accept an invitation or offer; refuse",
+    "forms": [
+      "decline",
+      "declines",
+      "declined",
+      "declining"
+    ]
+  },
+  {
+    "id": "ngsl12:decade",
+    "word": "decade",
+    "pos": "noun",
+    "chinese": "十年",
+    "english": "period of 10 years",
+    "forms": [
+      "decade",
+      "decades"
+    ]
+  },
+  {
+    "id": "ngsl12:launch",
+    "word": "launch",
+    "pos": "verb",
+    "chinese": "发射",
+    "english": "to put a rocket into the air; put a ship into the water",
+    "forms": [
+      "launch",
+      "launches",
+      "launched",
+      "launching"
+    ]
+  },
+  {
+    "id": "ngsl12:warn",
+    "word": "warn",
+    "pos": "verb",
+    "chinese": "警告",
+    "english": "to tell someone about possible danger",
+    "forms": [
+      "warn",
+      "warns",
+      "warned",
+      "warning",
+      "warnings"
+    ]
+  },
+  {
+    "id": "ngsl12:consumer",
+    "word": "consumer",
+    "pos": "noun",
+    "chinese": "消费者",
+    "english": "person who uses goods or services; individual buyer",
+    "forms": [
+      "consumer",
+      "consumers"
+    ]
+  },
+  {
+    "id": "ngsl12:favor",
+    "word": "favor",
+    "pos": "noun",
+    "chinese": "善意行为",
+    "english": "helpful act of kindness",
+    "forms": [
+      "favor",
+      "favors",
+      "favored",
+      "favoring",
+      "favour",
+      "favours",
+      "favoured",
+      "favouring"
+    ]
+  },
+  {
+    "id": "ngsl12:dry",
+    "word": "dry",
+    "pos": "adj",
+    "chinese": "干的",
+    "english": "without water; not wet",
+    "forms": [
+      "dry",
+      "dries",
+      "dried",
+      "drying",
+      "drier",
+      "driest"
+    ]
+  },
+  {
+    "id": "ngsl12:partner",
+    "word": "partner",
+    "pos": "noun",
+    "chinese": "合伙人",
+    "english": "someone you have a business or personal relationship with",
+    "forms": [
+      "partner",
+      "partners",
+      "partnered",
+      "partnering"
+    ]
+  },
+  {
+    "id": "ngsl12:institution",
+    "word": "institution",
+    "pos": "noun",
+    "chinese": "机构",
+    "english": "organization created for a particular cause or purpose",
+    "forms": [
+      "institution",
+      "institutions"
+    ]
+  },
+  {
+    "id": "ngsl12:spot",
+    "word": "spot",
+    "pos": "noun",
+    "chinese": "地点",
+    "english": "a particular area that is different from the area around it; (v) to see someone or something",
+    "forms": [
+      "spot",
+      "spots",
+      "spotted",
+      "spotting"
+    ]
+  },
+  {
+    "id": "ngsl12:horse",
+    "word": "horse",
+    "pos": "noun",
+    "chinese": "马",
+    "english": "large animal with 4 legs used for riding",
+    "forms": [
+      "horse",
+      "horses",
+      "horsed",
+      "horsing"
+    ]
+  },
+  {
+    "id": "ngsl12:eventually",
+    "word": "eventually",
+    "pos": "adv",
+    "chinese": "最终",
+    "english": "finally",
+    "forms": [
+      "eventually"
+    ]
+  },
+  {
+    "id": "ngsl12:heat",
+    "word": "heat",
+    "pos": "verb",
+    "chinese": "加热",
+    "english": "to make hot or hotter",
+    "forms": [
+      "heat",
+      "heats",
+      "heated",
+      "heating"
+    ]
+  },
+  {
+    "id": "ngsl12:excite",
+    "word": "excite",
+    "pos": "verb",
+    "chinese": "使兴奋",
+    "english": "to make someone feel happy, interested, or eager",
+    "forms": [
+      "excite",
+      "excites",
+      "excited",
+      "exciting"
+    ]
+  },
+  {
+    "id": "ngsl12:reader",
+    "word": "reader",
+    "pos": "noun",
+    "chinese": "读者",
+    "english": "person who reads written or printed materials",
+    "forms": [
+      "reader",
+      "readers"
+    ]
+  },
+  {
+    "id": "ngsl12:importance",
+    "word": "importance",
+    "pos": "noun",
+    "chinese": "重要性",
+    "english": "being important; having a big effect on",
+    "forms": [
+      "importance"
+    ]
+  },
+  {
+    "id": "ngsl12:distance",
+    "word": "distance",
+    "pos": "noun",
+    "chinese": "距离",
+    "english": "amount of space between two things",
+    "forms": [
+      "distance",
+      "distances",
+      "distanced",
+      "distancing"
+    ]
+  },
+  {
+    "id": "ngsl12:guide",
+    "word": "guide",
+    "pos": "verb",
+    "chinese": "引导；带领",
+    "english": "to lead people visiting a new or unknown place",
+    "forms": [
+      "guide",
+      "guides",
+      "guided",
+      "guiding"
+    ]
+  },
+  {
+    "id": "ngsl12:grant",
+    "word": "grant",
+    "pos": "verb",
+    "chinese": "授予",
+    "english": "to give or let someone do what they want",
+    "forms": [
+      "grant",
+      "grants",
+      "granted",
+      "granting"
+    ]
+  },
+  {
+    "id": "ngsl12:taxi",
+    "word": "taxi",
+    "pos": "noun",
+    "chinese": "出租车",
+    "english": "car that transports people for money",
+    "forms": [
+      "taxi",
+      "taxis",
+      "taxiing",
+      "taxies"
+    ]
+  },
+  {
+    "id": "ngsl12:feed",
+    "word": "feed",
+    "pos": "verb",
+    "chinese": "喂食",
+    "english": "to give food (e.g., to an animal or a baby)",
+    "forms": [
+      "feed",
+      "feeds",
+      "fed",
+      "feeding",
+      "feedings"
+    ]
+  },
+  {
+    "id": "ngsl12:pain",
+    "word": "pain",
+    "pos": "noun",
+    "chinese": "疼痛",
+    "english": "strong feeling of hurt or discomfort",
+    "forms": [
+      "pain",
+      "pains",
+      "pained",
+      "paining"
+    ]
+  },
+  {
+    "id": "ngsl12:sector",
+    "word": "sector",
+    "pos": "noun",
+    "chinese": "部门",
+    "english": "area that includes certain kinds of job",
+    "forms": [
+      "sector",
+      "sectors"
+    ]
+  },
+  {
+    "id": "ngsl12:mistake",
+    "word": "mistake",
+    "pos": "noun",
+    "chinese": "错误",
+    "english": "something done wrong, calculated wrong.; error",
+    "forms": [
+      "mistake",
+      "mistakes",
+      "mistook",
+      "mistaking"
+    ]
+  },
+  {
+    "id": "ngsl12:ensure",
+    "word": "ensure",
+    "pos": "verb",
+    "chinese": "确保",
+    "english": "to make something sure, certain, or safe",
+    "forms": [
+      "ensure",
+      "ensures",
+      "ensured",
+      "ensuring"
+    ]
+  },
+  {
+    "id": "ngsl12:satisfy",
+    "word": "satisfy",
+    "pos": "verb",
+    "chinese": "使满意",
+    "english": "to be happy because you met your expectation",
+    "forms": [
+      "satisfy",
+      "satisfies",
+      "satisfied",
+      "satisfying"
+    ]
+  },
+  {
+    "id": "ngsl12:chief",
+    "word": "chief",
+    "pos": "adj",
+    "chinese": "最高领导人",
+    "english": "most important one",
+    "forms": [
+      "chief",
+      "chiefs"
+    ]
+  },
+  {
+    "id": "ngsl12:cool",
+    "word": "cool",
+    "pos": "adj",
+    "chinese": "凉的",
+    "english": "almost cold; not warm or hot",
+    "forms": [
+      "cool",
+      "cools",
+      "cooled",
+      "cooling",
+      "coolest"
+    ]
+  },
+  {
+    "id": "ngsl12:expert",
+    "word": "expert",
+    "pos": "noun",
+    "chinese": "专家",
+    "english": "skillful person with special knowledge",
+    "forms": [
+      "expert",
+      "experts"
+    ]
+  },
+  {
+    "id": "ngsl12:wave",
+    "word": "wave",
+    "pos": "verb",
+    "chinese": "挥手",
+    "english": "to move your hand or arm to say hello or goodbye",
+    "forms": [
+      "wave",
+      "waves",
+      "waved",
+      "waving"
+    ]
+  },
+  {
+    "id": "ngsl12:south",
+    "word": "south",
+    "pos": "noun",
+    "chinese": "南方",
+    "english": "direction to your right when facing the rising sun; opposite of north",
+    "forms": [
+      "south"
+    ]
+  },
+  {
+    "id": "ngsl12:labor",
+    "word": "labor",
+    "pos": "verb",
+    "chinese": "劳动",
+    "english": "to work hard (often physically) for many hours",
+    "forms": [
+      "labor",
+      "labors",
+      "labored",
+      "laboring",
+      "labour",
+      "labours",
+      "laboured",
+      "labouring"
+    ]
+  },
+  {
+    "id": "ngsl12:surface",
+    "word": "surface",
+    "pos": "adj",
+    "chinese": "表面的",
+    "english": "of the top layer; superficial",
+    "forms": [
+      "surface",
+      "surfaces",
+      "surfaced",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "ngsl12:library",
+    "word": "library",
+    "pos": "noun",
+    "chinese": "图书馆",
+    "english": "place where books and other media are kept",
+    "forms": [
+      "library",
+      "libraries"
+    ]
+  },
+  {
+    "id": "ngsl12:excellent",
+    "word": "excellent",
+    "pos": "adj",
+    "chinese": "杰出的",
+    "english": "extremely good",
+    "forms": [
+      "excellent"
+    ]
+  },
+  {
+    "id": "ngsl12:edge",
+    "word": "edge",
+    "pos": "noun",
+    "chinese": "边缘",
+    "english": "boundary of a surface",
+    "forms": [
+      "edge",
+      "edges",
+      "edged",
+      "edging"
+    ]
+  },
+  {
+    "id": "ngsl12:camp",
+    "word": "camp",
+    "pos": "noun",
+    "chinese": "营地",
+    "english": "place where people live for a short time in tents",
+    "forms": [
+      "camp",
+      "camps",
+      "camped",
+      "camping"
+    ]
+  },
+  {
+    "id": "ngsl12:audience",
+    "word": "audience",
+    "pos": "noun",
+    "chinese": "观众；听众",
+    "english": "group of people listening, watch a play, movie, etc.",
+    "forms": [
+      "audience",
+      "audiences"
+    ]
+  },
+  {
+    "id": "ngsl12:lift",
+    "word": "lift",
+    "pos": "verb",
+    "chinese": "举起",
+    "english": "to move something to higher position",
+    "forms": [
+      "lift",
+      "lifts",
+      "lifted",
+      "lifting"
+    ]
+  },
+  {
+    "id": "ngsl12:procedure",
+    "word": "procedure",
+    "pos": "noun",
+    "chinese": "程序",
+    "english": "usual or standard way in which something is done",
+    "forms": [
+      "procedure",
+      "procedures"
+    ]
+  },
+  {
+    "id": "ngsl12:email",
+    "word": "e-mail",
+    "pos": "noun",
+    "chinese": "电子邮件",
+    "english": "a system for sending messages electronically, especially from one computer to another using the internet",
+    "forms": [
+      "email",
+      "emails",
+      "emailed",
+      "emailing"
+    ]
+  },
+  {
+    "id": "ngsl12:global",
+    "word": "global",
+    "pos": "adj",
+    "chinese": "全球的",
+    "english": "concerning, affecting, or involving the entire world",
+    "forms": [
+      "global"
+    ]
+  },
+  {
+    "id": "ngsl12:struggle",
+    "word": "struggle",
+    "pos": "verb",
+    "chinese": "奋斗；挣扎",
+    "english": "to try very hard to do something difficult",
+    "forms": [
+      "struggle",
+      "struggles",
+      "struggled",
+      "struggling"
+    ]
+  },
+  {
+    "id": "ngsl12:advertise",
+    "word": "advertise",
+    "pos": "verb",
+    "chinese": "做广告",
+    "english": "to show how good a product is, to make people buy",
+    "forms": [
+      "advertise",
+      "advertises",
+      "advertised",
+      "advertising",
+      "advertize",
+      "advertizes",
+      "advertized",
+      "advertizing"
+    ]
+  },
+  {
+    "id": "ngsl12:select",
+    "word": "select",
+    "pos": "verb",
+    "chinese": "选择",
+    "english": "to choose from a group, something most suitable",
+    "forms": [
+      "select",
+      "selects",
+      "selected",
+      "selecting"
+    ]
+  },
+  {
+    "id": "ngsl12:surround",
+    "word": "surround",
+    "pos": "verb",
+    "chinese": "围绕",
+    "english": "to be on every side of something",
+    "forms": [
+      "surround",
+      "surrounds",
+      "surrounded",
+      "surrounding",
+      "surroundings"
+    ]
+  },
+  {
+    "id": "ngsl12:extent",
+    "word": "extent",
+    "pos": "noun",
+    "chinese": "程度；范围",
+    "english": "range or space included in something",
+    "forms": [
+      "extent",
+      "extents"
+    ]
+  },
+  {
+    "id": "ngsl12:river",
+    "word": "river",
+    "pos": "noun",
+    "chinese": "河",
+    "english": "flowing water that runs from mountains to the sea",
+    "forms": [
+      "river",
+      "rivers"
+    ]
+  },
+  {
+    "id": "ngsl12:annual",
+    "word": "annual",
+    "pos": "adj",
+    "chinese": "年度的；每年的",
+    "english": "happening once a year, or every year",
+    "forms": [
+      "annual",
+      "annuals"
+    ]
+  },
+  {
+    "id": "ngsl12:fully",
+    "word": "fully",
+    "pos": "adv",
+    "chinese": "完全地；充分地",
+    "english": "completely or entirely",
+    "forms": [
+      "fully"
+    ]
+  },
+  {
+    "id": "ngsl12:contrast",
+    "word": "contrast",
+    "pos": "verb",
+    "chinese": "对比;对照",
+    "english": "(v) to show (n) clear and obvious differences between two or more people or things",
+    "forms": [
+      "contrast",
+      "contrasts",
+      "contrasted",
+      "contrasting"
+    ]
+  },
+  {
+    "id": "ngsl12:roll",
+    "word": "roll",
+    "pos": "verb",
+    "chinese": "滚动；卷",
+    "english": "to move along a surface by turning many times",
+    "forms": [
+      "roll",
+      "rolls",
+      "rolled",
+      "rolling"
+    ]
+  },
+  {
+    "id": "ngsl12:reality",
+    "word": "reality",
+    "pos": "noun",
+    "chinese": "现实",
+    "english": "what is true, as opposed to what is imagined",
+    "forms": [
+      "reality",
+      "realities"
+    ]
+  },
+  {
+    "id": "ngsl12:photograph",
+    "word": "photograph",
+    "pos": "noun",
+    "chinese": "照片",
+    "english": "a picture made with a camera that shows how things look in real life",
+    "forms": [
+      "photograph",
+      "photographs",
+      "photographed",
+      "photographing"
+    ]
+  },
+  {
+    "id": "ngsl12:artist",
+    "word": "artist",
+    "pos": "noun",
+    "chinese": "艺术家",
+    "english": "a person who is skilled and creative in art, such as a painter",
+    "forms": [
+      "artist",
+      "artists"
+    ]
+  },
+  {
+    "id": "ngsl12:conflict",
+    "word": "conflict",
+    "pos": "verb",
+    "chinese": "冲突;矛盾",
+    "english": "to have opposite ideas; to disagree; to not match",
+    "forms": [
+      "conflict",
+      "conflicts",
+      "conflicted",
+      "conflicting"
+    ]
+  },
+  {
+    "id": "ngsl12:entire",
+    "word": "entire",
+    "pos": "adj",
+    "chinese": "全部的；整体的",
+    "english": "complete or full; with no part left out; whole",
+    "forms": [
+      "entire"
+    ]
+  },
+  {
+    "id": "ngsl12:presence",
+    "word": "presence",
+    "pos": "noun",
+    "chinese": "在场；出现",
+    "english": "fact that someone or something is in a particular place",
+    "forms": [
+      "presence",
+      "presences"
+    ]
+  },
+  {
+    "id": "ngsl12:crowd",
+    "word": "crowd",
+    "pos": "noun",
+    "chinese": "人群",
+    "english": "large group of people together in one place",
+    "forms": [
+      "crowd",
+      "crowds",
+      "crowded",
+      "crowding"
+    ]
+  },
+  {
+    "id": "ngsl12:corner",
+    "word": "corner",
+    "pos": "noun",
+    "chinese": "角，角落",
+    "english": "place where two or three sides, lines, or roads meet",
+    "forms": [
+      "corner",
+      "corners",
+      "cornered",
+      "cornering"
+    ]
+  },
+  {
+    "id": "ngsl12:gas",
+    "word": "gas",
+    "pos": "noun",
+    "chinese": "气体；汽油",
+    "english": "elements in our air, like oxygen or nitrogen",
+    "forms": [
+      "gas",
+      "gases",
+      "gassed",
+      "gassing",
+      "gasses"
+    ]
+  },
+  {
+    "id": "ngsl12:shift",
+    "word": "shift",
+    "pos": "verb",
+    "chinese": "转换",
+    "english": "to change in position or direction",
+    "forms": [
+      "shift",
+      "shifts",
+      "shifted",
+      "shifting"
+    ]
+  },
+  {
+    "id": "ngsl12:net",
+    "word": "net",
+    "pos": "noun",
+    "chinese": "网状物",
+    "english": "material made of string, chain, or wire connected together at certain points",
+    "forms": [
+      "net",
+      "nets",
+      "netted",
+      "netting"
+    ]
+  },
+  {
+    "id": "ngsl12:category",
+    "word": "category",
+    "pos": "noun",
+    "chinese": "种类",
+    "english": "groups of things that are similar in some way",
+    "forms": [
+      "category",
+      "categories"
+    ]
+  },
+  {
+    "id": "ngsl12:secretary",
+    "word": "secretary",
+    "pos": "noun",
+    "chinese": "秘书",
+    "english": "an employee who does general office work for another person in the office",
+    "forms": [
+      "secretary",
+      "secretaries"
+    ]
+  },
+  {
+    "id": "ngsl12:defense",
+    "word": "defense",
+    "pos": "noun",
+    "chinese": "防卫",
+    "english": "process of protecting something from attack",
+    "forms": [
+      "defense",
+      "defenses",
+      "defence",
+      "defences"
+    ]
+  },
+  {
+    "id": "ngsl12:quick",
+    "word": "quick",
+    "pos": "adj",
+    "chinese": "快速的",
+    "english": "using very little time; moving far in little time",
+    "forms": [
+      "quick",
+      "quicker",
+      "quickest"
+    ]
+  },
+  {
+    "id": "ngsl12:cook",
+    "word": "cook",
+    "pos": "verb",
+    "chinese": "烹饪",
+    "english": "to heat food until it is ready to eat",
+    "forms": [
+      "cook",
+      "cooks",
+      "cooked",
+      "cooking"
+    ]
+  },
+  {
+    "id": "ngsl12:spread",
+    "word": "spread",
+    "pos": "verb",
+    "chinese": "传播",
+    "english": "to place something over or cover a large area",
+    "forms": [
+      "spread",
+      "spreads",
+      "spreading"
+    ]
+  },
+  {
+    "id": "ngsl12:nuclear",
+    "word": "nuclear",
+    "pos": "adj",
+    "chinese": "原子能的；核能的",
+    "english": "concerning or involving the center of an atom",
+    "forms": [
+      "nuclear"
+    ]
+  },
+  {
+    "id": "ngsl12:scale",
+    "word": "scale",
+    "pos": "noun",
+    "chinese": "规模",
+    "english": "a device that is used to weigh a person or thing",
+    "forms": [
+      "scale",
+      "scales",
+      "scaled",
+      "scaling"
+    ]
+  },
+  {
+    "id": "ngsl12:driver",
+    "word": "driver",
+    "pos": "noun",
+    "chinese": "司机",
+    "english": "someone who operates a vehicle",
+    "forms": [
+      "driver",
+      "drivers"
+    ]
+  },
+  {
+    "id": "ngsl12:ball",
+    "word": "ball",
+    "pos": "noun",
+    "chinese": "球",
+    "english": "small round object often used in a game or sport",
+    "forms": [
+      "ball",
+      "balls",
+      "balled",
+      "balling"
+    ]
+  },
+  {
+    "id": "ngsl12:cry",
+    "word": "cry",
+    "pos": "verb",
+    "chinese": "哭",
+    "english": "to produce tears and sounds because of pain",
+    "forms": [
+      "cry",
+      "cries",
+      "cried",
+      "crying"
+    ]
+  },
+  {
+    "id": "ngsl12:introduction",
+    "word": "introduction",
+    "pos": "noun",
+    "chinese": "介绍",
+    "english": "making someone known to another by name",
+    "forms": [
+      "introduction",
+      "introductions"
+    ]
+  },
+  {
+    "id": "ngsl12:requirement",
+    "word": "requirement",
+    "pos": "noun",
+    "chinese": "必要条件；必需品",
+    "english": "something that is a necessity",
+    "forms": [
+      "requirement",
+      "requirements"
+    ]
+  },
+  {
+    "id": "ngsl12:north",
+    "word": "north",
+    "pos": "noun",
+    "chinese": "北方",
+    "english": "direction to your left when facing the rising sun",
+    "forms": [
+      "north"
+    ]
+  },
+  {
+    "id": "ngsl12:confirm",
+    "word": "confirm",
+    "pos": "verb",
+    "chinese": "确认",
+    "english": "to provide evidence to establish the truth of",
+    "forms": [
+      "confirm",
+      "confirms",
+      "confirmed",
+      "confirming"
+    ]
+  },
+  {
+    "id": "ngsl12:senior",
+    "word": "senior",
+    "pos": "adj",
+    "chinese": "高级的",
+    "english": "having higher status or authority than another person",
+    "forms": [
+      "senior",
+      "seniors"
+    ]
+  },
+  {
+    "id": "ngsl12:photo",
+    "word": "photo",
+    "pos": "noun",
+    "chinese": "照片",
+    "english": "short for photograph; a picture taken by a camera",
+    "forms": [
+      "photo",
+      "photos"
+    ]
+  },
+  {
+    "id": "ngsl12:refuse",
+    "word": "refuse",
+    "pos": "verb",
+    "chinese": "拒绝",
+    "english": "to say that you will not accept something",
+    "forms": [
+      "refuse",
+      "refuses",
+      "refused",
+      "refusing"
+    ]
+  },
+  {
+    "id": "ngsl12:transport",
+    "word": "transport",
+    "pos": "verb",
+    "chinese": "运输",
+    "english": "to carry things from one place to another",
+    "forms": [
+      "transport",
+      "transports",
+      "transported",
+      "transporting"
+    ]
+  },
+  {
+    "id": "ngsl12:emerge",
+    "word": "emerge",
+    "pos": "verb",
+    "chinese": "浮现；显露",
+    "english": "to rise or appear out of some background",
+    "forms": [
+      "emerge",
+      "emerges",
+      "emerged",
+      "emerging"
+    ]
+  },
+  {
+    "id": "ngsl12:map",
+    "word": "map",
+    "pos": "noun",
+    "chinese": "地图",
+    "english": "picture showing the geography of an area",
+    "forms": [
+      "map",
+      "maps",
+      "mapped",
+      "mapping",
+      "mappings"
+    ]
+  },
+  {
+    "id": "ngsl12:concept",
+    "word": "concept",
+    "pos": "noun",
+    "chinese": "概念",
+    "english": "abstract idea of something or how it works",
+    "forms": [
+      "concept",
+      "concepts"
+    ]
+  },
+  {
+    "id": "ngsl12:island",
+    "word": "island",
+    "pos": "noun",
+    "chinese": "岛",
+    "english": "area of land that is surrounded by water",
+    "forms": [
+      "island",
+      "islands",
+      "islanded",
+      "islanding"
+    ]
+  },
+  {
+    "id": "ngsl12:reform",
+    "word": "reform",
+    "pos": "verb",
+    "chinese": "改革",
+    "english": "to improve society by removing abuse and injustices",
+    "forms": [
+      "reform",
+      "reforms",
+      "reformed",
+      "reforming"
+    ]
+  },
+  {
+    "id": "ngsl12:neither",
+    "word": "neither",
+    "pos": "adj",
+    "chinese": "（两者）都不的",
+    "english": "not one or the other; not either; none of two things",
+    "forms": [
+      "neither"
+    ]
+  },
+  {
+    "id": "ngsl12:football",
+    "word": "football",
+    "pos": "noun",
+    "chinese": "足球",
+    "english": "sport where 2 teams try to kick a ball in a goal; soccer",
+    "forms": [
+      "football",
+      "footballs"
+    ]
+  },
+  {
+    "id": "ngsl12:survive",
+    "word": "survive",
+    "pos": "verb",
+    "chinese": "幸存",
+    "english": "to continue to live despite illness or trouble",
+    "forms": [
+      "survive",
+      "survives",
+      "survived",
+      "surviving"
+    ]
+  },
+  {
+    "id": "ngsl12:flight",
+    "word": "flight",
+    "pos": "noun",
+    "chinese": "航班；飞行",
+    "english": "act of flying",
+    "forms": [
+      "flight",
+      "flights"
+    ]
+  },
+  {
+    "id": "ngsl12:left",
+    "word": "left",
+    "pos": "noun",
+    "chinese": "左边",
+    "english": "side of your body your heart is on",
+    "forms": [
+      "left",
+      "lefts"
+    ]
+  },
+  {
+    "id": "ngsl12:solve",
+    "word": "solve",
+    "pos": "verb",
+    "chinese": "解放",
+    "english": "to find a way to deal with a problem",
+    "forms": [
+      "solve",
+      "solves",
+      "solved",
+      "solving"
+    ]
+  },
+  {
+    "id": "ngsl12:neighbor",
+    "word": "neighbor",
+    "pos": "noun",
+    "chinese": "邻居",
+    "english": "person who lives, or is near, you",
+    "forms": [
+      "neighbor",
+      "neighbors",
+      "neighbored",
+      "neighboring",
+      "neighbour",
+      "neighbours",
+      "neighboured",
+      "neighbouring"
+    ]
+  },
+  {
+    "id": "ngsl12:background",
+    "word": "background",
+    "pos": "noun",
+    "chinese": "背景",
+    "english": "images, color, or information behind the main one",
+    "forms": [
+      "background",
+      "backgrounds"
+    ]
+  },
+  {
+    "id": "ngsl12:technique",
+    "word": "technique",
+    "pos": "noun",
+    "chinese": "技术",
+    "english": "way of doing by using special knowledge or skill",
+    "forms": [
+      "technique",
+      "techniques"
+    ]
+  },
+  {
+    "id": "ngsl12:traffic",
+    "word": "traffic",
+    "pos": "noun",
+    "chinese": "交通",
+    "english": "amount of activity over a communication system",
+    "forms": [
+      "traffic",
+      "traffics",
+      "trafficked",
+      "trafficking",
+      "traffick",
+      "trafficks"
+    ]
+  },
+  {
+    "id": "ngsl12:improvement",
+    "word": "improvement",
+    "pos": "noun",
+    "chinese": "改进；改善",
+    "english": "addition or change that makes something better",
+    "forms": [
+      "improvement",
+      "improvements"
+    ]
+  },
+  {
+    "id": "ngsl12:tool",
+    "word": "tool",
+    "pos": "noun",
+    "chinese": "工具",
+    "english": "device used to make things (e.g., a hammer or driver)",
+    "forms": [
+      "tool",
+      "tools",
+      "tooled",
+      "tooling"
+    ]
+  },
+  {
+    "id": "ngsl12:consequence",
+    "word": "consequence",
+    "pos": "noun",
+    "chinese": "结果；后果",
+    "english": "outcome of an event; result",
+    "forms": [
+      "consequence",
+      "consequences"
+    ]
+  },
+  {
+    "id": "ngsl12:circumstance",
+    "word": "circumstance",
+    "pos": "noun",
+    "chinese": "条件；环境",
+    "english": "condition or fact that affects a situation",
+    "forms": [
+      "circumstance",
+      "circumstances"
+    ]
+  },
+  {
+    "id": "ngsl12:smoke",
+    "word": "smoke",
+    "pos": "verb",
+    "chinese": "吸烟",
+    "english": "to breathe in through a cigarette and then blow it out",
+    "forms": [
+      "smoke",
+      "smokes",
+      "smoked",
+      "smoking"
+    ]
+  },
+  {
+    "id": "ngsl12:reaction",
+    "word": "reaction",
+    "pos": "noun",
+    "chinese": "反应",
+    "english": "feeling or action in response to something",
+    "forms": [
+      "reaction",
+      "reactions"
+    ]
+  },
+  {
+    "id": "ngsl12:rain",
+    "word": "rain",
+    "pos": "noun",
+    "chinese": "雨",
+    "english": "drops of water that fall out of clouds in the sky",
+    "forms": [
+      "rain",
+      "rains",
+      "rained",
+      "raining"
+    ]
+  },
+  {
+    "id": "ngsl12:busy",
+    "word": "busy",
+    "pos": "adj",
+    "chinese": "忙碌的",
+    "english": "working hard doing something; full of activity",
+    "forms": [
+      "busy",
+      "busies",
+      "busied",
+      "busying",
+      "busier",
+      "busiest"
+    ]
+  },
+  {
+    "id": "ngsl12:lesson",
+    "word": "lesson",
+    "pos": "noun",
+    "chinese": "课程；教训",
+    "english": "a time or event where teaching and learning occur; class",
+    "forms": [
+      "lesson",
+      "lessons"
+    ]
+  },
+  {
+    "id": "ngsl12:brain",
+    "word": "brain",
+    "pos": "noun",
+    "chinese": "脑",
+    "english": "part of the head that thinks and controls your body",
+    "forms": [
+      "brain",
+      "brains",
+      "brained",
+      "braining"
+    ]
+  },
+  {
+    "id": "ngsl12:mass",
+    "word": "mass",
+    "pos": "noun",
+    "chinese": "大量；团，堆",
+    "english": "a large amount of something, often of no particular shape",
+    "forms": [
+      "mass",
+      "masses",
+      "massed",
+      "massing"
+    ]
+  },
+  {
+    "id": "ngsl12:funny",
+    "word": "funny",
+    "pos": "adj",
+    "chinese": "有趣的",
+    "english": "causing laughter; amusing",
+    "forms": [
+      "funny",
+      "funnier",
+      "funniest"
+    ]
+  },
+  {
+    "id": "ngsl12:contribute",
+    "word": "contribute",
+    "pos": "verb",
+    "chinese": "贡献",
+    "english": "give something of value to or help someone or something",
+    "forms": [
+      "contribute",
+      "contributes",
+      "contributed",
+      "contributing"
+    ]
+  },
+  {
+    "id": "ngsl12:failure",
+    "word": "failure",
+    "pos": "noun",
+    "chinese": "失败",
+    "english": "act or result of not achieving your goals",
+    "forms": [
+      "failure",
+      "failures"
+    ]
+  },
+  {
+    "id": "ngsl12:schedule",
+    "word": "schedule",
+    "pos": "verb",
+    "chinese": "安排",
+    "english": "to arrange a time to do something with others",
+    "forms": [
+      "schedule",
+      "schedules",
+      "scheduled",
+      "scheduling"
+    ]
+  },
+  {
+    "id": "ngsl12:speaker",
+    "word": "speaker",
+    "pos": "noun",
+    "chinese": "扬声器",
+    "english": "person who makes a speech before a group",
+    "forms": [
+      "speaker",
+      "speakers"
+    ]
+  },
+  {
+    "id": "ngsl12:bottom",
+    "word": "bottom",
+    "pos": "noun",
+    "chinese": "底部",
+    "english": "lowest part of something; part on which it rests",
+    "forms": [
+      "bottom",
+      "bottoms",
+      "bottomed",
+      "bottoming"
+    ]
+  },
+  {
+    "id": "ngsl12:adopt",
+    "word": "adopt",
+    "pos": "verb",
+    "chinese": "采用；收养",
+    "english": "to take on responsibility for something",
+    "forms": [
+      "adopt",
+      "adopts",
+      "adopted",
+      "adopting"
+    ]
+  },
+  {
+    "id": "ngsl12:combine",
+    "word": "combine",
+    "pos": "verb",
+    "chinese": "结合",
+    "english": "to mix several things together to form one thing",
+    "forms": [
+      "combine",
+      "combines",
+      "combined",
+      "combining"
+    ]
+  },
+  {
+    "id": "ngsl12:mountain",
+    "word": "mountain",
+    "pos": "noun",
+    "chinese": "山",
+    "english": "very high piece of land, higher than a hill",
+    "forms": [
+      "mountain",
+      "mountains"
+    ]
+  },
+  {
+    "id": "ngsl12:waste",
+    "word": "waste",
+    "pos": "verb",
+    "chinese": "浪费",
+    "english": "to use valuable things ineffectively",
+    "forms": [
+      "waste",
+      "wastes",
+      "wasted",
+      "wasting"
+    ]
+  },
+  {
+    "id": "ngsl12:hide",
+    "word": "hide",
+    "pos": "verb",
+    "chinese": "隐藏",
+    "english": "to put a thing where it can't be found; go where you won't be found",
+    "forms": [
+      "hide",
+      "hides",
+      "hid",
+      "hiding",
+      "hidden"
+    ]
+  },
+  {
+    "id": "ngsl12:marriage",
+    "word": "marriage",
+    "pos": "noun",
+    "chinese": "婚姻",
+    "english": "formal relationship between a husband and a wife",
+    "forms": [
+      "marriage",
+      "marriages"
+    ]
+  },
+  {
+    "id": "ngsl12:ticket",
+    "word": "ticket",
+    "pos": "noun",
+    "chinese": "票",
+    "english": "piece of paper that lets you enter or use something",
+    "forms": [
+      "ticket",
+      "tickets",
+      "ticketed",
+      "ticketing"
+    ]
+  },
+  {
+    "id": "ngsl12:meal",
+    "word": "meal",
+    "pos": "noun",
+    "chinese": "一餐",
+    "english": "food for eating at a particular time (e.g., dinner)",
+    "forms": [
+      "meal",
+      "meals"
+    ]
+  },
+  {
+    "id": "ngsl12:colleague",
+    "word": "colleague",
+    "pos": "noun",
+    "chinese": "同事",
+    "english": "someone who works with you; coworker",
+    "forms": [
+      "colleague",
+      "colleagues"
+    ]
+  },
+  {
+    "id": "ngsl12:bag",
+    "word": "bag",
+    "pos": "noun",
+    "chinese": "包；袋",
+    "english": "soft container to put things in and carry with you",
+    "forms": [
+      "bag",
+      "bags",
+      "bagged",
+      "bagging"
+    ]
+  },
+  {
+    "id": "ngsl12:repeat",
+    "word": "repeat",
+    "pos": "verb",
+    "chinese": "重复",
+    "english": "to say something again",
+    "forms": [
+      "repeat",
+      "repeats",
+      "repeated",
+      "repeating"
+    ]
+  },
+  {
+    "id": "ngsl12:equal",
+    "word": "equal",
+    "pos": "adj",
+    "chinese": "相等的",
+    "english": "same in shape, size, or number",
+    "forms": [
+      "equal",
+      "equals",
+      "equaled",
+      "equaling",
+      "equalled",
+      "equalling"
+    ]
+  },
+  {
+    "id": "ngsl12:expression",
+    "word": "expression",
+    "pos": "noun",
+    "chinese": "表达",
+    "english": "act of making your thoughts and feelings known",
+    "forms": [
+      "expression",
+      "expressions"
+    ]
+  },
+  {
+    "id": "ngsl12:plus",
+    "word": "plus",
+    "pos": "prep",
+    "chinese": "加；和",
+    "english": "with; showing one amount added to another",
+    "forms": [
+      "plus",
+      "pluses"
+    ]
+  },
+  {
+    "id": "ngsl12:extremely",
+    "word": "extremely",
+    "pos": "adv",
+    "chinese": "极其",
+    "english": "in a way that is much more than usual or expected",
+    "forms": [
+      "extremely"
+    ]
+  },
+  {
+    "id": "ngsl12:owner",
+    "word": "owner",
+    "pos": "noun",
+    "chinese": "所有者",
+    "english": "person who owns or has something",
+    "forms": [
+      "owner",
+      "owners"
+    ]
+  },
+  {
+    "id": "ngsl12:plane",
+    "word": "plane",
+    "pos": "noun",
+    "chinese": "飞机",
+    "english": "an airplane",
+    "forms": [
+      "plane",
+      "planes",
+      "planed"
+    ]
+  },
+  {
+    "id": "ngsl12:commercial",
+    "word": "commercial",
+    "pos": "noun",
+    "chinese": "商业广告",
+    "english": "radio or television advertisement",
+    "forms": [
+      "commercial",
+      "commercials"
+    ]
+  },
+  {
+    "id": "ngsl12:lady",
+    "word": "lady",
+    "pos": "noun",
+    "chinese": "女士",
+    "english": "another way of saying 'woman'",
+    "forms": [
+      "lady",
+      "ladies"
+    ]
+  },
+  {
+    "id": "ngsl12:duty",
+    "word": "duty",
+    "pos": "noun",
+    "chinese": "职责",
+    "english": "work required by your job or position",
+    "forms": [
+      "duty",
+      "duties"
+    ]
+  },
+  {
+    "id": "ngsl12:strength",
+    "word": "strength",
+    "pos": "noun",
+    "chinese": "强度；力量",
+    "english": "being strong",
+    "forms": [
+      "strength",
+      "strengths"
+    ]
+  },
+  {
+    "id": "ngsl12:connect",
+    "word": "connect",
+    "pos": "verb",
+    "chinese": "连接",
+    "english": "to join or attach things together",
+    "forms": [
+      "connect",
+      "connects",
+      "connected",
+      "connecting"
+    ]
+  },
+  {
+    "id": "ngsl12:cultural",
+    "word": "cultural",
+    "pos": "adj",
+    "chinese": "文化的",
+    "english": "of a particular society's customs and beliefs",
+    "forms": [
+      "cultural"
+    ]
+  },
+  {
+    "id": "ngsl12:arrange",
+    "word": "arrange",
+    "pos": "verb",
+    "chinese": "安排",
+    "english": "to put things into a particular order; to plan and organize an event",
+    "forms": [
+      "arrange",
+      "arranges",
+      "arranged",
+      "arranging"
+    ]
+  },
+  {
+    "id": "ngsl12:scheme",
+    "word": "scheme",
+    "pos": "noun",
+    "chinese": "计划；方案",
+    "english": "often dishonest plan to get or do something",
+    "forms": [
+      "scheme",
+      "schemes",
+      "schemed",
+      "scheming"
+    ]
+  },
+  {
+    "id": "ngsl12:payment",
+    "word": "payment",
+    "pos": "noun",
+    "chinese": "付款",
+    "english": "amount of money that is paid for something",
+    "forms": [
+      "payment",
+      "payments"
+    ]
+  },
+  {
+    "id": "ngsl12:unfortunately",
+    "word": "unfortunately",
+    "pos": "adv",
+    "chinese": "不幸地；遗憾地",
+    "english": "in a way that is to be regretted; unluckily",
+    "forms": [
+      "unfortunately"
+    ]
+  },
+  {
+    "id": "ngsl12:brief",
+    "word": "brief",
+    "pos": "adj",
+    "chinese": "简明的",
+    "english": "short; using few words",
+    "forms": [
+      "brief",
+      "briefs",
+      "briefed",
+      "briefing",
+      "briefer",
+      "briefest",
+      "briefings"
+    ]
+  },
+  {
+    "id": "ngsl12:bird",
+    "word": "bird",
+    "pos": "noun",
+    "chinese": "鸟",
+    "english": "animal with feathers that uses wings to fly",
+    "forms": [
+      "bird",
+      "birds",
+      "birded",
+      "birding"
+    ]
+  },
+  {
+    "id": "ngsl12:demonstrate",
+    "word": "demonstrate",
+    "pos": "verb",
+    "chinese": "证明",
+    "english": "to show how something works (e.g., product)",
+    "forms": [
+      "demonstrate",
+      "demonstrates",
+      "demonstrated",
+      "demonstrating"
+    ]
+  },
+  {
+    "id": "ngsl12:contribution",
+    "word": "contribution",
+    "pos": "noun",
+    "chinese": "贡献",
+    "english": "helping a cause by giving money, things, services",
+    "forms": [
+      "contribution",
+      "contributions"
+    ]
+  },
+  {
+    "id": "ngsl12:appreciate",
+    "word": "appreciate",
+    "pos": "verb",
+    "chinese": "欣赏",
+    "english": "to be thankful for; to value or admire",
+    "forms": [
+      "appreciate",
+      "appreciates",
+      "appreciated",
+      "appreciating"
+    ]
+  },
+  {
+    "id": "ngsl12:chapter",
+    "word": "chapter",
+    "pos": "noun",
+    "chinese": "章节",
+    "english": "one of the main sections of a book",
+    "forms": [
+      "chapter",
+      "chapters"
+    ]
+  },
+  {
+    "id": "ngsl12:secret",
+    "word": "secret",
+    "pos": "adj",
+    "chinese": "秘密",
+    "english": "something that you don't want others to know; private",
+    "forms": [
+      "secret",
+      "secrets"
+    ]
+  },
+  {
+    "id": "ngsl12:apparently",
+    "word": "apparently",
+    "pos": "adv",
+    "chinese": "显然地",
+    "english": "according to what you heard; from what can be seen",
+    "forms": [
+      "apparently"
+    ]
+  },
+  {
+    "id": "ngsl12:novel",
+    "word": "novel",
+    "pos": "noun",
+    "chinese": "小说",
+    "english": "written fiction story",
+    "forms": [
+      "novel",
+      "novels"
+    ]
+  },
+  {
+    "id": "ngsl12:union",
+    "word": "union",
+    "pos": "noun",
+    "chinese": "协会；联盟",
+    "english": "organization of people or groups who have a similar interest or particular goal",
+    "forms": [
+      "union",
+      "unions"
+    ]
+  },
+  {
+    "id": "ngsl12:burn",
+    "word": "burn",
+    "pos": "verb",
+    "chinese": "燃烧；烧毁",
+    "english": "to destroy with fire",
+    "forms": [
+      "burn",
+      "burns",
+      "burned",
+      "burning",
+      "burnt"
+    ]
+  },
+  {
+    "id": "ngsl12:trend",
+    "word": "trend",
+    "pos": "noun",
+    "chinese": "倾向；趋势",
+    "english": "general direction of developing, proceeding",
+    "forms": [
+      "trend",
+      "trends",
+      "trended",
+      "trending"
+    ]
+  },
+  {
+    "id": "ngsl12:initial",
+    "word": "initial",
+    "pos": "adj",
+    "chinese": "最初的",
+    "english": "existing or occurring at the beginning",
+    "forms": [
+      "initial",
+      "initials",
+      "initialed",
+      "initialing",
+      "initialled",
+      "initialling"
+    ]
+  },
+  {
+    "id": "ngsl12:pleasure",
+    "word": "pleasure",
+    "pos": "noun",
+    "chinese": "快乐；乐趣",
+    "english": "feeling of happiness, enjoyment, or satisfaction",
+    "forms": [
+      "pleasure",
+      "pleasures",
+      "pleasured",
+      "pleasuring"
+    ]
+  },
+  {
+    "id": "ngsl12:suggestion",
+    "word": "suggestion",
+    "pos": "noun",
+    "chinese": "建议",
+    "english": "idea about what someone should do",
+    "forms": [
+      "suggestion",
+      "suggestions"
+    ]
+  },
+  {
+    "id": "ngsl12:critical",
+    "word": "critical",
+    "pos": "adj",
+    "chinese": "批判的；极重要的",
+    "english": "being important or serious; vital; dangerous",
+    "forms": [
+      "critical"
+    ]
+  },
+  {
+    "id": "ngsl12:gather",
+    "word": "gather",
+    "pos": "verb",
+    "chinese": "聚集",
+    "english": "to bring people/animals together into a group",
+    "forms": [
+      "gather",
+      "gathers",
+      "gathered",
+      "gathering",
+      "gatherings"
+    ]
+  },
+  {
+    "id": "ngsl12:mostly",
+    "word": "mostly",
+    "pos": "adv",
+    "chinese": "主要地",
+    "english": "in large part; mainly or chiefly",
+    "forms": [
+      "mostly"
+    ]
+  },
+  {
+    "id": "ngsl12:earth",
+    "word": "earth",
+    "pos": "noun",
+    "chinese": "地球",
+    "english": "planet we live on",
+    "forms": [
+      "earth",
+      "earths",
+      "earthed"
+    ]
+  },
+  {
+    "id": "ngsl12:pop",
+    "word": "pop",
+    "pos": "verb",
+    "chinese": "(使)爆裂",
+    "english": "to cause something to open or burst suddenly",
+    "forms": [
+      "pop",
+      "pops",
+      "popped",
+      "popping"
+    ]
+  },
+  {
+    "id": "ngsl12:essential",
+    "word": "essential",
+    "pos": "adj",
+    "chinese": "必要的",
+    "english": "extremely important and necessary",
+    "forms": [
+      "essential",
+      "essentials"
+    ]
+  },
+  {
+    "id": "ngsl12:desire",
+    "word": "desire",
+    "pos": "verb",
+    "chinese": "渴望",
+    "english": "to wish for, hope, or want something",
+    "forms": [
+      "desire",
+      "desires",
+      "desired",
+      "desiring"
+    ]
+  },
+  {
+    "id": "ngsl12:promote",
+    "word": "promote",
+    "pos": "verb",
+    "chinese": "促进；推销",
+    "english": "to try to encourage the popularity and sales of a product",
+    "forms": [
+      "promote",
+      "promotes",
+      "promoted",
+      "promoting"
+    ]
+  },
+  {
+    "id": "ngsl12:currently",
+    "word": "currently",
+    "pos": "adv",
+    "chinese": "目前",
+    "english": "happening or being in the present time",
+    "forms": [
+      "currently"
+    ]
+  },
+  {
+    "id": "ngsl12:employ",
+    "word": "employ",
+    "pos": "verb",
+    "chinese": "雇用",
+    "english": "to pay a person to work for you; to give a job to",
+    "forms": [
+      "employ",
+      "employs",
+      "employed",
+      "employing"
+    ]
+  },
+  {
+    "id": "ngsl12:path",
+    "word": "path",
+    "pos": "noun",
+    "chinese": "小路；路径",
+    "english": "track made with stones/by walking over the ground",
+    "forms": [
+      "path",
+      "paths"
+    ]
+  },
+  {
+    "id": "ngsl12:topic",
+    "word": "topic",
+    "pos": "noun",
+    "chinese": "话题；主题",
+    "english": "matter people talk or write about",
+    "forms": [
+      "topic",
+      "topics"
+    ]
+  },
+  {
+    "id": "ngsl12:beach",
+    "word": "beach",
+    "pos": "noun",
+    "chinese": "海滩",
+    "english": "large area of sand, next to an area of water",
+    "forms": [
+      "beach",
+      "beaches",
+      "beached",
+      "beaching"
+    ]
+  },
+  {
+    "id": "ngsl12:attract",
+    "word": "attract",
+    "pos": "verb",
+    "chinese": "吸引",
+    "english": "to make someone notice and become interested in",
+    "forms": [
+      "attract",
+      "attracts",
+      "attracted",
+      "attracting"
+    ]
+  },
+  {
+    "id": "ngsl12:engage",
+    "word": "engage",
+    "pos": "verb",
+    "chinese": "从事；与...建立亲密关系",
+    "english": "to carry out, participate in; be involved in",
+    "forms": [
+      "engage",
+      "engages",
+      "engaged",
+      "engaging"
+    ]
+  },
+  {
+    "id": "ngsl12:powerful",
+    "word": "powerful",
+    "pos": "adj",
+    "chinese": "强大的",
+    "english": "having control or influence over",
+    "forms": [
+      "powerful"
+    ]
+  },
+  {
+    "id": "ngsl12:flower",
+    "word": "flower",
+    "pos": "noun",
+    "chinese": "花",
+    "english": "plant with a pretty head (e.g., a rose)",
+    "forms": [
+      "flower",
+      "flowers",
+      "flowered",
+      "flowering"
+    ]
+  },
+  {
+    "id": "ngsl12:crisis",
+    "word": "crisis",
+    "pos": "noun",
+    "chinese": "危机",
+    "english": "unstable situation of extreme danger or difficulty",
+    "forms": [
+      "crisis",
+      "crises"
+    ]
+  },
+  {
+    "id": "ngsl12:settle",
+    "word": "settle",
+    "pos": "verb",
+    "chinese": "定居",
+    "english": "to move to a new environment and become accustomed to it",
+    "forms": [
+      "settle",
+      "settles",
+      "settled",
+      "settling"
+    ]
+  },
+  {
+    "id": "ngsl12:boat",
+    "word": "boat",
+    "pos": "noun",
+    "chinese": "小船",
+    "english": "small form of transport for traveling on water",
+    "forms": [
+      "boat",
+      "boats",
+      "boated",
+      "boating"
+    ]
+  },
+  {
+    "id": "ngsl12:aid",
+    "word": "aid",
+    "pos": "verb",
+    "chinese": "援助",
+    "english": "to provide things useful or needed by others",
+    "forms": [
+      "aid",
+      "aids",
+      "aided",
+      "aiding"
+    ]
+  },
+  {
+    "id": "ngsl12:fan",
+    "word": "fan",
+    "pos": "noun",
+    "chinese": "风扇",
+    "english": "thing you wave in front of your face to stay cool",
+    "forms": [
+      "fan",
+      "fans",
+      "fanned",
+      "fanning"
+    ]
+  },
+  {
+    "id": "ngsl12:kitchen",
+    "word": "kitchen",
+    "pos": "noun",
+    "chinese": "厨房",
+    "english": "place where food is cooked",
+    "forms": [
+      "kitchen",
+      "kitchens"
+    ]
+  },
+  {
+    "id": "ngsl12:twice",
+    "word": "twice",
+    "pos": "adv",
+    "chinese": "两次",
+    "english": "two times",
+    "forms": [
+      "twice"
+    ]
+  },
+  {
+    "id": "ngsl12:fresh",
+    "word": "fresh",
+    "pos": "adj",
+    "chinese": "新鲜的",
+    "english": "newly made or gathered",
+    "forms": [
+      "fresh",
+      "fresher",
+      "freshest"
+    ]
+  },
+  {
+    "id": "ngsl12:delay",
+    "word": "delay",
+    "pos": "verb",
+    "chinese": "延迟",
+    "english": "to cause something to happen later than planned or expected",
+    "forms": [
+      "delay",
+      "delays",
+      "delayed",
+      "delaying"
+    ]
+  },
+  {
+    "id": "ngsl12:safety",
+    "word": "safety",
+    "pos": "noun",
+    "chinese": "安全",
+    "english": "state of being free from harm or danger",
+    "forms": [
+      "safety",
+      "safeties"
+    ]
+  },
+  {
+    "id": "ngsl12:engineer",
+    "word": "engineer",
+    "pos": "noun",
+    "chinese": "工程师",
+    "english": "professional who designs and builds machines, roads, and other complicated structures",
+    "forms": [
+      "engineer",
+      "engineers",
+      "engineered",
+      "engineering"
+    ]
+  },
+  {
+    "id": "ngsl12:quiet",
+    "word": "quiet",
+    "pos": "adj",
+    "chinese": "轻声的；安静的",
+    "english": "not loud; making very little sound",
+    "forms": [
+      "quiet",
+      "quiets",
+      "quieted",
+      "quieting",
+      "quieter",
+      "quietest"
+    ]
+  },
+  {
+    "id": "ngsl12:insurance",
+    "word": "insurance",
+    "pos": "noun",
+    "chinese": "保险",
+    "english": "payments to cover potential loss/damage/injury/death",
+    "forms": [
+      "insurance",
+      "insurances"
+    ]
+  },
+  {
+    "id": "ngsl12:nurse",
+    "word": "nurse",
+    "pos": "noun",
+    "chinese": "护士",
+    "english": "person trained to care for sick or injured people",
+    "forms": [
+      "nurse",
+      "nurses",
+      "nursed",
+      "nursing"
+    ]
+  },
+  {
+    "id": "ngsl12:divide",
+    "word": "divide",
+    "pos": "verb",
+    "chinese": "使分开",
+    "english": "to separate something into equal pieces",
+    "forms": [
+      "divide",
+      "divides",
+      "divided",
+      "dividing"
+    ]
+  },
+  {
+    "id": "ngsl12:length",
+    "word": "length",
+    "pos": "noun",
+    "chinese": "长度",
+    "english": "measurement of distance or of time",
+    "forms": [
+      "length",
+      "lengths"
+    ]
+  },
+  {
+    "id": "ngsl12:investigation",
+    "word": "investigation",
+    "pos": "noun",
+    "chinese": "调查",
+    "english": "search for information about something",
+    "forms": [
+      "investigation",
+      "investigations"
+    ]
+  },
+  {
+    "id": "ngsl12:package",
+    "word": "package",
+    "pos": "noun",
+    "chinese": "包裹",
+    "english": "box or container in which items are placed for mailing",
+    "forms": [
+      "package",
+      "packages",
+      "packaged",
+      "packaging"
+    ]
+  },
+  {
+    "id": "ngsl12:somewhere",
+    "word": "somewhere",
+    "pos": "adv",
+    "chinese": "在某处",
+    "english": "at or to an unknown or unnamed place",
+    "forms": [
+      "somewhere"
+    ]
+  },
+  {
+    "id": "ngsl12:expand",
+    "word": "expand",
+    "pos": "verb",
+    "chinese": "扩张",
+    "english": "to become bigger or larger in size and amount",
+    "forms": [
+      "expand",
+      "expands",
+      "expanded",
+      "expanding"
+    ]
+  },
+  {
+    "id": "ngsl12:commit",
+    "word": "commit",
+    "pos": "verb",
+    "chinese": "犯罪",
+    "english": "to do something bad, usually a crime",
+    "forms": [
+      "commit",
+      "commits",
+      "committing",
+      "committed"
+    ]
+  },
+  {
+    "id": "ngsl12:obvious",
+    "word": "obvious",
+    "pos": "adj",
+    "chinese": "明显的;易理解的",
+    "english": "easily understood and clear; plain to see",
+    "forms": [
+      "obvious"
+    ]
+  },
+  {
+    "id": "ngsl12:jump",
+    "word": "jump",
+    "pos": "verb",
+    "chinese": "跳",
+    "english": "to push your body into the air with your legs",
+    "forms": [
+      "jump",
+      "jumps",
+      "jumped",
+      "jumping"
+    ]
+  },
+  {
+    "id": "ngsl12:weapon",
+    "word": "weapon",
+    "pos": "noun",
+    "chinese": "武器",
+    "english": "something that is used for fighting",
+    "forms": [
+      "weapon",
+      "weapons"
+    ]
+  },
+  {
+    "id": "ngsl12:relatively",
+    "word": "relatively",
+    "pos": "adv",
+    "chinese": "相对地",
+    "english": "in a manner that measures or compares something to something else",
+    "forms": [
+      "relatively"
+    ]
+  },
+  {
+    "id": "ngsl12:host",
+    "word": "host",
+    "pos": "noun",
+    "chinese": "东道主；主人；主持人",
+    "english": "person who entertains guests",
+    "forms": [
+      "host",
+      "hosts",
+      "hosted",
+      "hosting"
+    ]
+  },
+  {
+    "id": "ngsl12:winter",
+    "word": "winter",
+    "pos": "noun",
+    "chinese": "冬季",
+    "english": "coldest season of the year",
+    "forms": [
+      "winter",
+      "winters",
+      "wintered",
+      "wintering"
+    ]
+  },
+  {
+    "id": "ngsl12:district",
+    "word": "district",
+    "pos": "noun",
+    "chinese": "区域",
+    "english": "area of a country, city, or town",
+    "forms": [
+      "district",
+      "districts"
+    ]
+  },
+  {
+    "id": "ngsl12:broad",
+    "word": "broad",
+    "pos": "adj",
+    "chinese": "宽阔的；...宽",
+    "english": "wide; from the shorter two sides to the other",
+    "forms": [
+      "broad",
+      "broader",
+      "broadest"
+    ]
+  },
+  {
+    "id": "ngsl12:tire",
+    "word": "tire",
+    "pos": "verb",
+    "chinese": "（使）疲劳",
+    "english": "to feel the need to rest after some effort; (n) a rubber covering around a wheel",
+    "forms": [
+      "tire",
+      "tires",
+      "tired",
+      "tiring"
+    ]
+  },
+  {
+    "id": "ngsl12:spring",
+    "word": "spring",
+    "pos": "noun",
+    "chinese": "春季",
+    "english": "time of year when plants start growing after winter",
+    "forms": [
+      "spring",
+      "springs",
+      "sprang",
+      "sprung",
+      "springing"
+    ]
+  },
+  {
+    "id": "ngsl12:spirit",
+    "word": "spirit",
+    "pos": "noun",
+    "chinese": "精神",
+    "english": "part of a person that is not physical and believed to be the source of human emotions and character",
+    "forms": [
+      "spirit",
+      "spirits",
+      "spirited",
+      "spiriting"
+    ]
+  },
+  {
+    "id": "ngsl12:lunch",
+    "word": "lunch",
+    "pos": "noun",
+    "chinese": "午餐",
+    "english": "light meal eaten in the middle of the day",
+    "forms": [
+      "lunch",
+      "lunches",
+      "lunched",
+      "lunching"
+    ]
+  },
+  {
+    "id": "ngsl12:actual",
+    "word": "actual",
+    "pos": "adj",
+    "chinese": "真实的；实际的",
+    "english": "real or existing in fact, not imagined; real",
+    "forms": [
+      "actual"
+    ]
+  },
+  {
+    "id": "ngsl12:pool",
+    "word": "pool",
+    "pos": "noun",
+    "chinese": "水塘",
+    "english": "large container or hole that is filled with water and used for people to swim in",
+    "forms": [
+      "pool",
+      "pools",
+      "pooled",
+      "pooling"
+    ]
+  },
+  {
+    "id": "ngsl12:battle",
+    "word": "battle",
+    "pos": "noun",
+    "chinese": "战争",
+    "english": "military fight between armies",
+    "forms": [
+      "battle",
+      "battles",
+      "battled",
+      "battling"
+    ]
+  },
+  {
+    "id": "ngsl12:tradition",
+    "word": "tradition",
+    "pos": "noun",
+    "chinese": "传统",
+    "english": "way of thinking and behaving that was used for a long time",
+    "forms": [
+      "tradition",
+      "traditions"
+    ]
+  },
+  {
+    "id": "ngsl12:cash",
+    "word": "cash",
+    "pos": "noun",
+    "chinese": "现金",
+    "english": "physical money (not credit card or digital)",
+    "forms": [
+      "cash",
+      "cashes",
+      "cashed",
+      "cashing"
+    ]
+  },
+  {
+    "id": "ngsl12:hardly",
+    "word": "hardly",
+    "pos": "adv",
+    "chinese": "几乎不",
+    "english": "clearly or undoubtedly not; very little",
+    "forms": [
+      "hardly"
+    ]
+  },
+  {
+    "id": "ngsl12:award",
+    "word": "award",
+    "pos": "verb",
+    "chinese": "奖",
+    "english": "to give a prize for doing something well",
+    "forms": [
+      "award",
+      "awards",
+      "awarded",
+      "awarding"
+    ]
+  },
+  {
+    "id": "ngsl12:coach",
+    "word": "coach",
+    "pos": "noun",
+    "chinese": "教练",
+    "english": "person who teaches others how to do (sport, job)",
+    "forms": [
+      "coach",
+      "coaches",
+      "coached",
+      "coaching"
+    ]
+  },
+  {
+    "id": "ngsl12:experiment",
+    "word": "experiment",
+    "pos": "noun",
+    "chinese": "实验",
+    "english": "test performed to assess new ideas or theories",
+    "forms": [
+      "experiment",
+      "experiments",
+      "experimented",
+      "experimenting"
+    ]
+  },
+  {
+    "id": "ngsl12:consideration",
+    "word": "consideration",
+    "pos": "noun",
+    "chinese": "考虑",
+    "english": "careful thought; thinking about something",
+    "forms": [
+      "consideration",
+      "considerations"
+    ]
+  },
+  {
+    "id": "ngsl12:strange",
+    "word": "strange",
+    "pos": "adj",
+    "chinese": "奇怪的",
+    "english": "unusual or odd; surprising because unexpected",
+    "forms": [
+      "strange",
+      "strangest"
+    ]
+  },
+  {
+    "id": "ngsl12:code",
+    "word": "code",
+    "pos": "noun",
+    "chinese": "密码",
+    "english": "a password made of a set of letters or numbers",
+    "forms": [
+      "code",
+      "codes",
+      "coded",
+      "coding"
+    ]
+  },
+  {
+    "id": "ngsl12:possibly",
+    "word": "possibly",
+    "pos": "adv",
+    "chinese": "可能地",
+    "english": "may be true or likely, but is uncertain",
+    "forms": [
+      "possibly"
+    ]
+  },
+  {
+    "id": "ngsl12:threat",
+    "word": "threat",
+    "pos": "noun",
+    "chinese": "威胁",
+    "english": "warning of probable trouble",
+    "forms": [
+      "threat",
+      "threats"
+    ]
+  },
+  {
+    "id": "ngsl12:accident",
+    "word": "accident",
+    "pos": "noun",
+    "chinese": "事故",
+    "english": "sudden unplanned event causing damage, injury, etc.",
+    "forms": [
+      "accident",
+      "accidents"
+    ]
+  },
+  {
+    "id": "ngsl12:impossible",
+    "word": "impossible",
+    "pos": "adj",
+    "chinese": "不可能的",
+    "english": "very unlikely to happen or exist",
+    "forms": [
+      "impossible"
+    ]
+  },
+  {
+    "id": "ngsl12:revenue",
+    "word": "revenue",
+    "pos": "noun",
+    "chinese": "收入",
+    "english": "money that is made by or paid to a business",
+    "forms": [
+      "revenue",
+      "revenues"
+    ]
+  },
+  {
+    "id": "ngsl12:enable",
+    "word": "enable",
+    "pos": "verb",
+    "chinese": "使能够",
+    "english": "to make it possible to do something",
+    "forms": [
+      "enable",
+      "enables",
+      "enabled",
+      "enabling"
+    ]
+  },
+  {
+    "id": "ngsl12:afraid",
+    "word": "afraid",
+    "pos": "adj",
+    "chinese": "害怕的",
+    "english": "worried that something bad will happen; scared",
+    "forms": [
+      "afraid"
+    ]
+  },
+  {
+    "id": "ngsl12:active",
+    "word": "active",
+    "pos": "adj",
+    "chinese": "积极的",
+    "english": "moving around a lot or doing many things",
+    "forms": [
+      "active",
+      "actives"
+    ]
+  },
+  {
+    "id": "ngsl12:conclude",
+    "word": "conclude",
+    "pos": "verb",
+    "chinese": "结束；作结论",
+    "english": "to stop or finish; to come to the end of something",
+    "forms": [
+      "conclude",
+      "concludes",
+      "concluded",
+      "concluding"
+    ]
+  },
+  {
+    "id": "ngsl12:religious",
+    "word": "religious",
+    "pos": "adj",
+    "chinese": "宗教信仰的",
+    "english": "concerning religion or faith",
+    "forms": [
+      "religious"
+    ]
+  },
+  {
+    "id": "ngsl12:cancer",
+    "word": "cancer",
+    "pos": "noun",
+    "chinese": "癌症",
+    "english": "any growth caused by abnormal cell division",
+    "forms": [
+      "cancer",
+      "cancers"
+    ]
+  },
+  {
+    "id": "ngsl12:convince",
+    "word": "convince",
+    "pos": "verb",
+    "chinese": "说服;使确信",
+    "english": "to persuade someone, or make them feel sure",
+    "forms": [
+      "convince",
+      "convinces",
+      "convinced",
+      "convincing"
+    ]
+  },
+  {
+    "id": "ngsl12:vary",
+    "word": "vary",
+    "pos": "verb",
+    "chinese": "使变化",
+    "english": "to be changeable, both up and down",
+    "forms": [
+      "vary",
+      "varies",
+      "varied",
+      "varying"
+    ]
+  },
+  {
+    "id": "ngsl12:environmental",
+    "word": "environmental",
+    "pos": "adj",
+    "chinese": "自然环境的",
+    "english": "of the natural world in which plants and animals live",
+    "forms": [
+      "environmental"
+    ]
+  },
+  {
+    "id": "ngsl12:sun",
+    "word": "sun",
+    "pos": "noun",
+    "chinese": "太阳",
+    "english": "the hot shining star the earth moves around",
+    "forms": [
+      "sun",
+      "suns",
+      "sunned",
+      "sunning"
+    ]
+  },
+  {
+    "id": "ngsl12:healthy",
+    "word": "healthy",
+    "pos": "adj",
+    "chinese": "健康的",
+    "english": "in good condition physically (or financially); not ill or bad",
+    "forms": [
+      "healthy",
+      "healthier",
+      "healthiest"
+    ]
+  },
+  {
+    "id": "ngsl12:blow",
+    "word": "blow",
+    "pos": "verb",
+    "chinese": "吹",
+    "english": "to move something using air",
+    "forms": [
+      "blow",
+      "blows",
+      "blew",
+      "blowing",
+      "blown"
+    ]
+  },
+  {
+    "id": "ngsl12:volume",
+    "word": "volume",
+    "pos": "noun",
+    "chinese": "音量",
+    "english": "level of sound produced by an object, such as a radio or television",
+    "forms": [
+      "volume",
+      "volumes"
+    ]
+  },
+  {
+    "id": "ngsl12:location",
+    "word": "location",
+    "pos": "noun",
+    "chinese": "地点;位置",
+    "english": "particular position or area",
+    "forms": [
+      "location",
+      "locations"
+    ]
+  },
+  {
+    "id": "ngsl12:invest",
+    "word": "invest",
+    "pos": "verb",
+    "chinese": "投资",
+    "english": "to use resources to build for the future",
+    "forms": [
+      "invest",
+      "invests",
+      "invested",
+      "investing"
+    ]
+  },
+  {
+    "id": "ngsl12:proceed",
+    "word": "proceed",
+    "pos": "verb",
+    "chinese": "继续；接着做",
+    "english": "to continue to do something; carry on",
+    "forms": [
+      "proceed",
+      "proceeds",
+      "proceeded",
+      "proceeding",
+      "proceedings"
+    ]
+  },
+  {
+    "id": "ngsl12:wash",
+    "word": "wash",
+    "pos": "verb",
+    "chinese": "洗",
+    "english": "to clean someone or something with soap and water",
+    "forms": [
+      "wash",
+      "washes",
+      "washed",
+      "washing"
+    ]
+  },
+  {
+    "id": "ngsl12:actor",
+    "word": "actor",
+    "pos": "noun",
+    "chinese": "演员",
+    "english": "person who acts in the theater, movies, or tv",
+    "forms": [
+      "actor",
+      "actors"
+    ]
+  },
+  {
+    "id": "ngsl12:glad",
+    "word": "glad",
+    "pos": "adj",
+    "chinese": "高兴的",
+    "english": "happy that something happened; pleased",
+    "forms": [
+      "glad",
+      "gladder",
+      "gladdest"
+    ]
+  },
+  {
+    "id": "ngsl12:tape",
+    "word": "tape",
+    "pos": "verb",
+    "chinese": "用胶带粘住",
+    "english": "to stick things together using an adhesive strip",
+    "forms": [
+      "tape",
+      "tapes",
+      "taped",
+      "taping"
+    ]
+  },
+  {
+    "id": "ngsl12:whereas",
+    "word": "whereas",
+    "pos": "conj",
+    "chinese": "然而",
+    "english": "taking into consideration the fact that",
+    "forms": [
+      "whereas"
+    ]
+  },
+  {
+    "id": "ngsl12:opposite",
+    "word": "opposite",
+    "pos": "adj",
+    "chinese": "对面的",
+    "english": "across from or on the side facing something",
+    "forms": [
+      "opposite",
+      "opposites"
+    ]
+  },
+  {
+    "id": "ngsl12:stone",
+    "word": "stone",
+    "pos": "noun",
+    "chinese": "石头",
+    "english": "hard, solid piece of rock",
+    "forms": [
+      "stone",
+      "stones",
+      "stoned",
+      "stoning"
+    ]
+  },
+  {
+    "id": "ngsl12:sum",
+    "word": "sum",
+    "pos": "noun",
+    "chinese": "总和",
+    "english": "amount when all is added together; total",
+    "forms": [
+      "sum",
+      "sums",
+      "summed",
+      "summing"
+    ]
+  },
+  {
+    "id": "ngsl12:murder",
+    "word": "murder",
+    "pos": "noun",
+    "chinese": "谋杀",
+    "english": "crime of deliberately killing a person",
+    "forms": [
+      "murder",
+      "murders",
+      "murdered",
+      "murdering"
+    ]
+  },
+  {
+    "id": "ngsl12:monitor",
+    "word": "monitor",
+    "pos": "noun",
+    "chinese": "监视器",
+    "english": "electronic screen on which you can see images",
+    "forms": [
+      "monitor",
+      "monitors",
+      "monitored",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "ngsl12:soldier",
+    "word": "soldier",
+    "pos": "noun",
+    "chinese": "士兵",
+    "english": "person who is in the military",
+    "forms": [
+      "soldier",
+      "soldiers",
+      "soldiered",
+      "soldiering"
+    ]
+  },
+  {
+    "id": "ngsl12:finance",
+    "word": "finance",
+    "pos": "noun",
+    "chinese": "金融",
+    "english": "control of money a person/business has access to",
+    "forms": [
+      "finance",
+      "finances",
+      "financed",
+      "financing",
+      "financings"
+    ]
+  },
+  {
+    "id": "ngsl12:hate",
+    "word": "hate",
+    "pos": "verb",
+    "chinese": "憎恨",
+    "english": "to have a very strong feeling of dislike for",
+    "forms": [
+      "hate",
+      "hates",
+      "hated",
+      "hating"
+    ]
+  },
+  {
+    "id": "ngsl12:egg",
+    "word": "egg",
+    "pos": "noun",
+    "chinese": "蛋",
+    "english": "hard-shelled thing from which a young bird is born",
+    "forms": [
+      "egg",
+      "eggs",
+      "egged",
+      "egging"
+    ]
+  },
+  {
+    "id": "ngsl12:concert",
+    "word": "concert",
+    "pos": "noun",
+    "chinese": "音乐会",
+    "english": "musical entertainment given in public by one or more performers",
+    "forms": [
+      "concert",
+      "concerts",
+      "concerted"
+    ]
+  },
+  {
+    "id": "ngsl12:shock",
+    "word": "shock",
+    "pos": "noun",
+    "chinese": "震惊",
+    "english": "sudden bad feeling caused by something unexpected",
+    "forms": [
+      "shock",
+      "shocks",
+      "shocked",
+      "shocking"
+    ]
+  },
+  {
+    "id": "ngsl12:comfortable",
+    "word": "comfortable",
+    "pos": "adj",
+    "chinese": "舒服的，自在的",
+    "english": "not being worried about something; at ease",
+    "forms": [
+      "comfortable"
+    ]
+  },
+  {
+    "id": "ngsl12:usual",
+    "word": "usual",
+    "pos": "adj",
+    "chinese": "经常的",
+    "english": "being the way things occur most of the time",
+    "forms": [
+      "usual"
+    ]
+  },
+  {
+    "id": "ngsl12:carefully",
+    "word": "carefully",
+    "pos": "adv",
+    "chinese": "小心地",
+    "english": "in a manner that involves focus and care",
+    "forms": [
+      "carefully"
+    ]
+  },
+  {
+    "id": "ngsl12:pack",
+    "word": "pack",
+    "pos": "verb",
+    "chinese": "打包",
+    "english": "to put things in a suitcase to go on a trip",
+    "forms": [
+      "pack",
+      "packs",
+      "packed",
+      "packing"
+    ]
+  },
+  {
+    "id": "ngsl12:recall",
+    "word": "recall",
+    "pos": "verb",
+    "chinese": "回忆起",
+    "english": "to remember events or details of the past",
+    "forms": [
+      "recall",
+      "recalls",
+      "recalled"
+    ]
+  },
+  {
+    "id": "ngsl12:wine",
+    "word": "wine",
+    "pos": "noun",
+    "chinese": "葡萄据",
+    "english": "alcoholic drink made from the juice of grapes",
+    "forms": [
+      "wine",
+      "wines",
+      "wining"
+    ]
+  },
+  {
+    "id": "ngsl12:camera",
+    "word": "camera",
+    "pos": "noun",
+    "chinese": "相机",
+    "english": "object that takes pictures digitally, or on film",
+    "forms": [
+      "camera",
+      "cameras"
+    ]
+  },
+  {
+    "id": "ngsl12:swim",
+    "word": "swim",
+    "pos": "verb",
+    "chinese": "游泳",
+    "english": "to move through water by moving parts of the body",
+    "forms": [
+      "swim",
+      "swims",
+      "swam",
+      "swimming",
+      "swum"
+    ]
+  },
+  {
+    "id": "ngsl12:manufacture",
+    "word": "manufacture",
+    "pos": "verb",
+    "chinese": "生产；制造",
+    "english": "to produce large numbers of products in a factory",
+    "forms": [
+      "manufacture",
+      "manufactures",
+      "manufactured",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": "ngsl12:theater",
+    "word": "theater",
+    "pos": "noun",
+    "chinese": "剧院",
+    "english": "place where shows are performed on a stage",
+    "forms": [
+      "theater",
+      "theaters",
+      "theatre",
+      "theatres"
+    ]
+  },
+  {
+    "id": "ngsl12:cycle",
+    "word": "cycle",
+    "pos": "noun",
+    "chinese": "周期",
+    "english": "series of regular and repeated actions",
+    "forms": [
+      "cycle",
+      "cycles",
+      "cycled",
+      "cycling"
+    ]
+  },
+  {
+    "id": "ngsl12:coffee",
+    "word": "coffee",
+    "pos": "noun",
+    "chinese": "咖啡",
+    "english": "a brown drink made from roasted beans and boiled water",
+    "forms": [
+      "coffee",
+      "coffees"
+    ]
+  },
+  {
+    "id": "ngsl12:totally",
+    "word": "totally",
+    "pos": "adv",
+    "chinese": "完全地",
+    "english": "in a complete way; completely; absolutely",
+    "forms": [
+      "totally"
+    ]
+  },
+  {
+    "id": "ngsl12:museum",
+    "word": "museum",
+    "pos": "noun",
+    "chinese": "博物馆",
+    "english": "building to display art, science, or history objects",
+    "forms": [
+      "museum",
+      "museums"
+    ]
+  },
+  {
+    "id": "ngsl12:visitor",
+    "word": "visitor",
+    "pos": "noun",
+    "chinese": "参观者",
+    "english": "one who goes to a place to see it (or someone)",
+    "forms": [
+      "visitor",
+      "visitors"
+    ]
+  },
+  {
+    "id": "ngsl12:freedom",
+    "word": "freedom",
+    "pos": "noun",
+    "chinese": "自由",
+    "english": "state of being free, not being controlled",
+    "forms": [
+      "freedom",
+      "freedoms"
+    ]
+  },
+  {
+    "id": "ngsl12:construction",
+    "word": "construction",
+    "pos": "noun",
+    "chinese": "建设",
+    "english": "act of building something; thing that is built",
+    "forms": [
+      "construction",
+      "constructions"
+    ]
+  },
+  {
+    "id": "ngsl12:dear",
+    "word": "dear",
+    "pos": "adj",
+    "chinese": "亲爱的",
+    "english": "loved or valued very much",
+    "forms": [
+      "dear",
+      "dears",
+      "dearer",
+      "dearest"
+    ]
+  },
+  {
+    "id": "ngsl12:objective",
+    "word": "objective",
+    "pos": "noun",
+    "chinese": "目的；目标",
+    "english": "something you decide you want to do; goal",
+    "forms": [
+      "objective",
+      "objectives"
+    ]
+  },
+  {
+    "id": "ngsl12:moreover",
+    "word": "moreover",
+    "pos": "adv",
+    "chinese": "才外",
+    "english": "in addition to what has been said",
+    "forms": [
+      "moreover"
+    ]
+  },
+  {
+    "id": "ngsl12:onto",
+    "word": "onto",
+    "pos": "prep",
+    "chinese": "朝...之上",
+    "english": "movement towards a position that is on something",
+    "forms": [
+      "onto"
+    ]
+  },
+  {
+    "id": "ngsl12:historical",
+    "word": "historical",
+    "pos": "adj",
+    "chinese": "历史的",
+    "english": "of or related to events or people in the past",
+    "forms": [
+      "historical"
+    ]
+  },
+  {
+    "id": "ngsl12:oppose",
+    "word": "oppose",
+    "pos": "verb",
+    "chinese": "反对",
+    "english": "to be against someone in a contest, game, or fight; to disagree",
+    "forms": [
+      "oppose",
+      "opposes",
+      "opposed",
+      "opposing"
+    ]
+  },
+  {
+    "id": "ngsl12:branch",
+    "word": "branch",
+    "pos": "noun",
+    "chinese": "树枝；分支机构",
+    "english": "a part of a tree that grows out from the main part; a part of an organization connected to but separate from the main office",
+    "forms": [
+      "branch",
+      "branches",
+      "branched",
+      "branching"
+    ]
+  }
+]

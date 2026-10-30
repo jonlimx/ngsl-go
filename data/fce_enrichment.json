@@ -1,0 +1,7174 @@
+{
+  "version": 1,
+  "license": "CC BY-SA 4.0",
+  "authors": [
+    "NGSL Go original learning material"
+  ],
+  "examReference": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/first/format/",
+  "note": "Original practice material aligned with B2 First word formation and collocation skills; not official exam questions. Relations are sense-dependent, not interchangeable in every context.",
+  "families": [
+    [
+      {
+        "word": "act",
+        "pos": "v",
+        "chinese": "行动"
+      },
+      {
+        "word": "action",
+        "pos": "n",
+        "chinese": "行动"
+      },
+      {
+        "word": "active",
+        "pos": "adj",
+        "chinese": "积极的"
+      },
+      {
+        "word": "actively",
+        "pos": "adv",
+        "chinese": "积极地"
+      },
+      {
+        "word": "activity",
+        "pos": "n",
+        "chinese": "活动"
+      },
+      {
+        "word": "inactive",
+        "pos": "adj",
+        "chinese": "不活跃的"
+      }
+    ],
+    [
+      {
+        "word": "accept",
+        "pos": "v",
+        "chinese": "接受"
+      },
+      {
+        "word": "acceptance",
+        "pos": "n",
+        "chinese": "接受"
+      },
+      {
+        "word": "acceptable",
+        "pos": "adj",
+        "chinese": "可接受的"
+      },
+      {
+        "word": "unacceptable",
+        "pos": "adj",
+        "chinese": "不可接受的"
+      }
+    ],
+    [
+      {
+        "word": "achieve",
+        "pos": "v",
+        "chinese": "实现"
+      },
+      {
+        "word": "achievement",
+        "pos": "n",
+        "chinese": "成就"
+      },
+      {
+        "word": "achievable",
+        "pos": "adj",
+        "chinese": "可实现的"
+      }
+    ],
+    [
+      {
+        "word": "advertise",
+        "pos": "v",
+        "chinese": "做广告"
+      },
+      {
+        "word": "advertisement",
+        "pos": "n",
+        "chinese": "广告"
+      },
+      {
+        "word": "advertising",
+        "pos": "n",
+        "chinese": "广告业"
+      }
+    ],
+    [
+      {
+        "word": "agree",
+        "pos": "v",
+        "chinese": "同意"
+      },
+      {
+        "word": "agreement",
+        "pos": "n",
+        "chinese": "协议"
+      },
+      {
+        "word": "disagree",
+        "pos": "v",
+        "chinese": "不同意"
+      },
+      {
+        "word": "disagreement",
+        "pos": "n",
+        "chinese": "分歧"
+      }
+    ],
+    [
+      {
+        "word": "allow",
+        "pos": "v",
+        "chinese": "允许"
+      },
+      {
+        "word": "allowance",
+        "pos": "n",
+        "chinese": "津贴"
+      },
+      {
+        "word": "allowable",
+        "pos": "adj",
+        "chinese": "允许的"
+      }
+    ],
+    [
+      {
+        "word": "appear",
+        "pos": "v",
+        "chinese": "出现"
+      },
+      {
+        "word": "appearance",
+        "pos": "n",
+        "chinese": "外貌或出现"
+      },
+      {
+        "word": "disappear",
+        "pos": "v",
+        "chinese": "消失"
+      },
+      {
+        "word": "disappearance",
+        "pos": "n",
+        "chinese": "消失"
+      }
+    ],
+    [
+      {
+        "word": "apply",
+        "pos": "v",
+        "chinese": "申请或应用"
+      },
+      {
+        "word": "application",
+        "pos": "n",
+        "chinese": "申请或应用"
+      },
+      {
+        "word": "applicant",
+        "pos": "n",
+        "chinese": "申请人"
+      },
+      {
+        "word": "applicable",
+        "pos": "adj",
+        "chinese": "适用的"
+      }
+    ],
+    [
+      {
+        "word": "argue",
+        "pos": "v",
+        "chinese": "争论"
+      },
+      {
+        "word": "argument",
+        "pos": "n",
+        "chinese": "争论"
+      },
+      {
+        "word": "arguable",
+        "pos": "adj",
+        "chinese": "有争议的"
+      },
+      {
+        "word": "arguably",
+        "pos": "adv",
+        "chinese": "可以说"
+      }
+    ],
+    [
+      {
+        "word": "attract",
+        "pos": "v",
+        "chinese": "吸引"
+      },
+      {
+        "word": "attraction",
+        "pos": "n",
+        "chinese": "吸引力"
+      },
+      {
+        "word": "attractive",
+        "pos": "adj",
+        "chinese": "有吸引力的"
+      },
+      {
+        "word": "unattractive",
+        "pos": "adj",
+        "chinese": "无吸引力的"
+      },
+      {
+        "word": "attractively",
+        "pos": "adv",
+        "chinese": "有吸引力地"
+      }
+    ],
+    [
+      {
+        "word": "available",
+        "pos": "adj",
+        "chinese": "可获得的"
+      },
+      {
+        "word": "availability",
+        "pos": "n",
+        "chinese": "可获得性"
+      },
+      {
+        "word": "unavailable",
+        "pos": "adj",
+        "chinese": "无法获得的"
+      }
+    ],
+    [
+      {
+        "word": "aware",
+        "pos": "adj",
+        "chinese": "意识到的"
+      },
+      {
+        "word": "awareness",
+        "pos": "n",
+        "chinese": "意识"
+      },
+      {
+        "word": "unaware",
+        "pos": "adj",
+        "chinese": "未意识到的"
+      }
+    ],
+    [
+      {
+        "word": "beauty",
+        "pos": "n",
+        "chinese": "美"
+      },
+      {
+        "word": "beautiful",
+        "pos": "adj",
+        "chinese": "美丽的"
+      },
+      {
+        "word": "beautifully",
+        "pos": "adv",
+        "chinese": "美丽地"
+      }
+    ],
+    [
+      {
+        "word": "believe",
+        "pos": "v",
+        "chinese": "相信"
+      },
+      {
+        "word": "belief",
+        "pos": "n",
+        "chinese": "信念"
+      },
+      {
+        "word": "believable",
+        "pos": "adj",
+        "chinese": "可信的"
+      },
+      {
+        "word": "unbelievable",
+        "pos": "adj",
+        "chinese": "难以置信的"
+      },
+      {
+        "word": "unbelievably",
+        "pos": "adv",
+        "chinese": "令人难以置信地"
+      }
+    ],
+    [
+      {
+        "word": "benefit",
+        "pos": "v",
+        "chinese": "受益"
+      },
+      {
+        "word": "beneficial",
+        "pos": "adj",
+        "chinese": "有益的"
+      }
+    ],
+    [
+      {
+        "word": "care",
+        "pos": "v",
+        "chinese": "关心"
+      },
+      {
+        "word": "careful",
+        "pos": "adj",
+        "chinese": "仔细的"
+      },
+      {
+        "word": "carefully",
+        "pos": "adv",
+        "chinese": "仔细地"
+      },
+      {
+        "word": "careless",
+        "pos": "adj",
+        "chinese": "粗心的"
+      },
+      {
+        "word": "carelessly",
+        "pos": "adv",
+        "chinese": "粗心地"
+      },
+      {
+        "word": "carelessness",
+        "pos": "n",
+        "chinese": "粗心"
+      }
+    ],
+    [
+      {
+        "word": "certain",
+        "pos": "adj",
+        "chinese": "确定的"
+      },
+      {
+        "word": "certainly",
+        "pos": "adv",
+        "chinese": "当然或确定地"
+      },
+      {
+        "word": "certainty",
+        "pos": "n",
+        "chinese": "确定"
+      },
+      {
+        "word": "uncertain",
+        "pos": "adj",
+        "chinese": "不确定的"
+      },
+      {
+        "word": "uncertainty",
+        "pos": "n",
+        "chinese": "不确定性"
+      }
+    ],
+    [
+      {
+        "word": "choose",
+        "pos": "v",
+        "chinese": "选择"
+      },
+      {
+        "word": "choice",
+        "pos": "n",
+        "chinese": "选择"
+      },
+      {
+        "word": "choosy",
+        "pos": "adj",
+        "chinese": "挑剔的"
+      }
+    ],
+    [
+      {
+        "word": "clear",
+        "pos": "adj",
+        "chinese": "清楚的"
+      },
+      {
+        "word": "clearly",
+        "pos": "adv",
+        "chinese": "清楚地"
+      },
+      {
+        "word": "clarity",
+        "pos": "n",
+        "chinese": "清晰"
+      },
+      {
+        "word": "clarify",
+        "pos": "v",
+        "chinese": "澄清"
+      },
+      {
+        "word": "clarification",
+        "pos": "n",
+        "chinese": "澄清"
+      },
+      {
+        "word": "unclear",
+        "pos": "adj",
+        "chinese": "不清楚的"
+      }
+    ],
+    [
+      {
+        "word": "comfort",
+        "pos": "n",
+        "chinese": "舒适"
+      },
+      {
+        "word": "comfortable",
+        "pos": "adj",
+        "chinese": "舒适的"
+      },
+      {
+        "word": "comfortably",
+        "pos": "adv",
+        "chinese": "舒适地"
+      },
+      {
+        "word": "uncomfortable",
+        "pos": "adj",
+        "chinese": "不舒服的"
+      },
+      {
+        "word": "discomfort",
+        "pos": "n",
+        "chinese": "不适"
+      }
+    ],
+    [
+      {
+        "word": "communicate",
+        "pos": "v",
+        "chinese": "交流"
+      },
+      {
+        "word": "communication",
+        "pos": "n",
+        "chinese": "交流"
+      },
+      {
+        "word": "communicative",
+        "pos": "adj",
+        "chinese": "健谈的"
+      }
+    ],
+    [
+      {
+        "word": "compete",
+        "pos": "v",
+        "chinese": "竞争"
+      },
+      {
+        "word": "competition",
+        "pos": "n",
+        "chinese": "比赛"
+      },
+      {
+        "word": "competitor",
+        "pos": "n",
+        "chinese": "竞争者"
+      },
+      {
+        "word": "competitive",
+        "pos": "adj",
+        "chinese": "有竞争力的"
+      },
+      {
+        "word": "competitively",
+        "pos": "adv",
+        "chinese": "有竞争力地"
+      },
+      {
+        "word": "uncompetitive",
+        "pos": "adj",
+        "chinese": "缺乏竞争力的"
+      }
+    ],
+    [
+      {
+        "word": "complete",
+        "pos": "v",
+        "chinese": "完成"
+      },
+      {
+        "word": "completion",
+        "pos": "n",
+        "chinese": "完成"
+      },
+      {
+        "word": "completely",
+        "pos": "adv",
+        "chinese": "完全地"
+      },
+      {
+        "word": "incomplete",
+        "pos": "adj",
+        "chinese": "不完整的"
+      }
+    ],
+    [
+      {
+        "word": "confident",
+        "pos": "adj",
+        "chinese": "自信的"
+      },
+      {
+        "word": "confidence",
+        "pos": "n",
+        "chinese": "信心"
+      },
+      {
+        "word": "confidently",
+        "pos": "adv",
+        "chinese": "自信地"
+      }
+    ],
+    [
+      {
+        "word": "consider",
+        "pos": "v",
+        "chinese": "考虑"
+      },
+      {
+        "word": "consideration",
+        "pos": "n",
+        "chinese": "考虑"
+      },
+      {
+        "word": "considerate",
+        "pos": "adj",
+        "chinese": "体贴的"
+      },
+      {
+        "word": "considerable",
+        "pos": "adj",
+        "chinese": "相当大的"
+      },
+      {
+        "word": "considerably",
+        "pos": "adv",
+        "chinese": "相当地"
+      }
+    ],
+    [
+      {
+        "word": "construct",
+        "pos": "v",
+        "chinese": "建造"
+      },
+      {
+        "word": "construction",
+        "pos": "n",
+        "chinese": "建造"
+      },
+      {
+        "word": "constructive",
+        "pos": "adj",
+        "chinese": "建设性的"
+      },
+      {
+        "word": "constructively",
+        "pos": "adv",
+        "chinese": "建设性地"
+      }
+    ],
+    [
+      {
+        "word": "consume",
+        "pos": "v",
+        "chinese": "消耗"
+      },
+      {
+        "word": "consumption",
+        "pos": "n",
+        "chinese": "消耗"
+      },
+      {
+        "word": "consumer",
+        "pos": "n",
+        "chinese": "消费者"
+      }
+    ],
+    [
+      {
+        "word": "continue",
+        "pos": "v",
+        "chinese": "继续"
+      },
+      {
+        "word": "continuous",
+        "pos": "adj",
+        "chinese": "连续不断的"
+      },
+      {
+        "word": "continuously",
+        "pos": "adv",
+        "chinese": "连续不断地"
+      },
+      {
+        "word": "continuation",
+        "pos": "n",
+        "chinese": "继续"
+      }
+    ],
+    [
+      {
+        "word": "convenient",
+        "pos": "adj",
+        "chinese": "方便的"
+      },
+      {
+        "word": "convenience",
+        "pos": "n",
+        "chinese": "便利"
+      },
+      {
+        "word": "conveniently",
+        "pos": "adv",
+        "chinese": "方便地"
+      },
+      {
+        "word": "inconvenient",
+        "pos": "adj",
+        "chinese": "不方便的"
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n",
+        "chinese": "不便"
+      }
+    ],
+    [
+      {
+        "word": "correct",
+        "pos": "adj",
+        "chinese": "正确的"
+      },
+      {
+        "word": "correctly",
+        "pos": "adv",
+        "chinese": "正确地"
+      },
+      {
+        "word": "correction",
+        "pos": "n",
+        "chinese": "纠正"
+      },
+      {
+        "word": "incorrect",
+        "pos": "adj",
+        "chinese": "不正确的"
+      },
+      {
+        "word": "incorrectly",
+        "pos": "adv",
+        "chinese": "不正确地"
+      }
+    ],
+    [
+      {
+        "word": "create",
+        "pos": "v",
+        "chinese": "创造"
+      },
+      {
+        "word": "creation",
+        "pos": "n",
+        "chinese": "创造"
+      },
+      {
+        "word": "creator",
+        "pos": "n",
+        "chinese": "创造者"
+      },
+      {
+        "word": "creative",
+        "pos": "adj",
+        "chinese": "有创造力的"
+      },
+      {
+        "word": "creatively",
+        "pos": "adv",
+        "chinese": "有创造力地"
+      },
+      {
+        "word": "creativity",
+        "pos": "n",
+        "chinese": "创造力"
+      }
+    ],
+    [
+      {
+        "word": "criticize",
+        "pos": "v",
+        "chinese": "批评"
+      },
+      {
+        "word": "criticism",
+        "pos": "n",
+        "chinese": "批评"
+      },
+      {
+        "word": "critic",
+        "pos": "n",
+        "chinese": "评论家"
+      },
+      {
+        "word": "critical",
+        "pos": "adj",
+        "chinese": "批评性的或关键的"
+      },
+      {
+        "word": "critically",
+        "pos": "adv",
+        "chinese": "批判性地"
+      }
+    ],
+    [
+      {
+        "word": "curious",
+        "pos": "adj",
+        "chinese": "好奇的"
+      },
+      {
+        "word": "curiosity",
+        "pos": "n",
+        "chinese": "好奇心"
+      },
+      {
+        "word": "curiously",
+        "pos": "adv",
+        "chinese": "好奇地"
+      }
+    ],
+    [
+      {
+        "word": "custom",
+        "pos": "n",
+        "chinese": "习俗"
+      },
+      {
+        "word": "customary",
+        "pos": "adj",
+        "chinese": "习惯上的"
+      },
+      {
+        "word": "customarily",
+        "pos": "adv",
+        "chinese": "习惯上"
+      }
+    ],
+    [
+      {
+        "word": "cycle",
+        "pos": "v",
+        "chinese": "骑自行车"
+      },
+      {
+        "word": "cyclist",
+        "pos": "n",
+        "chinese": "骑自行车的人"
+      },
+      {
+        "word": "cycling",
+        "pos": "n",
+        "chinese": "骑自行车运动"
+      }
+    ],
+    [
+      {
+        "word": "danger",
+        "pos": "n",
+        "chinese": "危险"
+      },
+      {
+        "word": "dangerous",
+        "pos": "adj",
+        "chinese": "危险的"
+      },
+      {
+        "word": "dangerously",
+        "pos": "adv",
+        "chinese": "危险地"
+      },
+      {
+        "word": "endanger",
+        "pos": "v",
+        "chinese": "危及"
+      }
+    ],
+    [
+      {
+        "word": "decide",
+        "pos": "v",
+        "chinese": "决定"
+      },
+      {
+        "word": "decision",
+        "pos": "n",
+        "chinese": "决定"
+      },
+      {
+        "word": "decisive",
+        "pos": "adj",
+        "chinese": "果断的"
+      },
+      {
+        "word": "decisively",
+        "pos": "adv",
+        "chinese": "果断地"
+      },
+      {
+        "word": "indecisive",
+        "pos": "adj",
+        "chinese": "优柔寡断的"
+      }
+    ],
+    [
+      {
+        "word": "deep",
+        "pos": "adj",
+        "chinese": "深的"
+      },
+      {
+        "word": "deeply",
+        "pos": "adv",
+        "chinese": "深深地"
+      },
+      {
+        "word": "depth",
+        "pos": "n",
+        "chinese": "深度"
+      },
+      {
+        "word": "deepen",
+        "pos": "v",
+        "chinese": "加深"
+      }
+    ],
+    [
+      {
+        "word": "define",
+        "pos": "v",
+        "chinese": "定义"
+      },
+      {
+        "word": "definition",
+        "pos": "n",
+        "chinese": "定义"
+      },
+      {
+        "word": "definite",
+        "pos": "adj",
+        "chinese": "明确的"
+      },
+      {
+        "word": "definitely",
+        "pos": "adv",
+        "chinese": "肯定地"
+      },
+      {
+        "word": "indefinite",
+        "pos": "adj",
+        "chinese": "不确定的"
+      }
+    ],
+    [
+      {
+        "word": "depend",
+        "pos": "v",
+        "chinese": "依靠"
+      },
+      {
+        "word": "dependence",
+        "pos": "n",
+        "chinese": "依赖"
+      },
+      {
+        "word": "dependent",
+        "pos": "adj",
+        "chinese": "依赖的"
+      },
+      {
+        "word": "independent",
+        "pos": "adj",
+        "chinese": "独立的"
+      },
+      {
+        "word": "independence",
+        "pos": "n",
+        "chinese": "独立"
+      },
+      {
+        "word": "independently",
+        "pos": "adv",
+        "chinese": "独立地"
+      }
+    ],
+    [
+      {
+        "word": "describe",
+        "pos": "v",
+        "chinese": "描述"
+      },
+      {
+        "word": "description",
+        "pos": "n",
+        "chinese": "描述"
+      },
+      {
+        "word": "descriptive",
+        "pos": "adj",
+        "chinese": "描述性的"
+      }
+    ],
+    [
+      {
+        "word": "destroy",
+        "pos": "v",
+        "chinese": "摧毁"
+      },
+      {
+        "word": "destruction",
+        "pos": "n",
+        "chinese": "破坏"
+      },
+      {
+        "word": "destructive",
+        "pos": "adj",
+        "chinese": "破坏性的"
+      }
+    ],
+    [
+      {
+        "word": "determine",
+        "pos": "v",
+        "chinese": "决定或查明"
+      },
+      {
+        "word": "determination",
+        "pos": "n",
+        "chinese": "决心"
+      },
+      {
+        "word": "determined",
+        "pos": "adj",
+        "chinese": "坚定的"
+      }
+    ],
+    [
+      {
+        "word": "develop",
+        "pos": "v",
+        "chinese": "发展"
+      },
+      {
+        "word": "development",
+        "pos": "n",
+        "chinese": "发展"
+      },
+      {
+        "word": "developed",
+        "pos": "adj",
+        "chinese": "发达的"
+      },
+      {
+        "word": "developing",
+        "pos": "adj",
+        "chinese": "发展中的"
+      }
+    ],
+    [
+      {
+        "word": "differ",
+        "pos": "v",
+        "chinese": "不同"
+      },
+      {
+        "word": "difference",
+        "pos": "n",
+        "chinese": "差别"
+      },
+      {
+        "word": "different",
+        "pos": "adj",
+        "chinese": "不同的"
+      },
+      {
+        "word": "differently",
+        "pos": "adv",
+        "chinese": "不同地"
+      }
+    ],
+    [
+      {
+        "word": "difficult",
+        "pos": "adj",
+        "chinese": "困难的"
+      },
+      {
+        "word": "difficulty",
+        "pos": "n",
+        "chinese": "困难"
+      }
+    ],
+    [
+      {
+        "word": "direct",
+        "pos": "v",
+        "chinese": "指导"
+      },
+      {
+        "word": "direction",
+        "pos": "n",
+        "chinese": "方向"
+      },
+      {
+        "word": "director",
+        "pos": "n",
+        "chinese": "导演或主管"
+      },
+      {
+        "word": "directly",
+        "pos": "adv",
+        "chinese": "直接地"
+      },
+      {
+        "word": "indirect",
+        "pos": "adj",
+        "chinese": "间接的"
+      },
+      {
+        "word": "indirectly",
+        "pos": "adv",
+        "chinese": "间接地"
+      }
+    ],
+    [
+      {
+        "word": "employ",
+        "pos": "v",
+        "chinese": "雇用"
+      },
+      {
+        "word": "employment",
+        "pos": "n",
+        "chinese": "就业"
+      },
+      {
+        "word": "employer",
+        "pos": "n",
+        "chinese": "雇主"
+      },
+      {
+        "word": "employee",
+        "pos": "n",
+        "chinese": "雇员"
+      },
+      {
+        "word": "unemployed",
+        "pos": "adj",
+        "chinese": "失业的"
+      },
+      {
+        "word": "unemployment",
+        "pos": "n",
+        "chinese": "失业"
+      }
+    ],
+    [
+      {
+        "word": "encourage",
+        "pos": "v",
+        "chinese": "鼓励"
+      },
+      {
+        "word": "encouragement",
+        "pos": "n",
+        "chinese": "鼓励"
+      },
+      {
+        "word": "encouraging",
+        "pos": "adj",
+        "chinese": "令人鼓舞的"
+      },
+      {
+        "word": "discourage",
+        "pos": "v",
+        "chinese": "使泄气"
+      }
+    ],
+    [
+      {
+        "word": "enjoy",
+        "pos": "v",
+        "chinese": "享受"
+      },
+      {
+        "word": "enjoyment",
+        "pos": "n",
+        "chinese": "乐趣"
+      },
+      {
+        "word": "enjoyable",
+        "pos": "adj",
+        "chinese": "令人愉快的"
+      }
+    ],
+    [
+      {
+        "word": "entertain",
+        "pos": "v",
+        "chinese": "娱乐"
+      },
+      {
+        "word": "entertainment",
+        "pos": "n",
+        "chinese": "娱乐"
+      },
+      {
+        "word": "entertaining",
+        "pos": "adj",
+        "chinese": "有趣的"
+      }
+    ],
+    [
+      {
+        "word": "equal",
+        "pos": "adj",
+        "chinese": "平等的"
+      },
+      {
+        "word": "equality",
+        "pos": "n",
+        "chinese": "平等"
+      },
+      {
+        "word": "equally",
+        "pos": "adv",
+        "chinese": "同样地"
+      },
+      {
+        "word": "unequal",
+        "pos": "adj",
+        "chinese": "不平等的"
+      }
+    ],
+    [
+      {
+        "word": "excite",
+        "pos": "v",
+        "chinese": "使兴奋"
+      },
+      {
+        "word": "excitement",
+        "pos": "n",
+        "chinese": "兴奋"
+      },
+      {
+        "word": "excited",
+        "pos": "adj",
+        "chinese": "感到兴奋的"
+      },
+      {
+        "word": "exciting",
+        "pos": "adj",
+        "chinese": "令人兴奋的"
+      }
+    ],
+    [
+      {
+        "word": "exist",
+        "pos": "v",
+        "chinese": "存在"
+      },
+      {
+        "word": "existence",
+        "pos": "n",
+        "chinese": "存在"
+      },
+      {
+        "word": "existing",
+        "pos": "adj",
+        "chinese": "现有的"
+      }
+    ],
+    [
+      {
+        "word": "expect",
+        "pos": "v",
+        "chinese": "期待"
+      },
+      {
+        "word": "expectation",
+        "pos": "n",
+        "chinese": "期待"
+      },
+      {
+        "word": "expected",
+        "pos": "adj",
+        "chinese": "预期的"
+      },
+      {
+        "word": "unexpected",
+        "pos": "adj",
+        "chinese": "意外的"
+      },
+      {
+        "word": "unexpectedly",
+        "pos": "adv",
+        "chinese": "出乎意料地"
+      }
+    ],
+    [
+      {
+        "word": "expensive",
+        "pos": "adj",
+        "chinese": "昂贵的"
+      },
+      {
+        "word": "expense",
+        "pos": "n",
+        "chinese": "费用"
+      },
+      {
+        "word": "inexpensive",
+        "pos": "adj",
+        "chinese": "不贵的"
+      }
+    ],
+    [
+      {
+        "word": "experience",
+        "pos": "n",
+        "chinese": "经验或经历"
+      },
+      {
+        "word": "experienced",
+        "pos": "adj",
+        "chinese": "有经验的"
+      },
+      {
+        "word": "inexperienced",
+        "pos": "adj",
+        "chinese": "缺乏经验的"
+      }
+    ],
+    [
+      {
+        "word": "explain",
+        "pos": "v",
+        "chinese": "解释"
+      },
+      {
+        "word": "explanation",
+        "pos": "n",
+        "chinese": "解释"
+      }
+    ],
+    [
+      {
+        "word": "fail",
+        "pos": "v",
+        "chinese": "失败"
+      },
+      {
+        "word": "failure",
+        "pos": "n",
+        "chinese": "失败"
+      },
+      {
+        "word": "failing",
+        "pos": "n",
+        "chinese": "缺点"
+      }
+    ],
+    [
+      {
+        "word": "fame",
+        "pos": "n",
+        "chinese": "名声"
+      },
+      {
+        "word": "famous",
+        "pos": "adj",
+        "chinese": "著名的"
+      },
+      {
+        "word": "famously",
+        "pos": "adv",
+        "chinese": "众所周知地"
+      }
+    ],
+    [
+      {
+        "word": "familiar",
+        "pos": "adj",
+        "chinese": "熟悉的"
+      },
+      {
+        "word": "familiarity",
+        "pos": "n",
+        "chinese": "熟悉"
+      },
+      {
+        "word": "unfamiliar",
+        "pos": "adj",
+        "chinese": "不熟悉的"
+      }
+    ],
+    [
+      {
+        "word": "finance",
+        "pos": "n",
+        "chinese": "财务"
+      },
+      {
+        "word": "financial",
+        "pos": "adj",
+        "chinese": "财务的"
+      },
+      {
+        "word": "financially",
+        "pos": "adv",
+        "chinese": "经济上"
+      }
+    ],
+    [
+      {
+        "word": "fit",
+        "pos": "adj",
+        "chinese": "健康的或合适的"
+      },
+      {
+        "word": "fitness",
+        "pos": "n",
+        "chinese": "健康"
+      },
+      {
+        "word": "unfit",
+        "pos": "adj",
+        "chinese": "不健康的或不适合的"
+      }
+    ],
+    [
+      {
+        "word": "free",
+        "pos": "adj",
+        "chinese": "自由的"
+      },
+      {
+        "word": "freedom",
+        "pos": "n",
+        "chinese": "自由"
+      },
+      {
+        "word": "freely",
+        "pos": "adv",
+        "chinese": "自由地"
+      }
+    ],
+    [
+      {
+        "word": "frequent",
+        "pos": "adj",
+        "chinese": "频繁的"
+      },
+      {
+        "word": "frequency",
+        "pos": "n",
+        "chinese": "频率"
+      },
+      {
+        "word": "frequently",
+        "pos": "adv",
+        "chinese": "经常"
+      },
+      {
+        "word": "infrequent",
+        "pos": "adj",
+        "chinese": "不常发生的"
+      }
+    ],
+    [
+      {
+        "word": "friend",
+        "pos": "n",
+        "chinese": "朋友"
+      },
+      {
+        "word": "friendship",
+        "pos": "n",
+        "chinese": "友谊"
+      },
+      {
+        "word": "friendly",
+        "pos": "adj",
+        "chinese": "友好的"
+      },
+      {
+        "word": "unfriendly",
+        "pos": "adj",
+        "chinese": "不友好的"
+      }
+    ],
+    [
+      {
+        "word": "generous",
+        "pos": "adj",
+        "chinese": "慷慨的"
+      },
+      {
+        "word": "generosity",
+        "pos": "n",
+        "chinese": "慷慨"
+      },
+      {
+        "word": "generously",
+        "pos": "adv",
+        "chinese": "慷慨地"
+      }
+    ],
+    [
+      {
+        "word": "happy",
+        "pos": "adj",
+        "chinese": "快乐的"
+      },
+      {
+        "word": "happiness",
+        "pos": "n",
+        "chinese": "幸福"
+      },
+      {
+        "word": "happily",
+        "pos": "adv",
+        "chinese": "快乐地"
+      },
+      {
+        "word": "unhappy",
+        "pos": "adj",
+        "chinese": "不快乐的"
+      },
+      {
+        "word": "unhappiness",
+        "pos": "n",
+        "chinese": "不快乐"
+      }
+    ],
+    [
+      {
+        "word": "harm",
+        "pos": "v",
+        "chinese": "伤害"
+      },
+      {
+        "word": "harmful",
+        "pos": "adj",
+        "chinese": "有害的"
+      },
+      {
+        "word": "harmless",
+        "pos": "adj",
+        "chinese": "无害的"
+      },
+      {
+        "word": "harmfully",
+        "pos": "adv",
+        "chinese": "有害地"
+      }
+    ],
+    [
+      {
+        "word": "health",
+        "pos": "n",
+        "chinese": "健康"
+      },
+      {
+        "word": "healthy",
+        "pos": "adj",
+        "chinese": "健康的"
+      },
+      {
+        "word": "healthily",
+        "pos": "adv",
+        "chinese": "健康地"
+      },
+      {
+        "word": "unhealthy",
+        "pos": "adj",
+        "chinese": "不健康的"
+      }
+    ],
+    [
+      {
+        "word": "help",
+        "pos": "v",
+        "chinese": "帮助"
+      },
+      {
+        "word": "helpful",
+        "pos": "adj",
+        "chinese": "有帮助的"
+      },
+      {
+        "word": "helpfully",
+        "pos": "adv",
+        "chinese": "有帮助地"
+      },
+      {
+        "word": "helpless",
+        "pos": "adj",
+        "chinese": "无助的"
+      },
+      {
+        "word": "unhelpful",
+        "pos": "adj",
+        "chinese": "无帮助的"
+      }
+    ],
+    [
+      {
+        "word": "high",
+        "pos": "adj",
+        "chinese": "高的"
+      },
+      {
+        "word": "height",
+        "pos": "n",
+        "chinese": "高度"
+      },
+      {
+        "word": "heighten",
+        "pos": "v",
+        "chinese": "提高"
+      },
+      {
+        "word": "highly",
+        "pos": "adv",
+        "chinese": "高度地"
+      }
+    ],
+    [
+      {
+        "word": "honest",
+        "pos": "adj",
+        "chinese": "诚实的"
+      },
+      {
+        "word": "honesty",
+        "pos": "n",
+        "chinese": "诚实"
+      },
+      {
+        "word": "honestly",
+        "pos": "adv",
+        "chinese": "诚实地"
+      },
+      {
+        "word": "dishonest",
+        "pos": "adj",
+        "chinese": "不诚实的"
+      },
+      {
+        "word": "dishonesty",
+        "pos": "n",
+        "chinese": "不诚实"
+      }
+    ],
+    [
+      {
+        "word": "hope",
+        "pos": "v",
+        "chinese": "希望"
+      },
+      {
+        "word": "hopeful",
+        "pos": "adj",
+        "chinese": "抱有希望的"
+      },
+      {
+        "word": "hopefully",
+        "pos": "adv",
+        "chinese": "希望或有希望地"
+      },
+      {
+        "word": "hopeless",
+        "pos": "adj",
+        "chinese": "无望的"
+      }
+    ],
+    [
+      {
+        "word": "imagine",
+        "pos": "v",
+        "chinese": "想象"
+      },
+      {
+        "word": "imagination",
+        "pos": "n",
+        "chinese": "想象力"
+      },
+      {
+        "word": "imaginative",
+        "pos": "adj",
+        "chinese": "富有想象力的"
+      },
+      {
+        "word": "imaginary",
+        "pos": "adj",
+        "chinese": "虚构的"
+      }
+    ],
+    [
+      {
+        "word": "important",
+        "pos": "adj",
+        "chinese": "重要的"
+      },
+      {
+        "word": "importance",
+        "pos": "n",
+        "chinese": "重要性"
+      },
+      {
+        "word": "importantly",
+        "pos": "adv",
+        "chinese": "重要地"
+      },
+      {
+        "word": "unimportant",
+        "pos": "adj",
+        "chinese": "不重要的"
+      }
+    ],
+    [
+      {
+        "word": "impress",
+        "pos": "v",
+        "chinese": "使印象深刻"
+      },
+      {
+        "word": "impression",
+        "pos": "n",
+        "chinese": "印象"
+      },
+      {
+        "word": "impressive",
+        "pos": "adj",
+        "chinese": "令人印象深刻的"
+      },
+      {
+        "word": "impressively",
+        "pos": "adv",
+        "chinese": "令人印象深刻地"
+      }
+    ],
+    [
+      {
+        "word": "improve",
+        "pos": "v",
+        "chinese": "改善"
+      },
+      {
+        "word": "improvement",
+        "pos": "n",
+        "chinese": "改善"
+      }
+    ],
+    [
+      {
+        "word": "inform",
+        "pos": "v",
+        "chinese": "告知"
+      },
+      {
+        "word": "information",
+        "pos": "n",
+        "chinese": "信息"
+      },
+      {
+        "word": "informative",
+        "pos": "adj",
+        "chinese": "提供有用信息的"
+      },
+      {
+        "word": "informed",
+        "pos": "adj",
+        "chinese": "知情的"
+      }
+    ],
+    [
+      {
+        "word": "intend",
+        "pos": "v",
+        "chinese": "打算"
+      },
+      {
+        "word": "intention",
+        "pos": "n",
+        "chinese": "意图"
+      },
+      {
+        "word": "intentional",
+        "pos": "adj",
+        "chinese": "故意的"
+      },
+      {
+        "word": "intentionally",
+        "pos": "adv",
+        "chinese": "故意地"
+      },
+      {
+        "word": "unintentional",
+        "pos": "adj",
+        "chinese": "无意的"
+      }
+    ],
+    [
+      {
+        "word": "interest",
+        "pos": "v",
+        "chinese": "使感兴趣"
+      },
+      {
+        "word": "interested",
+        "pos": "adj",
+        "chinese": "感兴趣的"
+      },
+      {
+        "word": "interesting",
+        "pos": "adj",
+        "chinese": "有趣的"
+      },
+      {
+        "word": "interestingly",
+        "pos": "adv",
+        "chinese": "有趣的是"
+      }
+    ],
+    [
+      {
+        "word": "invite",
+        "pos": "v",
+        "chinese": "邀请"
+      },
+      {
+        "word": "invitation",
+        "pos": "n",
+        "chinese": "邀请"
+      },
+      {
+        "word": "inviting",
+        "pos": "adj",
+        "chinese": "诱人的"
+      }
+    ],
+    [
+      {
+        "word": "know",
+        "pos": "v",
+        "chinese": "知道"
+      },
+      {
+        "word": "knowledge",
+        "pos": "n",
+        "chinese": "知识"
+      },
+      {
+        "word": "knowledgeable",
+        "pos": "adj",
+        "chinese": "知识渊博的"
+      },
+      {
+        "word": "unknown",
+        "pos": "adj",
+        "chinese": "未知的"
+      }
+    ],
+    [
+      {
+        "word": "legal",
+        "pos": "adj",
+        "chinese": "合法的"
+      },
+      {
+        "word": "legally",
+        "pos": "adv",
+        "chinese": "合法地"
+      },
+      {
+        "word": "illegal",
+        "pos": "adj",
+        "chinese": "非法的"
+      },
+      {
+        "word": "illegally",
+        "pos": "adv",
+        "chinese": "非法地"
+      }
+    ],
+    [
+      {
+        "word": "likely",
+        "pos": "adj",
+        "chinese": "可能的"
+      },
+      {
+        "word": "likelihood",
+        "pos": "n",
+        "chinese": "可能性"
+      },
+      {
+        "word": "unlikely",
+        "pos": "adj",
+        "chinese": "不大可能的"
+      }
+    ],
+    [
+      {
+        "word": "long",
+        "pos": "adj",
+        "chinese": "长的"
+      },
+      {
+        "word": "length",
+        "pos": "n",
+        "chinese": "长度"
+      },
+      {
+        "word": "lengthen",
+        "pos": "v",
+        "chinese": "延长"
+      },
+      {
+        "word": "lengthy",
+        "pos": "adj",
+        "chinese": "冗长的"
+      }
+    ],
+    [
+      {
+        "word": "lose",
+        "pos": "v",
+        "chinese": "失去"
+      },
+      {
+        "word": "loss",
+        "pos": "n",
+        "chinese": "损失"
+      },
+      {
+        "word": "lost",
+        "pos": "adj",
+        "chinese": "迷路的"
+      }
+    ],
+    [
+      {
+        "word": "luck",
+        "pos": "n",
+        "chinese": "运气"
+      },
+      {
+        "word": "lucky",
+        "pos": "adj",
+        "chinese": "幸运的"
+      },
+      {
+        "word": "luckily",
+        "pos": "adv",
+        "chinese": "幸运地"
+      },
+      {
+        "word": "unlucky",
+        "pos": "adj",
+        "chinese": "不幸的"
+      },
+      {
+        "word": "unluckily",
+        "pos": "adv",
+        "chinese": "不幸地"
+      }
+    ],
+    [
+      {
+        "word": "manage",
+        "pos": "v",
+        "chinese": "管理或设法做到"
+      },
+      {
+        "word": "management",
+        "pos": "n",
+        "chinese": "管理"
+      },
+      {
+        "word": "manager",
+        "pos": "n",
+        "chinese": "经理"
+      },
+      {
+        "word": "manageable",
+        "pos": "adj",
+        "chinese": "可处理的"
+      }
+    ],
+    [
+      {
+        "word": "measure",
+        "pos": "v",
+        "chinese": "测量"
+      },
+      {
+        "word": "measurement",
+        "pos": "n",
+        "chinese": "测量"
+      },
+      {
+        "word": "measurable",
+        "pos": "adj",
+        "chinese": "可测量的"
+      }
+    ],
+    [
+      {
+        "word": "move",
+        "pos": "v",
+        "chinese": "移动"
+      },
+      {
+        "word": "movement",
+        "pos": "n",
+        "chinese": "移动"
+      },
+      {
+        "word": "movable",
+        "pos": "adj",
+        "chinese": "可移动的"
+      }
+    ],
+    [
+      {
+        "word": "nation",
+        "pos": "n",
+        "chinese": "国家"
+      },
+      {
+        "word": "national",
+        "pos": "adj",
+        "chinese": "国家的"
+      },
+      {
+        "word": "nationality",
+        "pos": "n",
+        "chinese": "国籍"
+      },
+      {
+        "word": "international",
+        "pos": "adj",
+        "chinese": "国际的"
+      },
+      {
+        "word": "internationally",
+        "pos": "adv",
+        "chinese": "国际上"
+      }
+    ],
+    [
+      {
+        "word": "necessary",
+        "pos": "adj",
+        "chinese": "必要的"
+      },
+      {
+        "word": "necessity",
+        "pos": "n",
+        "chinese": "必需品或必要性"
+      },
+      {
+        "word": "necessarily",
+        "pos": "adv",
+        "chinese": "必然地"
+      },
+      {
+        "word": "unnecessary",
+        "pos": "adj",
+        "chinese": "不必要的"
+      }
+    ],
+    [
+      {
+        "word": "nature",
+        "pos": "n",
+        "chinese": "自然"
+      },
+      {
+        "word": "natural",
+        "pos": "adj",
+        "chinese": "自然的"
+      },
+      {
+        "word": "naturally",
+        "pos": "adv",
+        "chinese": "自然地"
+      },
+      {
+        "word": "unnatural",
+        "pos": "adj",
+        "chinese": "不自然的"
+      }
+    ],
+    [
+      {
+        "word": "noise",
+        "pos": "n",
+        "chinese": "噪声"
+      },
+      {
+        "word": "noisy",
+        "pos": "adj",
+        "chinese": "吵闹的"
+      },
+      {
+        "word": "noisily",
+        "pos": "adv",
+        "chinese": "吵闹地"
+      }
+    ],
+    [
+      {
+        "word": "obey",
+        "pos": "v",
+        "chinese": "服从"
+      },
+      {
+        "word": "obedience",
+        "pos": "n",
+        "chinese": "服从"
+      },
+      {
+        "word": "obedient",
+        "pos": "adj",
+        "chinese": "顺从的"
+      },
+      {
+        "word": "obediently",
+        "pos": "adv",
+        "chinese": "顺从地"
+      },
+      {
+        "word": "disobey",
+        "pos": "v",
+        "chinese": "不服从"
+      }
+    ],
+    [
+      {
+        "word": "occupy",
+        "pos": "v",
+        "chinese": "占用"
+      },
+      {
+        "word": "occupation",
+        "pos": "n",
+        "chinese": "职业或占领"
+      },
+      {
+        "word": "occupied",
+        "pos": "adj",
+        "chinese": "忙碌的"
+      }
+    ],
+    [
+      {
+        "word": "operate",
+        "pos": "v",
+        "chinese": "操作"
+      },
+      {
+        "word": "operation",
+        "pos": "n",
+        "chinese": "操作或手术"
+      },
+      {
+        "word": "operator",
+        "pos": "n",
+        "chinese": "操作员"
+      }
+    ],
+    [
+      {
+        "word": "organize",
+        "pos": "v",
+        "chinese": "组织"
+      },
+      {
+        "word": "organization",
+        "pos": "n",
+        "chinese": "组织"
+      },
+      {
+        "word": "organizer",
+        "pos": "n",
+        "chinese": "组织者"
+      },
+      {
+        "word": "organized",
+        "pos": "adj",
+        "chinese": "有条理的"
+      },
+      {
+        "word": "disorganized",
+        "pos": "adj",
+        "chinese": "杂乱无章的"
+      }
+    ],
+    [
+      {
+        "word": "patient",
+        "pos": "adj",
+        "chinese": "有耐心的"
+      },
+      {
+        "word": "patience",
+        "pos": "n",
+        "chinese": "耐心"
+      },
+      {
+        "word": "patiently",
+        "pos": "adv",
+        "chinese": "耐心地"
+      },
+      {
+        "word": "impatient",
+        "pos": "adj",
+        "chinese": "不耐烦的"
+      },
+      {
+        "word": "impatience",
+        "pos": "n",
+        "chinese": "不耐烦"
+      }
+    ],
+    [
+      {
+        "word": "perform",
+        "pos": "v",
+        "chinese": "表演或执行"
+      },
+      {
+        "word": "performance",
+        "pos": "n",
+        "chinese": "表演或表现"
+      },
+      {
+        "word": "performer",
+        "pos": "n",
+        "chinese": "表演者"
+      }
+    ],
+    [
+      {
+        "word": "person",
+        "pos": "n",
+        "chinese": "人"
+      },
+      {
+        "word": "personal",
+        "pos": "adj",
+        "chinese": "个人的"
+      },
+      {
+        "word": "personally",
+        "pos": "adv",
+        "chinese": "亲自或就个人而言"
+      },
+      {
+        "word": "personality",
+        "pos": "n",
+        "chinese": "性格"
+      },
+      {
+        "word": "impersonal",
+        "pos": "adj",
+        "chinese": "非个人的"
+      }
+    ],
+    [
+      {
+        "word": "please",
+        "pos": "v",
+        "chinese": "使高兴"
+      },
+      {
+        "word": "pleasure",
+        "pos": "n",
+        "chinese": "愉快"
+      },
+      {
+        "word": "pleasant",
+        "pos": "adj",
+        "chinese": "令人愉快的"
+      },
+      {
+        "word": "pleasantly",
+        "pos": "adv",
+        "chinese": "愉快地"
+      },
+      {
+        "word": "unpleasant",
+        "pos": "adj",
+        "chinese": "令人不快的"
+      },
+      {
+        "word": "pleased",
+        "pos": "adj",
+        "chinese": "感到满意的"
+      }
+    ],
+    [
+      {
+        "word": "polite",
+        "pos": "adj",
+        "chinese": "礼貌的"
+      },
+      {
+        "word": "politeness",
+        "pos": "n",
+        "chinese": "礼貌"
+      },
+      {
+        "word": "politely",
+        "pos": "adv",
+        "chinese": "礼貌地"
+      },
+      {
+        "word": "impolite",
+        "pos": "adj",
+        "chinese": "不礼貌的"
+      }
+    ],
+    [
+      {
+        "word": "pollute",
+        "pos": "v",
+        "chinese": "污染"
+      },
+      {
+        "word": "pollution",
+        "pos": "n",
+        "chinese": "污染"
+      },
+      {
+        "word": "polluted",
+        "pos": "adj",
+        "chinese": "受污染的"
+      }
+    ],
+    [
+      {
+        "word": "popular",
+        "pos": "adj",
+        "chinese": "受欢迎的"
+      },
+      {
+        "word": "popularity",
+        "pos": "n",
+        "chinese": "受欢迎"
+      },
+      {
+        "word": "unpopular",
+        "pos": "adj",
+        "chinese": "不受欢迎的"
+      }
+    ],
+    [
+      {
+        "word": "possible",
+        "pos": "adj",
+        "chinese": "可能的"
+      },
+      {
+        "word": "possibility",
+        "pos": "n",
+        "chinese": "可能性"
+      },
+      {
+        "word": "possibly",
+        "pos": "adv",
+        "chinese": "可能地"
+      },
+      {
+        "word": "impossible",
+        "pos": "adj",
+        "chinese": "不可能的"
+      },
+      {
+        "word": "impossibly",
+        "pos": "adv",
+        "chinese": "难以做到地"
+      }
+    ],
+    [
+      {
+        "word": "power",
+        "pos": "n",
+        "chinese": "力量"
+      },
+      {
+        "word": "powerful",
+        "pos": "adj",
+        "chinese": "强大的"
+      },
+      {
+        "word": "powerfully",
+        "pos": "adv",
+        "chinese": "强有力地"
+      },
+      {
+        "word": "powerless",
+        "pos": "adj",
+        "chinese": "无能为力的"
+      }
+    ],
+    [
+      {
+        "word": "prefer",
+        "pos": "v",
+        "chinese": "更喜欢"
+      },
+      {
+        "word": "preference",
+        "pos": "n",
+        "chinese": "偏好"
+      },
+      {
+        "word": "preferable",
+        "pos": "adj",
+        "chinese": "更可取的"
+      },
+      {
+        "word": "preferably",
+        "pos": "adv",
+        "chinese": "最好是"
+      }
+    ],
+    [
+      {
+        "word": "prepare",
+        "pos": "v",
+        "chinese": "准备"
+      },
+      {
+        "word": "preparation",
+        "pos": "n",
+        "chinese": "准备"
+      },
+      {
+        "word": "prepared",
+        "pos": "adj",
+        "chinese": "准备好的"
+      },
+      {
+        "word": "unprepared",
+        "pos": "adj",
+        "chinese": "未准备好的"
+      }
+    ],
+    [
+      {
+        "word": "prevent",
+        "pos": "v",
+        "chinese": "阻止"
+      },
+      {
+        "word": "prevention",
+        "pos": "n",
+        "chinese": "预防"
+      },
+      {
+        "word": "preventable",
+        "pos": "adj",
+        "chinese": "可预防的"
+      }
+    ],
+    [
+      {
+        "word": "produce",
+        "pos": "v",
+        "chinese": "生产"
+      },
+      {
+        "word": "production",
+        "pos": "n",
+        "chinese": "生产"
+      },
+      {
+        "word": "producer",
+        "pos": "n",
+        "chinese": "生产者"
+      },
+      {
+        "word": "productive",
+        "pos": "adj",
+        "chinese": "高效的"
+      },
+      {
+        "word": "productivity",
+        "pos": "n",
+        "chinese": "生产率"
+      }
+    ],
+    [
+      {
+        "word": "protect",
+        "pos": "v",
+        "chinese": "保护"
+      },
+      {
+        "word": "protection",
+        "pos": "n",
+        "chinese": "保护"
+      },
+      {
+        "word": "protective",
+        "pos": "adj",
+        "chinese": "保护性的"
+      }
+    ],
+    [
+      {
+        "word": "qualify",
+        "pos": "v",
+        "chinese": "取得资格"
+      },
+      {
+        "word": "qualification",
+        "pos": "n",
+        "chinese": "资格"
+      },
+      {
+        "word": "qualified",
+        "pos": "adj",
+        "chinese": "有资格的"
+      },
+      {
+        "word": "unqualified",
+        "pos": "adj",
+        "chinese": "无资格的"
+      }
+    ],
+    [
+      {
+        "word": "real",
+        "pos": "adj",
+        "chinese": "真实的"
+      },
+      {
+        "word": "reality",
+        "pos": "n",
+        "chinese": "现实"
+      },
+      {
+        "word": "really",
+        "pos": "adv",
+        "chinese": "真正地"
+      },
+      {
+        "word": "realistic",
+        "pos": "adj",
+        "chinese": "现实的"
+      },
+      {
+        "word": "realistically",
+        "pos": "adv",
+        "chinese": "现实地"
+      },
+      {
+        "word": "unrealistic",
+        "pos": "adj",
+        "chinese": "不切实际的"
+      }
+    ],
+    [
+      {
+        "word": "reason",
+        "pos": "n",
+        "chinese": "理由"
+      },
+      {
+        "word": "reasonable",
+        "pos": "adj",
+        "chinese": "合理的"
+      },
+      {
+        "word": "reasonably",
+        "pos": "adv",
+        "chinese": "合理地"
+      },
+      {
+        "word": "unreasonable",
+        "pos": "adj",
+        "chinese": "不合理的"
+      }
+    ],
+    [
+      {
+        "word": "recognize",
+        "pos": "v",
+        "chinese": "认出"
+      },
+      {
+        "word": "recognition",
+        "pos": "n",
+        "chinese": "识别"
+      },
+      {
+        "word": "recognizable",
+        "pos": "adj",
+        "chinese": "可认出的"
+      }
+    ],
+    [
+      {
+        "word": "reduce",
+        "pos": "v",
+        "chinese": "减少"
+      },
+      {
+        "word": "reduction",
+        "pos": "n",
+        "chinese": "减少"
+      },
+      {
+        "word": "reduced",
+        "pos": "adj",
+        "chinese": "降低了的"
+      }
+    ],
+    [
+      {
+        "word": "refuse",
+        "pos": "v",
+        "chinese": "拒绝"
+      },
+      {
+        "word": "refusal",
+        "pos": "n",
+        "chinese": "拒绝"
+      }
+    ],
+    [
+      {
+        "word": "rely",
+        "pos": "v",
+        "chinese": "依靠"
+      },
+      {
+        "word": "reliable",
+        "pos": "adj",
+        "chinese": "可靠的"
+      },
+      {
+        "word": "reliably",
+        "pos": "adv",
+        "chinese": "可靠地"
+      },
+      {
+        "word": "reliability",
+        "pos": "n",
+        "chinese": "可靠性"
+      },
+      {
+        "word": "unreliable",
+        "pos": "adj",
+        "chinese": "不可靠的"
+      }
+    ],
+    [
+      {
+        "word": "require",
+        "pos": "v",
+        "chinese": "要求"
+      },
+      {
+        "word": "requirement",
+        "pos": "n",
+        "chinese": "要求"
+      },
+      {
+        "word": "required",
+        "pos": "adj",
+        "chinese": "必需的"
+      }
+    ],
+    [
+      {
+        "word": "respond",
+        "pos": "v",
+        "chinese": "回应"
+      },
+      {
+        "word": "response",
+        "pos": "n",
+        "chinese": "回应"
+      },
+      {
+        "word": "responsive",
+        "pos": "adj",
+        "chinese": "反应积极的"
+      }
+    ],
+    [
+      {
+        "word": "responsible",
+        "pos": "adj",
+        "chinese": "负责任的"
+      },
+      {
+        "word": "responsibility",
+        "pos": "n",
+        "chinese": "责任"
+      },
+      {
+        "word": "responsibly",
+        "pos": "adv",
+        "chinese": "负责任地"
+      },
+      {
+        "word": "irresponsible",
+        "pos": "adj",
+        "chinese": "不负责任的"
+      }
+    ],
+    [
+      {
+        "word": "safe",
+        "pos": "adj",
+        "chinese": "安全的"
+      },
+      {
+        "word": "safety",
+        "pos": "n",
+        "chinese": "安全"
+      },
+      {
+        "word": "safely",
+        "pos": "adv",
+        "chinese": "安全地"
+      },
+      {
+        "word": "unsafe",
+        "pos": "adj",
+        "chinese": "不安全的"
+      }
+    ],
+    [
+      {
+        "word": "satisfy",
+        "pos": "v",
+        "chinese": "使满意"
+      },
+      {
+        "word": "satisfaction",
+        "pos": "n",
+        "chinese": "满意"
+      },
+      {
+        "word": "satisfied",
+        "pos": "adj",
+        "chinese": "感到满意的"
+      },
+      {
+        "word": "satisfying",
+        "pos": "adj",
+        "chinese": "令人满意的"
+      },
+      {
+        "word": "dissatisfied",
+        "pos": "adj",
+        "chinese": "不满意的"
+      }
+    ],
+    [
+      {
+        "word": "science",
+        "pos": "n",
+        "chinese": "科学"
+      },
+      {
+        "word": "scientist",
+        "pos": "n",
+        "chinese": "科学家"
+      },
+      {
+        "word": "scientific",
+        "pos": "adj",
+        "chinese": "科学的"
+      },
+      {
+        "word": "scientifically",
+        "pos": "adv",
+        "chinese": "科学地"
+      }
+    ],
+    [
+      {
+        "word": "secure",
+        "pos": "adj",
+        "chinese": "安全的"
+      },
+      {
+        "word": "security",
+        "pos": "n",
+        "chinese": "安全"
+      },
+      {
+        "word": "securely",
+        "pos": "adv",
+        "chinese": "牢固地"
+      },
+      {
+        "word": "insecure",
+        "pos": "adj",
+        "chinese": "缺乏安全感的"
+      }
+    ],
+    [
+      {
+        "word": "sensitive",
+        "pos": "adj",
+        "chinese": "敏感的"
+      },
+      {
+        "word": "sensitivity",
+        "pos": "n",
+        "chinese": "敏感"
+      },
+      {
+        "word": "sensitively",
+        "pos": "adv",
+        "chinese": "体谅地"
+      },
+      {
+        "word": "insensitive",
+        "pos": "adj",
+        "chinese": "不体谅的"
+      }
+    ],
+    [
+      {
+        "word": "sense",
+        "pos": "n",
+        "chinese": "感觉或意义"
+      },
+      {
+        "word": "sensible",
+        "pos": "adj",
+        "chinese": "明智的"
+      },
+      {
+        "word": "sensibly",
+        "pos": "adv",
+        "chinese": "明智地"
+      },
+      {
+        "word": "nonsense",
+        "pos": "n",
+        "chinese": "胡说"
+      }
+    ],
+    [
+      {
+        "word": "separate",
+        "pos": "v",
+        "chinese": "分开"
+      },
+      {
+        "word": "separation",
+        "pos": "n",
+        "chinese": "分离"
+      },
+      {
+        "word": "separately",
+        "pos": "adv",
+        "chinese": "分别地"
+      },
+      {
+        "word": "inseparable",
+        "pos": "adj",
+        "chinese": "不可分离的"
+      }
+    ],
+    [
+      {
+        "word": "signify",
+        "pos": "v",
+        "chinese": "意味着"
+      },
+      {
+        "word": "significance",
+        "pos": "n",
+        "chinese": "重要性"
+      },
+      {
+        "word": "significant",
+        "pos": "adj",
+        "chinese": "重要的"
+      },
+      {
+        "word": "significantly",
+        "pos": "adv",
+        "chinese": "显著地"
+      },
+      {
+        "word": "insignificant",
+        "pos": "adj",
+        "chinese": "不重要的"
+      }
+    ],
+    [
+      {
+        "word": "similar",
+        "pos": "adj",
+        "chinese": "相似的"
+      },
+      {
+        "word": "similarity",
+        "pos": "n",
+        "chinese": "相似性"
+      },
+      {
+        "word": "similarly",
+        "pos": "adv",
+        "chinese": "同样地"
+      }
+    ],
+    [
+      {
+        "word": "simple",
+        "pos": "adj",
+        "chinese": "简单的"
+      },
+      {
+        "word": "simplicity",
+        "pos": "n",
+        "chinese": "简单"
+      },
+      {
+        "word": "simplify",
+        "pos": "v",
+        "chinese": "简化"
+      },
+      {
+        "word": "simply",
+        "pos": "adv",
+        "chinese": "简单地"
+      }
+    ],
+    [
+      {
+        "word": "solve",
+        "pos": "v",
+        "chinese": "解决"
+      },
+      {
+        "word": "solution",
+        "pos": "n",
+        "chinese": "解决办法"
+      },
+      {
+        "word": "solvable",
+        "pos": "adj",
+        "chinese": "可解决的"
+      }
+    ],
+    [
+      {
+        "word": "strong",
+        "pos": "adj",
+        "chinese": "强壮的"
+      },
+      {
+        "word": "strength",
+        "pos": "n",
+        "chinese": "力量"
+      },
+      {
+        "word": "strengthen",
+        "pos": "v",
+        "chinese": "加强"
+      },
+      {
+        "word": "strongly",
+        "pos": "adv",
+        "chinese": "强烈地"
+      }
+    ],
+    [
+      {
+        "word": "succeed",
+        "pos": "v",
+        "chinese": "成功"
+      },
+      {
+        "word": "success",
+        "pos": "n",
+        "chinese": "成功"
+      },
+      {
+        "word": "successful",
+        "pos": "adj",
+        "chinese": "成功的"
+      },
+      {
+        "word": "successfully",
+        "pos": "adv",
+        "chinese": "成功地"
+      },
+      {
+        "word": "unsuccessful",
+        "pos": "adj",
+        "chinese": "不成功的"
+      }
+    ],
+    [
+      {
+        "word": "suit",
+        "pos": "v",
+        "chinese": "适合"
+      },
+      {
+        "word": "suitable",
+        "pos": "adj",
+        "chinese": "合适的"
+      },
+      {
+        "word": "suitably",
+        "pos": "adv",
+        "chinese": "适当地"
+      },
+      {
+        "word": "unsuitable",
+        "pos": "adj",
+        "chinese": "不合适的"
+      }
+    ],
+    [
+      {
+        "word": "surprise",
+        "pos": "v",
+        "chinese": "使惊讶"
+      },
+      {
+        "word": "surprised",
+        "pos": "adj",
+        "chinese": "感到惊讶的"
+      },
+      {
+        "word": "surprising",
+        "pos": "adj",
+        "chinese": "令人惊讶的"
+      },
+      {
+        "word": "surprisingly",
+        "pos": "adv",
+        "chinese": "令人惊讶地"
+      }
+    ],
+    [
+      {
+        "word": "teach",
+        "pos": "v",
+        "chinese": "教"
+      },
+      {
+        "word": "teacher",
+        "pos": "n",
+        "chinese": "教师"
+      },
+      {
+        "word": "teaching",
+        "pos": "n",
+        "chinese": "教学"
+      }
+    ],
+    [
+      {
+        "word": "technology",
+        "pos": "n",
+        "chinese": "技术"
+      },
+      {
+        "word": "technical",
+        "pos": "adj",
+        "chinese": "技术的"
+      },
+      {
+        "word": "technically",
+        "pos": "adv",
+        "chinese": "技术上"
+      },
+      {
+        "word": "technician",
+        "pos": "n",
+        "chinese": "技术人员"
+      },
+      {
+        "word": "technological",
+        "pos": "adj",
+        "chinese": "科技的"
+      }
+    ],
+    [
+      {
+        "word": "think",
+        "pos": "v",
+        "chinese": "思考"
+      },
+      {
+        "word": "thought",
+        "pos": "n",
+        "chinese": "想法"
+      },
+      {
+        "word": "thoughtful",
+        "pos": "adj",
+        "chinese": "体贴的"
+      },
+      {
+        "word": "thoughtfully",
+        "pos": "adv",
+        "chinese": "体贴地"
+      },
+      {
+        "word": "thoughtless",
+        "pos": "adj",
+        "chinese": "欠考虑的"
+      }
+    ],
+    [
+      {
+        "word": "threat",
+        "pos": "n",
+        "chinese": "威胁"
+      },
+      {
+        "word": "threaten",
+        "pos": "v",
+        "chinese": "威胁"
+      },
+      {
+        "word": "threatening",
+        "pos": "adj",
+        "chinese": "带威胁的"
+      }
+    ],
+    [
+      {
+        "word": "tire",
+        "pos": "v",
+        "chinese": "使疲倦"
+      },
+      {
+        "word": "tired",
+        "pos": "adj",
+        "chinese": "感到疲倦的"
+      },
+      {
+        "word": "tiring",
+        "pos": "adj",
+        "chinese": "令人疲倦的"
+      },
+      {
+        "word": "tireless",
+        "pos": "adj",
+        "chinese": "不知疲倦的"
+      }
+    ],
+    [
+      {
+        "word": "train",
+        "pos": "v",
+        "chinese": "训练"
+      },
+      {
+        "word": "training",
+        "pos": "n",
+        "chinese": "训练"
+      },
+      {
+        "word": "trainer",
+        "pos": "n",
+        "chinese": "教练"
+      }
+    ],
+    [
+      {
+        "word": "true",
+        "pos": "adj",
+        "chinese": "真实的"
+      },
+      {
+        "word": "truth",
+        "pos": "n",
+        "chinese": "真相"
+      },
+      {
+        "word": "truly",
+        "pos": "adv",
+        "chinese": "真正地"
+      },
+      {
+        "word": "truthful",
+        "pos": "adj",
+        "chinese": "诚实的"
+      },
+      {
+        "word": "untrue",
+        "pos": "adj",
+        "chinese": "不真实的"
+      }
+    ],
+    [
+      {
+        "word": "understand",
+        "pos": "v",
+        "chinese": "理解"
+      },
+      {
+        "word": "understanding",
+        "pos": "n",
+        "chinese": "理解"
+      },
+      {
+        "word": "understandable",
+        "pos": "adj",
+        "chinese": "可理解的"
+      },
+      {
+        "word": "misunderstand",
+        "pos": "v",
+        "chinese": "误解"
+      },
+      {
+        "word": "misunderstanding",
+        "pos": "n",
+        "chinese": "误解"
+      }
+    ],
+    [
+      {
+        "word": "use",
+        "pos": "v",
+        "chinese": "使用"
+      },
+      {
+        "word": "useful",
+        "pos": "adj",
+        "chinese": "有用的"
+      },
+      {
+        "word": "usefully",
+        "pos": "adv",
+        "chinese": "有用地"
+      },
+      {
+        "word": "useless",
+        "pos": "adj",
+        "chinese": "无用的"
+      },
+      {
+        "word": "usable",
+        "pos": "adj",
+        "chinese": "可用的"
+      },
+      {
+        "word": "user",
+        "pos": "n",
+        "chinese": "使用者"
+      }
+    ],
+    [
+      {
+        "word": "value",
+        "pos": "n",
+        "chinese": "价值"
+      },
+      {
+        "word": "valuable",
+        "pos": "adj",
+        "chinese": "宝贵的"
+      },
+      {
+        "word": "invaluable",
+        "pos": "adj",
+        "chinese": "极其宝贵的"
+      },
+      {
+        "word": "valueless",
+        "pos": "adj",
+        "chinese": "无价值的"
+      }
+    ],
+    [
+      {
+        "word": "vary",
+        "pos": "v",
+        "chinese": "变化"
+      },
+      {
+        "word": "variation",
+        "pos": "n",
+        "chinese": "变化"
+      },
+      {
+        "word": "variety",
+        "pos": "n",
+        "chinese": "多样性"
+      },
+      {
+        "word": "various",
+        "pos": "adj",
+        "chinese": "各种各样的"
+      },
+      {
+        "word": "variable",
+        "pos": "adj",
+        "chinese": "可变的"
+      }
+    ],
+    [
+      {
+        "word": "warm",
+        "pos": "adj",
+        "chinese": "温暖的"
+      },
+      {
+        "word": "warmth",
+        "pos": "n",
+        "chinese": "温暖"
+      },
+      {
+        "word": "warmly",
+        "pos": "adv",
+        "chinese": "热情地"
+      }
+    ],
+    [
+      {
+        "word": "weak",
+        "pos": "adj",
+        "chinese": "虚弱的"
+      },
+      {
+        "word": "weakness",
+        "pos": "n",
+        "chinese": "弱点"
+      },
+      {
+        "word": "weaken",
+        "pos": "v",
+        "chinese": "削弱"
+      },
+      {
+        "word": "weakly",
+        "pos": "adv",
+        "chinese": "虚弱地"
+      }
+    ],
+    [
+      {
+        "word": "wide",
+        "pos": "adj",
+        "chinese": "宽的"
+      },
+      {
+        "word": "width",
+        "pos": "n",
+        "chinese": "宽度"
+      },
+      {
+        "word": "widen",
+        "pos": "v",
+        "chinese": "拓宽"
+      },
+      {
+        "word": "widely",
+        "pos": "adv",
+        "chinese": "广泛地"
+      }
+    ],
+    [
+      {
+        "word": "wise",
+        "pos": "adj",
+        "chinese": "明智的"
+      },
+      {
+        "word": "wisdom",
+        "pos": "n",
+        "chinese": "智慧"
+      },
+      {
+        "word": "wisely",
+        "pos": "adv",
+        "chinese": "明智地"
+      },
+      {
+        "word": "unwise",
+        "pos": "adj",
+        "chinese": "不明智的"
+      }
+    ],
+    [
+      {
+        "word": "write",
+        "pos": "v",
+        "chinese": "写"
+      },
+      {
+        "word": "writer",
+        "pos": "n",
+        "chinese": "作家"
+      },
+      {
+        "word": "writing",
+        "pos": "n",
+        "chinese": "写作"
+      },
+      {
+        "word": "written",
+        "pos": "adj",
+        "chinese": "书面的"
+      }
+    ],
+    [
+      {
+        "word": "good",
+        "pos": "adj",
+        "chinese": "好的"
+      },
+      {
+        "word": "goodness",
+        "pos": "n",
+        "chinese": "善良"
+      },
+      {
+        "word": "well",
+        "pos": "adv",
+        "chinese": "好地"
+      }
+    ],
+    [
+      {
+        "word": "bad",
+        "pos": "adj",
+        "chinese": "坏的"
+      },
+      {
+        "word": "badly",
+        "pos": "adv",
+        "chinese": "差地"
+      },
+      {
+        "word": "badness",
+        "pos": "n",
+        "chinese": "坏"
+      }
+    ],
+    [
+      {
+        "word": "easy",
+        "pos": "adj",
+        "chinese": "容易的"
+      },
+      {
+        "word": "ease",
+        "pos": "n",
+        "chinese": "容易或舒适"
+      },
+      {
+        "word": "easily",
+        "pos": "adv",
+        "chinese": "容易地"
+      },
+      {
+        "word": "uneasy",
+        "pos": "adj",
+        "chinese": "不安的"
+      }
+    ],
+    [
+      {
+        "word": "able",
+        "pos": "adj",
+        "chinese": "能够的"
+      },
+      {
+        "word": "ability",
+        "pos": "n",
+        "chinese": "能力"
+      },
+      {
+        "word": "enable",
+        "pos": "v",
+        "chinese": "使能够"
+      },
+      {
+        "word": "unable",
+        "pos": "adj",
+        "chinese": "不能的"
+      }
+    ],
+    [
+      {
+        "word": "accurate",
+        "pos": "adj",
+        "chinese": "准确的"
+      },
+      {
+        "word": "accuracy",
+        "pos": "n",
+        "chinese": "准确性"
+      },
+      {
+        "word": "accurately",
+        "pos": "adv",
+        "chinese": "准确地"
+      },
+      {
+        "word": "inaccurate",
+        "pos": "adj",
+        "chinese": "不准确的"
+      }
+    ],
+    [
+      {
+        "word": "light",
+        "pos": "adj",
+        "chinese": "轻的"
+      },
+      {
+        "word": "lightness",
+        "pos": "n",
+        "chinese": "轻"
+      },
+      {
+        "word": "lightly",
+        "pos": "adv",
+        "chinese": "轻轻地"
+      }
+    ],
+    [
+      {
+        "word": "worry",
+        "pos": "v",
+        "chinese": "担心"
+      },
+      {
+        "word": "worried",
+        "pos": "adj",
+        "chinese": "担忧的"
+      },
+      {
+        "word": "worrying",
+        "pos": "adj",
+        "chinese": "令人担忧的"
+      }
+    ],
+    [
+      {
+        "word": "bore",
+        "pos": "v",
+        "chinese": "使厌烦"
+      },
+      {
+        "word": "boredom",
+        "pos": "n",
+        "chinese": "无聊"
+      },
+      {
+        "word": "bored",
+        "pos": "adj",
+        "chinese": "感到厌烦的"
+      },
+      {
+        "word": "boring",
+        "pos": "adj",
+        "chinese": "令人厌烦的"
+      }
+    ],
+    [
+      {
+        "word": "intelligent",
+        "pos": "adj",
+        "chinese": "聪明的"
+      },
+      {
+        "word": "intelligence",
+        "pos": "n",
+        "chinese": "智力"
+      },
+      {
+        "word": "intelligently",
+        "pos": "adv",
+        "chinese": "聪明地"
+      }
+    ]
+  ],
+  "irregularVerbs": {
+    "arise": {
+      "past": [
+        "arose"
+      ],
+      "pastParticiple": [
+        "arisen"
+      ]
+    },
+    "awake": {
+      "past": [
+        "awoke"
+      ],
+      "pastParticiple": [
+        "awoken"
+      ]
+    },
+    "be": {
+      "past": [
+        "was",
+        "were"
+      ],
+      "pastParticiple": [
+        "been"
+      ]
+    },
+    "bear": {
+      "past": [
+        "bore"
+      ],
+      "pastParticiple": [
+        "borne",
+        "born"
+      ]
+    },
+    "beat": {
+      "past": [
+        "beat"
+      ],
+      "pastParticiple": [
+        "beaten"
+      ]
+    },
+    "become": {
+      "past": [
+        "became"
+      ],
+      "pastParticiple": [
+        "become"
+      ]
+    },
+    "begin": {
+      "past": [
+        "began"
+      ],
+      "pastParticiple": [
+        "begun"
+      ]
+    },
+    "bend": {
+      "past": [
+        "bent"
+      ],
+      "pastParticiple": [
+        "bent"
+      ]
+    },
+    "bet": {
+      "past": [
+        "bet"
+      ],
+      "pastParticiple": [
+        "bet"
+      ]
+    },
+    "bind": {
+      "past": [
+        "bound"
+      ],
+      "pastParticiple": [
+        "bound"
+      ]
+    },
+    "bite": {
+      "past": [
+        "bit"
+      ],
+      "pastParticiple": [
+        "bitten"
+      ]
+    },
+    "bleed": {
+      "past": [
+        "bled"
+      ],
+      "pastParticiple": [
+        "bled"
+      ]
+    },
+    "blow": {
+      "past": [
+        "blew"
+      ],
+      "pastParticiple": [
+        "blown"
+      ]
+    },
+    "break": {
+      "past": [
+        "broke"
+      ],
+      "pastParticiple": [
+        "broken"
+      ]
+    },
+    "breed": {
+      "past": [
+        "bred"
+      ],
+      "pastParticiple": [
+        "bred"
+      ]
+    },
+    "bring": {
+      "past": [
+        "brought"
+      ],
+      "pastParticiple": [
+        "brought"
+      ]
+    },
+    "broadcast": {
+      "past": [
+        "broadcast"
+      ],
+      "pastParticiple": [
+        "broadcast"
+      ]
+    },
+    "build": {
+      "past": [
+        "built"
+      ],
+      "pastParticiple": [
+        "built"
+      ]
+    },
+    "burn": {
+      "past": [
+        "burnt",
+        "burned"
+      ],
+      "pastParticiple": [
+        "burnt",
+        "burned"
+      ]
+    },
+    "burst": {
+      "past": [
+        "burst"
+      ],
+      "pastParticiple": [
+        "burst"
+      ]
+    },
+    "buy": {
+      "past": [
+        "bought"
+      ],
+      "pastParticiple": [
+        "bought"
+      ]
+    },
+    "catch": {
+      "past": [
+        "caught"
+      ],
+      "pastParticiple": [
+        "caught"
+      ]
+    },
+    "choose": {
+      "past": [
+        "chose"
+      ],
+      "pastParticiple": [
+        "chosen"
+      ]
+    },
+    "cling": {
+      "past": [
+        "clung"
+      ],
+      "pastParticiple": [
+        "clung"
+      ]
+    },
+    "come": {
+      "past": [
+        "came"
+      ],
+      "pastParticiple": [
+        "come"
+      ]
+    },
+    "cost": {
+      "past": [
+        "cost"
+      ],
+      "pastParticiple": [
+        "cost"
+      ]
+    },
+    "creep": {
+      "past": [
+        "crept"
+      ],
+      "pastParticiple": [
+        "crept"
+      ]
+    },
+    "cut": {
+      "past": [
+        "cut"
+      ],
+      "pastParticiple": [
+        "cut"
+      ]
+    },
+    "deal": {
+      "past": [
+        "dealt"
+      ],
+      "pastParticiple": [
+        "dealt"
+      ]
+    },
+    "dig": {
+      "past": [
+        "dug"
+      ],
+      "pastParticiple": [
+        "dug"
+      ]
+    },
+    "dive": {
+      "past": [
+        "dived",
+        "dove"
+      ],
+      "pastParticiple": [
+        "dived"
+      ]
+    },
+    "do": {
+      "past": [
+        "did"
+      ],
+      "pastParticiple": [
+        "done"
+      ]
+    },
+    "draw": {
+      "past": [
+        "drew"
+      ],
+      "pastParticiple": [
+        "drawn"
+      ]
+    },
+    "dream": {
+      "past": [
+        "dreamt",
+        "dreamed"
+      ],
+      "pastParticiple": [
+        "dreamt",
+        "dreamed"
+      ]
+    },
+    "drink": {
+      "past": [
+        "drank"
+      ],
+      "pastParticiple": [
+        "drunk"
+      ]
+    },
+    "drive": {
+      "past": [
+        "drove"
+      ],
+      "pastParticiple": [
+        "driven"
+      ]
+    },
+    "eat": {
+      "past": [
+        "ate"
+      ],
+      "pastParticiple": [
+        "eaten"
+      ]
+    },
+    "fall": {
+      "past": [
+        "fell"
+      ],
+      "pastParticiple": [
+        "fallen"
+      ]
+    },
+    "feed": {
+      "past": [
+        "fed"
+      ],
+      "pastParticiple": [
+        "fed"
+      ]
+    },
+    "feel": {
+      "past": [
+        "felt"
+      ],
+      "pastParticiple": [
+        "felt"
+      ]
+    },
+    "fight": {
+      "past": [
+        "fought"
+      ],
+      "pastParticiple": [
+        "fought"
+      ]
+    },
+    "find": {
+      "past": [
+        "found"
+      ],
+      "pastParticiple": [
+        "found"
+      ]
+    },
+    "flee": {
+      "past": [
+        "fled"
+      ],
+      "pastParticiple": [
+        "fled"
+      ]
+    },
+    "fly": {
+      "past": [
+        "flew"
+      ],
+      "pastParticiple": [
+        "flown"
+      ]
+    },
+    "forbid": {
+      "past": [
+        "forbade"
+      ],
+      "pastParticiple": [
+        "forbidden"
+      ]
+    },
+    "forget": {
+      "past": [
+        "forgot"
+      ],
+      "pastParticiple": [
+        "forgotten"
+      ]
+    },
+    "forgive": {
+      "past": [
+        "forgave"
+      ],
+      "pastParticiple": [
+        "forgiven"
+      ]
+    },
+    "freeze": {
+      "past": [
+        "froze"
+      ],
+      "pastParticiple": [
+        "frozen"
+      ]
+    },
+    "get": {
+      "past": [
+        "got"
+      ],
+      "pastParticiple": [
+        "got",
+        "gotten"
+      ]
+    },
+    "give": {
+      "past": [
+        "gave"
+      ],
+      "pastParticiple": [
+        "given"
+      ]
+    },
+    "go": {
+      "past": [
+        "went"
+      ],
+      "pastParticiple": [
+        "gone"
+      ]
+    },
+    "grow": {
+      "past": [
+        "grew"
+      ],
+      "pastParticiple": [
+        "grown"
+      ]
+    },
+    "hang": {
+      "past": [
+        "hung"
+      ],
+      "pastParticiple": [
+        "hung"
+      ]
+    },
+    "have": {
+      "past": [
+        "had"
+      ],
+      "pastParticiple": [
+        "had"
+      ]
+    },
+    "hear": {
+      "past": [
+        "heard"
+      ],
+      "pastParticiple": [
+        "heard"
+      ]
+    },
+    "hide": {
+      "past": [
+        "hid"
+      ],
+      "pastParticiple": [
+        "hidden"
+      ]
+    },
+    "hit": {
+      "past": [
+        "hit"
+      ],
+      "pastParticiple": [
+        "hit"
+      ]
+    },
+    "hold": {
+      "past": [
+        "held"
+      ],
+      "pastParticiple": [
+        "held"
+      ]
+    },
+    "hurt": {
+      "past": [
+        "hurt"
+      ],
+      "pastParticiple": [
+        "hurt"
+      ]
+    },
+    "keep": {
+      "past": [
+        "kept"
+      ],
+      "pastParticiple": [
+        "kept"
+      ]
+    },
+    "kneel": {
+      "past": [
+        "knelt",
+        "kneeled"
+      ],
+      "pastParticiple": [
+        "knelt",
+        "kneeled"
+      ]
+    },
+    "know": {
+      "past": [
+        "knew"
+      ],
+      "pastParticiple": [
+        "known"
+      ]
+    },
+    "lay": {
+      "past": [
+        "laid"
+      ],
+      "pastParticiple": [
+        "laid"
+      ]
+    },
+    "lead": {
+      "past": [
+        "led"
+      ],
+      "pastParticiple": [
+        "led"
+      ]
+    },
+    "lean": {
+      "past": [
+        "leant",
+        "leaned"
+      ],
+      "pastParticiple": [
+        "leant",
+        "leaned"
+      ]
+    },
+    "leap": {
+      "past": [
+        "leapt",
+        "leaped"
+      ],
+      "pastParticiple": [
+        "leapt",
+        "leaped"
+      ]
+    },
+    "learn": {
+      "past": [
+        "learnt",
+        "learned"
+      ],
+      "pastParticiple": [
+        "learnt",
+        "learned"
+      ]
+    },
+    "leave": {
+      "past": [
+        "left"
+      ],
+      "pastParticiple": [
+        "left"
+      ]
+    },
+    "lend": {
+      "past": [
+        "lent"
+      ],
+      "pastParticiple": [
+        "lent"
+      ]
+    },
+    "let": {
+      "past": [
+        "let"
+      ],
+      "pastParticiple": [
+        "let"
+      ]
+    },
+    "lie": {
+      "past": [
+        "lied"
+      ],
+      "pastParticiple": [
+        "lied"
+      ]
+    },
+    "light": {
+      "past": [
+        "lit",
+        "lighted"
+      ],
+      "pastParticiple": [
+        "lit",
+        "lighted"
+      ]
+    },
+    "lose": {
+      "past": [
+        "lost"
+      ],
+      "pastParticiple": [
+        "lost"
+      ]
+    },
+    "make": {
+      "past": [
+        "made"
+      ],
+      "pastParticiple": [
+        "made"
+      ]
+    },
+    "mean": {
+      "past": [
+        "meant"
+      ],
+      "pastParticiple": [
+        "meant"
+      ]
+    },
+    "meet": {
+      "past": [
+        "met"
+      ],
+      "pastParticiple": [
+        "met"
+      ]
+    },
+    "mistake": {
+      "past": [
+        "mistook"
+      ],
+      "pastParticiple": [
+        "mistaken"
+      ]
+    },
+    "overcome": {
+      "past": [
+        "overcame"
+      ],
+      "pastParticiple": [
+        "overcome"
+      ]
+    },
+    "overtake": {
+      "past": [
+        "overtook"
+      ],
+      "pastParticiple": [
+        "overtaken"
+      ]
+    },
+    "pay": {
+      "past": [
+        "paid"
+      ],
+      "pastParticiple": [
+        "paid"
+      ]
+    },
+    "prove": {
+      "past": [
+        "proved"
+      ],
+      "pastParticiple": [
+        "proved",
+        "proven"
+      ]
+    },
+    "put": {
+      "past": [
+        "put"
+      ],
+      "pastParticiple": [
+        "put"
+      ]
+    },
+    "quit": {
+      "past": [
+        "quit"
+      ],
+      "pastParticiple": [
+        "quit"
+      ]
+    },
+    "read": {
+      "past": [
+        "read"
+      ],
+      "pastParticiple": [
+        "read"
+      ]
+    },
+    "ride": {
+      "past": [
+        "rode"
+      ],
+      "pastParticiple": [
+        "ridden"
+      ]
+    },
+    "ring": {
+      "past": [
+        "rang"
+      ],
+      "pastParticiple": [
+        "rung"
+      ]
+    },
+    "rise": {
+      "past": [
+        "rose"
+      ],
+      "pastParticiple": [
+        "risen"
+      ]
+    },
+    "run": {
+      "past": [
+        "ran"
+      ],
+      "pastParticiple": [
+        "run"
+      ]
+    },
+    "say": {
+      "past": [
+        "said"
+      ],
+      "pastParticiple": [
+        "said"
+      ]
+    },
+    "see": {
+      "past": [
+        "saw"
+      ],
+      "pastParticiple": [
+        "seen"
+      ]
+    },
+    "seek": {
+      "past": [
+        "sought"
+      ],
+      "pastParticiple": [
+        "sought"
+      ]
+    },
+    "sell": {
+      "past": [
+        "sold"
+      ],
+      "pastParticiple": [
+        "sold"
+      ]
+    },
+    "send": {
+      "past": [
+        "sent"
+      ],
+      "pastParticiple": [
+        "sent"
+      ]
+    },
+    "set": {
+      "past": [
+        "set"
+      ],
+      "pastParticiple": [
+        "set"
+      ]
+    },
+    "shake": {
+      "past": [
+        "shook"
+      ],
+      "pastParticiple": [
+        "shaken"
+      ]
+    },
+    "shine": {
+      "past": [
+        "shone"
+      ],
+      "pastParticiple": [
+        "shone"
+      ]
+    },
+    "shoot": {
+      "past": [
+        "shot"
+      ],
+      "pastParticiple": [
+        "shot"
+      ]
+    },
+    "show": {
+      "past": [
+        "showed"
+      ],
+      "pastParticiple": [
+        "shown"
+      ]
+    },
+    "shrink": {
+      "past": [
+        "shrank"
+      ],
+      "pastParticiple": [
+        "shrunk"
+      ]
+    },
+    "shut": {
+      "past": [
+        "shut"
+      ],
+      "pastParticiple": [
+        "shut"
+      ]
+    },
+    "sing": {
+      "past": [
+        "sang"
+      ],
+      "pastParticiple": [
+        "sung"
+      ]
+    },
+    "sink": {
+      "past": [
+        "sank"
+      ],
+      "pastParticiple": [
+        "sunk"
+      ]
+    },
+    "sit": {
+      "past": [
+        "sat"
+      ],
+      "pastParticiple": [
+        "sat"
+      ]
+    },
+    "sleep": {
+      "past": [
+        "slept"
+      ],
+      "pastParticiple": [
+        "slept"
+      ]
+    },
+    "slide": {
+      "past": [
+        "slid"
+      ],
+      "pastParticiple": [
+        "slid"
+      ]
+    },
+    "smell": {
+      "past": [
+        "smelt",
+        "smelled"
+      ],
+      "pastParticiple": [
+        "smelt",
+        "smelled"
+      ]
+    },
+    "speak": {
+      "past": [
+        "spoke"
+      ],
+      "pastParticiple": [
+        "spoken"
+      ]
+    },
+    "speed": {
+      "past": [
+        "sped",
+        "speeded"
+      ],
+      "pastParticiple": [
+        "sped",
+        "speeded"
+      ]
+    },
+    "spell": {
+      "past": [
+        "spelt",
+        "spelled"
+      ],
+      "pastParticiple": [
+        "spelt",
+        "spelled"
+      ]
+    },
+    "spend": {
+      "past": [
+        "spent"
+      ],
+      "pastParticiple": [
+        "spent"
+      ]
+    },
+    "spill": {
+      "past": [
+        "spilt",
+        "spilled"
+      ],
+      "pastParticiple": [
+        "spilt",
+        "spilled"
+      ]
+    },
+    "spin": {
+      "past": [
+        "spun"
+      ],
+      "pastParticiple": [
+        "spun"
+      ]
+    },
+    "split": {
+      "past": [
+        "split"
+      ],
+      "pastParticiple": [
+        "split"
+      ]
+    },
+    "spread": {
+      "past": [
+        "spread"
+      ],
+      "pastParticiple": [
+        "spread"
+      ]
+    },
+    "spring": {
+      "past": [
+        "sprang"
+      ],
+      "pastParticiple": [
+        "sprung"
+      ]
+    },
+    "stand": {
+      "past": [
+        "stood"
+      ],
+      "pastParticiple": [
+        "stood"
+      ]
+    },
+    "steal": {
+      "past": [
+        "stole"
+      ],
+      "pastParticiple": [
+        "stolen"
+      ]
+    },
+    "stick": {
+      "past": [
+        "stuck"
+      ],
+      "pastParticiple": [
+        "stuck"
+      ]
+    },
+    "sting": {
+      "past": [
+        "stung"
+      ],
+      "pastParticiple": [
+        "stung"
+      ]
+    },
+    "strike": {
+      "past": [
+        "struck"
+      ],
+      "pastParticiple": [
+        "struck"
+      ]
+    },
+    "swear": {
+      "past": [
+        "swore"
+      ],
+      "pastParticiple": [
+        "sworn"
+      ]
+    },
+    "sweep": {
+      "past": [
+        "swept"
+      ],
+      "pastParticiple": [
+        "swept"
+      ]
+    },
+    "swim": {
+      "past": [
+        "swam"
+      ],
+      "pastParticiple": [
+        "swum"
+      ]
+    },
+    "swing": {
+      "past": [
+        "swung"
+      ],
+      "pastParticiple": [
+        "swung"
+      ]
+    },
+    "take": {
+      "past": [
+        "took"
+      ],
+      "pastParticiple": [
+        "taken"
+      ]
+    },
+    "teach": {
+      "past": [
+        "taught"
+      ],
+      "pastParticiple": [
+        "taught"
+      ]
+    },
+    "tear": {
+      "past": [
+        "tore"
+      ],
+      "pastParticiple": [
+        "torn"
+      ]
+    },
+    "tell": {
+      "past": [
+        "told"
+      ],
+      "pastParticiple": [
+        "told"
+      ]
+    },
+    "think": {
+      "past": [
+        "thought"
+      ],
+      "pastParticiple": [
+        "thought"
+      ]
+    },
+    "throw": {
+      "past": [
+        "threw"
+      ],
+      "pastParticiple": [
+        "thrown"
+      ]
+    },
+    "undergo": {
+      "past": [
+        "underwent"
+      ],
+      "pastParticiple": [
+        "undergone"
+      ]
+    },
+    "understand": {
+      "past": [
+        "understood"
+      ],
+      "pastParticiple": [
+        "understood"
+      ]
+    },
+    "wake": {
+      "past": [
+        "woke"
+      ],
+      "pastParticiple": [
+        "woken"
+      ]
+    },
+    "wear": {
+      "past": [
+        "wore"
+      ],
+      "pastParticiple": [
+        "worn"
+      ]
+    },
+    "weep": {
+      "past": [
+        "wept"
+      ],
+      "pastParticiple": [
+        "wept"
+      ]
+    },
+    "win": {
+      "past": [
+        "won"
+      ],
+      "pastParticiple": [
+        "won"
+      ]
+    },
+    "withdraw": {
+      "past": [
+        "withdrew"
+      ],
+      "pastParticiple": [
+        "withdrawn"
+      ]
+    },
+    "write": {
+      "past": [
+        "wrote"
+      ],
+      "pastParticiple": [
+        "written"
+      ]
+    }
+  },
+  "antonymPairs": [
+    {
+      "left": "accept",
+      "leftChinese": "接受",
+      "right": "refuse",
+      "rightChinese": "拒绝",
+      "note": "接受或拒绝邀请、提议。"
+    },
+    {
+      "left": "appear",
+      "leftChinese": "出现",
+      "right": "disappear",
+      "rightChinese": "消失",
+      "note": "事物出现或消失。"
+    },
+    {
+      "left": "arrive",
+      "leftChinese": "到达",
+      "right": "leave",
+      "rightChinese": "离开",
+      "note": "到达或离开某地。"
+    },
+    {
+      "left": "begin",
+      "leftChinese": "开始",
+      "right": "finish",
+      "rightChinese": "结束",
+      "note": "开始或完成一项活动。"
+    },
+    {
+      "left": "borrow",
+      "leftChinese": "借入",
+      "right": "lend",
+      "rightChinese": "借出",
+      "note": "视角相反：borrow something from someone；lend something to someone。"
+    },
+    {
+      "left": "build",
+      "leftChinese": "建造",
+      "right": "destroy",
+      "rightChinese": "摧毁",
+      "note": "建造或摧毁建筑物。"
+    },
+    {
+      "left": "buy",
+      "leftChinese": "买",
+      "right": "sell",
+      "rightChinese": "卖",
+      "note": "交易双方的不同动作。"
+    },
+    {
+      "left": "connect",
+      "leftChinese": "连接",
+      "right": "disconnect",
+      "rightChinese": "断开",
+      "note": "连接或断开设备、线路。"
+    },
+    {
+      "left": "continue",
+      "leftChinese": "继续",
+      "right": "stop",
+      "rightChinese": "停止",
+      "note": "继续或停止活动；注意 stop doing 与 stop to do 不同。"
+    },
+    {
+      "left": "increase",
+      "leftChinese": "增加",
+      "right": "decrease",
+      "rightChinese": "减少",
+      "note": "数量、程度上升或下降。"
+    },
+    {
+      "left": "include",
+      "leftChinese": "包括",
+      "right": "exclude",
+      "rightChinese": "排除",
+      "note": "是否属于某一集合。"
+    },
+    {
+      "left": "remember",
+      "leftChinese": "记得",
+      "right": "forget",
+      "rightChinese": "忘记",
+      "note": "能否想起某事。"
+    },
+    {
+      "left": "raise",
+      "leftChinese": "提高",
+      "right": "lower",
+      "rightChinese": "降低",
+      "note": "及物用法：raise/lower the price。"
+    },
+    {
+      "left": "succeed",
+      "leftChinese": "成功",
+      "right": "fail",
+      "rightChinese": "失败",
+      "note": "succeed in doing；fail to do。"
+    },
+    {
+      "left": "win",
+      "leftChinese": "赢",
+      "right": "lose",
+      "rightChinese": "输",
+      "note": "比赛中获胜或失利；win a match，beat an opponent。"
+    },
+    {
+      "left": "active",
+      "leftChinese": "活跃的",
+      "right": "inactive",
+      "rightChinese": "不活跃的",
+      "note": "活动或工作状态。"
+    },
+    {
+      "left": "ancient",
+      "leftChinese": "古代的",
+      "right": "modern",
+      "rightChinese": "现代的",
+      "note": "时代或风格的对比。"
+    },
+    {
+      "left": "available",
+      "leftChinese": "可获得的",
+      "right": "unavailable",
+      "rightChinese": "无法获得的",
+      "note": "资源是否可用，或某人是否有空。"
+    },
+    {
+      "left": "beautiful",
+      "leftChinese": "美丽的",
+      "right": "ugly",
+      "rightChinese": "丑陋的",
+      "note": "外观评价，表达时注意礼貌。"
+    },
+    {
+      "left": "careful",
+      "leftChinese": "仔细的",
+      "right": "careless",
+      "rightChinese": "粗心的",
+      "note": "careful with/about；careless about。"
+    },
+    {
+      "left": "cheap",
+      "leftChinese": "便宜的",
+      "right": "expensive",
+      "rightChinese": "昂贵的",
+      "note": "价格高低；cheap 有时也暗示质量差。"
+    },
+    {
+      "left": "clean",
+      "leftChinese": "干净的",
+      "right": "dirty",
+      "rightChinese": "脏的",
+      "note": "清洁程度。"
+    },
+    {
+      "left": "clear",
+      "leftChinese": "清楚的",
+      "right": "unclear",
+      "rightChinese": "不清楚的",
+      "note": "信息或解释是否清楚。"
+    },
+    {
+      "left": "comfortable",
+      "leftChinese": "舒适的",
+      "right": "uncomfortable",
+      "rightChinese": "不舒服的",
+      "note": "感受或环境。"
+    },
+    {
+      "left": "common",
+      "leftChinese": "常见的",
+      "right": "rare",
+      "rightChinese": "罕见的",
+      "note": "出现频率。"
+    },
+    {
+      "left": "correct",
+      "leftChinese": "正确的",
+      "right": "incorrect",
+      "rightChinese": "不正确的",
+      "note": "答案或信息是否正确。"
+    },
+    {
+      "left": "deep",
+      "leftChinese": "深的",
+      "right": "shallow",
+      "rightChinese": "浅的",
+      "note": "深度，或比喻性的思考程度。"
+    },
+    {
+      "left": "easy",
+      "leftChinese": "容易的",
+      "right": "difficult",
+      "rightChinese": "困难的",
+      "note": "完成任务的难度。"
+    },
+    {
+      "left": "employed",
+      "leftChinese": "在职的",
+      "right": "unemployed",
+      "rightChinese": "失业的",
+      "note": "就业状态，不等于当前是否忙碌。"
+    },
+    {
+      "left": "equal",
+      "leftChinese": "平等的",
+      "right": "unequal",
+      "rightChinese": "不平等的",
+      "note": "数量、机会或地位。"
+    },
+    {
+      "left": "expected",
+      "leftChinese": "预期的",
+      "right": "unexpected",
+      "rightChinese": "意外的",
+      "note": "是否在预料之中。"
+    },
+    {
+      "left": "fair",
+      "leftChinese": "公平的",
+      "right": "unfair",
+      "rightChinese": "不公平的",
+      "note": "此处 fair 表示公平，不是肤色或天气。"
+    },
+    {
+      "left": "familiar",
+      "leftChinese": "熟悉的",
+      "right": "unfamiliar",
+      "rightChinese": "陌生的",
+      "note": "be familiar with something。"
+    },
+    {
+      "left": "fast",
+      "leftChinese": "快的",
+      "right": "slow",
+      "rightChinese": "慢的",
+      "note": "速度，fast 也可直接作副词。"
+    },
+    {
+      "left": "friendly",
+      "leftChinese": "友好的",
+      "right": "unfriendly",
+      "rightChinese": "不友好的",
+      "note": "friendly 是形容词，不是副词。"
+    },
+    {
+      "left": "full",
+      "leftChinese": "满的",
+      "right": "empty",
+      "rightChinese": "空的",
+      "note": "容器或空间的状态。"
+    },
+    {
+      "left": "generous",
+      "leftChinese": "慷慨的",
+      "right": "mean",
+      "rightChinese": "吝啬的",
+      "note": "此处 mean 是形容词，非动词“意味着”。"
+    },
+    {
+      "left": "good",
+      "leftChinese": "好的",
+      "right": "bad",
+      "rightChinese": "坏的",
+      "note": "一般质量评价；well 作副词，good 作形容词。"
+    },
+    {
+      "left": "happy",
+      "leftChinese": "快乐的",
+      "right": "unhappy",
+      "rightChinese": "不快乐的",
+      "note": "感受或满意程度。"
+    },
+    {
+      "left": "healthy",
+      "leftChinese": "健康的",
+      "right": "unhealthy",
+      "rightChinese": "不健康的",
+      "note": "身体或生活方式。"
+    },
+    {
+      "left": "high",
+      "leftChinese": "高的",
+      "right": "low",
+      "rightChinese": "低的",
+      "note": "高度、水平；highly 不等于位置上的 high。"
+    },
+    {
+      "left": "honest",
+      "leftChinese": "诚实的",
+      "right": "dishonest",
+      "rightChinese": "不诚实的",
+      "note": "诚实与否，否定前缀为 dis-。"
+    },
+    {
+      "left": "important",
+      "leftChinese": "重要的",
+      "right": "unimportant",
+      "rightChinese": "不重要的",
+      "note": "重要程度。"
+    },
+    {
+      "left": "independent",
+      "leftChinese": "独立的",
+      "right": "dependent",
+      "rightChinese": "依赖的",
+      "note": "independent of；dependent on。"
+    },
+    {
+      "left": "large",
+      "leftChinese": "大的",
+      "right": "small",
+      "rightChinese": "小的",
+      "note": "大小或规模。"
+    },
+    {
+      "left": "legal",
+      "leftChinese": "合法的",
+      "right": "illegal",
+      "rightChinese": "非法的",
+      "note": "否定前缀为 il-，不是 un-。"
+    },
+    {
+      "left": "likely",
+      "leftChinese": "可能的",
+      "right": "unlikely",
+      "rightChinese": "不大可能的",
+      "note": "be likely/unlikely to do。"
+    },
+    {
+      "left": "necessary",
+      "leftChinese": "必要的",
+      "right": "unnecessary",
+      "rightChinese": "不必要的",
+      "note": "否定形式注意双 n 的拼写。"
+    },
+    {
+      "left": "new",
+      "leftChinese": "新的",
+      "right": "old",
+      "rightChinese": "旧的",
+      "note": "新旧；年龄义项需结合语境。"
+    },
+    {
+      "left": "noisy",
+      "leftChinese": "吵闹的",
+      "right": "quiet",
+      "rightChinese": "安静的",
+      "note": "环境音量。"
+    },
+    {
+      "left": "patient",
+      "leftChinese": "有耐心的",
+      "right": "impatient",
+      "rightChinese": "不耐烦的",
+      "note": "此处 patient 是形容词，不是“病人”。"
+    },
+    {
+      "left": "polite",
+      "leftChinese": "礼貌的",
+      "right": "impolite",
+      "rightChinese": "不礼貌的",
+      "note": "否定前缀为 im-。"
+    },
+    {
+      "left": "possible",
+      "leftChinese": "可能的",
+      "right": "impossible",
+      "rightChinese": "不可能的",
+      "note": "否定前缀为 im-。"
+    },
+    {
+      "left": "powerful",
+      "leftChinese": "强大的",
+      "right": "powerless",
+      "rightChinese": "无能为力的",
+      "note": "力量或控制能力。"
+    },
+    {
+      "left": "private",
+      "leftChinese": "私人的",
+      "right": "public",
+      "rightChinese": "公共的",
+      "note": "所属或开放范围。"
+    },
+    {
+      "left": "reliable",
+      "leftChinese": "可靠的",
+      "right": "unreliable",
+      "rightChinese": "不可靠的",
+      "note": "可靠程度。"
+    },
+    {
+      "left": "responsible",
+      "leftChinese": "负责的",
+      "right": "irresponsible",
+      "rightChinese": "不负责任的",
+      "note": "否定前缀为 ir-。"
+    },
+    {
+      "left": "rich",
+      "leftChinese": "富有的",
+      "right": "poor",
+      "rightChinese": "贫穷的",
+      "note": "经济条件；其他义项需要语境。"
+    },
+    {
+      "left": "safe",
+      "leftChinese": "安全的",
+      "right": "unsafe",
+      "rightChinese": "不安全的",
+      "note": "安全程度。"
+    },
+    {
+      "left": "sensitive",
+      "leftChinese": "体谅的",
+      "right": "insensitive",
+      "rightChinese": "不体谅的",
+      "note": "待人感受方面；sensitive 不等于 sensible。"
+    },
+    {
+      "left": "similar",
+      "leftChinese": "相似的",
+      "right": "different",
+      "rightChinese": "不同的",
+      "note": "similar to；different from。"
+    },
+    {
+      "left": "simple",
+      "leftChinese": "简单的",
+      "right": "complicated",
+      "rightChinese": "复杂的",
+      "note": "复杂程度。"
+    },
+    {
+      "left": "strong",
+      "leftChinese": "强壮的",
+      "right": "weak",
+      "rightChinese": "虚弱的",
+      "note": "身体或力量；其他义项需要语境。"
+    },
+    {
+      "left": "successful",
+      "leftChinese": "成功的",
+      "right": "unsuccessful",
+      "rightChinese": "不成功的",
+      "note": "结果是否成功。"
+    },
+    {
+      "left": "suitable",
+      "leftChinese": "合适的",
+      "right": "unsuitable",
+      "rightChinese": "不合适的",
+      "note": "suitable for something。"
+    },
+    {
+      "left": "true",
+      "leftChinese": "真实的",
+      "right": "false",
+      "rightChinese": "错误的",
+      "note": "信息真假；true 的词族是 truth/truly。"
+    },
+    {
+      "left": "useful",
+      "leftChinese": "有用的",
+      "right": "useless",
+      "rightChinese": "无用的",
+      "note": "useful 不等于 usable，useless 不等于 unused。"
+    },
+    {
+      "left": "wide",
+      "leftChinese": "宽的",
+      "right": "narrow",
+      "rightChinese": "窄的",
+      "note": "宽度；wide 的名词是 width。"
+    },
+    {
+      "left": "wise",
+      "leftChinese": "明智的",
+      "right": "unwise",
+      "rightChinese": "不明智的",
+      "note": "判断或决定是否明智。"
+    },
+    {
+      "left": "young",
+      "leftChinese": "年轻的",
+      "right": "old",
+      "rightChinese": "年老的",
+      "note": "年龄义项，与新旧义项分开。"
+    },
+    {
+      "left": "light",
+      "leftChinese": "轻的",
+      "right": "heavy",
+      "rightChinese": "重的",
+      "note": "此处比较重量；light 还有明亮等义项，不是每个义项都与 heavy 相反。"
+    }
+  ],
+  "usage": {
+    "accept": {
+      "exampleEnglish": "I accepted their invitation to dinner.",
+      "exampleChinese": "我接受了他们共进晚餐的邀请。",
+      "collocations": [
+        {
+          "english": "accept an invitation",
+          "chinese": "接受邀请"
+        },
+        {
+          "english": "accept an offer",
+          "chinese": "接受提议"
+        }
+      ],
+      "usageNotes": [
+        "accept 是动词，acceptable 是形容词；acceptance 是名词。不要混淆 accept 与 except（除……之外）。"
+      ]
+    },
+    "agree": {
+      "exampleEnglish": "We agreed to meet outside the library.",
+      "exampleChinese": "我们同意在图书馆外面见面。",
+      "collocations": [
+        {
+          "english": "agree with someone",
+          "chinese": "同意某人的意见"
+        },
+        {
+          "english": "agree to do something",
+          "chinese": "同意做某事"
+        }
+      ],
+      "usageNotes": [
+        "agree with 后接人或意见；agree on 后接共同决定的事项；agree to do 后接行动。"
+      ]
+    },
+    "allow": {
+      "exampleEnglish": "The teacher allowed us to use a dictionary.",
+      "exampleChinese": "老师允许我们使用词典。",
+      "collocations": [
+        {
+          "english": "allow someone to do something",
+          "chinese": "允许某人做某事"
+        },
+        {
+          "english": "allow time for something",
+          "chinese": "为某事留出时间"
+        }
+      ],
+      "usageNotes": [
+        "allow someone to do；被动形式为 be allowed to do，不用 allow someone do。"
+      ]
+    },
+    "appear": {
+      "exampleEnglish": "A message appeared on the screen.",
+      "exampleChinese": "屏幕上出现了一条消息。",
+      "collocations": [
+        {
+          "english": "appear on the screen",
+          "chinese": "出现在屏幕上"
+        },
+        {
+          "english": "appear to be",
+          "chinese": "似乎是"
+        }
+      ],
+      "usageNotes": [
+        "appear 作“出现”时通常不及物，不说 was appeared。"
+      ]
+    },
+    "apply": {
+      "exampleEnglish": "She applied for a job at the museum.",
+      "exampleChinese": "她申请了博物馆的一份工作。",
+      "collocations": [
+        {
+          "english": "apply for a job",
+          "chinese": "申请工作"
+        },
+        {
+          "english": "apply to a university",
+          "chinese": "向大学申请"
+        }
+      ],
+      "usageNotes": [
+        "apply for 后接所申请的职位或事物；apply to 后接机构；apply something to 表示应用。"
+      ]
+    },
+    "avoid": {
+      "exampleEnglish": "Try to avoid making the same mistake again.",
+      "exampleChinese": "尽量避免再犯同样的错误。",
+      "collocations": [
+        {
+          "english": "avoid doing something",
+          "chinese": "避免做某事"
+        },
+        {
+          "english": "avoid a mistake",
+          "chinese": "避免错误"
+        }
+      ],
+      "usageNotes": [
+        "avoid 后接动名词，不接 to do。"
+      ]
+    },
+    "become": {
+      "exampleEnglish": "The town has become much quieter.",
+      "exampleChinese": "这个小镇已经变得安静多了。",
+      "collocations": [
+        {
+          "english": "become interested in",
+          "chinese": "开始对……感兴趣"
+        },
+        {
+          "english": "become aware of",
+          "chinese": "意识到"
+        }
+      ],
+      "usageNotes": [
+        "become–became–become；has become 中使用过去分词，后接形容词时不用副词。"
+      ]
+    },
+    "begin": {
+      "exampleEnglish": "The lesson began at nine o'clock.",
+      "exampleChinese": "课在九点开始了。",
+      "collocations": [
+        {
+          "english": "begin to understand",
+          "chinese": "开始理解"
+        },
+        {
+          "english": "begin a conversation",
+          "chinese": "开始交谈"
+        }
+      ],
+      "usageNotes": [
+        "begin–began–begun；have begun 不用 have began。"
+      ]
+    },
+    "borrow": {
+      "exampleEnglish": "Could I borrow your pen for a moment?",
+      "exampleChinese": "我可以借用一下你的钢笔吗？",
+      "collocations": [
+        {
+          "english": "borrow something from someone",
+          "chinese": "向某人借入某物"
+        },
+        {
+          "english": "borrow a book",
+          "chinese": "借一本书"
+        }
+      ],
+      "usageNotes": [
+        "borrow 是借入，lend 是借出；lend someone something 或 lend something to someone。"
+      ]
+    },
+    "break": {
+      "exampleEnglish": "Someone has broken the window.",
+      "exampleChinese": "有人把窗户打破了。",
+      "collocations": [
+        {
+          "english": "break a promise",
+          "chinese": "违背诺言"
+        },
+        {
+          "english": "break the rules",
+          "chinese": "违反规则"
+        }
+      ],
+      "usageNotes": [
+        "break–broke–broken；has broken 和 was broken 都用过去分词，结构和含义不同。"
+      ]
+    },
+    "bring": {
+      "exampleEnglish": "Please bring your notebook to the meeting.",
+      "exampleChinese": "请把你的笔记本带到会议上。",
+      "collocations": [
+        {
+          "english": "bring something with you",
+          "chinese": "随身带来某物"
+        },
+        {
+          "english": "bring up a topic",
+          "chinese": "提出一个话题"
+        }
+      ],
+      "usageNotes": [
+        "bring–brought–brought；bring 强调带到说话者或指定目的地，take 常强调带走。"
+      ]
+    },
+    "choose": {
+      "exampleEnglish": "We chose to travel by train.",
+      "exampleChinese": "我们选择乘火车出行。",
+      "collocations": [
+        {
+          "english": "choose to do something",
+          "chinese": "选择做某事"
+        },
+        {
+          "english": "choose between two options",
+          "chinese": "在两个选项中选择"
+        }
+      ],
+      "usageNotes": [
+        "choose–chose–chosen；choice 是名词，make a choice 是常见搭配。"
+      ]
+    },
+    "consider": {
+      "exampleEnglish": "We are considering moving to a smaller flat.",
+      "exampleChinese": "我们正在考虑搬到小一点的公寓。",
+      "collocations": [
+        {
+          "english": "consider doing something",
+          "chinese": "考虑做某事"
+        },
+        {
+          "english": "consider the consequences",
+          "chinese": "考虑后果"
+        }
+      ],
+      "usageNotes": [
+        "consider 后接动名词；considerate（体贴的）与 considerable（相当大的）含义不同。",
+        "take something into consideration：把某事考虑在内。"
+      ]
+    },
+    "continue": {
+      "exampleEnglish": "She continued working after lunch.",
+      "exampleChinese": "午饭后她继续工作。",
+      "collocations": [
+        {
+          "english": "continue doing something",
+          "chinese": "继续做某事"
+        },
+        {
+          "english": "continue to do something",
+          "chinese": "继续做某事"
+        }
+      ],
+      "usageNotes": [
+        "continuous 强调不间断；continual 常指反复发生，不能在所有语境中互换。"
+      ]
+    },
+    "create": {
+      "exampleEnglish": "The project will create new jobs.",
+      "exampleChinese": "这个项目将创造新的就业机会。",
+      "collocations": [
+        {
+          "english": "create an opportunity",
+          "chinese": "创造机会"
+        },
+        {
+          "english": "create a problem",
+          "chinese": "造成问题"
+        }
+      ],
+      "usageNotes": [
+        "create → creation / creative / creativity；Part 3 需要依据空格所需词性选择。"
+      ]
+    },
+    "decide": {
+      "exampleEnglish": "We decided to stay at home because of the rain.",
+      "exampleChinese": "由于下雨，我们决定待在家里。",
+      "collocations": [
+        {
+          "english": "decide to do something",
+          "chinese": "决定做某事"
+        },
+        {
+          "english": "decide on a date",
+          "chinese": "选定日期"
+        }
+      ],
+      "usageNotes": [
+        "decide to do；decide on 后接选择的事物。decision 是名词，decisive 是形容词。",
+        "make a decision：作出决定。"
+      ]
+    },
+    "depend": {
+      "exampleEnglish": "The result depends on how much you practise.",
+      "exampleChinese": "结果取决于你练习多少。",
+      "collocations": [
+        {
+          "english": "depend on someone",
+          "chinese": "依靠某人"
+        },
+        {
+          "english": "depend on whether",
+          "chinese": "取决于是否"
+        }
+      ],
+      "usageNotes": [
+        "depend on，不用 depend of；independent of 与 dependent on 的介词不同。"
+      ]
+    },
+    "develop": {
+      "exampleEnglish": "She developed an interest in photography.",
+      "exampleChinese": "她逐渐对摄影产生了兴趣。",
+      "collocations": [
+        {
+          "english": "develop an interest in",
+          "chinese": "逐渐对……产生兴趣"
+        },
+        {
+          "english": "develop a skill",
+          "chinese": "培养技能"
+        }
+      ],
+      "usageNotes": [
+        "development 是名词；developed 与 developing 表示不同的发展状态。"
+      ]
+    },
+    "enjoy": {
+      "exampleEnglish": "I enjoy reading on the train.",
+      "exampleChinese": "我喜欢在火车上阅读。",
+      "collocations": [
+        {
+          "english": "enjoy doing something",
+          "chinese": "喜欢做某事"
+        },
+        {
+          "english": "enjoy yourself",
+          "chinese": "玩得开心"
+        }
+      ],
+      "usageNotes": [
+        "enjoy 后接动名词，不接 to do；enjoyable 表示令人愉快的。"
+      ]
+    },
+    "explain": {
+      "exampleEnglish": "Could you explain the rule to me?",
+      "exampleChinese": "你能向我解释这条规则吗？",
+      "collocations": [
+        {
+          "english": "explain something to someone",
+          "chinese": "向某人解释某事"
+        },
+        {
+          "english": "explain how something works",
+          "chinese": "解释某物如何运作"
+        }
+      ],
+      "usageNotes": [
+        "explain something to someone，不说 explain someone something。",
+        "give an explanation：作出解释。"
+      ]
+    },
+    "feel": {
+      "exampleEnglish": "I felt much better after a short rest.",
+      "exampleChinese": "短暂休息后，我感觉好多了。",
+      "collocations": [
+        {
+          "english": "feel confident about",
+          "chinese": "对……有信心"
+        },
+        {
+          "english": "feel like doing something",
+          "chinese": "想做某事"
+        }
+      ],
+      "usageNotes": [
+        "feel–felt–felt；feel tired 用形容词。feel like 后接名词或动名词。"
+      ]
+    },
+    "find": {
+      "exampleEnglish": "I found it difficult to concentrate in the noisy room.",
+      "exampleChinese": "我发现在吵闹的房间里很难集中注意力。",
+      "collocations": [
+        {
+          "english": "find it difficult to do",
+          "chinese": "发现做某事很难"
+        },
+        {
+          "english": "find out about something",
+          "chinese": "弄清某事"
+        }
+      ],
+      "usageNotes": [
+        "find–found–found。found（创办）是另一动词，其过去式与过去分词为 founded。"
+      ]
+    },
+    "finish": {
+      "exampleEnglish": "Have you finished writing your report?",
+      "exampleChinese": "你写完报告了吗？",
+      "collocations": [
+        {
+          "english": "finish doing something",
+          "chinese": "做完某事"
+        },
+        {
+          "english": "finish a task",
+          "chinese": "完成任务"
+        }
+      ],
+      "usageNotes": [
+        "finish 后接动名词，不接 to do。"
+      ]
+    },
+    "forget": {
+      "exampleEnglish": "I forgot to bring my umbrella.",
+      "exampleChinese": "我忘记带伞了。",
+      "collocations": [
+        {
+          "english": "forget to do something",
+          "chinese": "忘记去做某事"
+        },
+        {
+          "english": "forget doing something",
+          "chinese": "忘记曾经做过某事"
+        }
+      ],
+      "usageNotes": [
+        "forget–forgot–forgotten；forget to do 与 forget doing 的时间关系不同。"
+      ]
+    },
+    "get": {
+      "exampleEnglish": "We got home just before it started to rain.",
+      "exampleChinese": "我们刚到家就开始下雨了。",
+      "collocations": [
+        {
+          "english": "get used to doing something",
+          "chinese": "习惯做某事"
+        },
+        {
+          "english": "get in touch with someone",
+          "chinese": "与某人取得联系"
+        }
+      ],
+      "usageNotes": [
+        "get–got–got（英式常用）；gotten 常见于美式的某些义项。get used to 后接名词或动名词。"
+      ]
+    },
+    "give": {
+      "exampleEnglish": "She gave me some useful advice.",
+      "exampleChinese": "她给了我一些有用的建议。",
+      "collocations": [
+        {
+          "english": "give someone advice",
+          "chinese": "给某人建议"
+        },
+        {
+          "english": "give up doing something",
+          "chinese": "放弃做某事"
+        }
+      ],
+      "usageNotes": [
+        "give–gave–given；advice 不可数，不用 an advice；give up 后可接动名词。"
+      ]
+    },
+    "go": {
+      "exampleEnglish": "We went to the station on foot.",
+      "exampleChinese": "我们步行去了车站。",
+      "collocations": [
+        {
+          "english": "go on foot",
+          "chinese": "步行去"
+        },
+        {
+          "english": "go shopping",
+          "chinese": "去购物"
+        }
+      ],
+      "usageNotes": [
+        "go–went–gone；has gone to 表示去了尚未回来，has been to 表示曾经去过。"
+      ]
+    },
+    "help": {
+      "exampleEnglish": "This guide will help you understand the rules.",
+      "exampleChinese": "这份指南将帮助你理解规则。",
+      "collocations": [
+        {
+          "english": "help someone do something",
+          "chinese": "帮助某人做某事"
+        },
+        {
+          "english": "help someone with something",
+          "chinese": "帮助某人处理某事"
+        }
+      ],
+      "usageNotes": [
+        "help someone (to) do 两种形式均可；helpful 与 helpless 含义不同。"
+      ]
+    },
+    "hope": {
+      "exampleEnglish": "I hope to visit Scotland next year.",
+      "exampleChinese": "我希望明年去苏格兰。",
+      "collocations": [
+        {
+          "english": "hope to do something",
+          "chinese": "希望做某事"
+        },
+        {
+          "english": "hope that",
+          "chinese": "希望……"
+        }
+      ],
+      "usageNotes": [
+        "hope to do 或 hope that；不用 hope someone to do。"
+      ]
+    },
+    "include": {
+      "exampleEnglish": "The price includes breakfast.",
+      "exampleChinese": "这个价格包含早餐。",
+      "collocations": [
+        {
+          "english": "include the cost of",
+          "chinese": "包含……的费用"
+        },
+        {
+          "english": "be included in",
+          "chinese": "被包括在……中"
+        }
+      ],
+      "usageNotes": [
+        "including 是介词形式；included 常放在名词之后，如 breakfast included。"
+      ]
+    },
+    "increase": {
+      "exampleEnglish": "The number of visitors has increased this year.",
+      "exampleChinese": "今年游客数量增加了。",
+      "collocations": [
+        {
+          "english": "increase by ten per cent",
+          "chinese": "增加百分之十"
+        },
+        {
+          "english": "increase to a hundred",
+          "chinese": "增加到一百"
+        }
+      ],
+      "usageNotes": [
+        "increase by 表示增加的幅度；increase to 表示增加后的总量。"
+      ]
+    },
+    "know": {
+      "exampleEnglish": "I have known her for ten years.",
+      "exampleChinese": "我认识她已经十年了。",
+      "collocations": [
+        {
+          "english": "know about something",
+          "chinese": "了解某事"
+        },
+        {
+          "english": "know how to do something",
+          "chinese": "知道如何做某事"
+        }
+      ],
+      "usageNotes": [
+        "know–knew–known；表示认识持续到现在时常用 have known，不用 have been knowing。",
+        "have a good knowledge of：对……有丰富知识。"
+      ]
+    },
+    "learn": {
+      "exampleEnglish": "She learnt to drive last year.",
+      "exampleChinese": "她去年学会了开车。",
+      "collocations": [
+        {
+          "english": "learn to do something",
+          "chinese": "学会做某事"
+        },
+        {
+          "english": "learn from a mistake",
+          "chinese": "从错误中学习"
+        }
+      ],
+      "usageNotes": [
+        "learn–learnt/learned–learnt/learned；两种拼写均可，英式常用 learnt。"
+      ]
+    },
+    "lend": {
+      "exampleEnglish": "Could you lend me your dictionary?",
+      "exampleChinese": "你能把你的词典借给我吗？",
+      "collocations": [
+        {
+          "english": "lend someone something",
+          "chinese": "把某物借给某人"
+        },
+        {
+          "english": "lend something to someone",
+          "chinese": "把某物借给某人"
+        }
+      ],
+      "usageNotes": [
+        "lend–lent–lent；lend 表示借出，与 borrow 的方向不同。"
+      ]
+    },
+    "lie": {
+      "exampleEnglish": "He lied about his age.",
+      "exampleChinese": "他谎报了自己的年龄。",
+      "collocations": [
+        {
+          "english": "lie about something",
+          "chinese": "在某事上说谎"
+        },
+        {
+          "english": "lie to someone",
+          "chinese": "对某人说谎"
+        }
+      ],
+      "usageNotes": [
+        "躺：lie–lay–lain；说谎：lie–lied–lied；放置：lay–laid–laid。三者不能混用。"
+      ]
+    },
+    "look": {
+      "exampleEnglish": "I am looking forward to seeing you again.",
+      "exampleChinese": "我期待再次见到你。",
+      "collocations": [
+        {
+          "english": "look forward to doing something",
+          "chinese": "期待做某事"
+        },
+        {
+          "english": "look after someone",
+          "chinese": "照顾某人"
+        }
+      ],
+      "usageNotes": [
+        "look forward to 中的 to 是介词，后接动名词，不用 to see。"
+      ]
+    },
+    "make": {
+      "exampleEnglish": "They made us wait outside.",
+      "exampleChinese": "他们让我们在外面等。",
+      "collocations": [
+        {
+          "english": "make a decision",
+          "chinese": "作出决定"
+        },
+        {
+          "english": "make an effort",
+          "chinese": "作出努力"
+        }
+      ],
+      "usageNotes": [
+        "make someone do；被动形式为 be made to do。make 与 do 的搭配不能机械互换。"
+      ]
+    },
+    "manage": {
+      "exampleEnglish": "We managed to catch the last bus.",
+      "exampleChinese": "我们设法赶上了末班公交车。",
+      "collocations": [
+        {
+          "english": "manage to do something",
+          "chinese": "设法做到某事"
+        },
+        {
+          "english": "manage a team",
+          "chinese": "管理团队"
+        }
+      ],
+      "usageNotes": [
+        "manage to do 表示最终成功做到；management 是名词，manager 指管理者。"
+      ]
+    },
+    "mean": {
+      "exampleEnglish": "This job means working at weekends.",
+      "exampleChinese": "这份工作意味着周末也要工作。",
+      "collocations": [
+        {
+          "english": "mean doing something",
+          "chinese": "意味着做某事"
+        },
+        {
+          "english": "mean to do something",
+          "chinese": "打算做某事"
+        }
+      ],
+      "usageNotes": [
+        "mean–meant–meant；mean doing 与 mean to do 含义不同。"
+      ]
+    },
+    "need": {
+      "exampleEnglish": "You need to book your ticket in advance.",
+      "exampleChinese": "你需要提前订票。",
+      "collocations": [
+        {
+          "english": "need to do something",
+          "chinese": "需要做某事"
+        },
+        {
+          "english": "be in need of",
+          "chinese": "需要……"
+        }
+      ],
+      "usageNotes": [
+        "need doing 常表示某物需要被处理，如 The room needs cleaning；不等于主动的 need to do。"
+      ]
+    },
+    "offer": {
+      "exampleEnglish": "She offered to help me with my homework.",
+      "exampleChinese": "她主动提出帮我做作业。",
+      "collocations": [
+        {
+          "english": "offer to do something",
+          "chinese": "主动提出做某事"
+        },
+        {
+          "english": "offer someone something",
+          "chinese": "向某人提供某物"
+        }
+      ],
+      "usageNotes": [
+        "offer to do；offer someone something 或 offer something to someone。"
+      ]
+    },
+    "prefer": {
+      "exampleEnglish": "I prefer walking to driving for short journeys.",
+      "exampleChinese": "短途出行时，比起开车我更喜欢步行。",
+      "collocations": [
+        {
+          "english": "prefer doing to doing",
+          "chinese": "比起……更喜欢……"
+        },
+        {
+          "english": "prefer to do something",
+          "chinese": "更喜欢做某事"
+        }
+      ],
+      "usageNotes": [
+        "prefer A to B；would prefer to do；would rather do，结构不要混用。"
+      ]
+    },
+    "prevent": {
+      "exampleEnglish": "The heavy rain prevented us from leaving.",
+      "exampleChinese": "大雨使我们无法离开。",
+      "collocations": [
+        {
+          "english": "prevent someone from doing something",
+          "chinese": "阻止某人做某事"
+        },
+        {
+          "english": "prevent an accident",
+          "chinese": "防止事故"
+        }
+      ],
+      "usageNotes": [
+        "prevent someone from doing；from 后使用动名词。"
+      ]
+    },
+    "provide": {
+      "exampleEnglish": "The hotel provides guests with breakfast.",
+      "exampleChinese": "酒店为客人提供早餐。",
+      "collocations": [
+        {
+          "english": "provide someone with something",
+          "chinese": "向某人提供某物"
+        },
+        {
+          "english": "provide something for someone",
+          "chinese": "为某人提供某物"
+        }
+      ],
+      "usageNotes": [
+        "provide someone with something；provide something for someone，介词和宾语位置不同。"
+      ]
+    },
+    "read": {
+      "exampleEnglish": "I have read that book twice.",
+      "exampleChinese": "那本书我已经读过两遍了。",
+      "collocations": [
+        {
+          "english": "read a book",
+          "chinese": "读书"
+        },
+        {
+          "english": "read through a report",
+          "chinese": "通读报告"
+        }
+      ],
+      "usageNotes": [
+        "read–read–read 拼写相同；原形读 /riːd/，过去式和过去分词读 /red/。"
+      ]
+    },
+    "recommend": {
+      "exampleEnglish": "I recommend booking your tickets early.",
+      "exampleChinese": "我建议早点订票。",
+      "collocations": [
+        {
+          "english": "recommend doing something",
+          "chinese": "建议做某事"
+        },
+        {
+          "english": "recommend something to someone",
+          "chinese": "向某人推荐某物"
+        }
+      ],
+      "usageNotes": [
+        "recommend doing 或 recommend that someone (should) do；不用 recommend someone do 作为通用模板。"
+      ]
+    },
+    "remember": {
+      "exampleEnglish": "Remember to lock the door before you leave.",
+      "exampleChinese": "离开前记得锁门。",
+      "collocations": [
+        {
+          "english": "remember to do something",
+          "chinese": "记得去做某事"
+        },
+        {
+          "english": "remember doing something",
+          "chinese": "记得做过某事"
+        }
+      ],
+      "usageNotes": [
+        "remember to do 指尚待完成的动作；remember doing 指回想过去经历。"
+      ]
+    },
+    "require": {
+      "exampleEnglish": "The job requires good communication skills.",
+      "exampleChinese": "这份工作要求良好的沟通能力。",
+      "collocations": [
+        {
+          "english": "require someone to do something",
+          "chinese": "要求某人做某事"
+        },
+        {
+          "english": "require further information",
+          "chinese": "需要更多信息"
+        }
+      ],
+      "usageNotes": [
+        "required 表示被要求的或必需的；requirement 是名词。",
+        "meet a requirement：满足要求。"
+      ]
+    },
+    "rise": {
+      "exampleEnglish": "Prices have risen sharply this year.",
+      "exampleChinese": "今年物价大幅上涨。",
+      "collocations": [
+        {
+          "english": "rise sharply",
+          "chinese": "大幅上升"
+        },
+        {
+          "english": "rise to a level",
+          "chinese": "升到某个水平"
+        }
+      ],
+      "usageNotes": [
+        "rise–rose–risen，不及物；raise–raised–raised，及物，如 raise the price。"
+      ]
+    },
+    "say": {
+      "exampleEnglish": "She said that she would call later.",
+      "exampleChinese": "她说她晚点会打电话。",
+      "collocations": [
+        {
+          "english": "say something to someone",
+          "chinese": "对某人说某事"
+        },
+        {
+          "english": "say that",
+          "chinese": "说……"
+        }
+      ],
+      "usageNotes": [
+        "say–said–said；say something to someone，而 tell someone something。"
+      ]
+    },
+    "see": {
+      "exampleEnglish": "Have you seen my keys anywhere?",
+      "exampleChinese": "你在哪儿看见我的钥匙了吗？",
+      "collocations": [
+        {
+          "english": "see someone do something",
+          "chinese": "看见某人做了某事"
+        },
+        {
+          "english": "see someone doing something",
+          "chinese": "看见某人正在做某事"
+        }
+      ],
+      "usageNotes": [
+        "see–saw–seen；see someone do 常关注完整动作，doing 常关注正在进行的动作。"
+      ]
+    },
+    "suggest": {
+      "exampleEnglish": "He suggested taking an earlier train.",
+      "exampleChinese": "他建议乘坐更早的一班火车。",
+      "collocations": [
+        {
+          "english": "suggest doing something",
+          "chinese": "建议做某事"
+        },
+        {
+          "english": "suggest a solution",
+          "chinese": "提出解决办法"
+        }
+      ],
+      "usageNotes": [
+        "suggest doing 或 suggest that someone (should) do；不用 suggest someone to do。",
+        "make a suggestion：提出建议。"
+      ]
+    },
+    "take": {
+      "exampleEnglish": "It took us an hour to reach the airport.",
+      "exampleChinese": "我们花了一个小时才到机场。",
+      "collocations": [
+        {
+          "english": "take part in",
+          "chinese": "参加"
+        },
+        {
+          "english": "take responsibility for",
+          "chinese": "为……负责"
+        }
+      ],
+      "usageNotes": [
+        "take–took–taken；It takes someone time to do 是常见结构。"
+      ]
+    },
+    "tell": {
+      "exampleEnglish": "She told me to wait by the entrance.",
+      "exampleChinese": "她叫我在入口处等。",
+      "collocations": [
+        {
+          "english": "tell someone to do something",
+          "chinese": "告诉某人做某事"
+        },
+        {
+          "english": "tell someone about something",
+          "chinese": "告诉某人某事"
+        }
+      ],
+      "usageNotes": [
+        "tell–told–told；tell 后通常有人作宾语；say 与 tell 的结构不同。"
+      ]
+    },
+    "try": {
+      "exampleEnglish": "I tried restarting the computer, but it did not help.",
+      "exampleChinese": "我试着重启了电脑，但没有用。",
+      "collocations": [
+        {
+          "english": "try to do something",
+          "chinese": "努力做某事"
+        },
+        {
+          "english": "try doing something",
+          "chinese": "试试某种做法"
+        }
+      ],
+      "usageNotes": [
+        "try to do 强调努力；try doing 强调尝试一种解决办法。"
+      ]
+    },
+    "used": {
+      "exampleEnglish": "I used to cycle to school every day.",
+      "exampleChinese": "我过去每天骑自行车上学。",
+      "collocations": [
+        {
+          "english": "used to do something",
+          "chinese": "过去常常做某事"
+        },
+        {
+          "english": "be used to doing something",
+          "chinese": "习惯做某事"
+        }
+      ],
+      "usageNotes": [
+        "used to do 与 be/get used to doing 不同；后者的 to 是介词。"
+      ]
+    },
+    "write": {
+      "exampleEnglish": "The report was written by a local journalist.",
+      "exampleChinese": "这篇报道是一位本地记者写的。",
+      "collocations": [
+        {
+          "english": "write a report",
+          "chinese": "写报告"
+        },
+        {
+          "english": "write to someone",
+          "chinese": "给某人写信"
+        }
+      ],
+      "usageNotes": [
+        "write–wrote–written；被动语态 be written 和完成时 have written 都使用过去分词。"
+      ]
+    },
+    "available": {
+      "exampleEnglish": "Are you available for a short meeting tomorrow?",
+      "exampleChinese": "你明天有空开个短会吗？",
+      "collocations": [
+        {
+          "english": "be available for a meeting",
+          "chinese": "有空开会"
+        },
+        {
+          "english": "be available to everyone",
+          "chinese": "所有人都可使用"
+        }
+      ],
+      "usageNotes": [
+        "available 是形容词；availability 是名词；unavailable 表示无法获得或没空。"
+      ]
+    },
+    "aware": {
+      "exampleEnglish": "Are you aware of the changes to the timetable?",
+      "exampleChinese": "你知道时刻表的变化吗？",
+      "collocations": [
+        {
+          "english": "be aware of something",
+          "chinese": "知道某事"
+        },
+        {
+          "english": "be aware that",
+          "chinese": "意识到……"
+        }
+      ],
+      "usageNotes": [
+        "aware of 或 aware that；awareness 是名词，unaware 是否定形式。",
+        "raise awareness of：提高对……的认识。"
+      ]
+    },
+    "careful": {
+      "exampleEnglish": "Be careful when you cross the road.",
+      "exampleChinese": "过马路时要小心。",
+      "collocations": [
+        {
+          "english": "be careful with something",
+          "chinese": "小心处理某物"
+        },
+        {
+          "english": "be careful not to do something",
+          "chinese": "小心别做某事"
+        }
+      ],
+      "usageNotes": [
+        "careful → carefully；careless → carelessly。注意不能仅根据词尾就判断褒贬。"
+      ]
+    },
+    "confident": {
+      "exampleEnglish": "She felt confident about the interview.",
+      "exampleChinese": "她对这次面试很有信心。",
+      "collocations": [
+        {
+          "english": "be confident about something",
+          "chinese": "对某事有信心"
+        },
+        {
+          "english": "be confident of success",
+          "chinese": "对成功有信心"
+        }
+      ],
+      "usageNotes": [
+        "confident 是形容词，confidence 是名词，confidently 是副词。",
+        "have confidence in someone：对某人有信心。"
+      ]
+    },
+    "different": {
+      "exampleEnglish": "Your answer is different from mine.",
+      "exampleChinese": "你的答案和我的不同。",
+      "collocations": [
+        {
+          "english": "be different from",
+          "chinese": "与……不同"
+        },
+        {
+          "english": "be different in size",
+          "chinese": "大小不同"
+        }
+      ],
+      "usageNotes": [
+        "different → difference / differently；英式学习中可优先掌握 different from。",
+        "make a difference：产生影响。"
+      ],
+      "wordFormation": {
+        "stem": "differ",
+        "prompt": "There is a clear ___ between the two plans.",
+        "answer": "difference",
+        "chinese": "这两个计划之间存在明显差别。",
+        "explanation": "a clear 后需要可数名词单数；different 是形容词，difference 是名词。"
+      }
+    },
+    "excited": {
+      "exampleEnglish": "The children were excited about the trip.",
+      "exampleChinese": "孩子们对这次旅行感到兴奋。",
+      "collocations": [
+        {
+          "english": "be excited about something",
+          "chinese": "对某事感到兴奋"
+        },
+        {
+          "english": "get excited",
+          "chinese": "变得兴奋"
+        }
+      ],
+      "usageNotes": [
+        "excited 描述感受，exciting 描述使人兴奋的事物；不要只按“人/物”机械判断。"
+      ]
+    },
+    "familiar": {
+      "exampleEnglish": "I am familiar with this type of software.",
+      "exampleChinese": "我熟悉这类软件。",
+      "collocations": [
+        {
+          "english": "be familiar with something",
+          "chinese": "熟悉某物"
+        },
+        {
+          "english": "be familiar to someone",
+          "chinese": "为某人所熟悉"
+        }
+      ],
+      "usageNotes": [
+        "人 familiar with 事物；事物 familiar to 人，注意视角变化。"
+      ]
+    },
+    "friendly": {
+      "exampleEnglish": "The staff were very friendly and helpful.",
+      "exampleChinese": "工作人员很友好，也很乐于助人。",
+      "collocations": [
+        {
+          "english": "be friendly to someone",
+          "chinese": "对某人友好"
+        },
+        {
+          "english": "a friendly atmosphere",
+          "chinese": "友好的气氛"
+        }
+      ],
+      "usageNotes": [
+        "friendly 是形容词。表示友好地可用 in a friendly way，不用 friendlily 作为常用表达。"
+      ]
+    },
+    "good": {
+      "exampleEnglish": "She is very good at explaining difficult ideas.",
+      "exampleChinese": "她很擅长解释复杂的概念。",
+      "collocations": [
+        {
+          "english": "be good at doing something",
+          "chinese": "擅长做某事"
+        },
+        {
+          "english": "be good for someone",
+          "chinese": "对某人有益"
+        }
+      ],
+      "usageNotes": [
+        "good–better–best；good 是形容词，well 常作副词，不能将 goodly 当作对应副词。"
+      ]
+    },
+    "happy": {
+      "exampleEnglish": "I am happy with the progress we have made.",
+      "exampleChinese": "我对我们取得的进展感到满意。",
+      "collocations": [
+        {
+          "english": "be happy with something",
+          "chinese": "对某事满意"
+        },
+        {
+          "english": "be happy to do something",
+          "chinese": "乐意做某事"
+        }
+      ],
+      "usageNotes": [
+        "happy–happier–happiest；happiness 与 happily 都将 y 变为 i 后加后缀。"
+      ]
+    },
+    "interested": {
+      "exampleEnglish": "I am interested in learning more about photography.",
+      "exampleChinese": "我有兴趣进一步学习摄影。",
+      "collocations": [
+        {
+          "english": "be interested in doing something",
+          "chinese": "对做某事感兴趣"
+        },
+        {
+          "english": "be interested in a subject",
+          "chinese": "对某个主题感兴趣"
+        }
+      ],
+      "usageNotes": [
+        "interested 描述感受；interesting 描述引起兴趣的特征；介词 in 后接动名词。",
+        "take an interest in：对……产生兴趣。"
+      ]
+    },
+    "likely": {
+      "exampleEnglish": "It is likely to rain later.",
+      "exampleChinese": "晚些时候可能会下雨。",
+      "collocations": [
+        {
+          "english": "be likely to do something",
+          "chinese": "很可能做某事"
+        },
+        {
+          "english": "be more likely to do something",
+          "chinese": "更可能做某事"
+        }
+      ],
+      "usageNotes": [
+        "likely 在此为形容词；likelihood 是名词；unlikely 是否定形式。",
+        "be unlikely to do something：不大可能做某事。"
+      ]
+    },
+    "necessary": {
+      "exampleEnglish": "It is necessary to book in advance.",
+      "exampleChinese": "有必要提前预订。",
+      "collocations": [
+        {
+          "english": "be necessary to do something",
+          "chinese": "有必要做某事"
+        },
+        {
+          "english": "be necessary for someone",
+          "chinese": "对某人是必要的"
+        }
+      ],
+      "usageNotes": [
+        "necessary → necessity / necessarily / unnecessary；注意 c、s 和双 n 的拼写。"
+      ]
+    },
+    "possible": {
+      "exampleEnglish": "Would it be possible to change the date?",
+      "exampleChinese": "可以更改日期吗？",
+      "collocations": [
+        {
+          "english": "be possible to do something",
+          "chinese": "做某事是可能的"
+        },
+        {
+          "english": "as soon as possible",
+          "chinese": "尽快"
+        }
+      ],
+      "usageNotes": [
+        "possible → possibility / possibly / impossible；impossible 的否定前缀是 im-。"
+      ]
+    },
+    "responsible": {
+      "exampleEnglish": "She is responsible for organizing the event.",
+      "exampleChinese": "她负责组织这次活动。",
+      "collocations": [
+        {
+          "english": "be responsible for doing something",
+          "chinese": "负责做某事"
+        },
+        {
+          "english": "be responsible for a team",
+          "chinese": "负责一个团队"
+        }
+      ],
+      "usageNotes": [
+        "responsible → responsibility / responsibly / irresponsible；for 后接动名词。",
+        "take responsibility for：承担……的责任。"
+      ]
+    },
+    "similar": {
+      "exampleEnglish": "The two designs are similar to each other.",
+      "exampleChinese": "这两种设计彼此相似。",
+      "collocations": [
+        {
+          "english": "be similar to",
+          "chinese": "与……相似"
+        },
+        {
+          "english": "in a similar way",
+          "chinese": "以类似的方式"
+        }
+      ],
+      "usageNotes": [
+        "similar to，不用 similar with；similarity 是名词，similarly 是副词。"
+      ]
+    },
+    "successful": {
+      "exampleEnglish": "The campaign was highly successful.",
+      "exampleChinese": "这次活动非常成功。",
+      "collocations": [
+        {
+          "english": "be successful in doing something",
+          "chinese": "成功做到某事"
+        },
+        {
+          "english": "a successful career",
+          "chinese": "成功的职业生涯"
+        }
+      ],
+      "usageNotes": [
+        "succeed → success → successful → successfully；success + ful 构成 successful，后缀 -ful 只有一个 l；successfully 中 -ly 接在 successful 后。"
+      ]
+    },
+    "suitable": {
+      "exampleEnglish": "This course is suitable for beginners.",
+      "exampleChinese": "这门课程适合初学者。",
+      "collocations": [
+        {
+          "english": "be suitable for someone",
+          "chinese": "适合某人"
+        },
+        {
+          "english": "be suitable to do something",
+          "chinese": "适合做某事"
+        }
+      ],
+      "usageNotes": [
+        "suit 是动词，suitable 是形容词；否定形式为 unsuitable。"
+      ]
+    },
+    "tired": {
+      "exampleEnglish": "I was too tired to cook after work.",
+      "exampleChinese": "下班后我太累了，不想做饭。",
+      "collocations": [
+        {
+          "english": "be tired of doing something",
+          "chinese": "厌倦做某事"
+        },
+        {
+          "english": "be too tired to do something",
+          "chinese": "太累而无法做某事"
+        }
+      ],
+      "usageNotes": [
+        "tired 描述疲倦的感受；tiring 描述使人疲倦的活动；tired of 常表示厌倦。"
+      ]
+    },
+    "bear": {
+      "usageNotes": [
+        "本词条主要义项为名词“熊”。另一个动词义“承受、承担”用 bear–bore–borne；be born 表示出生，不与“熊”的名词义混用。"
+      ]
+    },
+    "found": {
+      "usageNotes": [
+        "found（创办）→ founded → founded；find（找到）→ found → found，是两个不同的动词。"
+      ]
+    },
+    "hang": {
+      "usageNotes": [
+        "悬挂通常用 hang–hung–hung；hanged 常用于“绞死”义项。"
+      ]
+    },
+    "lay": {
+      "usageNotes": [
+        "lay–laid–laid 表示放置，通常需要宾语；lie–lay–lain 表示躺。"
+      ]
+    },
+    "high": {
+      "usageNotes": [
+        "high 可表示位置高；highly 常表示程度高，如 highly successful，不能在所有语境中互换。"
+      ]
+    },
+    "hard": {
+      "usageNotes": [
+        "hard 同形作形容词或副词；hardly 表示“几乎不”，不是 hard 的普通副词形式。"
+      ]
+    },
+    "late": {
+      "usageNotes": [
+        "late 表示晚或迟；lately 表示最近，二者不等同。"
+      ]
+    },
+    "near": {
+      "usageNotes": [
+        "near 表示接近；nearly 表示几乎，不能机械地把 -ly 形式作为同义替换。"
+      ]
+    },
+    "valuable": {
+      "usageNotes": [
+        "invaluable 表示极其宝贵，并不是 valuable 的反义词；valueless 表示无价值。"
+      ]
+    },
+    "sensitive": {
+      "usageNotes": [
+        "sensitive 表示敏感或体谅的；sensible 表示明智的。两者不能混淆。"
+      ]
+    },
+    "considerate": {
+      "usageNotes": [
+        "considerate 表示体贴的；considerable 表示相当大的，两个形容词不能互换。"
+      ]
+    },
+    "imaginary": {
+      "usageNotes": [
+        "imaginary 表示虚构的；imaginative 表示有想象力的。"
+      ]
+    },
+    "stop": {
+      "usageNotes": [
+        "stop doing 表示停止正在做的事；stop to do 表示停下原来的事去做另一件事。"
+      ]
+    },
+    "little": {
+      "usageNotes": [
+        "little 表示数量少时用 less / least；表示体积小时常改用 small / smaller / smallest。littler / littlest 存在但不宜作为所有语境的默认替换。"
+      ]
+    },
+    "patient": {
+      "usageNotes": [
+        "本词条的常见名词义是“病人”；patient 另可作“有耐心的”形容词，patience / patiently / impatient 属于这个形容词义的词族。"
+      ]
+    },
+    "fast": {
+      "usageNotes": [
+        "fast 可以直接作形容词或副词，如 a fast train / run fast；不把 fastly 作为常用副词形式。"
+      ]
+    },
+    "light": {
+      "usageNotes": [
+        "形容词 light 表示轻时，比较级为 lighter，最高级为 lightest；light 另有“光”和“点燃”等义项，注意不要混入其他词性的形式。"
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "stem": "decide",
+      "prompt": "It was a difficult ___ to make.",
+      "answer": "decision",
+      "chinese": "这是一个很难作出的决定。",
+      "explanation": "a difficult 后接名词；decide 的名词形式为 decision。"
+    },
+    {
+      "stem": "compete",
+      "prompt": "There were over fifty ___ in the race.",
+      "answer": "competitors",
+      "chinese": "比赛中有五十多名参赛者。",
+      "explanation": "fifty 后需要表示人的复数名词；competitor 要加 s。"
+    },
+    {
+      "stem": "happy",
+      "prompt": "Her face was full of ___.",
+      "answer": "happiness",
+      "chinese": "她的脸上洋溢着幸福。",
+      "explanation": "of 后需要名词；happy 变 y 为 i，再加 -ness。"
+    },
+    {
+      "stem": "strong",
+      "prompt": "Swimming helps to build physical ___.",
+      "answer": "strength",
+      "chinese": "游泳有助于增强体力。",
+      "explanation": "此处需要名词；strong → strength，不是直接加 -ness。"
+    },
+    {
+      "stem": "long",
+      "prompt": "What is the ___ of the swimming pool?",
+      "answer": "length",
+      "chinese": "这个游泳池有多长？",
+      "explanation": "the 后和 of 前需要名词；long → length，词干内部发生变化。"
+    },
+    {
+      "stem": "wide",
+      "prompt": "We measured the ___ of the room.",
+      "answer": "width",
+      "chinese": "我们测量了房间的宽度。",
+      "explanation": "需要表示宽度的名词；wide → width。"
+    },
+    {
+      "stem": "true",
+      "prompt": "Please tell me the ___.",
+      "answer": "truth",
+      "chinese": "请告诉我真相。",
+      "explanation": "the 后需要名词；true → truth。"
+    },
+    {
+      "stem": "success",
+      "prompt": "The team completed the project ___.",
+      "answer": "successfully",
+      "chinese": "团队成功地完成了项目。",
+      "explanation": "修饰 completed 需要副词；success → successful → successfully。"
+    },
+    {
+      "stem": "possible",
+      "prompt": "It was ___ to see anything in the dark.",
+      "answer": "impossible",
+      "chinese": "黑暗中什么也看不见。",
+      "explanation": "根据 in the dark 判断否定含义；possible 的否定形式为 impossible。"
+    },
+    {
+      "stem": "responsible",
+      "prompt": "He accepted full ___ for the mistake.",
+      "answer": "responsibility",
+      "chinese": "他为这个错误承担了全部责任。",
+      "explanation": "full 后需要名词；responsible → responsibility。"
+    },
+    {
+      "stem": "care",
+      "prompt": "Please read the instructions ___.",
+      "answer": "carefully",
+      "chinese": "请仔细阅读说明。",
+      "explanation": "修饰 read 需要副词 carefully，不是形容词 careful。"
+    },
+    {
+      "stem": "danger",
+      "prompt": "Driving too fast can be ___.",
+      "answer": "dangerous",
+      "chinese": "开车太快可能很危险。",
+      "explanation": "be 后需要形容词；danger → dangerous。"
+    },
+    {
+      "stem": "friend",
+      "prompt": "The staff made us feel welcome with their ___ manner.",
+      "answer": "friendly",
+      "chinese": "工作人员以友好的态度让我们感到受欢迎。",
+      "explanation": "修饰 manner 需要形容词；friendly 虽以 -ly 结尾，仍是形容词。"
+    },
+    {
+      "stem": "available",
+      "prompt": "Please check the ___ of rooms before booking.",
+      "answer": "availability",
+      "chinese": "预订前请查看是否有空房。",
+      "explanation": "the 后需要名词；available → availability。"
+    },
+    {
+      "stem": "confident",
+      "prompt": "She spoke ___ during the interview.",
+      "answer": "confidently",
+      "chinese": "她在面试时自信地发言。",
+      "explanation": "修饰 spoke 需要副词；confident → confidently。"
+    },
+    {
+      "stem": "create",
+      "prompt": "The course encourages ___ thinking.",
+      "answer": "creative",
+      "chinese": "这门课程鼓励创造性思维。",
+      "explanation": "修饰 thinking 需要形容词 creative；creativity 是名词。"
+    },
+    {
+      "stem": "differ",
+      "prompt": "There is a clear ___ between the two plans.",
+      "answer": "difference",
+      "chinese": "这两个计划之间存在明显差别。",
+      "explanation": "a clear 后需要可数名词单数；different 是形容词，difference 是名词。"
+    },
+    {
+      "stem": "explain",
+      "prompt": "Could you give me a clear ___?",
+      "answer": "explanation",
+      "chinese": "你能给我一个清楚的解释吗？",
+      "explanation": "a clear 后需要名词；explain → explanation，注意拼写变化。"
+    },
+    {
+      "stem": "legal",
+      "prompt": "It is ___ to park here without a permit.",
+      "answer": "illegal",
+      "chinese": "没有许可证在这里停车是违法的。",
+      "explanation": "without a permit 提示否定含义；legal → illegal，前缀为 il-。"
+    },
+    {
+      "stem": "patient",
+      "prompt": "Thank you for waiting so ___.",
+      "answer": "patiently",
+      "chinese": "谢谢你如此耐心地等待。",
+      "explanation": "修饰 waiting 需要副词 patiently；patience 是名词。"
+    },
+    {
+      "stem": "polite",
+      "prompt": "He ___ asked us to move our bags.",
+      "answer": "politely",
+      "chinese": "他礼貌地请我们挪开行李。",
+      "explanation": "修饰 asked 需要副词 politely。"
+    },
+    {
+      "stem": "necessary",
+      "prompt": "Since we decided to walk, booking a taxi was ___.",
+      "answer": "unnecessary",
+      "chinese": "既然我们决定步行，订出租车就没有必要了。",
+      "explanation": "此处用否定形容词 unnecessary；注意前缀 un- 与 necessary 相接时的双 n。"
+    },
+    {
+      "stem": "rely",
+      "prompt": "We need a ___ source of information.",
+      "answer": "reliable",
+      "chinese": "我们需要一个可靠的信息来源。",
+      "explanation": "修饰 source 需要形容词；rely → reliable，y 发生变化。"
+    },
+    {
+      "stem": "safe",
+      "prompt": "Please drive ___ in the rain.",
+      "answer": "safely",
+      "chinese": "雨天请安全驾驶。",
+      "explanation": "修饰动词 drive 需要副词 safely；keep something safe 则需要形容词，结构不同。"
+    },
+    {
+      "stem": "use",
+      "prompt": "The map was very ___ when we got lost.",
+      "answer": "useful",
+      "chinese": "我们迷路时，这张地图很有用。",
+      "explanation": "very 后需要形容词 useful；-ful 只有一个 l。"
+    },
+    {
+      "stem": "comfort",
+      "prompt": "The seats were surprisingly ___.",
+      "answer": "comfortable",
+      "chinese": "这些座位出乎意料地舒适。",
+      "explanation": "were 后需要形容词 comfortable；comfort 是名词或动词。"
+    },
+    {
+      "stem": "prepare",
+      "prompt": "Good ___ is essential before an interview.",
+      "answer": "preparation",
+      "chinese": "面试前做好准备很重要。",
+      "explanation": "此处需要主语名词；prepare → preparation。"
+    },
+    {
+      "stem": "protect",
+      "prompt": "Wear a helmet for your own ___.",
+      "answer": "protection",
+      "chinese": "为了保护自己，请戴上头盔。",
+      "explanation": "your own 后需要名词；protect → protection。"
+    },
+    {
+      "stem": "science",
+      "prompt": "The team carried out a ___ experiment.",
+      "answer": "scientific",
+      "chinese": "团队进行了一项科学实验。",
+      "explanation": "修饰 experiment 需要形容词 scientific。"
+    },
+    {
+      "stem": "consider",
+      "prompt": "It was very ___ of her to offer us a lift.",
+      "answer": "considerate",
+      "chinese": "她主动提出开车送我们，真是体贴。",
+      "explanation": "描述体贴用 considerate；considerable 表示相当大的。"
+    },
+    {
+      "stem": "imagine",
+      "prompt": "The story is set in an ___ country.",
+      "answer": "imaginary",
+      "chinese": "这个故事发生在一个虚构的国家。",
+      "explanation": "虚构的国家用 imaginary；imaginative 表示富有想象力的。"
+    },
+    {
+      "stem": "interest",
+      "prompt": "The lecture was much more ___ than I expected.",
+      "answer": "interesting",
+      "chinese": "这场讲座比我预料的有趣得多。",
+      "explanation": "讲座具有引发兴趣的特征，用 interesting；interested 通常描述感兴趣的状态。"
+    }
+  ],
+  "adjectiveComparisons": {
+    "good": {
+      "comparative": [
+        "better"
+      ],
+      "superlative": [
+        "best"
+      ]
+    },
+    "bad": {
+      "comparative": [
+        "worse"
+      ],
+      "superlative": [
+        "worst"
+      ]
+    },
+    "far": {
+      "comparative": [
+        "farther",
+        "further"
+      ],
+      "superlative": [
+        "farthest",
+        "furthest"
+      ]
+    },
+    "light": {
+      "comparative": [
+        "lighter"
+      ],
+      "superlative": [
+        "lightest"
+      ]
+    },
+    "old": {
+      "comparative": [
+        "older"
+      ],
+      "superlative": [
+        "oldest"
+      ]
+    },
+    "young": {
+      "comparative": [
+        "younger"
+      ],
+      "superlative": [
+        "youngest"
+      ]
+    },
+    "big": {
+      "comparative": [
+        "bigger"
+      ],
+      "superlative": [
+        "biggest"
+      ]
+    },
+    "small": {
+      "comparative": [
+        "smaller"
+      ],
+      "superlative": [
+        "smallest"
+      ]
+    },
+    "large": {
+      "comparative": [
+        "larger"
+      ],
+      "superlative": [
+        "largest"
+      ]
+    },
+    "high": {
+      "comparative": [
+        "higher"
+      ],
+      "superlative": [
+        "highest"
+      ]
+    },
+    "low": {
+      "comparative": [
+        "lower"
+      ],
+      "superlative": [
+        "lowest"
+      ]
+    },
+    "long": {
+      "comparative": [
+        "longer"
+      ],
+      "superlative": [
+        "longest"
+      ]
+    },
+    "short": {
+      "comparative": [
+        "shorter"
+      ],
+      "superlative": [
+        "shortest"
+      ]
+    },
+    "wide": {
+      "comparative": [
+        "wider"
+      ],
+      "superlative": [
+        "widest"
+      ]
+    },
+    "narrow": {
+      "comparative": [
+        "narrower"
+      ],
+      "superlative": [
+        "narrowest"
+      ]
+    },
+    "strong": {
+      "comparative": [
+        "stronger"
+      ],
+      "superlative": [
+        "strongest"
+      ]
+    },
+    "weak": {
+      "comparative": [
+        "weaker"
+      ],
+      "superlative": [
+        "weakest"
+      ]
+    },
+    "deep": {
+      "comparative": [
+        "deeper"
+      ],
+      "superlative": [
+        "deepest"
+      ]
+    },
+    "shallow": {
+      "comparative": [
+        "shallower"
+      ],
+      "superlative": [
+        "shallowest"
+      ]
+    },
+    "hot": {
+      "comparative": [
+        "hotter"
+      ],
+      "superlative": [
+        "hottest"
+      ]
+    },
+    "cold": {
+      "comparative": [
+        "colder"
+      ],
+      "superlative": [
+        "coldest"
+      ]
+    },
+    "warm": {
+      "comparative": [
+        "warmer"
+      ],
+      "superlative": [
+        "warmest"
+      ]
+    },
+    "cool": {
+      "comparative": [
+        "cooler"
+      ],
+      "superlative": [
+        "coolest"
+      ]
+    },
+    "wet": {
+      "comparative": [
+        "wetter"
+      ],
+      "superlative": [
+        "wettest"
+      ]
+    },
+    "dry": {
+      "comparative": [
+        "drier"
+      ],
+      "superlative": [
+        "driest"
+      ]
+    },
+    "happy": {
+      "comparative": [
+        "happier"
+      ],
+      "superlative": [
+        "happiest"
+      ]
+    },
+    "easy": {
+      "comparative": [
+        "easier"
+      ],
+      "superlative": [
+        "easiest"
+      ]
+    },
+    "busy": {
+      "comparative": [
+        "busier"
+      ],
+      "superlative": [
+        "busiest"
+      ]
+    },
+    "heavy": {
+      "comparative": [
+        "heavier"
+      ],
+      "superlative": [
+        "heaviest"
+      ]
+    },
+    "healthy": {
+      "comparative": [
+        "healthier"
+      ],
+      "superlative": [
+        "healthiest"
+      ]
+    },
+    "friendly": {
+      "comparative": [
+        "friendlier"
+      ],
+      "superlative": [
+        "friendliest"
+      ]
+    },
+    "simple": {
+      "comparative": [
+        "simpler"
+      ],
+      "superlative": [
+        "simplest"
+      ]
+    },
+    "quiet": {
+      "comparative": [
+        "quieter"
+      ],
+      "superlative": [
+        "quietest"
+      ]
+    },
+    "cheap": {
+      "comparative": [
+        "cheaper"
+      ],
+      "superlative": [
+        "cheapest"
+      ]
+    },
+    "expensive": {
+      "comparative": [
+        "more expensive"
+      ],
+      "superlative": [
+        "most expensive"
+      ]
+    },
+    "difficult": {
+      "comparative": [
+        "more difficult"
+      ],
+      "superlative": [
+        "most difficult"
+      ]
+    },
+    "important": {
+      "comparative": [
+        "more important"
+      ],
+      "superlative": [
+        "most important"
+      ]
+    },
+    "beautiful": {
+      "comparative": [
+        "more beautiful"
+      ],
+      "superlative": [
+        "most beautiful"
+      ]
+    },
+    "comfortable": {
+      "comparative": [
+        "more comfortable"
+      ],
+      "superlative": [
+        "most comfortable"
+      ]
+    },
+    "careful": {
+      "comparative": [
+        "more careful"
+      ],
+      "superlative": [
+        "most careful"
+      ]
+    },
+    "useful": {
+      "comparative": [
+        "more useful"
+      ],
+      "superlative": [
+        "most useful"
+      ]
+    },
+    "interesting": {
+      "comparative": [
+        "more interesting"
+      ],
+      "superlative": [
+        "most interesting"
+      ]
+    },
+    "popular": {
+      "comparative": [
+        "more popular"
+      ],
+      "superlative": [
+        "most popular"
+      ]
+    },
+    "polite": {
+      "comparative": [
+        "more polite"
+      ],
+      "superlative": [
+        "most polite"
+      ]
+    },
+    "common": {
+      "comparative": [
+        "more common"
+      ],
+      "superlative": [
+        "most common"
+      ]
+    },
+    "confident": {
+      "comparative": [
+        "more confident"
+      ],
+      "superlative": [
+        "most confident"
+      ]
+    },
+    "little": {
+      "comparative": [
+        "less"
+      ],
+      "superlative": [
+        "least"
+      ],
+      "sense": "数量义"
+    }
+  }
+}

@@ -6,6 +6,7 @@ import 'dart:math';
 import 'package:crypto/crypto.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:http/http.dart' as http;
+import '../../network_policy.dart';
 import 'package:jose/jose.dart';
 import 'package:flutter/foundation.dart';
 
@@ -24,9 +25,20 @@ class ChatGptPlanAuthService {
           const FlutterSecureStorage(
             mOptions: MacOsOptions(usesDataProtectionKeychain: false),
           ),
-      _client = client ?? http.Client();
+      _client = OfflineAwareClient(client: client) {
+    NetworkPolicy.onSuspend(_suspendOnlineWork);
+  }
 
-  static final ChatGptPlanAuthService instance = ChatGptPlanAuthService();
+  static ChatGptPlanAuthService? _instance;
+  static ChatGptPlanAuthService get instance =>
+      _instance ??= ChatGptPlanAuthService();
+
+  void _suspendOnlineWork() {
+    ++_sessionEpoch;
+    _modelListRequest = null;
+    cancelSignIn();
+    unawaited(_keepAlive.stop().catchError((_) {}));
+  }
 
   static const _sessionStorageKey = 'ngsl_chatgpt_plan_session';
   static const _registrationStorageKey = 'ngsl_chatgpt_registration';
@@ -59,9 +71,11 @@ class ChatGptPlanAuthService {
   int _sessionEpoch = 0;
   bool _signingOut = false;
 
-  Future<bool> get hasSession async => (await _readSession()) != null;
-  Future<String?> get connectedEmail async =>
-      (await _readSession())?['email']?.toString();
+  Future<bool> get hasSession async =>
+      !NetworkPolicy.offline && (await _readSession()) != null;
+  Future<String?> get connectedEmail async => NetworkPolicy.offline
+      ? null
+      : (await _readSession())?['email']?.toString();
 
   final connectionStage = ValueNotifier<ChatGptConnectionStage>(
     ChatGptConnectionStage.idle,
@@ -92,6 +106,7 @@ class ChatGptPlanAuthService {
   }
 
   Future<void> signIn() async {
+    NetworkPolicy.requireOnline();
     if (_signingOut || _isSigningIn) {
       throw const ChatGptPlanAuthException('正在处理账号连接，请稍后再试。');
     }
@@ -108,6 +123,7 @@ class ChatGptPlanAuthService {
       _refreshing = null;
       final previousSession = await active(_readSession());
       final registration = previousSession ?? await active(_readRegistration());
+      NetworkPolicy.requireOnline();
       final state = _randomUrlSafe(32);
       callback = await OAuthLoopbackAttempt.start(state);
       _pendingCallback = callback;
@@ -152,6 +168,7 @@ class ChatGptPlanAuthService {
       ).replace(queryParameters: query);
       // Start while the activity is foreground, before handing off to the browser.
       await active(_keepAlive.start());
+      NetworkPolicy.requireOnline();
       connectionStage.value = ChatGptConnectionStage.waiting;
       final launched = await active(
         launchUrl(
@@ -247,6 +264,7 @@ class ChatGptPlanAuthService {
   }
 
   Future<bool> signOut() async {
+    NetworkPolicy.requireOnline();
     if (_signingOut) return false;
     cancelSignIn();
     _signingOut = true;
@@ -303,6 +321,7 @@ class ChatGptPlanAuthService {
   }
 
   Future<String> getValidAccessToken() async {
+    NetworkPolicy.requireOnline();
     final epoch = _sessionEpoch;
     if (_signingOut) {
       throw const ChatGptPlanAuthException('正在退出 ChatGPT 账号。');
@@ -323,6 +342,7 @@ class ChatGptPlanAuthService {
   }
 
   Future<List<String>> getAvailableModels() {
+    NetworkPolicy.requireOnline();
     return _modelListRequest ??= _loadAvailableModels().whenComplete(() {
       _modelListRequest = null;
     });

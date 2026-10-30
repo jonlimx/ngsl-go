@@ -23,7 +23,7 @@ def main():
     vocab=json.loads(Path(hf_hub_download('hexgrad/Kokoro-82M','config.json',local_files_only=True)).read_text())['vocab']
     output=ROOT/'app/assets/audio';output.mkdir(exist_ok=True)
     metadata={};jobs=[]
-    special={'read':'I read every day.','live':'They live here.','lead':'They lead the team.','wind':'The wind is strong.','close':'They stood close together.','use':'They use the room.','present':'It is present.','record':'The record is new.','minute':'Wait a minute.','object':'The object is small.'}
+    special={'read':'I read every day.','live':'They live here.','lead':'They lead the team.','wind':'The wind is strong.','close':'They stood close together.','use':'They use the room.','present':'It is present.','record':'The record is new.','minute':'Wait a minute.','object':'They object to the plan.'}
     started=time.time()
     for accent,lang,voice_name in [('uk','b','bf_emma'),('us','a','af_heart')]:
         pipeline=KPipeline(lang_code=lang,model=False,repo_id='hexgrad/Kokoro-82M')

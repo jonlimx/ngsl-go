@@ -47,6 +47,10 @@ class StudyStore {
       Map<String, dynamic>.from(_data['profiles'][id] ?? {});
   Map<String, dynamic> progress(String id) =>
       Map<String, dynamic>.from(profile(id)['progress'] ?? {});
+  List<Map<String, dynamic>> practiceLog(String id) =>
+      (profile(id)['practiceLog'] as List? ?? [])
+          .map((entry) => Map<String, dynamic>.from(entry))
+          .toList();
   Map<String, dynamic>? plan(String id, [String? day]) {
     final p = profile(id)['plans']?[day ?? today];
     return p == null ? null : Map<String, dynamic>.from(p);
@@ -65,6 +69,12 @@ class StudyStore {
     ),
     for (final key in ['ukIpa', 'usIpa', 'ukAudio', 'usAudio'])
       if (word.content[key] != null) key: word.content[key],
+    if (word.content['offlineCardVersion'] != null) ...{
+      'english': word.english,
+      'chinese': word.chinese,
+      for (final key in ['exampleEnglish', 'exampleChinese', 'collocations'])
+        key: word.content[key],
+    },
   };
 
   Future<void> saveWordContent(
@@ -164,13 +174,212 @@ class StudyStore {
     int? dailyNew,
     String? topic,
     String? accent,
+    List<Vocabulary>? words,
   }) => _mutate((d) {
     final row = (d['learners'] as List).firstWhere((p) => p['id'] == id);
-    if (dailyNew != null) row['dailyNew'] = dailyNew.clamp(0, 20);
+    if (dailyNew != null) row['dailyNew'] = dailyNew.clamp(0, maxDailyNew);
     if (topic != null) row['topic'] = topic;
     if (accent != null) row['accent'] = accent;
+    if (dailyNew != null && words != null) {
+      final profile = d['profiles'][id];
+      final plan = profile['plans'][today];
+      if (plan == null) {
+        profile['plans'][today] = createDailyPlan(
+          words,
+          Map<String, dynamic>.from(profile['progress']),
+          row['dailyNew'],
+          today,
+        );
+      } else {
+        final ids = plan['wordIds'] as List;
+        final newIds = plan['newIds'] as List;
+        // An explicit increase requests that many new words today, even if
+        // reviews already filled the automatic daily planning budget.
+        final count = row['dailyNew'] as int;
+        final candidates = words.where(
+          (w) =>
+              !ids.contains(w.id) &&
+              isUnlearned(profile['progress'][w.id]) &&
+              profile['progress'][w.id]?['status'] != 'known',
+        );
+        for (final word in candidates.take(
+          max<int>(0, count - newIds.length),
+        )) {
+          ids.add(word.id);
+          newIds.add(word.id);
+          plan.putIfAbsent('practice', () => <String, dynamic>{});
+          plan['practice'][word.id] = {
+            'skill': MemorySkill.meaning.name,
+            'attempts': 0,
+          };
+        }
+      }
+    }
   });
+
+  /// Optional same-day practice never clears completion or fabricates delayed
+  /// recall. Only a difficulty changes the schedule; success keeps its due date.
+  Future<void> repeatToday(
+    String id,
+    String wordId,
+    Recall recall, {
+    required MemorySkill skill,
+    required String planDay,
+    bool hinted = false,
+  }) {
+    final now = clock();
+    final day = dayKey(now);
+    return _mutate((d) {
+      if (planDay != day) throw const ContentException('日期已变更，请回到今日学习重新开始。');
+      final profile = d['profiles'][id];
+      final plan = profile?['plans']?[day];
+      if (plan == null || !(plan['done'] as List).contains(wordId)) {
+        throw const ContentException('请先完成这个词的今日任务，再重新练习。');
+      }
+      final previous = Map<String, dynamic>.from(
+        profile['progress'][wordId] ?? {},
+      );
+      if (previous['status'] == 'known') return;
+      final readyAt = DateTime.tryParse(previous['readyAt'] as String? ?? '');
+      if (readyAt != null && now.isBefore(readyAt)) {
+        throw const ContentException('先练习其他词，稍后再回忆这个词。');
+      }
+      final effective = hinted && recall != Recall.again ? Recall.hard : recall;
+      final independent = effective == Recall.good || effective == Recall.easy;
+      if (!independent) {
+        profile['progress'][wordId] = previous['status'] == 'familiar'
+            ? scheduleFamiliarReview(previous, effective, day, skill: skill)
+            : scheduleReview(previous, effective, day, skill: skill);
+        profile['progress'][wordId]['readyAt'] = now
+            .add(const Duration(minutes: 1))
+            .toIso8601String();
+      }
+      _logPractice(profile, {
+        'wordId': wordId,
+        'kind': 'sameDayPractice',
+        'skill': skill.name,
+        'recall': effective.name,
+        'hinted': hinted,
+        'independent': independent,
+        'delayed': false,
+        'at': now.toIso8601String(),
+        'planDay': day,
+      });
+    });
+  }
+
   Future<void> setModel(String value) => _mutate((d) => d['model'] = value);
+
+  Future<({int known, int learning, int skipped})> copyScreening(
+    String sourceId,
+    String targetId,
+    List<Vocabulary> words,
+  ) async {
+    if (sourceId == targetId) throw const ContentException('请选择另一个学习者。');
+    var known = 0, learning = 0, skipped = 0;
+    await _mutate((d) {
+      final source = d['profiles'][sourceId];
+      final target = d['profiles'][targetId];
+      if (source == null || target == null) {
+        throw const ContentException('学习者不存在。');
+      }
+      for (final word in words) {
+        final original = source['progress'][word.id] as Map?;
+        if (original == null ||
+            (original['status'] != 'known' && original['screened'] != true)) {
+          continue;
+        }
+        final previous = target['progress'][word.id];
+        if (!isUnlearned(previous) || previous?['screened'] == true) {
+          skipped++;
+          continue;
+        }
+        final before = Map<String, dynamic>.from(previous ?? {});
+        final excluded = original['status'] == 'known';
+        target['progress'][word.id] = {
+          ...before,
+          'status': excluded ? 'known' : 'new',
+          'screened': true,
+          if (excluded) 'beforeKnown': before,
+        };
+        if (excluded) {
+          known++;
+        } else {
+          learning++;
+        }
+      }
+      _replanUnstarted(d, targetId, words);
+    });
+    return (known: known, learning: learning, skipped: skipped);
+  }
+
+  Future<void> markFamiliar(String id, String wordId, bool familiar) {
+    final now = clock();
+    final day = dayKey(now);
+    return _mutate((d) {
+      final profile = d['profiles'][id];
+      var previous = Map<String, dynamic>.from(
+        profile['progress'][wordId] ?? {},
+      );
+      final plan = profile['plans'][day];
+      if (familiar) {
+        if (previous['status'] == 'familiar') return;
+        // A screened word can explicitly opt into low-frequency checking.
+        if (previous['status'] == 'known') {
+          final screened = previous['screened'] == true;
+          previous = Map<String, dynamic>.from(previous['beforeKnown'] ?? {});
+          if (screened) previous['screened'] = true;
+        }
+        final interval = max(
+          14,
+          min(60, ((previous['interval'] as num? ?? 0) * 2).round()),
+        );
+        profile['progress'][wordId] = {
+          ...previous,
+          'beforeFamiliar': previous,
+          'status': 'familiar',
+          'familiarInterval': interval,
+          'familiarSince': day,
+          'due': nextDay(day, interval),
+        };
+        (profile['progress'][wordId] as Map).remove('readyAt');
+        if (plan != null &&
+            (plan['wordIds'] as List).contains(wordId) &&
+            !(plan['done'] as List).contains(wordId)) {
+          plan['done'].add(wordId);
+          plan['started'] = true;
+        }
+      } else {
+        if (previous['status'] != 'familiar') return;
+        final restored = Map<String, dynamic>.from(previous)
+          ..remove('beforeFamiliar')
+          ..remove('familiarInterval')
+          ..remove('familiarSince')
+          ..remove('readyAt');
+        restored['status'] =
+            (previous['reviews'] as num? ?? 0) > 0 ||
+                previous['introducedAt'] != null
+            ? 'learning'
+            : 'new';
+        restored['due'] = day;
+        profile['progress'][wordId] = restored;
+        if (plan != null) {
+          if (!(plan['wordIds'] as List).contains(wordId) &&
+              (plan['wordIds'] as List).length < dailyWordBudget) {
+            plan['wordIds'].add(wordId);
+          }
+          plan['done'].remove(wordId);
+          (plan['practice'] as Map?)?.remove(wordId);
+        }
+      }
+      _logPractice(profile, {
+        'kind': 'familiarity',
+        'wordId': wordId,
+        'familiar': familiar,
+        'at': now.toIso8601String(),
+      });
+    });
+  }
 
   Future<void> markKnown(
     String id,
@@ -261,7 +470,9 @@ class StudyStore {
     final hasStory = (profile['stories'] as List).any(
       (s) => s['date'] == today,
     );
-    if ((plan == null || (plan['done'] as List).isEmpty) && !hasStory) {
+    if ((plan == null ||
+            ((plan['done'] as List).isEmpty && plan['started'] != true)) &&
+        !hasStory) {
       final learner = (data['learners'] as List).firstWhere(
         (p) => p['id'] == id,
       );
@@ -287,25 +498,128 @@ class StudyStore {
       ),
     );
   });
-  Future<void> review(
+
+  /// Exposure is saved separately from retrieval. Closing a new card cannot
+  /// turn viewing an answer into a successful review.
+  Future<void> introduce(String id, String wordId, String planDay) {
+    final now = clock();
+    return _mutate((d) {
+      final profile = d['profiles'][id];
+      final plan = profile?['plans']?[planDay];
+      final previous = Map<String, dynamic>.from(
+        profile?['progress']?[wordId] ?? {},
+      );
+      if (plan == null ||
+          !(plan['wordIds'] as List).contains(wordId) ||
+          !isUnlearned(previous)) {
+        return;
+      }
+      profile['progress'][wordId] = {
+        ...previous,
+        'status': 'learning',
+        'introducedAt': now.toIso8601String(),
+        'due': dayKey(now),
+        'readyAt': now.add(const Duration(minutes: 1)).toIso8601String(),
+      };
+      plan['started'] = true;
+      plan.putIfAbsent('practice', () => <String, dynamic>{});
+      plan['practice'][wordId] = {
+        'skill': MemorySkill.meaning.name,
+        'attempts': 0,
+        'readyAt': now.add(const Duration(minutes: 1)).toIso8601String(),
+      };
+      _logPractice(profile, {
+        'wordId': wordId,
+        'kind': 'exposure',
+        'at': now.toIso8601String(),
+      });
+    });
+  }
+
+  void _logPractice(Map profile, Map<String, dynamic> event) {
+    profile.putIfAbsent('practiceLog', () => <dynamic>[]);
+    (profile['practiceLog'] as List).add(event);
+  }
+
+  Future<bool> review(
     String id,
     String wordId,
     Recall recall,
-    String planDay,
-  ) => _mutate((d) {
-    final profile = d['profiles'][id];
-    if (profile['progress'][wordId]?['status'] == 'known') return;
-    final p = Map<String, dynamic>.from(profile['progress'][wordId] ?? {});
-    // Reopening a completed card must not advance its interval twice.
-    final plan = profile['plans'][planDay];
-    if (plan == null ||
-        !(plan['wordIds'] as List).contains(wordId) ||
-        (plan['done'] as List).contains(wordId)) {
-      return;
-    }
-    profile['progress'][wordId] = scheduleReview(p, recall, today);
-    if (recall != Recall.again) plan['done'].add(wordId);
-  });
+    String planDay, {
+    MemorySkill? skill,
+    bool hinted = false,
+    String? response,
+  }) async {
+    final now = clock();
+    final day = dayKey(now);
+    var applied = false;
+    await _mutate((d) {
+      final profile = d['profiles'][id];
+      if (profile['progress'][wordId]?['status'] == 'known') return;
+      final p = Map<String, dynamic>.from(profile['progress'][wordId] ?? {});
+      // Reopening a completed card must not advance its interval twice.
+      final plan = profile['plans'][planDay];
+      if (plan == null ||
+          !(plan['wordIds'] as List).contains(wordId) ||
+          (plan['done'] as List).contains(wordId)) {
+        return;
+      }
+      final direction = plannedMemorySkill(plan, p, wordId, day);
+      if (skill != null && skill != direction) {
+        throw const ContentException('这张词卡的练习已更新，请返回后继续。');
+      }
+      final ready = practiceReadyAt(
+        Map<String, dynamic>.from(plan),
+        wordId,
+        Map<String, dynamic>.from(profile['progress']),
+      );
+      if (ready != null && now.isBefore(ready)) {
+        throw const ContentException('先练习其他词，稍后再回忆这个词。');
+      }
+      final effective = hinted && recall != Recall.again ? Recall.hard : recall;
+      final prior = skillProgress(p, direction);
+      final independent = effective == Recall.good || effective == Recall.easy;
+      profile['progress'][wordId] = p['status'] == 'familiar'
+          ? scheduleFamiliarReview(p, effective, day, skill: direction)
+          : scheduleReview(p, effective, day, skill: direction);
+      plan['started'] = true;
+      plan.putIfAbsent('practice', () => <String, dynamic>{});
+      final state = Map<String, dynamic>.from(plan['practice'][wordId] ?? {});
+      final attempts = (state['attempts'] as num? ?? 0).toInt() + 1;
+      plan['practice'][wordId] = {
+        ...state,
+        'skill': direction.name,
+        'attempts': attempts,
+        if (!independent)
+          'readyAt': now
+              .add(Duration(minutes: attempts >= 3 ? 10 : 1))
+              .toIso8601String(),
+      };
+      if (independent) {
+        (plan['practice'][wordId] as Map).remove('readyAt');
+        (profile['progress'][wordId] as Map).remove('readyAt');
+        plan['done'].add(wordId);
+      } else {
+        profile['progress'][wordId]['readyAt'] =
+            plan['practice'][wordId]['readyAt'];
+      }
+      applied = true;
+      _logPractice(profile, {
+        'wordId': wordId,
+        'kind': 'retrieval',
+        'skill': direction.name,
+        'recall': effective.name,
+        'hinted': hinted,
+        'independent': independent,
+        'delayed': prior['lastSeen'] != null && prior['lastSeen'] != day,
+        'at': now.toIso8601String(),
+        'planDay': planDay,
+        'response': ?response,
+      });
+    });
+    return applied;
+  }
+
   Future<void> saveStory(
     String id,
     String planDay,
@@ -335,4 +649,41 @@ class StudyStore {
           row['practiced'].add(wordId);
         }
       });
+
+  /// Context practice records evidence, not an automatic vocabulary promotion.
+  /// Existing story completion marks remain intact and carry no invented score.
+  Future<void> recordStoryRecall(
+    String id,
+    String storyId,
+    String wordId,
+    Recall recall,
+  ) {
+    final now = clock();
+    return _mutate((d) {
+      final profile = d['profiles'][id];
+      final row = (profile['stories'] as List).firstWhere(
+        (s) => s['id'] == storyId,
+      );
+      if (!(row['words'] as List).any((w) => w['id'] == wordId)) {
+        throw const ContentException('这道练习不属于当前故事。');
+      }
+      row.putIfAbsent('practiceResults', () => <String, dynamic>{});
+      if ((row['practiceResults'] as Map).containsKey(wordId)) return;
+      row['practiceResults'][wordId] = {
+        'recall': recall.name,
+        'at': now.toIso8601String(),
+      };
+      if (!(row['practiced'] as List).contains(wordId)) {
+        row['practiced'].add(wordId);
+      }
+      _logPractice(profile, {
+        'wordId': wordId,
+        'kind': 'context',
+        'storyId': storyId,
+        'recall': recall.name,
+        'independent': recall == Recall.good || recall == Recall.easy,
+        'at': now.toIso8601String(),
+      });
+    });
+  }
 }

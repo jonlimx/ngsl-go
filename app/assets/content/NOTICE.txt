@@ -5,11 +5,20 @@ License: Creative Commons Attribution-ShareAlike 4.0 International.
 https://creativecommons.org/licenses/by-sa/4.0/
 The word list has been normalized to JSON and combined with bilingual teaching metadata.
 NGSL-derived data and adaptations are distributed under the same license.
-Original example sentences and collocations are separately maintained in data/curated.json.
+All 2,809 bundled example sentences, Chinese translations and bilingual collocations
+are original model-authored NGSL Go B1-B2 offline cards, generated once at development
+time and maintained in data/offline_batches/cards_*.json (CC BY-SA 4.0).
+These are not Tatoeba sentences or quotations from a commercial dictionary.
+Additional common meanings, usage patterns, and independently explained phrases
+are original model-authored learning material in data/common_senses/senses_*.json
+(CC BY-SA 4.0), including bilingual examples for each sense. This is a learner
+resource rather than an exhaustive dictionary.
+Earlier authored teaching notes and word-formation exercises remain in data/curated.json
+and data/fce_enrichment.json. All original teaching additions are CC BY-SA 4.0.
 AI-generated additions are learning aids and may contain errors; they are not quotations from a dictionary.
 The NGSL authors do not endorse this application.
 
-Fixed word audio: Kokoro v1.0 / Misaki, voices bf_emma (UK), af_heart (US). Apache 2.0; see KOKORO_LICENSE.txt. No model weights are distributed.
+Fixed word audio: Kokoro v1.0 / Misaki, voices bf_emma (UK), af_heart (US). Apache 2.0; see KOKORO_LICENSE.txt. The Kokoro model and English frontend resources are bundled for offline synthesis (Apache 2.0). The checked source and file hashes are in data/kokoro_model.json.
 UK phonetic transcriptions are generated with Misaki for the target part of speech.
 US transcriptions: open-dict-data/ipa-dict en_US, based on cmudict-ipa and syllabify (MIT); see IPA_LICENSE.txt. https://github.com/open-dict-data/ipa-dict
 A matching pronunciation variant is selected for the target part of speech; original upstream data is retained for reproducibility.

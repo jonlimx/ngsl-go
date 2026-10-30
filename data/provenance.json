@@ -9,7 +9,50 @@
   ],
   "source": "https://www.newgeneralservicelist.com/new-general-service-list",
   "learningDictionary": "https://www.linguaeruditio.com/Glossary/NGSL/NGSL_gloss.html",
-  "modifications": "Normalized to JSON, joined by headword, added separately identified original learning material.",
+  "modifications": "Normalized to JSON, joined by headword, added separately identified original learning material and offline B2 First word-family/inflection notes.",
+  "offlineLearningMaterial": {
+    "source": "data/fce_enrichment.json",
+    "sha256": "5d495355e8e91677c2f03f7b7a3e51cb9bdbf0d9c9c0f75f7827fb928a568661",
+    "license": "CC BY-SA 4.0",
+    "examReference": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/first/format/",
+    "note": "Original practice material aligned with B2 First word formation and collocation skills; not official exam questions. Relations are sense-dependent, not interchangeable in every context."
+  },
+  "completeOfflineCards": {
+    "source": "data/offline_batches/cards_*.json",
+    "count": 2809,
+    "license": "CC BY-SA 4.0",
+    "method": "Original model-authored B1-B2 contextual examples and bilingual collocations, generated once and validated before bundling. No Tatoeba or dictionary example sentences are used.",
+    "scope": "One 14-32 word English sentence, Chinese translation, and two distinct bilingual collocations per official NGSL ID. Optional corrected Chinese gloss is kept separate from the original source gloss.",
+    "hashes": {
+      "cards_1.json": "9e6f362df3d9ca171e9bafa33ba51635b93d2a680a00e543a32f5ff61558f58d",
+      "cards_2.json": "4c856225e92cbb9636cc794e3558894ca82417db1822e03f2507ac1e456774a3",
+      "cards_3.json": "7710a477064e146f6369c7d782694bce12ef3064bc9417a8ff6f8368d3f2090c",
+      "cards_4.json": "e7b639e1bd868b0a3a848c34606a02c68e0716596ba2a07a44449deea9efdcec",
+      "cards_5.json": "d4c671d83c55d59cd2565411c2d646d80bf3959e02756deb62989f83ee04b1af",
+      "cards_6.json": "c3446d67bab0765de565f95716f086e2eb899093b07966a9fa847d19eddc8c89"
+    }
+  },
+  "lexicalCorrections": {
+    "source": "data/lexical_corrections.json",
+    "sha256": "ab5be48a4a9be98597b637df3106e8028f5a7d6ccba0efa4569a03a6ce283233",
+    "note": "Corrected display POS/English definition where the original gloss and label disagree. The original fields and word IDs are preserved."
+  },
+  "commonMeanings": {
+    "source": "data/common_senses/senses_*.json",
+    "words": 2809,
+    "senses": 5849,
+    "phrases": 458,
+    "note": "Original learner-focused common meanings, grouped by part of speech, and independently explained fixed phrases. Each meaning has a bilingual B1-B2 example and usage pattern. This is not an exhaustive historical dictionary.",
+    "license": "CC BY-SA 4.0",
+    "hashes": {
+      "senses_1.json": "0c523cc1a58b300aa4d603ad195998b76bed0d48cc268970f8e93850ddba356c",
+      "senses_2.json": "97705d7cfecc09f99cd7f8581a9d4bde40386af762f92c880d5b1306a5cf507d",
+      "senses_3.json": "9625800561b207c1b1011827d45bc9b385e85f5108ef9218c4ee777ca58ab9b4",
+      "senses_4.json": "1abda475c70e74c4382a2fa13fe33763e3edcf49a5bcc3589a65b3e736f31198",
+      "senses_5.json": "b4aec46e00c0a9c09ba43f5e6834e643336bc3dbd0b662b3450d7da88f9fe062",
+      "senses_6.json": "685958e0d679a17f632ec0072845dcee855bd70a9a360150d45d317778cda70e"
+    }
+  },
   "files": {
     "NGSL_gloss.html": "2ff1f156b9eb67e9bf8175352a2acbe07535c7a6cdf3561e54d8bb09e060c4ae",
     "ipa_en_US.txt": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",

@@ -6,3 +6,5 @@ app/android/local.properties
 *.pyc
 __pycache__/
 .DS_Store
+app/assets/tts/kokoro.zip
+.build-resources/
